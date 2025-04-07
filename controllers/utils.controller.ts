@@ -53,3 +53,33 @@ export const addCourse = CatchAsyncError(
     }
   }
 );
+
+//Get tests for a course
+export const getCourseTests = CatchAsyncError(
+  async (req: Request, res: Response, next: NextFunction) => {
+    try {
+      const { courseId } = req.params;
+
+      //Get meta file
+      const metaFilePath = path.join(
+        __dirname,
+        `../data/${courseId}/meta.json`
+      );
+
+      //check if file exists
+      if (!fs.existsSync(metaFilePath)) {
+        return next(new ErrorHandler("Meta file not found", 404));
+      }
+
+      //Read file
+      const meta = JSON.parse(fs.readFileSync(metaFilePath, "utf-8"));
+
+      res.status(200).json({
+        meta,
+      });
+    } catch (error: any) {
+      console.log(error);
+      return next(new ErrorHandler(error.message, 400));
+    }
+  }
+);
