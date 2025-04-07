@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Biblical Studies",
+    "description": "Introduction to Biblical concepts and teachings relevant to nursing and healthcare."
+  },
+  {
+    "id": 2,
+    "title": "Medical Nursing I",
+    "description": "Covers fundamental principles and practices in medical nursing, focusing on patient care."
+  },
+  {
+    "id": 3,
+    "title": "Surgical Nursing I",
+    "description": "Introduces students to surgical procedures, perioperative care, and related nursing skills."
+  },
+  {
+    "id": 4,
+    "title": "Community Health Nursing II",
+    "description": "Focuses on public health strategies, community-based care, and health promotion."
+  },
+  {
+    "id": 5,
+    "title": "Pharmacology & Traditional Medicine",
+    "description": "Explores drug therapy, pharmacokinetics, and traditional medicine integration in nursing."
+  },
+  {
+    "id": 6,
+    "title": "Microbiology & Infection Prevention II",
+    "description": "Covers microbes, infection control, and hygiene practices in clinical settings."
+  }
+]

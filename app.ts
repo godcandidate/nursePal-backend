@@ -1,7 +1,8 @@
-import express, { Request, Response, NextFunction } from "express";
+import express, { Request, Response } from "express";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 import userRouter from "./routes/user.route";
+import utilsRouter from "./routes/utils.route";
 import "dotenv/config";
 
 const app = express();
@@ -20,7 +21,8 @@ app.use(
 );
 
 // routes
-app.use("/api/v1", userRouter);
+app.use("/api/v1", userRouter, utilsRouter);
+
 //testing api
 app.use("/test", (req: Request, res: Response) => {
   res.status(200).json({
