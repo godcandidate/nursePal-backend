@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first king of Israel?",
+    "options": ["David", "Solomon", "Saul", "Samuel"],
+    "answer": "Saul",
+    "explanation": "Saul was anointed as the first king of Israel by the prophet Samuel."
+  },
+  {
+    "id": 2,
+    "question": "Which apostle denied Jesus three times before the rooster crowed?",
+    "options": ["Peter", "John", "James", "Andrew"],
+    "answer": "Peter",
+    "explanation": "Peter denied knowing Jesus three times before the rooster crowed, as Jesus had predicted."
+  },
+  {
+    "id": 3,
+    "question": "What is the first book of the New Testament?",
+    "options": ["Mark", "Matthew", "Luke", "John"],
+    "answer": "Matthew",
+    "explanation": "The New Testament begins with the Gospel according to Matthew."
+  },
+  {
+    "id": 4,
+    "question": "Who led the Israelites out of Egypt?",
+    "options": ["Aaron", "Moses", "Joshua", "Joseph"],
+    "answer": "Moses",
+    "explanation": "Moses led the Israelites out of slavery in Egypt during the Exodus."
+  },
+  {
+    "id": 5,
+    "question": "In which city was Jesus born?",
+    "options": ["Nazareth", "Jerusalem", "Bethlehem", "Capernaum"],
+    "answer": "Bethlehem",
+    "explanation": "Jesus was born in Bethlehem, fulfilling the prophecy of the Messiah's birthplace."
+  },
+  {
+    "id": 6,
+    "question": "Who is considered the 'father of faith' in the Bible?",
+    "options": ["Isaac", "Jacob", "Abraham", "Noah"],
+    "answer": "Abraham",
+    "explanation": "Abraham is known as the 'father of faith' for his unwavering belief in God's promises."
+  },
+  {
+    "id": 7,
+    "question": "Which book comes immediately after the Gospels in the New Testament?",
+    "options": ["Romans", "Acts", "Revelation", "Hebrews"],
+    "answer": "Acts",
+    "explanation": "The Acts of the Apostles follows the four Gospels in the New Testament."
+  },
+  {
+    "id": 8,
+    "question": "Who was thrown into the lion's den?",
+    "options": ["Daniel", "Ezekiel", "Jeremiah", "Isaiah"],
+    "answer": "Daniel",
+    "explanation": "Daniel was thrown into the lion's den for praying to God, but was unharmed."
+  },
+  {
+    "id": 9,
+    "question": "What is the shortest verse in the Bible?",
+    "options": [
+      "'Jesus wept.'",
+      "'Rejoice always.'",
+      "'Pray continually.'",
+      "'God is love.'"
+    ],
+    "answer": "'Jesus wept.'",
+    "explanation": "John 11:35, 'Jesus wept,' is the shortest verse in the Bible."
+  },
+  {
+    "id": 10,
+    "question": "Who betrayed Jesus to the religious leaders?",
+    "options": ["Peter", "Judas Iscariot", "Thomas", "James"],
+    "answer": "Judas Iscariot",
+    "explanation": "Judas Iscariot betrayed Jesus to the chief priests for thirty pieces of silver."
+  },
+  {
+    "id": 11,
+    "question": "Which Old Testament prophet was swallowed by a great fish?",
+    "options": ["Elijah", "Elisha", "Jonah", "Isaiah"],
+    "answer": "Jonah",
+    "explanation": "Jonah was swallowed by a great fish after trying to flee from God's command."
+  },
+  {
+    "id": 12,
+    "question": "What are the first three words of the Bible?",
+    "options": [
+      "'In the beginning'",
+      "'Once upon a time'",
+      "'There was light'",
+      "'God created heavens'"
+    ],
+    "answer": "'In the beginning'",
+    "explanation": "The Bible starts with 'In the beginning God created the heavens and the earth.'"
+  },
+  {
+    "id": 13,
+    "question": "Who was known for his wisdom and built the temple in Jerusalem?",
+    "options": ["David", "Solomon", "Samuel", "Saul"],
+    "answer": "Solomon",
+    "explanation": "King Solomon was renowned for his wisdom and constructed the first temple in Jerusalem."
+  },
+  {
+    "id": 14,
+    "question": "Which apostle was a tax collector before following Jesus?",
+    "options": ["Peter", "Andrew", "Matthew", "Thomas"],
+    "answer": "Matthew",
+    "explanation": "Matthew, also known as Levi, was a tax collector before becoming an apostle."
+  },
+  {
+    "id": 15,
+    "question": "On which mountain did Moses receive the Ten Commandments?",
+    "options": ["Mount Sinai", "Mount Ararat", "Mount Carmel", "Mount Zion"],
+    "answer": "Mount Sinai",
+    "explanation": "Moses received the Ten Commandments from God on Mount Sinai."
+  },
+  {
+    "id": 16,
+    "question": "Who was the mother of Jesus?",
+    "options": ["Mary Magdalene", "Elizabeth", "Martha", "Mary"],
+    "answer": "Mary",
+    "explanation": "Mary, a young virgin, was chosen to be the mother of Jesus."
+  },
+  {
+    "id": 17,
+    "question": "Which Psalm is known as the Shepherd's Psalm?",
+    "options": ["Psalm 1", "Psalm 23", "Psalm 100", "Psalm 150"],
+    "answer": "Psalm 23",
+    "explanation": "Psalm 23, beginning with 'The Lord is my shepherd,' is known as the Shepherd's Psalm."
+  },
+  {
+    "id": 18,
+    "question": "Who interpreted Pharaoh's dreams in Egypt?",
+    "options": ["Moses", "Aaron", "Joseph", "Daniel"],
+    "answer": "Joseph",
+    "explanation": "Joseph interpreted Pharaoh's dreams, predicting seven years of plenty followed by seven years of famine."
+  },
+  {
+    "id": 19,
+    "question": "What was the first miracle performed by Jesus?",
+    "options": [
+      "Healing the blind man",
+      "Feeding the 5000",
+      "Turning water into wine",
+      "Walking on water"
+    ],
+    "answer": "Turning water into wine",
+    "explanation": "Jesus' first recorded miracle was turning water into wine at the wedding in Cana."
+  },
+  {
+    "id": 20,
+    "question": "Who wrote the majority of the New Testament letters?",
+    "options": ["Peter", "John", "Paul", "James"],
+    "answer": "Paul",
+    "explanation": "The Apostle Paul wrote the majority of the New Testament letters."
+  }
+]
