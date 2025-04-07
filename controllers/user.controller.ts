@@ -5,6 +5,7 @@ import { CatchAsyncError } from "../middlewares/catchAsyncError";
 import jwt, { Secret, JwtPayload } from "jsonwebtoken";
 
 import "dotenv/config";
+import { sendToken } from "../utils/jwt";
 
 //using interface for req.user
 declare module "express" {
@@ -53,6 +54,40 @@ export const registerUser = CatchAsyncError(
     } catch (error: any) {
       console.log(error);
       return next(new ErrorHandler(error.message, 400));
+    }
+  }
+);
+
+//login user
+interface ILoginRequest {
+  email: string;
+  password: string;
+}
+
+export const loginUser = CatchAsyncError(
+  async (req: Request, res: Response, next: NextFunction) => {
+    try {
+      const { email, password } = req.body as ILoginRequest;
+      if (!email || !password) {
+        res.status(400).json({
+          message: "Invalid credentials",
+        });
+      }
+
+      const user = await userModel.findOne({ email }).select("+password");
+
+      if (!user) {
+        return next(new ErrorHandler("Invalid email or password", 403));
+      }
+
+      //check password
+      const isPasswordMatch = await user.comparePassword(password);
+      if (!isPasswordMatch) {
+        return next(new ErrorHandler("Invalid email or password", 403));
+      }
+      sendToken(user, 200, res);
+    } catch (error: any) {
+      return next(new ErrorHandler(error.message, 403));
     }
   }
 );
