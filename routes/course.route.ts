@@ -1,8 +1,16 @@
 import express from "express";
-import { getAllCourses } from "../controllers/course.controller";
+import {
+  getAllCourses,
+  addCourse,
+  deleteCourse,
+} from "../controllers/course.controller";
 
-const utilsRouter = express.Router();
+const courseRouter = express.Router();
 
-utilsRouter.get("/courses", getAllCourses);
+courseRouter.get("/courses", getAllCourses);
 
-export default utilsRouter;
+courseRouter.post("/courses", addCourse);
+
+courseRouter.delete("/courses", deleteCourse);
+
+export default courseRouter;
