@@ -24,9 +24,7 @@ export const getAllCourses = CatchAsyncError(
       //Read file
       const courses = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
-      res.status(200).json({
-        courses,
-      });
+      res.status(200).json(courses);
     } catch (error: any) {
       console.log(error);
       return next(new ErrorHandler(error.message, 400));
