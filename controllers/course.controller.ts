@@ -7,6 +7,8 @@ import "dotenv/config";
 import fs from "fs";
 import path from "path";
 
+
+
 //Get all courses
 export const getAllCourses = CatchAsyncError(
   async (req: Request, res: Response, next: NextFunction) => {

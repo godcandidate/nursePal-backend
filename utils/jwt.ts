@@ -1,4 +1,3 @@
-require("dotenv").config();
 import { Response } from "express";
 
 import "dotenv/config";

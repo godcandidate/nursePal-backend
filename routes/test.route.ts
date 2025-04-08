@@ -1,7 +1,9 @@
 import express from "express";
-import { getTest } from "../controllers/test.controller";
+import { getCourseTests, getTest } from "../controllers/test.controller";
 
 const testRouter = express.Router();
+
+testRouter.get("/courses/:courseId", getCourseTests)
 
 testRouter.get("/courses/:courseId/:testId", getTest);
 
