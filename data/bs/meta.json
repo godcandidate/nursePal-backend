@@ -1,4 +1,11 @@
-{
-  "title": "Biblical Studies Practice",
-  "numberOfTests": 1
-}
+[
+  {
+    "id": 0,
+    "title": "Biblical Studies Practice",
+    "numberOfTests": 1
+  },
+  { "id": 1,
+    "title": "Test 1: The Old Testament",
+    "numberOfTests": 30
+  }
+]
