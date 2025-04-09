@@ -1,4 +1,5 @@
 import { Response } from "express";
+import jwt from "jsonwebtoken";
 
 import "dotenv/config";
 
@@ -9,6 +10,7 @@ interface ITokenOptions {
   sameSite: "lax" | "strict" | "none" | undefined;
   secure?: boolean;
 }
+
 
 // parse enviroment variables to integrates with fallback values
 const accessTokenExpire = parseInt(
@@ -46,8 +48,6 @@ export const sendToken = (user: any, statusCode: number, res: Response) => {
 
   res.status(statusCode).json({
     success: true,
-    user,
-    accessToken,
-    refreshToken,
+    name: user.name,
   });
 };
