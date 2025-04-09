@@ -5,6 +5,7 @@ import userRouter from "./routes/user.route";
 import courseRouter from "./routes/course.route";
 import testRouter from "./routes/test.route";
 import "dotenv/config";
+import scoreRouter from "./routes/score.route";
 
 const app = express();
 
@@ -23,7 +24,7 @@ app.use(
 );
 
 // routes
-app.use("/api/v1", userRouter, courseRouter, testRouter);
+app.use("/api/v1", userRouter, courseRouter, testRouter, scoreRouter);
 
 //testing api
 app.use("/test", (req: Request, res: Response) => {
