@@ -11,10 +11,6 @@ export interface IUser extends Document {
   name: string;
   email: string;
   password: string;
-  avatar: {
-    public_id: string;
-    url: string;
-  };
   role: string;
   isVerified: boolean;
   comparePassword: (password: string) => Promise<boolean>;
@@ -42,10 +38,6 @@ const userSchema: Schema<IUser> = new mongoose.Schema(
     password: {
       type: String,
       required: [true, "Enter username"],
-    },
-    avatar: {
-      public_id: String,
-      url: String,
     },
     role: {
       type: String,

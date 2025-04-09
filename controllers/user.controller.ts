@@ -2,7 +2,6 @@ import { Request, Response, NextFunction } from "express";
 import userModel, { IUser } from "../models/user.models";
 import ErrorHandler from "../utils/ErrorHandler";
 import { CatchAsyncError } from "../middlewares/catchAsyncError";
-import jwt, { Secret, JwtPayload } from "jsonwebtoken";
 
 import "dotenv/config";
 import { sendToken } from "../utils/jwt";
