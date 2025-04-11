@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "question": "Who was the first king of Israel?",
+      "options": ["David", "Solomon", "Saul", "Samuel"],
+      "answer": "Saul",
+      "explanation": "Saul was anointed as the first king of Israel by the prophet Samuel."
+    },
+    {
+      "id": 2,
+      "question": "Which apostle denied Jesus three times before the rooster crowed?",
+      "options": ["Peter", "John", "James", "Andrew"],
+      "answer": "Peter",
+      "explanation": "Peter denied knowing Jesus three times before the rooster crowed, as Jesus had predicted."
+    },
+    {
+      "id": 3,
+      "question": "What is the first book of the New Testament?",
+      "options": ["Mark", "Matthew", "Luke", "John"],
+      "answer": "Matthew",
+      "explanation": "The New Testament begins with the Gospel according to Matthew."
+    },
+    {
+      "id": 4,
+      "question": "Who led the Israelites out of Egypt?",
+      "options": ["Aaron", "Moses", "Joshua", "Joseph"],
+      "answer": "Moses",
+      "explanation": "Moses led the Israelites out of slavery in Egypt during the Exodus."
+    },
+    {
+      "id": 5,
+      "question": "In which city was Jesus born?",
+      "options": ["Nazareth", "Jerusalem", "Bethlehem", "Capernaum"],
+      "answer": "Bethlehem",
+      "explanation": "Jesus was born in Bethlehem, fulfilling the prophecy of the Messiah's birthplace."
+    }
+]
