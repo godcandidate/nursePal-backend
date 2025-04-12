@@ -2,6 +2,11 @@
   {
     "id": 0,
     "title": "Medical Nursing I Practice",
-    "numberOfTests": 0
+    "numberOfTests": 1
+  },
+  {
+    "id": 1,
+    "title": "Test 1",
+    "numberOfTests": 24
   }
 ]
