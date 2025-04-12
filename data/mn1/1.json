@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "question": "A nurse is assessing a 70-year-old patient who has been experiencing persistent vomiting and diarrhea for three days. The patient’s blood pressure is 88/56 mmHg, heart rate is 112 bpm, and skin turgor is poor. Which of the following intravenous fluids would be the most appropriate initial intervention?",
+    "options": ["5% Dextrose in 0.45% Normal Saline", "0.45% Normal Saline", "0.9% Normal Saline", "5% Dextrose in Water"],
+    "answer": "0.9% Normal Saline",
+    "explanation": "0.9% Normal Saline is an isotonic solution that helps restore intravascular volume and is ideal for treating hypovolemia caused by dehydration."
+  },
+  {
+    "id": 2,
+    "question": "Which laboratory value is most indicative of dehydration?",
+    "options": ["Low hematocrit", "Decreased sodium levels", "High urine specific gravity", "Low blood urea nitrogen (BUN)"],
+    "answer": "High urine specific gravity",
+    "explanation": "High urine specific gravity indicates concentrated urine, which is a sign of dehydration as the kidneys conserve water."
+  },
+  {
+    "id": 3,
+    "question": "A nurse is assessing a patient for signs of dehydration. Which of the following findings would be most concerning?",
+    "options": ["Heart rate of 110 bpm", "Moist oral mucosa", "Blood pressure of 130/80 mmHg", "Urine output of 40 mL/hour"],
+    "answer": "Heart rate of 110 bpm",
+    "explanation": "An elevated heart rate (tachycardia) is a compensatory mechanism to maintain cardiac output during dehydration and is a concerning finding."
+  },
+  {
+    "id": 4,
+    "question": "Oppong came to the hospital, and after assessment, he was diagnosed with hypovolemia. He was informed that the fluid shift that occurred in the:",
+    "options": ["Third spacing to interstitial space", "Four spacings to the vascular space", "Interstitial to vascular space", "Vascular to interstitial space"],
+    "answer": "Vascular to interstitial space",
+    "explanation": "In hypovolemia, fluid shifts from the vascular space into the interstitial space, reducing circulating volume."
+  },
+  {
+    "id": 5,
+    "question": "A nurse is reviewing a patient’s fluid intake and output records. Which of the following findings indicates a fluid imbalance?",
+    "options": ["Intake: 3,500 mL, Output: 2,000 mL", "Intake: 2,000 mL, Output: 1,950 mL", "Intake: 2,200 mL, Output: 2,100 mL", "Intake: 1,800 mL, Output: 1,750 mL"],
+    "answer": "Intake: 3,500 mL, Output: 2,000 mL",
+    "explanation": "A significant difference between intake and output suggests fluid retention or inadequate excretion, indicating a fluid imbalance."
+  },
+  {
+    "id": 6,
+    "question": "A nurse is assessing a patient with severe third-spacing of fluids due to burn injuries. Which of the following findings would the nurse expect during the initial phase?",
+    "options": ["Decreased urine output and hypotension", "Increased blood pressure and bradycardia", "Hyperactive bowel sounds and warm, flushed skin", "Pulmonary edema and jugular vein distention"],
+    "answer": "Decreased urine output and hypotension",
+    "explanation": "Third-spacing leads to fluid accumulation in extravascular spaces, causing decreased circulating volume, hypotension, and reduced urine output."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following fluid intake measurements is considered normal for an adult in 24 hours?",
+    "options": ["4,000 mL", "1,000 mL", "500 mL", "2,500 mL"],
+    "answer": "2,500 mL",
+    "explanation": "The average daily fluid intake for an adult is approximately 2,500 mL, including oral and intravenous fluids."
+  },
+  {
+    "id": 8,
+    "question": "Which assessment technique is always performed last during an abdominal examination?",
+    "options": ["Inspection", "Palpation", "Percussion", "Auscultation"],
+    "answer": "Auscultation",
+    "explanation": "Auscultation is performed before palpation or percussion to avoid altering bowel sounds during the examination."
+  },
+  {
+    "id": 9,
+    "question": "Which hormone regulates water balance by increasing water reabsorption in the kidneys?",
+    "options": ["Aldosterone", "Antidiuretic hormone (ADH)", "Cortisol", "Insulin"],
+    "answer": "Antidiuretic hormone (ADH)",
+    "explanation": "ADH promotes water reabsorption in the kidneys, helping to maintain fluid balance."
+  },
+  {
+    "id": 10,
+    "question": "Which condition occurs when there is an excess accumulation of fluid in the interstitial spaces?",
+    "options": ["Hypovolemia", "Hyperkalemia", "Dehydration", "Edema"],
+    "answer": "Edema",
+    "explanation": "Edema results from fluid accumulation in the interstitial spaces, leading to swelling."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following signs is an early indicator of dehydration in an elderly patient?",
+    "options": ["Confusion", "Increased blood pressure", "Skin tenting", "Sunken fontanel"],
+    "answer": "Confusion",
+    "explanation": "Confusion is an early sign of dehydration in elderly patients due to reduced cerebral perfusion."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is a sign of fluid volume deficit (dehydration)?",
+    "options": ["Bounding pulse", "Hypertension", "Poor skin turgor", "Crackles in the lungs"],
+    "answer": "Poor skin turgor",
+    "explanation": "Poor skin turgor reflects decreased skin elasticity due to dehydration."
+  },
+  {
+    "id": 13,
+    "question": "A nurse is conducting a comprehensive health assessment. Which of the following should be the first step?",
+    "options": ["Performing a focused physical examination", "Reviewing laboratory test results", "Assessing for past medical history", "Obtaining the patient’s chief complaint"],
+    "answer": "Obtaining the patient’s chief complaint",
+    "explanation": "The chief complaint guides the assessment process and helps prioritize further evaluation."
+  },
+  {
+    "id": 14,
+    "question": "A nurse is monitoring a patient receiving IV normal saline for dehydration. Which of the following findings indicates the patient is improving?",
+    "options": ["Increased skin turgor", "Decreased blood pressure", "Decreased urine output", "Increased thirst"],
+    "answer": "Increased skin turgor",
+    "explanation": "Improved skin turgor indicates better hydration status and recovery from dehydration."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is the most effective way for a nurse to evaluate a patient’s response to IV fluid therapy for dehydration?",
+    "options": ["Measuring urine output once per shift", "Assessing skin turgor every four hours", "Checking blood pressure every 30 minutes", "Monitoring daily weight trends"],
+    "answer": "Monitoring daily weight trends",
+    "explanation": "Daily weight is a sensitive indicator of fluid balance, as 1 kg of weight change corresponds to approximately 1 liter of fluid gain or loss."
+  },
+  {
+    "id": 16,
+    "question": "A nurse is performing a fluid balance assessment. Which of the following findings suggests fluid volume excess?",
+    "options": ["Dry, sticky mucous membranes", "Increased hematocrit", "Jugular vein distension", "Weak, thready pulse"],
+    "answer": "Jugular vein distension",
+    "explanation": "Jugular vein distension indicates fluid overload and increased central venous pressure."
+  },
+  {
+    "id": 17,
+    "question": "A nurse is performing a head-to-toe assessment on a patient with a suspected fluid volume deficit. Which of the following findings would best confirm this condition?",
+    "options": ["Bounding pulse and increased blood pressure", "Peripheral edema and crackles in the lungs", "Flat neck veins and postural hypotension", "Moist mucous membranes and increased urinary output"],
+    "answer": "Flat neck veins and postural hypotension",
+    "explanation": "Flat neck veins and postural hypotension are classic signs of fluid volume deficit."
+  },
+  {
+    "id": 18,
+    "question": "The interviews require less time and are very effective for obtaining factual data with specific questions and are controlled by the nurse. Which type of interview is this?",
+    "options": ["Directive interview", "Nondirective interview", "History taking step", "Interview"],
+    "answer": "Directive interview",
+    "explanation": "A directive interview involves structured, focused questions to gather specific information efficiently."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is an anion?",
+    "options": ["Sodium", "Calcium", "Phosphate", "Magnesium"],
+    "answer": "Phosphate",
+    "explanation": "Phosphate is an anion (negatively charged ion), while sodium, calcium, and magnesium are cations."
+  },
+  {
+    "id": 20,
+    "question": "A nurse is reviewing a patient’s fluid intake and output records. Which of the following findings indicates a fluid imbalance?",
+    "options": ["Intake: 3,500 mL, Output: 2,000 mL", "Intake: 2,000 mL, Output: 1,950 mL", "Intake: 2,200 mL, Output: 2,100 mL", "Intake: 1,800 mL, Output: 1,750 mL"],
+    "answer": "Intake: 1,800 mL, Output: 1,750 mL",
+    "explanation": "A small difference between intake and output (e.g., 50 mL) is normal, but larger discrepancies indicate fluid imbalance."
+  },
+  {
+    "id": 21,
+    "question": "A nurse is performing a skin assessment. Which of the following findings is most concerning?",
+    "options": ["A symmetrical pink birthmark", "A 1 cm flat, brown mole", "A freckle on the face", "A raised, non-blanching purplish lesion"],
+    "answer": "A raised, non-blanching purplish lesion",
+    "explanation": "A raised, non-blanching purplish lesion may indicate a hematoma or other vascular abnormality, which requires further evaluation."
+  },
+  {
+    "id": 22,
+    "question": "A nurse is assessing a patient’s hydration status. Which of the following is the most accurate indicator of fluid balance?",
+    "options": ["Blood pressure", "Skin turgor", "Daily weight", "Urine color"],
+    "answer": "Daily weight",
+    "explanation": "Daily weight is the most reliable indicator of fluid balance, as weight changes reflect fluid gain or loss."
+  },
+  {
+    "id": 23,
+    "question": "A nurse is assessing a patient for signs of dehydration. Which of the following findings would be most concerning?",
+    "options": ["Heart rate of 110 bpm", "Moist oral mucosa", "Blood pressure of 130/80 mmHg", "Urine output of 40 mL/hour"],
+    "answer": "Heart rate of 110 bpm",
+    "explanation": "An elevated heart rate (tachycardia) is a compensatory mechanism during dehydration and indicates fluid volume deficit."
+  },
+  {
+    "id": 24,
+    "question": "A nurse is monitoring a patient receiving IV normal saline for dehydration. Which of the following findings indicates the patient is improving?",
+    "options": ["Increased skin turgor", "Decreased blood pressure", "Decreased urine output", "Increased thirst"],
+    "answer": "Increased skin turgor",
+    "explanation": "Improved skin turgor reflects better hydration status and recovery from dehydration."
+  }
+]
