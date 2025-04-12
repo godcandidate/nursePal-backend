@@ -2,6 +2,12 @@
   {
     "id": 0,
     "title": "Pharmacology & Traditional Medicine Practice",
-    "numberOfTests": 0
+    "numberOfTests": 1
+  }, 
+    {
+    "id": 1,
+    "title": "Test 1: Midserm Questions",
+    "numberOfTests": 40
   }
+  
 ]
