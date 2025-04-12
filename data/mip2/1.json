@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary method of preventing the spread of tapeworms in livestock?",
+    "options": ["Vaccinating animals", "Keeping animals in enclosed spaces", "Regular deworming of animals", "Improving sanitation in slaughterhouses"],
+    "answer": "Regular deworming of animals",
+    "explanation": "Regular deworming helps eliminate tapeworm infections in livestock, preventing their spread."
+  },
+  {
+    "id": 2,
+    "question": "What condition is caused by the larval form of Taenia solium when it invades human tissues?",
+    "options": ["Schistosomiasis", "Cysticercosis", "Toxoplasmosis", "Ascariasis"],
+    "answer": "Cysticercosis",
+    "explanation": "Cysticercosis is caused by the larval form of Taenia solium invading human tissues."
+  },
+  {
+    "id": 3,
+    "question": "What is the primary cause of malaria?",
+    "options": ["Bacteria", "Fungus", "Parasite", "Virus"],
+    "answer": "Parasite",
+    "explanation": "Malaria is caused by Plasmodium parasites transmitted through mosquito bites."
+  },
+  {
+    "id": 4,
+    "question": "Which group is most at risk of severe malaria?",
+    "options": ["Young children and pregnant women", "People with asthma", "People who travel frequently", "Elderly people only"],
+    "answer": "Young children and pregnant women",
+    "explanation": "They have weaker immune systems or altered immunity, making them more susceptible to severe malaria."
+  },
+  {
+    "id": 5,
+    "question": "Which of these factors contributes to the spread of malaria?",
+    "options": ["Climate change", "Poor access to healthcare", "Urbanization", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "All listed factors contribute to increasing malaria transmission rates."
+  },
+  {
+    "id": 6,
+    "question": "What is the first stage of the malaria parasite's life cycle in the human body?",
+    "options": ["Merozoites entering red blood cells", "Gametocytes in the bloodstream", "Schizonts in the liver", "Sporozoites entering the liver"],
+    "answer": "Sporozoites entering the liver",
+    "explanation": "After mosquito bite, sporozoites enter the liver to begin the human phase of the malaria life cycle."
+  },
+  {
+    "id": 7,
+    "question": "Which mosquito species is the primary vector for malaria transmission?",
+    "options": ["Aedes mosquitoes", "Culex mosquitoes", "Anopheles mosquitoes", "Tsetse flies"],
+    "answer": "Anopheles mosquitoes",
+    "explanation": "Anopheles mosquitoes are responsible for transmitting malaria parasites to humans."
+  },
+  {
+    "id": 8,
+    "question": "What is the term for a parasite that causes harm to its host without necessarily killing it?",
+    "options": ["Symbiont", "Pathogen", "Mutualist", "Commensal"],
+    "answer": "Pathogen",
+    "explanation": "Pathogens harm their hosts but do not always kill them, often including parasites."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is an effective treatment for tapeworm infections?",
+    "options": ["Antifungal medications", "Antibiotics", "Antimalarial drugs", "Anthelmintic drugs such as praziquantel or niclosamide"],
+    "answer": "Anthelmintic drugs such as praziquantel or niclosamide",
+    "explanation": "Anthelmintic drugs specifically target and eliminate parasitic worms like tapeworms."
+  },
+  {
+    "id": 10,
+    "question": "What is the primary way to prevent tapeworm infections?",
+    "options": ["Cooking meat to the appropriate temperature", "Avoiding swimming in contaminated water", "Taking antiviral medications", "Proper sanitation and handwashing"],
+    "answer": "Cooking meat to the appropriate temperature",
+    "explanation": "Cooking meat thoroughly kills tapeworm larvae, preventing infection."
+  },
+  {
+    "id": 11,
+    "question": "What happens after the fertilization of the gametocytes in the mosquito?",
+    "options": ["The parasite enters the human bloodstream", "The mosquito becomes immune to malaria", "The mosquito becomes infected with the malaria parasite", "Sporozoites are released and travel to the mosquito's salivary glands"],
+    "answer": "Sporozoites are released and travel to the mosquito's salivary glands",
+    "explanation": "After fertilization, sporozoites form and migrate to the mosquito’s salivary glands, ready to infect a new host."
+  },
+  {
+    "id": 12,
+    "question": "Where does the malaria parasite mature after being injected into the human body by a mosquito?",
+    "options": ["Liver", "Kidneys", "Heart", "Lungs"],
+    "answer": "Liver",
+    "explanation": "The malaria parasite first develops in the liver before entering the bloodstream."
+  },
+  {
+    "id": 13,
+    "question": "How can a person prevent cysticercosis, a condition caused by Taenia solium larvae?",
+    "options": ["Avoiding eating undercooked pork", "Washing vegetables thoroughly", "Using insect repellents", "Avoiding seafood"],
+    "answer": "Avoiding eating undercooked pork",
+    "explanation": "Undercooked pork may contain Taenia solium larvae, which can cause cysticercosis."
+  },
+  {
+    "id": 14,
+    "question": "Which type of parasite requires a host to complete its life cycle but can also survive outside the host for a period?",
+    "options": ["Obligate parasite", "Facultative parasite", "External parasite", "Hyperparasite"],
+    "answer": "Facultative parasite",
+    "explanation": "Facultative parasites can survive independently but may infect a host to complete development."
+  },
+  {
+    "id": 15,
+    "question": "How are tapeworm infections diagnosed?",
+    "options": ["X-ray imaging", "Stool sample examination for eggs or proglottids", "Blood tests only", "Skin biopsy"],
+    "answer": "Stool sample examination for eggs or proglottids",
+    "explanation": "Tapeworm eggs or segments are typically identified in a stool sample for diagnosis."
+  },
+  {
+    "id": 16,
+    "question": "What happens to the tapeworm larvae once ingested by the human host?",
+    "options": ["They reproduce and form cysts in the brain", "They travel to the lungs", "They die in the stomach", "They attach to the intestines and develop into adult tapeworms"],
+    "answer": "They attach to the intestines and develop into adult tapeworms",
+    "explanation": "The larvae anchor to the intestinal wall and mature into adult tapeworms."
+  },
+  {
+    "id": 17,
+    "question": "Where does fertilization of the malaria parasite take place?",
+    "options": ["In the red blood cells", "In the liver", "In the human body", "In the mosquito's gut"],
+    "answer": "In the mosquito's gut",
+    "explanation": "Fertilization of the Plasmodium gametocytes occurs inside the mosquito’s gut."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following describes the relationship between a parasite and its host when the parasite benefits and the host is harmed?",
+    "options": ["Commensalism", "Neutralism", "Parasitism", "Mutualism"],
+    "answer": "Parasitism",
+    "explanation": "In parasitism, the parasite benefits at the expense of the host."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following tapeworm species is known to infect fish?",
+    "options": ["Echinococcus granulosus", "Diphyllobothrium latum", "Taenia saginata", "Taenia solium"],
+    "answer": "Diphyllobothrium latum",
+    "explanation": "Diphyllobothrium latum, also known as the fish tapeworm, infects humans via undercooked fish."
+  },
+  {
+    "id": 20,
+    "question": "Which tapeworm species can cause cysticercosis in humans?",
+    "options": ["Diphyllobothrium latum (fish tapeworm)", "Taenia saginata (beef tapeworm)", "Taenia solium (pork tapeworm)", "Echinococcus granulosus (dog tapeworm)"],
+    "answer": "Taenia solium (pork tapeworm)",
+    "explanation": "Taenia solium larvae can migrate to tissues and cause cysticercosis."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is a common symptom of malaria?",
+    "options": ["Persistent cough", "High fever and chills", "Skin rash", "Shortness of breath"],
+    "answer": "High fever and chills",
+    "explanation": "Malaria typically presents with cycles of high fever, chills, and sweating."
+  },
+  {
+    "id": 22,
+    "question": "In a parasitic relationship, which organism benefits at the expense of the other?",
+    "options": ["Both organisms benefit", "The parasite benefits while the host is harmed", "Neither organism benefits", "The host benefits while the parasite is harmed"],
+    "answer": "The parasite benefits while the host is harmed",
+    "explanation": "This is the defining feature of parasitism."
+  },
+  {
+    "id": 23,
+    "question": "What is the primary method of preventing malaria?",
+    "options": ["Sleeping under insecticide-treated bed nets", "Antibiotic treatment", "Using sunscreen", "Vaccination"],
+    "answer": "Sleeping under insecticide-treated bed nets",
+    "explanation": "Bed nets are a highly effective tool for reducing mosquito bites and malaria transmission."
+  },
+  {
+    "id": 24,
+    "question": "Which animal is a common intermediate host for Taenia saginata (beef tapeworm)?",
+    "options": ["Sheep", "Fish", "Cows", "Pigs"],
+    "answer": "Cows",
+    "explanation": "Cows are the intermediate host of Taenia saginata, which is transmitted through undercooked beef."
+  },
+  {
+    "id": 25,
+    "question": "What is the intermediate host for Taenia solium?",
+    "options": ["Cow", "Pig", "Dog", "Fish"],
+    "answer": "Pig",
+    "explanation": "Pigs are the intermediate hosts for the pork tapeworm Taenia solium."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is a common symptom of malaria?",
+    "options": ["Persistent cough", "High fever and chills", "Skin rash", "Shortness of breath"],
+    "answer": "High fever and chills",
+    "explanation": "This is a repeated symptom due to the parasite's life cycle in red blood cells."
+  },
+  {
+    "id": 27,
+    "question": "What is the primary way to prevent tapeworm infections?",
+    "options": ["Proper sanitation and handwashing", "Avoiding swimming in contaminated water", "Taking antiviral medications", "Cooking meat to the appropriate temperature"],
+    "answer": "Cooking meat to the appropriate temperature",
+    "explanation": "Thoroughly cooking meat destroys tapeworm larvae, preventing infection."
+  },
+  {
+    "id": 28,
+    "question": "Which species of malaria parasite is responsible for causing the most severe form of malaria?",
+    "options": ["Plasmodium vivax", "Plasmodium falciparum", "Plasmodium ovale", "Plasmodium malariae"],
+    "answer": "Plasmodium falciparum",
+    "explanation": "Plasmodium falciparum causes the most severe and fatal form of malaria."
+  },
+  {
+    "id": 29,
+    "question": "Which form of the malaria parasite infects red blood cells?",
+    "options": ["Gametocytes", "Schizonts", "Merozoites", "Sporozoites"],
+    "answer": "Merozoites",
+    "explanation": "Merozoites are the stage that enters and multiplies in red blood cells."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is an effective treatment for tapeworm infections?",
+    "options": ["Antifungal medications", "Antibiotics", "Antimalarial drugs", "Anthelmintic drugs such as praziquantel or niclosamide"],
+    "answer": "Anthelmintic drugs such as praziquantel or niclosamide",
+    "explanation": "These medications are effective against parasitic worms including tapeworms."
+  }
+]
