@@ -3,5 +3,11 @@
     "id": 0,
     "title": "Microbiology & Infection Prevention II Practice",
     "numberOfTests": 0
+  },
+  {
+    "id": 1,
+    "title": "Test 1: Midserm Questions",
+    "numberOfTests": 30
   }
+  
 ]
