@@ -1,0 +1,282 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following classes of antibiotics act against only gram negative bacteria?",
+      "options": ["Tetracyclines", "Aminoglycosides", "Sulfonamides", "Cephalosporins"],
+      "answer": "Aminoglycosides",
+      "explanation": "Aminoglycosides primarily target gram-negative bacteria by inhibiting protein synthesis."
+    },
+    {
+      "id": 2,
+      "question": "Mrs. A. B. is reported to have an Amoebic diarrhea. Which of the following medicines can worsen her diarrhea?",
+      "options": ["Beta Blockers", "Calcium Channel blockers", "Antacids", "Loperamide"],
+      "answer": "Loperamide",
+      "explanation": "Loperamide can worsen amoebic dysentery by slowing intestinal motility, allowing the parasite more time to cause damage."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following antibacterial agents acts on the 30S ribosomal subunit of the bacteria?",
+      "options": ["Amoxicillin + Clavulanic Acid", "Clindamycin", "Doxycycline", "Cefuroxime"],
+      "answer": "Doxycycline",
+      "explanation": "Doxycycline is a tetracycline antibiotic that binds to the 30S ribosomal subunit, inhibiting bacterial protein synthesis."
+    },
+    {
+      "id": 4,
+      "question": "On the ward, Nurses need to be checking the pulse of patients on laxatives BECAUSE laxatives can lead to dehydration and subsequent reflex tachycardia",
+      "options": ["Both statements are false", "First statement is false AND second statement is true", "Both statements are true BUT the second statement does not explain the first", "First statement is true AND second statement is false", "Both statements are true AND the second statement explains the first"],
+      "answer": "Both statements are true AND the second statement explains the first",
+      "explanation": "Laxatives can cause dehydration, which may lead to reflex tachycardia as the body compensates for reduced blood volume."
+    },
+    {
+      "id": 5,
+      "question": "All the following medicines belong to the class of Macrolides EXCEPT...",
+      "options": ["Clarithromycin", "Erythromycin", "Clindamycin", "Azithromycin"],
+      "answer": "Clindamycin",
+      "explanation": "Clindamycin belongs to the lincosamide class, not macrolides."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following antibiotics work against cell wall synthesis?",
+      "options": ["Doxycycline", "Piperacillin", "Erythromycin", "Ciprofloxacin"],
+      "answer": "Piperacillin",
+      "explanation": "Piperacillin is a beta-lactam antibiotic that interferes with bacterial cell wall synthesis."
+    },
+    {
+      "id": 7,
+      "question": "Anti-asthma medications that give long term benefits but do not relieve patients of acute symptomatic attacks are called",
+      "options": ["Bronchodilators", "Non-bronchodilators", "Preventers", "Relievers"],
+      "answer": "Preventers",
+      "explanation": "Preventers, such as inhaled corticosteroids, provide long-term control of asthma symptoms but do not relieve acute attacks."
+    },
+    {
+      "id": 8,
+      "question": "All the following antibiotics are Bacteriostatic EXCEPT...",
+      "options": ["Erythromycin", "Doxycycline", "Gentamycin", "Tetracycline"],
+      "answer": "Gentamycin",
+      "explanation": "Gentamycin is bactericidal, while the others listed are bacteriostatic."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following medicines is a xanthine derivative used in the management of Asthma?",
+      "options": ["Theophylline", "Hydrocortisone", "Terbutaline", "Salbutamol"],
+      "answer": "Theophylline",
+      "explanation": "Theophylline is a xanthine derivative that relaxes bronchial smooth muscle, used in asthma management."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following antacids cause rebound hyperacidity?",
+      "options": ["Aluminium Hydroxide", "Sodium Bicarbonate", "Calcium Carbonate", "Magnesium Trisilicate"],
+      "answer": "Calcium Carbonate",
+      "explanation": "Calcium carbonate can cause rebound hyperacidity due to its strong neutralizing effect and subsequent acid rebound."
+    },
+    {
+      "id": 11,
+      "question": "A table showing how susceptible a series of organisms are to different antimicrobials often used in clinical empiric therapy is called...",
+      "options": ["Antibiogram", "Antibiotic classification", "Culture and Sensitivity results", "Definitive treatment table"],
+      "answer": "Antibiogram",
+      "explanation": "An antibiogram summarizes the susceptibility patterns of various organisms to antimicrobial agents."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following antiemetics belong to the class of Serotonin Receptor Antagonist?",
+      "options": ["Metoclopramide", "Aprepitant", "Granisetron", "Promethazine"],
+      "answer": "Granisetron",
+      "explanation": "Granisetron is a serotonin 5-HT3 receptor antagonist used to treat nausea and vomiting."
+    },
+    {
+      "id": 13,
+      "question": "Mucous in the respiratory tract is best removed by which of the following cough syrups?",
+      "options": ["Ammonium chloride", "Carbocisteine", "Benzonatate", "Dextromethorphan"],
+      "answer": "Carbocisteine",
+      "explanation": "Carbocisteine is a mucolytic agent that reduces the viscosity of mucus, aiding its removal."
+    },
+    {
+      "id": 14,
+      "question": "All the following are good counselling points for rational antimicrobial usage EXCEPT",
+      "options": ["Continue to take your antibiotics till the last day of the prescription even if u start to feel better along the way", "Do not share your antibiotics with others", "Doses may be skipped if you feel better or travel without medication", "Do not take antibiotics prescribed for someone else"],
+      "answer": "Doses may be skipped if you feel better or travel without medication",
+      "explanation": "Skipping doses or discontinuing antibiotics prematurely can lead to antibiotic resistance."
+    },
+    {
+      "id": 15,
+      "question": "Yaw Ofori, a 23-year-old asthmatic seems not to know what precipitates his attacks. He is therefore likely to be suffering from which of the following types of Asthma?",
+      "options": ["Extrinsic", "Intrinsic", "Exercise Induced", "Drug induced"],
+      "answer": "Intrinsic",
+      "explanation": "Intrinsic asthma has no identifiable external allergens or irritants as triggers, unlike extrinsic asthma."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is/are possible allergens that may precipitate an asthmatic attack?",
+      "options": ["All the above?", "Pollen grains", "Smoke", "Dust"],
+      "answer": "All the above?",
+      "explanation": "Common allergens like pollen, smoke, and dust can trigger asthmatic attacks."
+    },
+    {
+      "id": 17,
+      "question": "Somatostatin, an inhibitory molecule is secreted by which of the following cells",
+      "options": ["Parietal cells", "D cells", "ECL-like cells", "G cells"],
+      "answer": "D cells",
+      "explanation": "D cells in the stomach secrete somatostatin, which inhibits gastric acid secretion."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following medicines is a Histamine-2 Receptor antagonist?",
+      "options": ["Ranitidine", "Simethicone", "Omeprazole", "Misoprostol"],
+      "answer": "Ranitidine",
+      "explanation": "Ranitidine is an H2 receptor antagonist that reduces stomach acid production."
+    },
+    {
+      "id": 19,
+      "question": "All the following are possible causes of chronic diarrhea EXCEPT",
+      "options": ["Bacterial infection", "Diabetes mellitus", "Hyperthyroidism", "Addison's disease"],
+      "answer": "Addison's disease",
+      "explanation": "Addison's disease is not commonly associated with chronic diarrhea; other options are known causes."
+    },
+    {
+      "id": 20,
+      "question": "Sulfonamides are contraindicated for use in pregnant women at term BECAUSE Sulfonamides may cause diarrhea and electrolyte imbalance",
+      "options": ["Both statements are true AND the second statement explains the first", "First statement is false AND second statement is true", "First statement is true AND second statement is false", "Both statements are true BUT the second statement does not explain the first", "Both statements are false"],
+      "answer": "First statement is true AND second statement is false",
+      "explanation": "Sulfonamides are contraindicated in late pregnancy due to the risk of kernicterus in the newborn, not diarrhea."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following antiemetics has Extrapyramidal effects?",
+      "options": ["Granisetron", "Metoclopramide", "Promethazine", "Aprepitant"],
+      "answer": "Metoclopramide",
+      "explanation": "Metoclopramide can cause extrapyramidal side effects due to its dopamine antagonism."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following receptors is responsible for the Parasympathetic effects of the Gastrointestinal tract mediating acid production by the Parietal cell?",
+      "options": ["M1 receptors", "M4 receptors", "M2 receptors", "M3 receptors"],
+      "answer": "M3 receptors",
+      "explanation": "M3 muscarinic receptors mediate parasympathetic effects, including stimulation of gastric acid secretion."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following anti-diarrhoeal medications belong to the class of Opiates?",
+      "options": ["Lactobacillus", "Atropine", "Diphenoxylate", "Aluminium hydroxide"],
+      "answer": "Diphenoxylate",
+      "explanation": "Diphenoxylate is an opioid agonist used to treat diarrhea by reducing intestinal motility."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following medicines have interactions with antacids?",
+      "options": ["Cephalosporins", "Quinolones", "Monobactams", "Macrolides"],
+      "answer": "Quinolones",
+      "explanation": "Antacids can reduce the absorption of quinolones, leading to decreased efficacy."
+    },
+    {
+      "id": 25,
+      "question": "Per the mechanism of action, Macrolides belong to which class of antibiotics?",
+      "options": ["Protein synthesis", "Cell wall synthesis", "Folate Synthesis", "Nucleic acid synthesis"],
+      "answer": "Protein synthesis",
+      "explanation": "Macrolides inhibit bacterial protein synthesis by binding to the 50S ribosomal subunit."
+    },
+    {
+      "id": 26,
+      "question": "All the following are non-infective indications for the use of mucolytics EXCEPT?",
+      "options": ["Cystic fibrosis", "Asthma", "Chronic Obstructive Pulmonary Disease", "Tuberculosis"],
+      "answer": "Tuberculosis",
+      "explanation": "Tuberculosis is an infectious disease, while the others are non-infectious conditions where mucolytics may be used."
+    },
+    {
+      "id": 27,
+      "question": "Your younger sister has been coughing with the production of whitish sputum since yesterday. Which of the following cough syrups is most appropriate to manage her cough?",
+      "options": ["Dextromethorphan", "Ammonium chloride", "Codeine", "Diphenhydramine"],
+      "answer": "Ammonium chloride",
+      "explanation": "Ammonium chloride is an expectorant that helps loosen and expel mucus, suitable for productive coughs."
+    },
+    {
+      "id": 28,
+      "question": "Traditional medicine practitioners treat human mental and physical sicknesses by using which of the following?",
+      "options": ["Physical or hands therapies", "All the above", "Natural sources of medicines", "Energetic therapies"],
+      "answer": "All the above",
+      "explanation": "Traditional medicine encompasses various practices, including natural remedies, physical therapies, and energetic techniques."
+    },
+    {
+      "id": 29,
+      "question": "All the following are True concerning the Gastrointestinal tract EXCEPT",
+      "options": ["Salivary amylase begins the digestive process", "It is a sterile tract", "The liver happens to be an accessory organ to the tract", "It has main and accessory organs"],
+      "answer": "It is a sterile tract",
+      "explanation": "The gastrointestinal tract is not sterile; it contains a diverse microbiota essential for digestion and immunity."
+    },
+    {
+      "id": 30,
+      "question": "All the following are short acting Beta adrenergic bronchodilators EXCЕРТ",
+      "options": ["Adrenaline", "Salmeterol", "Terbutaline", "Salbutamol"],
+      "answer": "Salmeterol",
+      "explanation": "Salmeterol is a long-acting beta-adrenergic bronchodilator, unlike the others listed."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is NOT a non-pharmacological means of managing constipation?",
+      "options": ["Dietary changes to include more roughages", "Fluid intake to replace lost fluids and electrolytes", "Bowel training to establish consistency", "Use of laxatives to enhance bowel movements"],
+      "answer": "Use of laxatives to enhance bowel movements",
+      "explanation": "Laxatives are pharmacological interventions, not non-pharmacological methods."
+    },
+    {
+      "id": 32,
+      "question": "Antimicrobial agents are used generally for which of the following",
+      "options": ["Prophylactic therapy", "All the above", "Definitive therapy", "Empiric therapy"],
+      "answer": "All the above",
+      "explanation": "Antimicrobial agents are used for prophylaxis, definitive treatment, and empiric therapy based on clinical context."
+    },
+    {
+      "id": 33,
+      "question": "All the following statements are TRUE concerning anti-diarrhoea medications EXCEPT",
+      "options": ["Anticholinergics work by decreasing peristalsis", "Antilipemics are non-beneficial in dyslipidemia", "Opiates are often beneficial in diarrhea associated with colic pain", "Adsorbents are also beneficial in toxin induced diarrhea"],
+      "answer": "Antilipemics are non-beneficial in dyslipidemia",
+      "explanation": "Antilipemics are unrelated to diarrhea treatment and are used for dyslipidemia management."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following medicines is a proton pump inhibitor?",
+      "options": ["Misoprostol", "Ranitidine", "Simethicone", "Omeprazole"],
+      "answer": "Omeprazole",
+      "explanation": "Omeprazole is a proton pump inhibitor that reduces gastric acid secretion."
+    },
+    {
+      "id": 35,
+      "question": "Lactulose belongs to which class of laxatives?",
+      "options": ["Stimulant", "Emollient", "Osmotic", "Bulk forming"],
+      "answer": "Osmotic",
+      "explanation": "Lactulose is an osmotic laxative that draws water into the colon, softening stools."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is a Leukotriene synthesis enzyme inhibitor used in the management of Asthma?",
+      "options": ["Zileuton", "Montelukast", "Aminophylline", "Salbutamol"],
+      "answer": "Zileuton",
+      "explanation": "Zileuton inhibits leukotriene synthesis, reducing inflammation in asthma."
+    },
+    {
+      "id": 37,
+      "question": "Which of the following drugs have an increased absorption yielding to an increased drug effect when co-administered with antacids?",
+      "options": ["Digoxin", "Diazepam", "Phenytoin", "Ciprofloxacin"],
+      "answer": "Digoxin",
+      "explanation": "Antacids can increase the absorption of digoxin, potentially enhancing its effects."
+    },
+    {
+      "id": 38,
+      "question": "Home made Oral Rehydration Salt can be prepared using which quantity of salt per a litre of clean solution?",
+      "options": ["2 teaspoons full of salt", "1 teaspoon full of salt", "½ teaspoon of salt", "¼ teaspoon of salt"],
+      "answer": "½ teaspoon of salt",
+      "explanation": "The WHO recommends ½ teaspoon of salt per liter for homemade ORS."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following medicines is NOT employed in the eradication of Helicobacter pylori during Peptic Ulcer management?",
+      "options": ["Trimethoprim", "Levofloxacin", "Tetracycline", "Clarithromycin"],
+      "answer": "Trimethoprim",
+      "explanation": "Trimethoprim is not typically used in H. pylori eradication regimens."
+    },
+    {
+      "id": 40,
+      "question": "Proton pump inhibitors cause irreversible acid inhibition BECAUSE Proton pump inhibitors competitively bind to the acid producing cell called Hydrogen/Potassium ATPase",
+      "options": ["First statement is true AND second statement is false", "First statement is false AND second statement is true", "Both statements are true AND the second statement explains the first", "Both statements are true BUT the second statement does not explain the first", "Both statements are false"],
+      "answer": "Both statements are true AND the second statement explains the first",
+      "explanation": "PPIs irreversibly inhibit the H+/K+ ATPase pump, leading to prolonged suppression of acid secretion."
+    }
+]
