@@ -2,7 +2,13 @@
   {
     "id": 0,
     "title": "Surgical Nursing I Practice",
-    "numberOfTests": 0
+    "numberOfTests": 1
+  },
+  {
+    "id": 1,
+    "title": "Test 1: Shock Slides",
+    "numberOfTests": 30
   }
+  
 ]
 
