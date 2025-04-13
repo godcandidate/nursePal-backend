@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary goal of the preoperative assessment?",
+    "options": ["To perform the surgery", "To discharge the patient", "To assess the patient's readiness and risks", "To start IV medication"],
+    "answer": "To assess the patient's readiness and risks",
+    "explanation": "Preoperative assessment evaluates the patient's physical, emotional, and psychological readiness for surgery and identifies potential risks."
+  },
+  {
+    "id": 2,
+    "question": "Which term refers to cutting into a body part?",
+    "options": ["-ectomy", "-otomy", "-ostomy", "-plasty"],
+    "answer": "-otomy",
+    "explanation": "-otomy means cutting into, such as in thoracotomy (cutting into the chest cavity)."
+  },
+  {
+    "id": 3,
+    "question": "Which surgery is considered elective?",
+    "options": ["Appendectomy", "Gunshot wound surgery", "Cataract removal", "Kidney stone removal"],
+    "answer": "Cataract removal",
+    "explanation": "Elective surgery is planned ahead and not urgent, like cataract removal."
+  },
+  {
+    "id": 4,
+    "question": "What type of surgery is performed to improve patient function?",
+    "options": ["Curative", "Restorative", "Palliative", "Diagnostic"],
+    "answer": "Restorative",
+    "explanation": "Restorative surgeries, like total knee replacement, improve patient function."
+  },
+  {
+    "id": 5,
+    "question": "Which healthcare provider is responsible for maintaining sterility during surgery?",
+    "options": ["Circulating nurse", "Anesthesiologist", "Scrub nurse", "Patient"],
+    "answer": "Scrub nurse",
+    "explanation": "Scrub nurses work in the sterile field and ensure sterility is maintained."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following increases bleeding risk before surgery?",
+    "options": ["Vitamin C", "Antiemetics", "NSAIDs", "Antibiotics"],
+    "answer": "NSAIDs",
+    "explanation": "NSAIDs interfere with platelet function, increasing bleeding risk."
+  },
+  {
+    "id": 7,
+    "question": "What does the suffix '-ectomy' indicate?",
+    "options": ["Cutting into", "Removal", "Creation of opening", "Fixation"],
+    "answer": "Removal",
+    "explanation": "-ectomy refers to cutting out or removal of a part, e.g., gastrectomy."
+  },
+  {
+    "id": 8,
+    "question": "What is a key purpose of the 'time-out' before surgery?",
+    "options": ["To relax the team", "To administer medication", "To verify patient, procedure, and site", "To clean instruments"],
+    "answer": "To verify patient, procedure, and site",
+    "explanation": "Time-out is a safety procedure to confirm correct patient and surgical details."
+  },
+  {
+    "id": 9,
+    "question": "Which medication should be tapered off and not stopped abruptly before surgery?",
+    "options": ["NSAIDs", "Corticosteroids", "Vitamin E", "Aspirin"],
+    "answer": "Corticosteroids",
+    "explanation": "Stopping corticosteroids abruptly can cause adrenal insufficiency; tapering is necessary."
+  },
+  {
+    "id": 10,
+    "question": "What does informed consent legally protect?",
+    "options": ["Only the patient", "Only the surgeon", "The healthcare facility and staff", "The anesthesiologist"],
+    "answer": "The healthcare facility and staff",
+    "explanation": "Informed consent protects the facility and staff legally by ensuring the patient is informed and agrees to the procedure."
+  }, 
+  {
+    "id": 11,
+    "question": "What is the primary function of the circulating nurse during surgery?",
+    "options": ["Maintaining sterility", "Assisting with incisions", "Managing care and documentation", "Administering anesthesia"],
+    "answer": "Managing care and documentation",
+    "explanation": "The circulating nurse works outside the sterile field and manages the operating room documentation and patient care."
+  },
+  {
+    "id": 12,
+    "question": "Which lab test is important preoperatively to assess kidney function?",
+    "options": ["CBC", "ECG", "Renal function test", "Liver function test"],
+    "answer": "Renal function test",
+    "explanation": "Renal function tests help assess the kidneys' ability to handle surgical stress and medication metabolism."
+  },
+  {
+    "id": 13,
+    "question": "Which vitamin increases bleeding risk and should be discontinued preoperatively?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin E"],
+    "answer": "Vitamin E",
+    "explanation": "Vitamin E has anticoagulant properties and can increase bleeding risk during surgery."
+  },
+  {
+    "id": 14,
+    "question": "What is the recommended fasting time before general anesthesia?",
+    "options": ["2 hours", "4 hours", "6 hours", "8 hours"],
+    "answer": "8 hours",
+    "explanation": "Patients are advised to fast for 8 hours before surgery to prevent aspiration."
+  },
+  {
+    "id": 15,
+    "question": "Which inflammatory mediator increases vascular permeability?",
+    "options": ["Histamine", "Insulin", "Serotonin", "Dopamine"],
+    "answer": "Histamine",
+    "explanation": "Histamine increases vascular permeability, allowing immune cells to reach the injury site."
+  },
+  {
+    "id": 16,
+    "question": "Which is an example of minimally invasive surgery?",
+    "options": ["Open heart surgery", "Radical mastectomy", "Lung lobectomy", "Simple hysterectomy"],
+    "answer": "Lung lobectomy",
+    "explanation": "Lung lobectomy can be done using minimally invasive techniques such as VATS (video-assisted thoracoscopic surgery)."
+  },
+  {
+    "id": 17,
+    "question": "Which of these is NOT part of the 5Rs of inflammation?",
+    "options": ["Recognition", "Recruitment", "Rehabilitation", "Repair"],
+    "answer": "Rehabilitation",
+    "explanation": "The 5Rs of inflammation are Recognition, Recruitment, Removal, Regulation, and Repair."
+  },
+  {
+    "id": 18,
+    "question": "What phase starts when a patient enters the operating room?",
+    "options": ["Preoperative", "Postoperative", "Intraoperative", "Recovery"],
+    "answer": "Intraoperative",
+    "explanation": "The intraoperative phase begins when the patient enters the operating room and ends at transfer to the recovery room."
+  },
+  {
+    "id": 19,
+    "question": "Which type of anesthesia poses a risk for aspiration if the patient is not NPO?",
+    "options": ["Local", "Regional", "General", "Topical"],
+    "answer": "General",
+    "explanation": "General anesthesia depresses the gag reflex, increasing aspiration risk if the stomach is not empty."
+  },
+  {
+    "id": 20,
+    "question": "What is the suffix for surgical fixation?",
+    "options": ["-ectomy", "-otomy", "-pexy", "-lysis"],
+    "answer": "-pexy",
+    "explanation": "-pexy refers to surgical fixation, as in orchiopexy (fixation of the testicle)."
+  },
+  {
+    "id": 21,
+    "question": "Which herbal supplement can interfere with anesthesia?",
+    "options": ["Peppermint", "Ginger", "Chamomile", "Aloe"],
+    "answer": "Ginger",
+    "explanation": "Ginger can increase bleeding risk and interfere with anesthesia."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is a sign of inflammation?",
+    "options": ["Hypothermia", "Redness", "Pallor", "Bradycardia"],
+    "answer": "Redness",
+    "explanation": "Redness occurs due to increased blood flow at the site of inflammation."
+  },
+  {
+    "id": 23,
+    "question": "Which patient condition should be reported due to anesthesia risk?",
+    "options": ["Hypertension", "Asthma", "Latex allergy", "Dry skin"],
+    "answer": "Latex allergy",
+    "explanation": "A latex allergy can cause severe reactions during surgery and must be reported."
+  },
+  {
+    "id": 24,
+    "question": "Which role prepares all sterile supplies in the OR?",
+    "options": ["Circulating nurse", "Scrub nurse", "Surgical assistant", "Anesthesiologist"],
+    "answer": "Scrub nurse",
+    "explanation": "The scrub nurse prepares sterile supplies and assists with sterile procedures."
+  },
+  {
+    "id": 25,
+    "question": "What is the purpose of incentive spirometry after surgery?",
+    "options": ["Pain relief", "Prevent pneumonia", "Increase appetite", "Stimulate bowel movement"],
+    "answer": "Prevent pneumonia",
+    "explanation": "Incentive spirometry encourages deep breathing, which helps prevent atelectasis and pneumonia."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following causes inflammation?",
+    "options": ["Vitamin deficiency", "Cold temperature", "Infection", "Sunlight"],
+    "answer": "Infection",
+    "explanation": "Infection is one of the most common causes of inflammation due to immune response to pathogens."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following should be assessed during the psychological evaluation before surgery?",
+    "options": ["Height", "Blood pressure", "Anxiety level", "Lung sounds"],
+    "answer": "Anxiety level",
+    "explanation": "Assessing anxiety helps address fears and provide emotional support before surgery."
+  },
+  {
+    "id": 28,
+    "question": "Which phase includes recovery from anesthesia and monitoring for complications?",
+    "options": ["Preoperative", "Intraoperative", "Postoperative", "Presurgical"],
+    "answer": "Postoperative",
+    "explanation": "The postoperative phase starts when the patient is moved to recovery and monitored for complications."
+  },
+  {
+    "id": 29,
+    "question": "Why should a bladder be emptied before surgery?",
+    "options": ["Prevent infection", "Reduce pain", "Avoid distention and accidents", "Avoid nausea"],
+    "answer": "Avoid distention and accidents",
+    "explanation": "Emptying the bladder reduces risk of injury or incontinence during surgery."
+  },
+  {
+    "id": 30,
+    "question": "What is the outcome when inflammation resolves completely?",
+    "options": ["Scarring", "Chronic inflammation", "Death", "Resolution and healing"],
+    "answer": "Resolution and healing",
+    "explanation": "The ideal outcome of acute inflammation is resolution and full tissue healing."
+  },
+  {
+    "id": 31,
+    "question": "A patient scheduled for abdominal surgery is taking garlic supplements. What is the nurse's primary concern?",
+    "options": ["Increased pain postoperatively", "Increased risk of infection", "Increased bleeding risk", "Delayed wound healing"],
+    "answer": "Increased bleeding risk",
+    "explanation": "Garlic supplements can interfere with clotting and increase the risk of bleeding during surgery."
+  },
+  {
+    "id": 32,
+    "question": "A nurse notices the surgical site marked is different from the consent form. What should the nurse do?",
+    "options": ["Notify the surgeon immediately", "Continue with the procedure", "Ask the anesthesiologist to check", "Call the patient's family"],
+    "answer": "Notify the surgeon immediately",
+    "explanation": "Any discrepancy in surgical site must be addressed immediately before proceeding to avoid wrong-site surgery."
+  },
+  {
+    "id": 33,
+    "question": "Which statement best explains why corticosteroids are tapered off before surgery?",
+    "options": ["To prevent rebound infection", "To avoid adrenal crisis", "To lower blood sugar", "To decrease inflammation faster"],
+    "answer": "To avoid adrenal crisis",
+    "explanation": "Abrupt withdrawal of corticosteroids can lead to adrenal insufficiency or crisis due to suppressed adrenal function."
+  },
+  {
+    "id": 34,
+    "question": "During preoperative teaching, which instruction is MOST important to prevent postoperative pneumonia?",
+    "options": ["Avoid eating spicy food", "Take vitamin C", "Perform deep breathing and coughing exercises", "Wear loose clothing"],
+    "answer": "Perform deep breathing and coughing exercises",
+    "explanation": "These exercises promote lung expansion and prevent atelectasis and pneumonia."
+  },
+  {
+    "id": 35,
+    "question": "Which finding during pre-op assessment requires immediate attention?",
+    "options": ["History of migraines", "Latex allergy", "Fear of surgery", "Past use of antibiotics"],
+    "answer": "Latex allergy",
+    "explanation": "A latex allergy poses a serious intraoperative risk and requires a latex-free environment."
+  },
+  {
+    "id": 36,
+    "question": "A patient develops redness, warmth, and swelling at an incision site 2 days post-op. What is the most likely cause?",
+    "options": ["Poor circulation", "Inflammation", "Malnutrition", "Dehydration"],
+    "answer": "Inflammation",
+    "explanation": "These are classic signs of acute inflammation at a site of injury or infection."
+  },
+  {
+    "id": 37,
+    "question": "What is the main purpose of a ‘time-out’ before starting surgery?",
+    "options": ["To allow the surgeon to rest", "To confirm all surgical equipment is present", "To prevent errors in patient identity and procedure", "To finalize anesthesia doses"],
+    "answer": "To prevent errors in patient identity and procedure",
+    "explanation": "Time-outs are a safety measure to prevent wrong-patient, wrong-procedure, or wrong-site surgeries."
+  },
+  {
+    "id": 38,
+    "question": "What intervention helps prevent venous thromboembolism postoperatively?",
+    "options": ["Keeping the patient sedated", "Encouraging early ambulation", "Using warm compresses", "Restricting fluid intake"],
+    "answer": "Encouraging early ambulation",
+    "explanation": "Early ambulation promotes circulation and reduces the risk of blood clots post-surgery."
+  },
+  {
+    "id": 39,
+    "question": "A patient undergoing general anesthesia has been NPO for 6 hours. What should the nurse do?",
+    "options": ["Cancel surgery", "Notify anesthesia provider", "Allow clear fluids", "Proceed with surgery"],
+    "answer": "Notify anesthesia provider",
+    "explanation": "6 hours may not meet the standard NPO guideline of 8 hours for solids. The anesthetist must assess risk."
+  },
+  {
+    "id": 40,
+    "question": "Which postoperative sign is MOST concerning and requires immediate nursing intervention?",
+    "options": ["Mild pain at incision site", "Drowsiness", "Low urine output", "Restlessness and confusion"],
+    "answer": "Restlessness and confusion",
+    "explanation": "These may indicate hypoxia or hemorrhage and require immediate assessment."
+  }
+]
