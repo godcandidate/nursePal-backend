@@ -2,12 +2,17 @@
   {
     "id": 0,
     "title": "Surgical Nursing I Practice",
-    "numberOfTests": 1
+    "numberOfTests": 2
   },
   {
     "id": 1,
     "title": "Test 1: Shock Slides",
     "numberOfTests": 30
+  },  
+  {
+    "id": 2,
+    "title": "Test 2: Perioperative Slides",
+    "numberOfTests": 40
   }
   
 ]
