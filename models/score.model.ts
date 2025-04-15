@@ -2,7 +2,8 @@ import mongoose, { Document, Model, Schema } from "mongoose";
 
 export interface IScore extends Document {
   userId: string
-  testScoreId: string;
+  testId: string;
+  courseId: string;
   score: number;
   dateTaken: Date;
 }
@@ -14,9 +15,14 @@ const scoreSchema: Schema<IScore> = new mongoose.Schema({
         required: [true, "Enter user Id"],
         index: true,
       },
-  testScoreId: {
+  testId: {
     type: String,
     required: [true, "Enter test Id"],
+  },
+  courseId: {
+    type: String,
+    required: [true, "Enter course Id"],
+    index: true,
   },
   score: {
     type: Number,

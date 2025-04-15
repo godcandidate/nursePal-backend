@@ -20,21 +20,17 @@ export const addTestScore = CatchAsyncError(
       const userId = req.user?.id;
       const { courseId, testId, score, dateTaken } = req.body as ITestScore;
 
-      //Generate test score id
-      const testScoreId = `${courseId}-test${testId}`;
 
       //store score data in database
       await scoreModel.create({
         userId,
-        testScoreId,
+        testId,
+        courseId,
         score,
         dateTaken,
       });
 
-      // Trigger rank update asynchronously (fire-and-forget)
-      updateRank(userId).catch((error) => {
-        console.error("Error updating rank:", error);
-      });
+
 
       res.status(201).json({
         success: true,
@@ -81,33 +77,74 @@ export const getUserRank = CatchAsyncError(
   }
 );
 
-// Function to update the rank schema
-async function updateRank(userId: string): Promise<void> {
-  try {
-    // Count the number of unique tests taken by the user
-    const uniqueTestCount = (
-      await scoreModel.distinct("testScoreId", { userId })
-    ).length;
 
-    //Find the highest score for the user using MongoDB sort
-    const highestScoreDoc = await scoreModel
+//Get user highest score for a test
+export const updateRank  = CatchAsyncError(
+  async (req: Request, res: Response, next: NextFunction) => {
+    try {
+      const userId = req.user?.id;
+
+      // Count the number of unique tests taken by the user
+      const uniqueTestCount = (
+        await scoreModel.distinct("testScoreId", { userId })
+      ).length;
+
+      //Find the highest score for the user using MongoDB sort
+      const highestScoreDoc = await scoreModel
       .findOne({ userId })
       .sort({ score: -1 })
       .select("score")
       .lean();
 
     const highestScore = highestScoreDoc?.score;
-
-    await rankModel.findOneAndUpdate(
-      { _id: userId },
-      {
-        numberOfTestsTaken: uniqueTestCount,
-        averageScore: highestScore,
-      },
-      { upsert: true, new: true } // Create if not exists, update if exists
-    );
-  } catch (error) {
-    console.error("Error in updateRank:", error);
-    throw error; // Re-throw the error for logging purposes
+    
+        await rankModel.findOneAndUpdate(
+          { _id: userId },
+          {
+            numberOfTestsTaken: uniqueTestCount,
+            averageScore: highestScore,
+          },
+          { upsert: true, new: true } // Create if not exists, update if exists
+        );
+     
+        return res.status(200).json(highestScore);
+    } catch (error: any) {
+      console.error(error);
+      return next(new ErrorHandler(error.message, 500));
+    }
   }
-}
+);
+
+
+//Get users highest test scores for a course
+export const getHighestScoresByTest = CatchAsyncError(
+  async (req: Request, res: Response, next: NextFunction) => {
+    try {
+      const userId = req.user?.id;
+      const courseId = req.params.id;
+     
+      const highestScoresPerTest = await scoreModel.aggregate([
+        { $match: { userId,  courseId } }, // Filter by userId
+        {
+          $group: {
+            _id: "$testId",
+            highestScore: { $max: "$score" },
+          },
+        },
+        {
+          $project: {
+            testId: "$_id",
+            highestScore: 1,
+
+            _id: 0,
+          },
+        },
+      ]);
+      
+      return res.status(200).json(highestScoresPerTest);
+    } catch (error: any) {
+      console.error(error);
+      return next(new ErrorHandler(error.message, 500));
+    }
+  }
+);
