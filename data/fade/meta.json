@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "First Aid, Disaster, and Emergency Nursing",
-    "numberOfTests": 2
+    "numberOfTests": 3
   },
   { "id": 1,
     "title": "Test 1: Pasco 2022/2023 A",
@@ -11,5 +11,9 @@
     { "id": 2,
     "title": "Test 2: Pasco 2022/2023 B",
     "numberOfTests": 60
+  },
+  { "id": 3,
+    "title": "Test 3: Midserm",
+    "numberOfTests": 31
   }
 ]
