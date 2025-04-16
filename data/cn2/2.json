@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "question": "The system for maintaining vaccines in their potent state from the manufacturer to the community is called:",
+    "options": ["Cold chain system", "Vaccine carrier system", "Cold box system", "Chain of distribution"],
+    "answer": "Cold chain system",
+    "explanation": "The cold chain system ensures vaccines remain potent from manufacturer to community through proper storage and transport."
+  },
+  {
+    "id": 2,
+    "question": "According to C.E. Winslow, which of the following is the goal of Public Health?",
+    "options": ["For people to attain their birthrights of health and longevity", "For promotion of health and prevention of disease", "For people to have access to basic health services", "For people to be organized in their health efforts"],
+    "answer": "For people to attain their birthrights of health and longevity",
+    "explanation": "C.E. Winslow defined public health as enabling people to achieve their inherent right to health and long life."
+  },
+  {
+    "id": 3,
+    "question": "The required temperature to maintain the potency of the vaccines is between",
+    "options": ["0°C - 4°C", "2°C - 8°C", "-1°C - 7°C", "0°C - 10°C"],
+    "answer": "2°C - 8°C",
+    "explanation": "Vaccines are typically stored between 2°C and 8°C to maintain their potency."
+  },
+  {
+    "id": 4,
+    "question": "Public health nursing practice is guided by the community's priorities as identified by community:",
+    "options": ["assessment.", "diagnosis.", "interventions.", "planning."],
+    "answer": "assessment.",
+    "explanation": "Community assessment identifies priorities that guide public health nursing practice."
+  },
+  {
+    "id": 5,
+    "question": "What is the age for first dose of Bacille Calmette Guerin (BCG)?",
+    "options": ["At birth", "6 weeks", "10 weeks", "14 weeks"],
+    "answer": "At birth",
+    "explanation": "The BCG vaccine is administered at birth to protect against tuberculosis."
+  },
+  {
+    "id": 6,
+    "question": "The 8-year-old presents with a generalized rash. The patient's mother reports that some areas of the rash have developed into pimples that are oozing clear fluid. The nurse places this patient on which type of precaution(s)?",
+    "options": ["Contact", "Droplet", "Standard", "Neutropenic"],
+    "answer": "Contact",
+    "explanation": "A rash with oozing fluid suggests a contagious condition like impetigo, requiring contact precautions."
+  },
+  {
+    "id": 7,
+    "question": "What is the age for the first dose of measles?",
+    "options": ["6 months", "4 months", "10 months", "9 months"],
+    "answer": "9 months",
+    "explanation": "The first dose of the measles vaccine is typically given at 9 months of age."
+  },
+  {
+    "id": 8,
+    "question": "The best opportunity to observe family dynamics is which of following Family-Nurse contact?",
+    "options": ["Clinic consultation", "Group conference", "Home visits", "Written communication"],
+    "answer": "Home visits",
+    "explanation": "Home visits allow nurses to observe family interactions in their natural environment."
+  },
+  {
+    "id": 9,
+    "question": "The age for yellow fever vaccine is:",
+    "options": ["10 months", "3 months", "6 months", "9 months"],
+    "answer": "9 months",
+    "explanation": "The yellow fever vaccine is administered at 9 months in areas where the disease is endemic."
+  },
+  {
+    "id": 10,
+    "question": "The process of creating artificial immunity by administering a vaccine to an individual to offer a protection against specific diseases in the person is called:",
+    "options": ["Vaccination", "Immunization", "Injection", "Medication"],
+    "answer": "Immunization",
+    "explanation": "Immunization is the process of inducing immunity through vaccines to protect against diseases."
+  },
+  {
+    "id": 11,
+    "question": "The immunity offered to an individual through the introduction of a vaccine in which the individual's blood plays no role in the production of the antibodies is called:",
+    "options": ["Artificially acquired passive immunity", "Artificially acquired active immunity", "Naturally acquired passive immunity", "Naturally acquired active immunity"],
+    "answer": "Artificially acquired passive immunity",
+    "explanation": "This type of immunity involves administering pre-formed antibodies, not produced by the individual's immune system."
+  },
+  {
+    "id": 12,
+    "question": "The components of the school health services include the following EXCEPT:",
+    "options": ["School hygiene", "Dental services", "Medical screening", "Maternal health services"],
+    "answer": "Maternal health services",
+    "explanation": "School health services focus on students, not maternal health, which is addressed in other settings."
+  },
+  {
+    "id": 13,
+    "question": "Select the correct steps you will follow during personal hygiene inspection:",
+    "options": ["i, ii, iv, iii", "iii, iv, ii, i", "iii, i, ii, iv", "ii, i, iii, iv"],
+    "answer": "iii, iv, ii, i",
+    "explanation": "The correct sequence is welcoming, educating, instructing to strip, and observing behavior."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following statements is correct regarding Community Health Nursing (CHN)?",
+    "options": ["Professional growth and development of the PHN is the responsibility of the Department health", "Provision of CHN care is not any way affected by policies of the agency where the Nurse work", "The PHN worked with community for 6 years can solely determine the health needs of the community", "Evaluation of the health status of individuals and families should be done in consultation with them"],
+    "answer": "Evaluation of the health status of individuals and families should be done in consultation with them",
+    "explanation": "Collaborative evaluation ensures health assessments are accurate and relevant to the community."
+  },
+  {
+    "id": 15,
+    "question": "This is the element of Reproductive Health responsible for sex education for students:",
+    "options": ["Men's Reproductive Health", "Adolescent Reproductive Health", "Family Planning", "Women's reproductive health"],
+    "answer": "Adolescent Reproductive Health",
+    "explanation": "Adolescent reproductive health includes sex education tailored for students."
+  },
+  {
+    "id": 16,
+    "question": "An essential tool used in Community Health Nursing that saves time and effort.",
+    "options": ["Bag technique", "Public Health Bag", "BP Apparatus", "Thermometer Technique"],
+    "answer": "Bag technique",
+    "explanation": "Bag technique streamlines nursing care delivery during home visits, saving time and effort."
+  },
+  {
+    "id": 17,
+    "question": "Principles in Home Visit include all below EXCEPT:",
+    "options": ["Home visit should have an objective or purpose.", "Planning of Home Visit should be flexible and practical.", "Planning revolves around the needs of the Nurse.", "Planning should revolve around the essential needs of the family,"],
+    "answer": "Planning revolves around the needs of the Nurse.",
+    "explanation": "Home visit planning should focus on family needs, not the nurse's needs."
+  },
+  {
+    "id": 18,
+    "question": "This is a step in Home Visit, which should be done initially.",
+    "options": ["Wash hands", "Greet Client or household", "Explain purpose of visits", "Ask about client's health status."],
+    "answer": "Greet Client or household",
+    "explanation": "Greeting the household first establishes rapport and sets a positive tone for the visit."
+  },
+  {
+    "id": 19,
+    "question": "In recent years, the Government has given more emphasis on which of the following?",
+    "options": ["Rehabilitation", "Treatment of disease", "Prevention of illness", "Treatment and rehabilitation"],
+    "answer": "Prevention of illness",
+    "explanation": "Governments prioritize illness prevention to reduce disease burden and healthcare costs."
+  },
+  {
+    "id": 20,
+    "question": "Ajo, a 2 year old and her mother are consulting the community health nurse. The nurse observes Ajo at play in the clinic. She realizes that at this age, Ajo could be expected to exhibit which of the following?",
+    "options": ["Build houses with blocks", "Is extremely possessive of toys", "Attempts to stay within the hue when coloring", "Amuses herself with a picture book of 15 minutes"],
+    "answer": "Is extremely possessive of toys",
+    "explanation": "Two-year-olds often exhibit possessiveness over toys as part of their developmental stage."
+  },
+  {
+    "id": 21,
+    "question": "What will you tell mothers about the predisposing causes of home accidents?",
+    "options": ["i, ii, iii, v only", "i, ii, iii, iv only", "all are true", "i, ii, iv, v only"],
+    "answer": "i, ii, iii, v only",
+    "explanation": "Negligence, carelessness, overcrowding, and lack of supervision are causes; proper facility placement prevents accidents."
+  },
+  {
+    "id": 22,
+    "question": "Among the problems faced by adolescent below; which one of the following is the least important to consider?",
+    "options": ["Drug abuse", "Teenage pregnancy", "Abortion", "Marriage/relationship"],
+    "answer": "Marriage/relationship",
+    "explanation": "While important, marriage/relationship issues are less critical than drug abuse, pregnancy, and abortion in adolescents."
+  },
+  {
+    "id": 33,
+    "question": "Health programmes for the youth include:",
+    "options": ["i, ii, iii, and iv are true", "all are true", "all except iv, are true", "none of them is true"],
+    "answer": "all except iv, are true",
+    "explanation": "Youth health programs include reproductive health, education, immunization, school, and medical services, but not career opportunities."
+  },
+  {
+    "id": 24,
+    "question": "According to the W.H.O and I.L.O (1950) joint declaration, occupational health has been defined in 5 areas,",
+    "options": ["i, ii and iv only", "all of the above except v", "none of the above", "all of the above"],
+    "answer": "all of the above",
+    "explanation": "The WHO/ILO definition includes all five areas, encompassing worker well-being, risk prevention, and job adaptation."
+  },
+  {
+    "id": 25,
+    "question": "One of the items below does not include the three main elements that combine to ensure proper vaccine transport, storage, and handling.",
+    "options": ["Trained personnel", "Transport and storage equipment", "Efficient management procedures", "Personnel"],
+    "answer": "Personnel",
+    "explanation": "The three main elements are trained personnel, equipment, and procedures; 'personnel' is not a distinct element."
+  },
+  {
+    "id": 26,
+    "question": "What type of family structure has a child being raised by family members other than a biological mother and father?",
+    "options": ["A single-parent family structure", "A step family structure", "An extended family structure", "A nuclear family structure"],
+    "answer": "An extended family structure",
+    "explanation": "Extended family structure includes non-biological parents, such as grandparents or relatives, raising the child."
+  },
+  {
+    "id": 27,
+    "question": "Following a lesson on signs of depression and risk factors for suicide, a high school student tells the health teacher that she believes that she has observed some of the warning signs of suicide in a friend who attends a different school. Which strategy for responding to this situation is most appropriate for the teacher to recommend to the student?",
+    "options": ["Reassuring the friend that life is worth living and that things are not as bad as they may seem at the moment", "Determining if the friend is actually considering suicide by asking the friend if he or she has thought of a specific suicide plan", "Monitoring the friend's mood and behavior for a few days to determine if there are multiple warning signs", "Taking the warning signs seriously and informing the friend's parent/guardian and school counselor as quickly as possible"],
+    "answer": "Taking the warning signs seriously and informing the friend's parent/guardian and school counselor as quickly as possible",
+    "explanation": "Immediate reporting to responsible adults ensures timely intervention for potential suicide risk."
+  },
+  {
+    "id": 28,
+    "question": "All passive immunity are:",
+    "options": ["Inborn", "Natural", "Permanent", "Short-lived"],
+    "answer": "Short-lived",
+    "explanation": "Passive immunity, whether natural or artificial, is temporary as it relies on external antibodies."
+  },
+  {
+    "id": 29,
+    "question": "Which one of the following is NOT a quality of Community/Public Health Nurse?",
+    "options": ["Change person", "Appreciative", "Approachable", "Respectful"],
+    "answer": "Change person",
+    "explanation": "Change person is not a recognized quality; nurses should be appreciative, approachable, and respectful."
+  },
+  {
+    "id": 30,
+    "question": "Which one of the biological vaccines used in EPI should not be stored in the freezer?",
+    "options": ["DPT", "OPV", "Measles vaccine", "MMR"],
+    "answer": "DPT",
+    "explanation": "DPT vaccine should be stored at 2°C to 8°C, not frozen, to maintain potency."
+  },
+  {
+    "id": 31,
+    "question": "The system for maintaining vaccines in their potent state from the manufacturer to the community is called:",
+    "options": ["Cold chain system", "Vaccine carrier system", "Cold box system", "Chain of distribution"],
+    "answer": "Cold chain system",
+    "explanation": "The cold chain system ensures vaccines remain potent through proper temperature control."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following diseases is NOT classified under 'vaccine preventable diseases?'",
+    "options": ["T.B", "Diphtheria", "Pertussis", "Cholera"],
+    "answer": "Cholera",
+    "explanation": "Cholera is not typically included in standard vaccine-preventable disease lists like TB, diphtheria, and pertussis."
+  },
+  {
+    "id": 33,
+    "question": "Occupational hazards to the nurse include the following EXCEPT:",
+    "options": ["Sexual harassment", "Chemical toxicity", "Exposure to radiation and other carcinogenic substance", "Injuries from snake bite"],
+    "answer": "Injuries from snake bite",
+    "explanation": "Snake bites are not a common occupational hazard for nurses, unlike the other listed risks."
+  },
+  {
+    "id": 34,
+    "question": "There are types of vaccines.",
+    "options": ["2", "3", "1", "9"],
+    "answer": "2",
+    "explanation": "Vaccines are broadly categorized into two types: live attenuated and inactivated."
+  },
+  {
+    "id": 35,
+    "question": "The process of creating artificial immunity by administering a vaccine to an individual to offer a protection against specific diseases in the person is called:",
+    "options": ["Vaccination", "Immunization", "Injection", "Medication"],
+    "answer": "Immunization",
+    "explanation": "Immunization refers to the process of inducing immunity through vaccine administration."
+  },
+  {
+    "id": 36,
+    "question": "Which of the following measurements is the nurse expected to do during school hygiene inspection?",
+    "options": ["I, II, III only", "I, II, and IV only", "I, III and IV only", "II, III, and IV only"],
+    "answer": "II, III, and IV only",
+    "explanation": "Height, sight, and weight are measured during school hygiene inspections, not haemoglobin."
+  },
+  {
+    "id": 37,
+    "question": "Which age do we give the first dose of Pentavalent Vaccine?",
+    "options": ["4 weeks", "10 weeks", "6 weeks", "14 weeks"],
+    "answer": "6 weeks",
+    "explanation": "The first dose of the pentavalent vaccine is given at 6 weeks of age."
+  },
+  {
+    "id": 38,
+    "question": "The biological preparation that improves immunity to a particular disease is called:",
+    "options": ["Immunization", "Immunity", "Vaccine", "Vaccination"],
+    "answer": "Vaccine",
+    "explanation": "A vaccine is the biological preparation that stimulates immunity against specific diseases."
+  },
+  {
+    "id": 39,
+    "question": "What is ice packs under cold chain used for?",
+    "options": ["Maintaining vaccine potency", "Monitoring cumulative heat exposure", "Observing colour change of vaccines", "Preventing the melting of vaccines"],
+    "answer": "Maintaining vaccine potency",
+    "explanation": "Ice packs in the cold chain maintain the required temperature to preserve vaccine potency."
+  },
+  {
+    "id": 40,
+    "question": "The provision of adolescent friendly services must be based on an",
+    "options": ["expression of, and respect for, the realities of young people's diversity and sexual rights", "understanding of, and respect for, the realities of young people's diversity and sexual rights", "argument of, and respect for, the realities of young people's diversity and sexual rights", "theory of, and respect for, the realities of young people's diversity and sexual rights"],
+    "answer": "understanding of, and respect for, the realities of young people's diversity and sexual rights",
+    "explanation": "Adolescent services should be grounded in understanding and respecting their diverse needs and rights."
+  },
+  {
+    "id": 41,
+    "question": "How will you explain vaccination to a junior colleague? It is the",
+    "options": ["introduction of antigens into the body", "prevention of specific childhood diseases", "process of ensuring proper development of the child", "process of producing antibodies in the body"],
+    "answer": "introduction of antigens into the body",
+    "explanation": "Vaccination involves introducing antigens to stimulate an immune response."
+  },
+  {
+    "id": 42,
+    "question": "The main purpose of growth chart in child health care is to:",
+    "options": ["detect children's deformity", "early detection of malnutrition", "assess health status of the child", "assess motor development of the child"],
+    "answer": "early detection of malnutrition",
+    "explanation": "Growth charts are primarily used to identify malnutrition early by monitoring growth patterns."
+  },
+  {
+    "id": 43,
+    "question": "Adolescents are at high risk for STIs/HIV due to the following factors EXCEPT:",
+    "options": ["Failure to seek treatment", "Lack of communication among peers", "Having multiple partners.", "Non-use or incorrect use of condoms"],
+    "answer": "Lack of communication among peers",
+    "explanation": "Lack of peer communication is not a direct risk factor for STIs/HIV, unlike the other options."
+  },
+  {
+    "id": 44,
+    "question": "All the following are examples of a live vaccine, EXCEPT:",
+    "options": ["DPT HEP HEB", "BCG", "Yellow fever", "Oral polio vaccine"],
+    "answer": "DPT HEP HEB",
+    "explanation": "DPT, Hepatitis B, and Hib are inactivated vaccines, while BCG, yellow fever, and OPV are live vaccines."
+  }
+]
