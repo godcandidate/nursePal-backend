@@ -1,422 +1,422 @@
 [
   {
     "id": 1,
-    "question": "How is Schistosoma haematobium transmitted?",
-    "options": ["Ingestion of raw or undercooked snail", "Invasion of larvae from the soil", "Standing or swimming in contaminated water", "Tsetse fly bite"],
-    "answer": "Standing or swimming in contaminated water",
-    "explanation": "Schistosoma haematobium is transmitted when cercariae in contaminated water penetrate human skin during contact."
+    "question": "A nurse caring for a patient with AIDS presenting with jaundice should expect to see an elevation in which of the following values?",
+    "options": ["Blood Urea Nitrogen", "Serum albumin", "Serum ammonia", "Serum bilirubin"],
+    "answer": "Serum bilirubin",
+    "explanation": "Jaundice indicates liver dysfunction, common in AIDS due to opportunistic infections, leading to elevated serum bilirubin."
   },
   {
     "id": 2,
-    "question": "Which of the following is the tape worm acquired from eating undercooked pork?",
-    "options": ["Ascaris lumbricoides", "Taenia saginata", "Trichinella spiralis", "Taenia solium"],
-    "answer": "Taenia solium",
-    "explanation": "Taenia solium, the pork tapeworm, is acquired from eating undercooked pork containing cysticerci."
+    "question": "A patient diagnosed with a sexually transmitted infection says 'I want to tell you something but you mustn't tell anyone.' What should be the appropriate response?",
+    "options": ["'I'm glad you can trust me'", "'I have to reveal anything that would be essential to your treatment'", "'The nurse and the patient have a special relationship'", "'I am bound to keep it a secret because of confidentiality'"],
+    "answer": "'I have to reveal anything that would be essential to your treatment'",
+    "explanation": "Confidentiality is maintained unless disclosure is necessary for treatment or public health, such as partner notification in STIs."
   },
   {
     "id": 3,
-    "question": "Which round worm is transmitted by filari-form larvae that are found in the soil and penetrate the skin?",
-    "options": ["Dracunculus medinensis", "Enterobius vermicularis", "Strongyloides stercoralis", "Taenia saginata"],
-    "answer": "Strongyloides stercoralis",
-    "explanation": "Strongyloides stercoralis is transmitted via filariform larvae in soil penetrating the skin, causing strongyloidiasis."
+    "question": "A classic symptom of cholera is.",
+    "options": ["painless, effortless stool", "projectile vomiting", "sharp, colicky abdominal pain", "sharp, hard stool"],
+    "answer": "painless, effortless stool",
+    "explanation": "Cholera causes profuse, painless, watery diarrhea, often described as 'rice water' stools."
   },
   {
     "id": 4,
-    "question": "Each of the following statements concerning Trichomonas vaginalis is correct except:",
-    "options": ["T. vaginalis causes yellowish green vaginal discharge", "T. vaginalis causes bloody diarrhea", "T. vaginalis can be diagnosed by visualizing the trophozoite", "T. vaginalis can be treated effectively with metronidazole"],
-    "answer": "T. vaginalis causes bloody diarrhea",
-    "explanation": "Trichomonas vaginalis causes vaginal discharge, not bloody diarrhea, which is associated with other pathogens like Entamoeba histolytica."
+    "question": "All the following occurs in the second week of typhoid fever EXCEPT:",
+    "options": ["abdomen distension", "cough", "epistaxis", "rose Spot"],
+    "answer": "epistaxis",
+    "explanation": "Epistaxis is more common in the first week; the second week typically features rose spots, distension, and cough."
   },
   {
     "id": 5,
-    "question": "In malaria, the form of plasmodium that is transmitted from mosquito to human is the:",
-    "options": ["Sporozoite", "Gametocyte", "Merozoite", "Trophozoite"],
-    "answer": "Sporozoite",
-    "explanation": "Sporozoites are the infectious form of Plasmodium transmitted from mosquito saliva to humans during a bite."
+    "question": "Which of the following is the causative organism for Bacillary Dysentery?",
+    "options": ["Bacteria shigella", "Entamoeba histolytica", "Salmonella typhi", "Vibrio cholerae"],
+    "answer": "Bacteria shigella",
+    "explanation": "Bacillary dysentery is caused by Shigella bacteria, leading to bloody diarrhea."
   },
   {
     "id": 6,
-    "question": "Elephantiasis can be prevented by:",
-    "options": ["Avoiding mosquito bites", "Observe personal hygiene", "Avoiding undercooked meat", "Avoid walking bare footed"],
-    "answer": "Avoiding mosquito bites",
-    "explanation": "Elephantiasis, caused by filarial worms like Wuchereria bancrofti, is prevented by avoiding mosquito bites, the primary vector."
+    "question": "Constant presence of communicable disease in a community is known as.",
+    "options": ["endemic", "epidemic", "sporadic", "pandemic"],
+    "answer": "endemic",
+    "explanation": "Endemic refers to the constant presence of a disease at a stable level in a community."
   },
   {
     "id": 7,
-    "question": "Mosquito is the vector in the following disorder",
-    "options": ["Onchocerciasis", "Leishmaniasis", "African Trypanosomiasis", "Bancroftian filariasis"],
-    "answer": "Bancroftian filariasis",
-    "explanation": "Bancroftian filariasis is transmitted by mosquitoes, unlike the other diseases which involve different vectors."
+    "question": "The spread of infectious disease in an area at frequency beyond normal occurrences is known as:",
+    "options": ["epidemic", "endemic", "sporadics", "pandemic"],
+    "answer": "epidemic",
+    "explanation": "An epidemic is an increase in disease cases beyond what is normally expected in a specific area."
   },
   {
     "id": 8,
-    "question": "Man is intermediate host for",
-    "options": ["Guinea Worm", "Filaria", "Malaria", "Kala-azar"],
-    "answer": "Malaria",
-    "explanation": "Humans are the intermediate host for malaria, where Plasmodium develops, with mosquitoes as the definitive host."
+    "question": "Mr. Ofori was admitted to the SDA Hospital and diagnosed as having common cold. Mr. Ofori can be managed on the following EXCEPT:",
+    "options": ["administer antibiotics to combat for the infections", "administer NSAIDS e.g. Brufen", "encourage him to take enough rest", "encourage him to take enough fluid"],
+    "answer": "administer antibiotics to combat for the infections",
+    "explanation": "The common cold is viral; antibiotics are ineffective and not recommended."
   },
   {
     "id": 9,
-    "question": "When an insect serves as an intermediary in a disease such as Sleeping sickness, the transmission is:",
-    "options": ["Indirect contact", "Direct contact", "Vector-borne", "Airborne"],
-    "answer": "Vector-borne",
-    "explanation": "Sleeping sickness is transmitted by the tsetse fly, making it a vector-borne disease."
+    "question": "A patient laboratory report shows acid-fast rods in this sputum. These rods are presented to be:",
+    "options": ["bordella pertussis", "diphtheria bacillus", "influenza virus", "mycobacterium tuberculosis"],
+    "answer": "mycobacterium tuberculosis",
+    "explanation": "Acid-fast rods in sputum are characteristic of Mycobacterium tuberculosis, indicating pulmonary TB."
   },
   {
     "id": 10,
-    "question": "The following description (more complex organism, unicellular, mobile, lack cell wall and may change shape several times), fits which group of infective agents?",
-    "options": ["Viruses", "Bacteria", "Protozoa", "Fungi"],
-    "answer": "Protozoa",
-    "explanation": "Protozoa are unicellular, mobile, lack cell walls, and can change shape, fitting the described characteristics."
+    "question": "Which of the following is a vector spread infections?",
+    "options": ["Dysentery", "Influenza", "Rabies", "Small pox"],
+    "answer": "Rabies",
+    "explanation": "Rabies is spread by animal bites (vector), unlike dysentery (fecal-oral), influenza (droplet), or smallpox (contact)."
   },
   {
     "id": 11,
-    "question": "These infective agents are hard to control, can hide inside human cell, alter the host chromosome leading to the development of malignant cells or cancer:",
-    "options": ["Bacteria", "Protozoa", "Viruses", "Fungi"],
-    "answer": "Viruses",
-    "explanation": "Viruses can integrate into host DNA, causing cellular changes that may lead to cancer, and are difficult to control."
+    "question": "Which of the following is haemorrhagic disease?",
+    "options": ["Dysentery", "Malaria", "Typhoid fever", "Yellow fever"],
+    "answer": "Yellow fever",
+    "explanation": "Yellow fever is a hemorrhagic disease causing bleeding tendencies, unlike the others."
   },
   {
     "id": 12,
-    "question": "What parasite produces Iron deficiency anemia in human?",
-    "options": ["Ascaris lumbricoides", "Necator americanus", "Strongyloides stercoralis", "Trichuris trichiura"],
-    "answer": "Necator americanus",
-    "explanation": "Necator americanus, a hookworm, causes iron deficiency anemia due to blood loss in the intestines."
+    "question": "A person who harbours infectious agents and can transmit them to another person is known as.",
+    "options": ["agent", "carrier", "host", "Vector"],
+    "answer": "carrier",
+    "explanation": "A carrier harbors and can transmit pathogens without showing symptoms."
   },
   {
     "id": 13,
-    "question": "A clinical situation in which immune system or a therapy failed to eliminate all the Plasmodium spp infected erythrocytes and numbers of Plasmodium spp in RBCs begin to increase again with subsequent clinical symptoms is called:",
-    "options": ["Latency", "Re-infection", "Relapse", "Recrudescence"],
-    "answer": "Recrudescence",
-    "explanation": "Recrudescence occurs when Plasmodium persists in the blood, leading to a resurgence of symptoms."
+    "question": "The most common plasmodium that causes malaria in Ghana is.",
+    "options": ["falciparum", "malariae", "ovale", "vivax"],
+    "answer": "falciparum",
+    "explanation": "Plasmodium falciparum is the most prevalent and severe malaria species in Ghana."
   },
   {
     "id": 14,
-    "question": "A virus is an infectious agent made of nucleic acid and a protein coat which:",
-    "options": ["Is not alive and has no energy", "Is obligate intracellular", "Has either DNA or RNA", "All of the above"],
-    "answer": "All of the above",
-    "explanation": "Viruses are non-living outside hosts, obligate intracellular, and contain either DNA or RNA."
+    "question": "The most common and severe type of meningitis is caused by",
+    "options": ["bacteria", "fungi", "protozoa", "virus"],
+    "answer": "bacteria",
+    "explanation": "Bacterial meningitis, often caused by Neisseria meningitidis or Streptococcus pneumoniae, is the most severe."
   },
   {
     "id": 15,
-    "question": "Infectious proteins that are abnormally folded are called:",
-    "options": ["Prions", "Enveloped viruses", "Antigens", "Naked viruses"],
-    "answer": "Prions",
-    "explanation": "Prions are misfolded proteins that can cause diseases like Creutzfeldt-Jakob disease."
+    "question": "In assessing a patient for Psychosocial Genetic Health, The patient understands that the following areas will be assessed by the nurse.",
+    "options": ["I and II", "I, II and IV", "II, III, and IV", "I, II, III, and IV"],
+    "answer": "I, II, III, and IV",
+    "explanation": "Psychosocial genetic health assessment includes decision-making, education, coping mechanisms, and social support."
   },
   {
     "id": 16,
-    "question": "An inflammation of the parotid salivary glands is indicative of which viral disease?",
-    "options": ["Measles", "Mumps", "Rubella", "HIV"],
-    "answer": "Mumps",
-    "explanation": "Mumps virus causes parotitis, characterized by inflamed parotid salivary glands."
+    "question": "Which of the following assessment techniques will be the best for determining fluid in the pleural cavity?",
+    "options": ["Auscultation", "Inspection", "Palpation", "Percussion"],
+    "answer": "Percussion",
+    "explanation": "Percussion detects dullness over fluid in the pleural cavity, indicating pleural effusion."
   },
   {
     "id": 17,
-    "question": "During which of the following stages of HIV infection would you expect to see three or more opportunistic infections or rare cancers layered?",
-    "options": ["Acute primary", "Asymptomatic", "Symptomatic", "AIDS"],
-    "answer": "AIDS",
-    "explanation": "AIDS is characterized by multiple opportunistic infections and cancers due to severe immune suppression."
+    "question": "Patient who reported with vomiting and diarrhea had a nursing diagnosis of fluid volume deficit. Which of the following statement describe this diagnosis.",
+    "options": ["I and II", "II and III", "I, II and IV", "I, III and IV"],
+    "answer": "I, III and IV",
+    "explanation": "Fluid volume deficit involves loss of fluid exceeding intake, same electrolyte-to-water ratio, and proportional losses."
   },
   {
     "id": 18,
-    "question": "Genital warts are caused by:",
-    "options": ["Papilloma virus", "Chlamydia", "Herpes Simplex virus"],
-    "answer": "Papilloma virus",
-    "explanation": "Human papillomavirus (HPV) causes genital warts, a sexually transmitted condition."
+    "question": "Mr. Abam, age 45 reported to your unit with complains of muscular weakness, constipation, anorexia, bradycardia and heart block. Which of the following conditions is the patient suffering from?",
+    "options": ["Hyperkalemia", "Hypernatremia", "Hypocalcaemia", "Hypokalemia"],
+    "answer": "Hyperkalemia",
+    "explanation": "Hyperkalemia causes muscle weakness, constipation, bradycardia, and heart block due to elevated potassium."
   },
   {
     "id": 19,
-    "question": "What happens during the 'incubation period'?",
-    "options": ["The virus is cleared from the body by the immune system", "Virus replication happens at an intracellular level", "This period commonly lasts for a few days", "This period commonly lasts for a few hours"],
-    "answer": "Virus replication happens at an intracellular level",
-    "explanation": "During the incubation period, the virus replicates within host cells before symptoms appear."
+    "question": "A patient on the ward is been manage for severe dehydration. The nurse in planning care for this patient should be alert for the following risk factors.",
+    "options": ["I and II", "I, II and III", "I, II and IV", "II, III and IV"],
+    "answer": "II, III and IV",
+    "explanation": "Vomiting, gastrointestinal suctioning, and osmotic diuresis are risk factors for dehydration; diabetes insipidus is less common."
   },
   {
     "id": 20,
-    "question": "Koplik's spots will develop in",
-    "options": ["HIV", "Measles", "Mumps", "Rubella"],
-    "answer": "Measles",
-    "explanation": "Koplik's spots, white spots in the mouth, are a hallmark of measles infection."
+    "question": "A patient reported to a health facility with the complain of diarrhea, muscle spasms and laryngo spasms. Under assessment patient was observe to have positive chvostek's signs. What other cardinal signs would the patient exhibit?",
+    "options": ["Hypercalcimea", "Hypocalcaemia", "Hypermagesmia", "Hypomagnesmia"],
+    "answer": "Hypocalcaemia",
+    "explanation": "Positive Chvostek’s sign, muscle, and laryngospasms indicate hypocalcemia, often with Trousseau’s sign."
   },
   {
     "id": 21,
-    "question": "Mycotoxins such as aflatoxins are produced by",
-    "options": ["Bacteria", "Fungi", "Worms", "Protozoans"],
-    "answer": "Fungi",
-    "explanation": "Fungi, such as Aspergillus species, produce mycotoxins like aflatoxins."
+    "question": "Madam Ageni Boya, a 41 year old who has vomited severally is likely to be diagnosed of.",
+    "options": ["metabolic acidosis", "metabolic alkalosis", "respiratory alkalosis", "respiratory acidosis"],
+    "answer": "metabolic alkalosis",
+    "explanation": "Severe vomiting causes loss of gastric acid, leading to metabolic alkalosis."
   },
   {
     "id": 22,
-    "question": "Their Growth promoted by warmth and moisture;",
-    "options": ["Bacteria", "Fungi", "Viruses", "Protozoa"],
-    "answer": "Fungi",
-    "explanation": "Fungi thrive in warm, moist environments, promoting their growth."
+    "question": "Awo kumi reported at the outpatient department with complaint of rash on the whole body. She was assessed and diagnosed of chicken pox, Awo Kumi understands that her condition is caused by",
+    "options": ["cytomegalovirus", "epstein-barr virus", "herpes simplex virus", "varicella-zoster virus"],
+    "answer": "varicella-zoster virus",
+    "explanation": "Chickenpox is caused by the varicella-zoster virus, leading to a characteristic rash."
   },
   {
     "id": 23,
-    "question": "Fungi producing mycelium are called;",
-    "options": ["Moulds", "Filamentous fungi", "Both a and b", "Yeasts"],
-    "answer": "Both a and b",
-    "explanation": "Fungi with mycelium are called moulds or filamentous fungi, distinguishing them from yeasts."
+    "question": "Syndromic management of sexually transmitted infections has both advantages and disadvantages. The following are some disadvantages except.",
+    "options": ["problem with partner notification", "only symptomatic STIs are treated", "over treatment especially in women", "treatment is given at first visit"],
+    "answer": "treatment is given at first visit",
+    "explanation": "First-visit treatment is an advantage of syndromic management, reducing delays."
   },
   {
     "id": 24,
-    "question": "Candidiasis is caused by;",
-    "options": ["Candida floccosum", "Aspergillus spp.", "Candida albicans", "M. floccosum"],
-    "answer": "Candida albicans",
-    "explanation": "Candida albicans is the primary cause of candidiasis, affecting mucous membranes and skin."
+    "question": "A patient with restlessness, agitations, twitching, convulsion and serum sodium greater than 145 Eq/L can be said to be suffering from.",
+    "options": ["hypercalcaemia", "hypernatraemia", "hypokalaemia", "hyponatraemia"],
+    "answer": "hypernatraemia",
+    "explanation": "Hypernatremia (>145 mEq/L) causes neurological symptoms like restlessness and convulsions."
   },
   {
     "id": 25,
-    "question": "They often spread through spores;",
-    "options": ["Bacteria", "Protozoa", "Virus", "Fungi"],
-    "answer": "Fungi",
-    "explanation": "Fungi commonly reproduce and spread via spores, unlike the other agents."
+    "question": "The life cycle of the plasmodium that causes malaria occurs in",
+    "options": ["Man only", "Mosquito only", "Both man and mosquito", "None of the above"],
+    "answer": "Both man and mosquito",
+    "explanation": "Plasmodium requires both humans (asexual cycle) and mosquitoes (sexual cycle) to complete its life cycle."
   },
   {
     "id": 26,
-    "question": "Candida causes the following;",
-    "options": ["Tinea versicolor", "Vaginal thrush", "Thrush of the mouth", "Both b & c"],
-    "answer": "Both b & c",
-    "explanation": "Candida albicans causes vaginal thrush and oral thrush, but not tinea versicolor, which is caused by Malassezia."
+    "question": "A nurse planning care for Brenya who is suffering from hypercalcaemia would make the following relevant nursing diagnosis except.",
+    "options": ["activity intolerance related to neuromuscular weakness", "decreased cardiac output related to dysrhythmias", "fluid volume deficit related diarrhea", "ineffective breathing pattern related to respiratory muscle weakness"],
+    "answer": "ineffective breathing pattern related to respiratory muscle weakness",
+    "explanation": "Hypercalcemia does not typically cause respiratory muscle weakness affecting breathing patterns."
   },
   {
     "id": 27,
-    "question": "Which of the following arguments makes the most sense?",
-    "options": ["Parasites want to kill off the host as soon as possible", "Parasites tend to feed off their host little by little", "Parasite/host relationship is like a predator and a prey", "None of the above"],
-    "answer": "Parasites tend to feed off their host little by little",
-    "explanation": "Parasites typically sustain themselves by slowly feeding on the host to ensure their own survival."
+    "question": "Pulmonary tuberculosis [TB] is on the increase. The main principles in preventing the transmission of this disease is/are.",
+    "options": ["I and IV", "I, II and III", "I, III and IV", "IV only"],
+    "answer": "I, III and IV",
+    "explanation": "Early treatment, preventing droplet spread, and surveillance are key to TB control; physical exams are not preventive."
   },
   {
     "id": 28,
-    "question": "Filariasis occurs when worms end up blocking?",
-    "options": ["The digestive system", "Circulatory system", "Lymphatic system", "Nervous system"],
-    "answer": "Lymphatic system",
-    "explanation": "Filariasis, caused by filarial worms, leads to lymphatic system blockage, causing swelling like elephantiasis."
+    "question": "Which of these would occur when protein is being lost in the urine and is not being replaced?",
+    "options": ["Less lymph would be produced.", "Arterial blood pressure would rise steeply.", "Increased tissue fluid formation.", "Decrease tissue fluid formation"],
+    "answer": "Increased tissue fluid formation.",
+    "explanation": "Protein loss (e.g., in nephrotic syndrome) reduces plasma oncotic pressure, leading to edema from increased tissue fluid."
   },
   {
     "id": 29,
-    "question": "Hemorrhagic viruses often kill by what mechanism?",
-    "options": ["Systemic shock", "Dehydration", "Bleeding to death", "Pneumonia"],
-    "answer": "Bleeding to death",
-    "explanation": "Hemorrhagic viruses, like Ebola, cause severe bleeding, leading to death from blood loss."
+    "question": "Madam Afua Brugya, 57 year old health worker, during a routine check up visit to the hospital showed clinical manifestations of metabolic acidosis. The following are among the manifestations EXCEPT:",
+    "options": ["Drowsiness.", "Increased blood pressure.", "Dysrhythmias.", "Rapid pulse"],
+    "answer": "Increased blood pressure.",
+    "explanation": "Metabolic acidosis causes drowsiness, dysrhythmias, and rapid pulse, but not typically hypertension."
   },
   {
     "id": 30,
-    "question": "A human protozoa that causes infection of the reproductive tracts of men and women, attaching to the mucous membranes and causing inflammation.",
-    "options": ["Entamoeba histolytica", "Neisseria gonococcus", "Trichomonas vaginalis", "Clamydia trachomatis"],
-    "answer": "Trichomonas vaginalis",
-    "explanation": "Trichomonas vaginalis, a protozoan, infects reproductive tracts, causing inflammation and discharge."
+    "question": "Increased blood pressure with bounding pulse and a complaint of headache during I.V infusion is indicative of",
+    "options": ["Fluid overload.", "Hyperglycaemia.", "Air embolism.", "Dehydration"],
+    "answer": "Fluid overload.",
+    "explanation": "Fluid overload during IV infusion causes hypertension, bounding pulse, and headache from increased intravascular volume."
   },
   {
     "id": 31,
-    "question": "Incubation period varies between plasmodium species, and species has longest incubation period.",
-    "options": ["P.falciparum", "P malariae", "P.ovale", "P.vivax"],
-    "answer": "P malariae",
-    "explanation": "Plasmodium malariae has the longest incubation period, often ranging from 18 to 40 days or more."
+    "question": "Which of these nursing diagnoses should be given priority in the care plan for a patient with Cholera?",
+    "options": ["Alteration in nutrition", "Ineffective individual coping", "Altered mood state", "Fluid volume deficit"],
+    "answer": "Fluid volume deficit",
+    "explanation": "Cholera causes severe diarrhea, making fluid volume deficit the priority to prevent shock and death."
   },
   {
     "id": 32,
-    "question": "A client is diagnosed with AIDS. The nurse recognizes that an opportunistic infection is present when the oral cavity is examined and white plaques are discovered on the mucosa. What does this finding most likely represent?",
-    "options": ["Oral herpes", "Syphilitic chancre", "Candida albicans", "Human papillomavirus"],
-    "answer": "Candida albicans",
-    "explanation": "White plaques in the oral cavity of an AIDS patient are typically due to Candida albicans, causing oral thrush."
+    "question": "When collecting data from a client, the nurse must know that some information from the patient changes periodically. Such is known as.",
+    "options": ["Constant data", "Variable data", "Objective data", "Subjective data"],
+    "answer": "Variable data",
+    "explanation": "Variable data, like symptoms or vital signs, change over time, unlike constant data (e.g., birth date)."
   },
   {
     "id": 33,
-    "question": "Coronavirus derives its name from:",
-    "options": ["Circle appearance", "Concave shape", "Crown-like appearance", "Cold resistance"],
-    "answer": "Crown-like appearance",
-    "explanation": "Coronaviruses are named for their crown-like spikes visible under a microscope."
+    "question": "What is the normal pH range for arterial blood?",
+    "options": ["7.35 to 7.45", "7.55 to 7.65", "7 to 7.49", "7.50 to 7.60"],
+    "answer": "7.35 to 7.45",
+    "explanation": "The normal arterial blood pH range is 7.35 to 7.45, maintaining acid-base balance."
   },
   {
     "id": 34,
-    "question": "Which of the following chemicals can be used as a cure to Coronavirus?",
-    "options": ["Amoxicillin", "Macrolide antibiotics", "ACT", "No specific drug has been found yet"],
-    "answer": "No specific drug has been found yet",
-    "explanation": "As of the exam date, no specific cure for COVID-19 was universally established, though treatments were used."
+    "question": "Which of the following hormone retains sodium in the body?",
+    "options": ["Antidiuretic hormone.", "Thyroid hormone", "Aldosterone", "Insulin"],
+    "answer": "Aldosterone",
+    "explanation": "Aldosterone promotes sodium reabsorption in the kidneys, regulating fluid and electrolyte balance."
   },
   {
     "id": 35,
-    "question": "Which virus causes Rabies?",
-    "options": ["Orthromyxo virus", "Paramyxo virus", "Rhabdo virus", "Toga viruses"],
-    "answer": "Rhabdo virus",
-    "explanation": "Rabies is caused by a rhabdovirus, specifically the rabies virus."
+    "question": "Which of the following intravenous solutions is hypotonic?",
+    "options": ["Normal saline", "0.45% saline", "Ringers lactate", "5% dextrose in normal saline"],
+    "answer": "0.45% saline",
+    "explanation": "0.45% saline is hypotonic, with lower osmolarity than plasma, causing water to move into cells."
   },
   {
     "id": 36,
-    "question": "The study of fungi is:",
-    "options": ["Parasitology", "Fungulogy", "Mycology", "Virology"],
-    "answer": "Mycology",
-    "explanation": "Mycology is the scientific study of fungi."
+    "question": "Ms. Abua Philips, 10 years old JHS pupil has been admitted to the ward with severe malaria. She has fever of 37.2°C, chills and bitterness in the mouth. The Nurse educates her on the following measures to protect herself from mosquito bites EXCEPT:",
+    "options": ["Closing all her windows at night.", "Using mosquito repellent creams.", "Sleeping in insecticide treated net.", "Use malaria prophylaxis"],
+    "answer": "Use malaria prophylaxis",
+    "explanation": "Prophylaxis prevents malaria infection, not mosquito bites, unlike the other measures."
   },
   {
     "id": 37,
-    "question": "Malaria is endemic in many countries and is reported to be a leading cause of death from the parasitic infection killing millions of people globally, the most number of deaths occurring in Africa. Which of the following age group of people have a high fatality rate?",
-    "options": ["10-15 years of age", "Under 5 years of age", "Above 40 years of age", "10-25 years of age"],
-    "answer": "Under 5 years of age",
-    "explanation": "Children under 5 are most vulnerable to malaria due to underdeveloped immunity, leading to high fatality rates."
+    "question": "Which of the following schistosoma species inhabits the terminal venules of the urinary bladder?",
+    "options": ["Haematobium.", "Mansoni.", "Japonicum.", "Boydii"],
+    "answer": "Haematobium.",
+    "explanation": "Schistosoma haematobium resides in the urinary bladder venules, causing urinary schistosomiasis."
   },
   {
     "id": 38,
-    "question": "A person can develop severe infections when infected with P. falciparum, the parasites grow and infect mainly red blood cells and liver cells and in severe cases may even invade the central nervous system. The malaria complications can lead to hemolytic anemia and symptoms like jaundice, discoloration of the urine can be seen, which of the following name have been given to this type of complication caused by P. falciparum?",
-    "options": ["Rift valley fever", "Yellow fever", "Blackwater fever", "Kala azar"],
-    "answer": "Blackwater fever",
-    "explanation": "Blackwater fever, associated with P. falciparum, involves hemolytic anemia, jaundice, and dark urine."
+    "question": "A disease with an unknown cause is usually described as disease.",
+    "options": ["Idiopathic.", "Communicable.", "Iatrogenic.", "Etiology"],
+    "answer": "Idiopathic.",
+    "explanation": "Idiopathic diseases have no known cause, unlike communicable (infectious) or iatrogenic (treatment-induced)."
   },
   {
     "id": 39,
-    "question": "The malaria drug Hydroxychloroquine was falsely reported to be effective in which type of viral infection recently?",
-    "options": ["Hepatitis B", "Influenza", "Covid-19", "Swine flu"],
-    "answer": "Covid-19",
-    "explanation": "Hydroxychloroquine was controversially promoted for COVID-19, but studies showed limited efficacy."
+    "question": "Mr. Andrews Fofo, 35 year old driver has been diagnosed of gonorrhoea. Which of the following medications would be a first line treatment for his condition?",
+    "options": ["Azithromycin plus ceftriaxone.", "Benzathine Penicillin G.", "Ceftriaxone and lincosamide", "Ciprofloxacin and macrolide"],
+    "answer": "Azithromycin plus ceftriaxone.",
+    "explanation": "Dual therapy with ceftriaxone and azithromycin is the first-line treatment for gonorrhea per guidelines."
   },
   {
     "id": 40,
-    "question": "Each of the following statements concerning Ascaris lumbricoides is correct except:",
-    "options": ["Ascaris lumbricoides is one of the largest nematodes", "Ascaris lumbricoides can cause pneumonia", "Both dogs and cats are intermediate host of Ascaris lumbricoides", "A lumbricoides is transmitted by ingestion of eggs"],
-    "answer": "Both dogs and cats are intermediate host of Ascaris lumbricoides",
-    "explanation": "Ascaris lumbricoides infects humans directly via egg ingestion; dogs and cats are not intermediate hosts."
+    "question": "The period during which a patient does not experience symptoms even though the disease is still clinically present is termed",
+    "options": ["Remission.", "Exacerbation.", "Recovery", "Incubation period"],
+    "answer": "Remission.",
+    "explanation": "Remission is when symptoms subside but the disease persists, unlike exacerbation or recovery."
   },
   {
     "id": 41,
-    "question": "The following are preventive measures against COVID-19 except;",
-    "options": ["Vaccination", "Social distancing", "Wearing of Mask", "None of the above"],
-    "answer": "None of the above",
-    "explanation": "All listed measures—vaccination, social distancing, and masks—are preventive for COVID-19."
+    "question": "A patient is to undergo treatment for candidiasis. Which of the following medications is MOST appropriate for the treatment?",
+    "options": ["Cefriazone", "Nystatin.", "Clindamycin.", "Doxycycline."],
+    "answer": "Nystatin.",
+    "explanation": "Nystatin is an antifungal used for candidiasis, unlike the antibiotics listed."
   },
   {
     "id": 42,
-    "question": "Which of the following is a symptom of COVID-19?",
-    "options": ["Chronic Obstructive Pulmonary Disease (COPD)", "Asthma", "Pneumonia", "Bronchitis"],
-    "answer": "Pneumonia",
-    "explanation": "Pneumonia is a common complication and symptom of severe COVID-19, unlike the other chronic conditions."
+    "question": "During auscultation of the heart, the bell of the stethoscope is used to assess which of the following sounds?",
+    "options": ["Medium frequency sounds.", "Diastolic heart murmurs.", "High frequency sounds", "Systolic heart murmurs."],
+    "answer": "Diastolic heart murmurs.",
+    "explanation": "The bell detects low-frequency sounds like diastolic murmurs, while the diaphragm detects high-frequency sounds."
   },
   {
     "id": 43,
-    "question": "Coronaviruses are a large family of viruses that cause illnesses ranging from the common cold to diseases such as MERS, SARS and COVID, what does SARS mean?",
-    "options": ["Slow acute release syndrome", "Slow acute respiratory syndrome", "Severe acute respiratory syndrome", "Severe acute release syndrome"],
-    "answer": "Severe acute respiratory syndrome",
-    "explanation": "SARS stands for Severe Acute Respiratory Syndrome, a disease caused by a coronavirus."
+    "question": "Mr. Issaka Ackah was diagnosed with typhoid fever in your facility. Which of the following would you include in your education to Mr. Ackah:",
+    "options": ["I, II and IV.", "I, II and III.", "I, III and IV.", "I and III"],
+    "answer": "I, II and III.",
+    "explanation": "Typhoid prevention includes hand washing, heating food, and washing produce; antibiotics treat, not prevent."
   },
   {
     "id": 44,
-    "question": "Which organization declared Coronavirus as a global health emergency?",
-    "options": ["United Nations", "Centre for Disease Control (CDC)", "WHO", "IMF"],
-    "answer": "WHO",
-    "explanation": "The World Health Organization (WHO) declared COVID-19 a global health emergency in 2020."
+    "question": "Miss. Afiba is a 23 year old National Service Personnel on admission at the medical ward. She has been producing yellowish sputum, experiencing night sweats, fever and chest pains. She is diagnosed with pulmonary tuberculosis. Which of the under listed tests would be required before she could be put on medications?",
+    "options": ["Pap smear.", "Full blood count.", "Audiogram.", "Widal test"],
+    "answer": "Full blood count.",
+    "explanation": "A full blood count assesses baseline health before TB treatment, which can affect hematologic parameters."
   },
   {
     "id": 45,
-    "question": "AIDS is caused by",
-    "options": ["Rhabdovirus", "Rotavirus", "Retrovirus", "Prion"],
-    "answer": "Retrovirus",
-    "explanation": "AIDS is caused by HIV, a retrovirus that attacks the immune system."
+    "question": "Ama Moses, a 10 year old is diagnosed of having typhoid fever. This disease is transmitted by:",
+    "options": ["Droplet infection.", "Air borne infection.", "Faeco-oral infection.", "Direct contact"],
+    "answer": "Faeco-oral infection.",
+    "explanation": "Typhoid fever is transmitted via contaminated food or water (fecal-oral route)."
   },
   {
     "id": 46,
-    "question": "Which of the following is not useful in the treatment of viruses?",
-    "options": ["Acyclovir", "Interferon", "Antibiotics", "Antibodies"],
-    "answer": "Antibiotics",
-    "explanation": "Antibiotics target bacteria, not viruses, making them ineffective for viral infections."
+    "question": "Which of these actions should the nurse take if a patient refuses to cooperate with care which has been planned?",
+    "options": ["Explain fully the reason why the action is needed.", "Record on the plan that the patient has refused care.", "Leave the patient alone", "Report the incident to the senior nurse on duty."],
+    "answer": "Explain fully the reason why the action is needed.",
+    "explanation": "Explaining the need for care respects autonomy and may encourage cooperation."
   },
   {
     "id": 47,
-    "question": "They tend to mutate or change during replication making it very difficult for a host to develop adequate immunity.",
-    "options": ["Bacteria", "Fungi", "Viruses", "Protozoa"],
-    "answer": "Viruses",
-    "explanation": "Viruses frequently mutate during replication, complicating immunity development, as seen with influenza."
+    "question": "The Nurse is educating a group of female teenagers on genital warts. She tells them that one of the common causes of genital warts is",
+    "options": ["Treponema pallidum.", "Candida albicans.", "Human papilloma virus.", "Neisseria gonorrhea"],
+    "answer": "Human papilloma virus.",
+    "explanation": "Genital warts are caused by certain strains of human papillomavirus (HPV)."
   },
   {
     "id": 48,
-    "question": "Human papillomavirus causes the following tumors:",
-    "options": ["Hepatic carcinoma", "Cervical cancer", "Condyloma acuminatum", "Plantar wart"],
-    "answer": "Cervical cancer",
-    "explanation": "Human papillomavirus (HPV) is a major cause of cervical cancer, particularly high-risk strains."
+    "question": "When performing physical assessment, the first fundamental technique that a Nurse must consider will be",
+    "options": ["Inspection.", "Auscultation.", "Palpation.", "Percussion"],
+    "answer": "Inspection.",
+    "explanation": "Inspection is the first step in physical assessment, observing the patient before touching or listening."
   },
   {
     "id": 49,
-    "question": "A 56-year-old man from Kumasi presented with abdominal pain and a mass in the right upper quadrant. He reported that he had been previously diagnosed with viral hepatitis several years ago. What is the most likely underlying viral infection?",
-    "options": ["Hepatitis A virus", "Hepatitis B virus", "Hepatitis D virus", "Hepatitis E virus"],
-    "answer": "Hepatitis B virus",
-    "explanation": "Hepatitis B virus is associated with chronic liver disease and liver cancer, likely causing the mass."
+    "question": "Ms. Juliet Torgle, 36 years has been diagnosed as having syphilis. Which of the following organisms is the causes of Juliet's condition?",
+    "options": ["Human papillovirus", "Treponema pallidum.", "Haemophilus ducreyi.", "Chlamydia trachomatis."],
+    "answer": "Treponema pallidum.",
+    "explanation": "Syphilis is caused by the bacterium Treponema pallidum."
   },
   {
     "id": 50,
-    "question": "A 40-year-old man returned from a two-week trip in Kenya. 14 days later, he presented with fever, headaches and widespread maculopapular rash. What is the most likely diagnosis?",
-    "options": ["Typhoid fever", "Acute HIV infection", "Schistosomiasis", "Strongyloidiasis"],
-    "answer": "Acute HIV infection",
-    "explanation": "Fever, headache, and rash post-travel suggest acute HIV infection, common in high-prevalence areas like Kenya."
+    "question": "The following are among the general observations that should be noted in the initial examination of the patient EXCEPT:",
+    "options": ["Posture.", "Nutritional status.", "Body mass index.", "Vital signs"],
+    "answer": "Body mass index.",
+    "explanation": "BMI requires calculation and is not directly observed initially, unlike posture, nutrition, and vital signs."
   },
   {
     "id": 51,
-    "question": "Some remain latent after invasion; they enter the host cells and multiply very slowly or not at all until some later time",
-    "options": ["Bacteria", "Fungi", "Viruses", "Protozoa"],
-    "answer": "Viruses",
-    "explanation": "Viruses like herpes can remain latent in host cells, reactivating later."
+    "question": "A patient with severe fluid volume deficit will manifest the following signs EXCEPT:",
+    "options": ["Dry mucus membrane", "Increased central nervous pressure.", "Acute weight loss.", "Oliguria."],
+    "answer": "Increased central nervous pressure.",
+    "explanation": "Fluid deficit causes dry membranes, weight loss, and oliguria, but not increased CNS pressure."
   },
   {
     "id": 52,
-    "question": "The protective covering for the genetic material of viruses",
-    "options": ["RNA", "Envelope", "Capsid", "Capsomere"],
-    "answer": "Capsid",
-    "explanation": "The capsid is the protein coat that protects the genetic material of viruses."
+    "question": "Madam Asor Abugu is a 58 year old koobi seller at the ntronang market. She visited the clinic with the complaints of sore throat that has lasted for months, coupled with skin lesions at her back and light pigmented skin areas. She had AFB with Ziel Neelsen stain done and was positive. She will be treated for",
+    "options": ["Epstein-barr virus.", "Human papiloma virus.", "Mycobacterium leprae.", "Mycobacterium tuberculosis"],
+    "answer": "Mycobacterium leprae.",
+    "explanation": "Chronic sore throat, skin lesions, and hypopigmented areas with positive AFB suggest leprosy (Mycobacterium leprae)."
   },
   {
     "id": 53,
-    "question": "Hepatitis viruses attack the liver in human, resulting in the following, except?",
-    "options": ["Jaundice", "Dark urine", "Light colored faeces", "Maculopapular rash"],
-    "answer": "Maculopapular rash",
-    "explanation": "Hepatitis causes jaundice, dark urine, and light feces, but maculopapular rash is not typical."
+    "question": "Which of the following conditions or infections is usually difficult to treat with antibiotics?",
+    "options": ["Fungi", "Viral.", "Protozoal.", "Bacterial."],
+    "answer": "Viral.",
+    "explanation": "Viral infections are not treatable with antibiotics, which target bacteria."
   },
   {
     "id": 54,
-    "question": "COVID-19 cutting short the lives of people worldwide is?",
-    "options": ["An outbreak", "An epidemic", "A Pandemic", "An Endemic"],
-    "answer": "A Pandemic",
-    "explanation": "COVID-19 was declared a pandemic due to its global spread across multiple continents."
+    "question": "Nurse must include patient's in planning of care because",
+    "options": ["Patient is the one suffering from the disease", "It will help patient with the compliance of care.", "Patient can take care of himself.", "Patient will be happy."],
+    "answer": "It will help patient with the compliance of care.",
+    "explanation": "Involving patients in care planning improves adherence and outcomes."
   },
   {
     "id": 55,
-    "question": "MMR vaccine protects against what three diseases?",
-    "options": ["Malaria, Measles and Rabies", "Measles, Mumps and Rabies", "Measles, Mumps and Rubella", "Malaria, Measles and Rubella"],
-    "answer": "Measles, Mumps and Rubella",
-    "explanation": "The MMR vaccine protects against measles, mumps, and rubella."
+    "question": "The laboratory result of Mr. Atinka with oedema showed Albuminuria. This condition of the patient could have been caused by a.",
+    "options": ["fall in plasma colloid pressure.", "fall in tissue hydrostatic pressure.", "rise in plasma colloid oncotic pressure.", "rise in osmotic pressure"],
+    "answer": "fall in plasma colloid pressure.",
+    "explanation": "Albuminuria reduces plasma proteins, lowering colloid pressure and causing edema."
   },
   {
     "id": 56,
-    "question": "Touching an infectious lesion or sexual intercourse is an example of?",
-    "options": ["Indirect contact", "Direct contact", "Vector-borne", "Nosocomial"],
-    "answer": "Direct contact",
-    "explanation": "Touching lesions or sexual intercourse involves direct contact transmission of pathogens."
+    "question": "What does it mean to say a disease is in its latency phase?",
+    "options": ["A period when an infected person has no signs or symptoms of an infection.", "The active period of an infection where signs and symptoms are visible.", "The period between contact with the microorganism and onset of symptoms.", "The period where the signs and symptoms of the disease is at its peak"],
+    "answer": "A period when an infected person has no signs or symptoms of an infection.",
+    "explanation": "Latency is when the disease is present but asymptomatic, as seen in HIV."
   },
   {
     "id": 57,
-    "question": "What is the primary cause of Amoebiasis / Amoebic dysentery?",
-    "options": ["T. Gondii", "E. Histolytica", "P. Carinii", "None of the Above"],
-    "answer": "E. Histolytica",
-    "explanation": "Entamoeba histolytica is the protozoan causing amoebiasis or amoebic dysentery."
+    "question": "To prevent the transmission of pulmonary tuberculosis to others, the Nurse instructs Madam Aminatu on the importance of:",
+    "options": ["I and IV.", "I and II.", "I, II and III.", "I and III"],
+    "answer": "I and II.",
+    "explanation": "Hand washing and cough etiquette are critical to prevent TB transmission; perineal and wound care are irrelevant."
   },
   {
     "id": 58,
-    "question": "A Nursing student recently visited an area where she had been warned about eye disease transmitted by insects. She was in a river area, and despite her best efforts she received a lot of insect bites. She discovered lately that she has visual impairment and the sensation that something is moving in her eye. She also has some subcutaneous nodules. If her infection was acquired by insect bite, what is the most likely causative agent?",
-    "options": ["Wuchereria bancrofti", "Dracunculus medinensis", "Plasmodium falciparum", "Onchocerca volvulus"],
-    "answer": "Onchocerca volvulus",
-    "explanation": "Onchocerca volvulus, transmitted by blackflies, causes river blindness with eye symptoms and nodules."
+    "question": "Interstitial and intravascular fluids compartments are separated by:",
+    "options": ["Protein pumps", "capillary wall", "ionic gates", "fatty substance"],
+    "answer": "capillary wall",
+    "explanation": "The capillary wall separates intravascular (blood) and interstitial (tissue) fluid compartments."
   },
   {
     "id": 59,
-    "question": "Ama was diagnosed with having a light-colored, 20.5-cm long roundworm and eggs consistent with Ascaris. How did she acquire this infection?",
-    "options": ["Ingestion of water containing larvae", "Skin penetration by larvae", "Insect bite", "Ingestion of food contaminated with the eggs"],
-    "answer": "Ingestion of food contaminated with the eggs",
-    "explanation": "Ascaris lumbricoides is acquired by ingesting eggs from contaminated food or soil."
+    "question": "Which is the most reliable method for monitoring fluid balance?",
+    "options": ["Daily intake and output", "Daily weight", "Vital signs", "Pitting"],
+    "answer": "Daily weight",
+    "explanation": "Daily weight is the most accurate way to monitor fluid balance, reflecting gains or losses."
   },
   {
     "id": 60,
-    "question": "What is the most likely reason for a Plasmodium vivax relapsing?",
-    "options": ["P.vivax has a significant level of drug resistance", "P.vivax has a persistent erythrocytic stage", "P.vivax has a persistent preerythrocytic stage (hypnozoite)", "No known reason for relapse in P.vivax"],
-    "answer": "P.vivax has a persistent preerythrocytic stage (hypnozoite)",
-    "explanation": "P. vivax relapses due to hypnozoites, dormant liver stages that can reactivate."
+    "question": "Extra-cellular fluids are found in the following compartments except:",
+    "options": ["Blood vessels", "Interstitial space", "Spinal cord", "Cytoplasm"],
+    "answer": "Cytoplasm",
+    "explanation": "Extracellular fluids include blood and interstitial fluids; cytoplasm is intracellular."
   }
 ]
