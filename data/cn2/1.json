@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is NOT a principle in preparing for a home visit?",
+    "options": ["Home visit should have a nurse-centered purpose or objective", "Home visit should be scheduled ahead of time", "The acceptance of the family for the services offered", "The non-preparedness of the family for the services offered"],
+    "answer": "Home visit should have a nurse-centered purpose or objective",
+    "explanation": "Home visits should focus on family-centered objectives, not nurse-centered, to address the family's health needs effectively."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is considered as the professional face to face contact to the client or family in the community setting?",
+    "options": ["Interview", "Assessment", "Survey", "Home visit"],
+    "answer": "Home visit",
+    "explanation": "A home visit involves professional face-to-face interaction with clients or families in their community setting."
+  },
+  {
+    "id": 3,
+    "question": "One objective of School Health Services is to",
+    "options": ["Ensure learning opportunities are available and conducive to the level of the children", "Foster teacher-parent relationship through cooperation", "Promote optimum sanitary conditions and safe environment", "Protect and promote the health, safety and welfare of school children"],
+    "answer": "Protect and promote the health, safety and welfare of school children",
+    "explanation": "The primary objective of school health services is to ensure the health, safety, and welfare of students."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is the most prominent feature of public health nursing?",
+    "options": ["It involves providing home care to sick people who are not confined in the hospital", "Services are provided free of charge to people within the catchment area", "The public health nurse functions as part of a team providing a public health nursing service", "Public health nursing focuses on preventive, not curative services"],
+    "answer": "Public health nursing focuses on preventive, not curative services",
+    "explanation": "Public health nursing emphasizes prevention to promote community health, distinguishing it from curative care."
+  },
+  {
+    "id": 5,
+    "question": "What is the purpose of placing the bag on top of a newspaper or paper lining?",
+    "options": ["To ensure continuity of care", "To ensure completeness of the equipment", "To ensure that the bag will not be contaminated", "To ensure proper care will be given to the client and family"],
+    "answer": "To ensure that the bag will not be contaminated",
+    "explanation": "Placing the bag on a clean surface like a newspaper prevents contamination during a home visit."
+  },
+  {
+    "id": 6,
+    "question": "What is the definition of Community Health?",
+    "options": ["The process of enabling people to exercise collectively their responsibility for their own health and to demand health as their right.", "The process of enabling people to exercise collectively their responsibility for their own health and to demand health as their right.", "The process of advising people to fight for their own health and to demand health as their right.", "The process of taking measures to help something succeed."],
+    "answer": "The process of enabling people to exercise collectively their responsibility for their own health and to demand health as their right.",
+    "explanation": "Community health empowers individuals and communities to take responsibility for their health and advocate for it."
+  },
+  {
+    "id": 7,
+    "question": "Initially, the nurse must consider which of the following when planning for a home visit",
+    "options": ["Setting of the objectives for the home visit", "Gathering all information about the client", "Ensure completeness of CHN bag", "Informs the assigned family of the planned visit"],
+    "answer": "Setting of the objectives for the home visit",
+    "explanation": "Setting clear objectives ensures the home visit is purposeful and addresses specific family needs."
+  },
+  {
+    "id": 8,
+    "question": "Which one of these is NOT an objective of child welfare clinic",
+    "options": ["Detection of abnormalities", "Monitoring of health workers", "Prevention of diseases", "Reduction in infant mortality"],
+    "answer": "Monitoring of health workers",
+    "explanation": "Child welfare clinics focus on child health outcomes, not monitoring health workers."
+  },
+  {
+    "id": 9,
+    "question": "In gathering all information about the client, which of the following should the nurse NOT make use of?",
+    "options": ["Individual and family health records", "Knowledge of health centre personnel", "Information from partner", "Gossips from neighbors"],
+    "answer": "Gossips from neighbors",
+    "explanation": "Gossip is unreliable and unprofessional; nurses should rely on verified sources like health records."
+  },
+  {
+    "id": 10,
+    "question": "Several problems and needs may be identified in a client at home, which one of these will help the nurse meet her goals?",
+    "options": ["Decide", "Evaluate", "Implement", "Priority"],
+    "answer": "Priority",
+    "explanation": "Prioritizing needs helps the nurse focus on the most critical issues to achieve effective outcomes."
+  },
+  {
+    "id": 11,
+    "question": "The planning of care for a client in the community should include:",
+    "options": ["Home head", "Family", "Community", "Rural health nurse"],
+    "answer": "Family",
+    "explanation": "Care planning should involve the family to ensure it is tailored to their needs and context."
+  },
+  {
+    "id": 12,
+    "question": "The priority nursing problem in the care of the family is the one that is:",
+    "options": ["Acknowledge by the nurse", "Acknowledged by the family", "Acknowledged by the CBSV", "Acknowledged by the community members"],
+    "answer": "Acknowledged by the family",
+    "explanation": "Family acknowledgment ensures the problem is relevant and increases cooperation in addressing it."
+  },
+  {
+    "id": 13,
+    "question": "Occupational health is concerned with the:",
+    "options": ["Effect of injury on the worker", "Employee and family", "Junior staff at the work place", "Target at risk at the work place"],
+    "answer": "Target at risk at the work place",
+    "explanation": "Occupational health focuses on identifying and protecting workers at risk from workplace hazards."
+  },
+  {
+    "id": 14,
+    "question": "The frequency of conduct of home visits of the nurse to the households are prioritized based on:",
+    "options": ["The economic status of the family", "The needs of the family", "The economic status of the family", "The observations of the nurse"],
+    "answer": "The needs of the family",
+    "explanation": "Home visit frequency is based on the family's health needs to ensure effective care delivery."
+  },
+  {
+    "id": 15,
+    "question": "In conducting the home visit, which of the following is NOT necessary for the nurse to bring?",
+    "options": ["Community health nurse bag", "Individual treatment book", "Equipment for monitoring vital signs", "Jotdown notebook"],
+    "answer": "Jotdown notebook",
+    "explanation": "While useful, a jotdown notebook is not essential compared to the CHN bag, treatment book, and vital signs equipment."
+  },
+  {
+    "id": 16,
+    "question": "All the following are reasons for using the flow chart at the child welfare clinic, EXCEPT:",
+    "options": ["It makes the work easier", "It relaxes client", "It reduces waiting time", "It increases attendance"],
+    "answer": "It relaxes client",
+    "explanation": "Flow charts streamline processes but are not primarily used to relax clients."
+  },
+  {
+    "id": 17,
+    "question": "Which is CONTRARY to the principles in planning a home visit?",
+    "options": ["A home visit should have a purpose or objective.", "The plan should revolve around family health needs.", "A home visit should be conducted in the manner prescribed by the RHU.", "Planning of continuing care should involve a responsible family member."],
+    "answer": "A home visit should be conducted in the manner prescribed by the RHU.",
+    "explanation": "Home visits should be flexible and family-centered, not strictly dictated by RHU protocols."
+  },
+  {
+    "id": 18,
+    "question": "The main purpose of growth chart in child health care is to:",
+    "options": ["detect children's deformity", "early detection of malnutrition", "assess health status of the child", "assess motor development of the child"],
+    "answer": "early detection of malnutrition",
+    "explanation": "Growth charts are primarily used to monitor growth patterns and detect malnutrition early."
+  },
+  {
+    "id": 19,
+    "question": "Community Health Nurses conduct home visits for different purposes. Which of the following is not the primary reason to?",
+    "options": ["build rapport with the family", "completely and comprehensively fill up the family assessment guide", "perform health activities and provide health information to the family", "check the vital signs of all members of the family and refer for abnormalities"],
+    "answer": "check the vital signs of all members of the family and refer for abnormalities",
+    "explanation": "Checking vital signs is not the primary reason for a home visit, which focuses more on rapport, assessment, and education."
+  },
+  {
+    "id": 20,
+    "question": "The PHN bag is an important tool in providing nursing care during a home visit. The most important principle of bag technique states that it:",
+    "options": ["Should save time and effort.", "Should minimize if not totally prevent the spread of infection.", "Should not overshadow concern for the patient and his family.", "May be done in a variety of ways depending on the home situation"],
+    "answer": "Should minimize if not totally prevent the spread of infection.",
+    "explanation": "The primary principle of bag technique is to prevent infection spread during home visits."
+  },
+  {
+    "id": 21,
+    "question": "Education to young children not to hide in enclosed areas and in cupboards is to prevent:",
+    "options": ["drowning", "falls", "suffocation", "cuts"],
+    "answer": "suffocation",
+    "explanation": "Hiding in enclosed spaces can lead to suffocation due to lack of oxygen."
+  },
+  {
+    "id": 22,
+    "question": "To maintain the cleanliness of the bag and its contents, which of the following must the nurse do?",
+    "options": ["Wash his/her hands before and after providing nursing care to the family members.", "In the care of family members, as much as possible, use only articles taken from the bag.", "Put on an apron to protect her uniform and fold it with the right side out before putting it back into the bag.", "At the end of the visit, fold the lining on which the bag was placed, ensuring that the contaminated side is on the outside."],
+    "answer": "Wash his/her hands before and after providing nursing care to the family members.",
+    "explanation": "Hand washing is critical to maintain cleanliness and prevent infection spread."
+  },
+  {
+    "id": 23,
+    "question": "Antenatal care is defined as.",
+    "options": ["care given to promote, protect and maintain the health of the mother during pregnancy before childbirth.", "maintain the health of the mother during pregnancy and childbirth.", "protecting the health of the mother during pregnancy before childbirth.", "are given to promote the health of the mother during pregnancy before childbirth."],
+    "answer": "care given to promote, protect and maintain the health of the mother during pregnancy before childbirth.",
+    "explanation": "Antenatal care encompasses promoting, protecting, and maintaining maternal health during pregnancy."
+  },
+  {
+    "id": 24,
+    "question": "Which is the primary goal of community health nursing?",
+    "options": ["To support and supplement the efforts of the medical profession in the promotion of health and prevention of illness", "To enhance the capacity of individuals, families and communities to cope with their health needs", "To increase the productivity of the people by providing them with services that will increase their level of health", "To contribute to national development through promotion of family welfare, focusing particularly on mothers and children."],
+    "answer": "To enhance the capacity of individuals, families and communities to cope with their health needs",
+    "explanation": "Community health nursing aims to empower individuals and communities to manage their health effectively."
+  },
+  {
+    "id": 25,
+    "question": "Home accidents are common among children because they",
+    "options": ["are difficult to handle", "imitate actions of adults", "like running around when playing", "struggle for items from peers"],
+    "answer": "imitate actions of adults",
+    "explanation": "Children often mimic adult behaviors, leading to accidents if unsupervised."
+  },
+  {
+    "id": 26,
+    "question": "CHN is a community-based practice. Which best explains this statement?",
+    "options": ["The service is provided in the natural environment of people.", "The nurse has to conduct community diagnosis to determine nursing needs and problems.", "The services are based on the available resources within the community.", "Priority setting is based on the magnitude of the health problems identified."],
+    "answer": "The service is provided in the natural environment of people.",
+    "explanation": "Community-based practice means delivering care in the natural settings of individuals, such as homes."
+  },
+  {
+    "id": 27,
+    "question": "A single parent mother, Adwoa Serwaa has a seven-month old baby and always attends the child welfare clinic late all the time. She can be supported to change by",
+    "options": ["Informing her of the correct time the clinic begins and closes", "Advising her to set off early to the clinic", "Finding out the reasons for her habitual lateness", "Asking family members to support her with the household duties"],
+    "answer": "Finding out the reasons for her habitual lateness",
+    "explanation": "Understanding the cause of lateness allows for targeted interventions to help her attend on time."
+  },
+  {
+    "id": 28,
+    "question": "At the child welfare clinic, the following duties are usually performed EXCEPT:",
+    "options": ["Registration", "Treatment of minor ailments", "Delivery of babies and antenatal services", "Family planning and other reproductive health services"],
+    "answer": "Delivery of babies and antenatal services",
+    "explanation": "Child welfare clinics focus on child health, not delivery or antenatal care, which are provided elsewhere."
+  },
+  {
+    "id": 29,
+    "question": "These are psychosocial problems which are common among school children",
+    "options": ["I, II and III", "I, II and IV", "I, III and IV", "II, III and IV"],
+    "answer": "I, III and IV",
+    "explanation": "Absenteeism, attention deficit, and school phobia are common psychosocial issues, but armed robbery is not."
+  },
+  {
+    "id": 30,
+    "question": "Occupational hazards to the nurse mainly include the following EXCEPT:",
+    "options": ["Sexual harassment", "Chemical toxicity", "Exposure to radiation and other carcinogenic substance", "Injuries from snake bite"],
+    "answer": "Injuries from snake bite",
+    "explanation": "Snake bites are not a common occupational hazard for nurses, unlike the other listed risks."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is NOT an objective of the public health nurse?",
+    "options": ["Organizes clinics", "Ensure safe delivery", "Build more clinics for the community", "Health education."],
+    "answer": "Build more clinics for the community",
+    "explanation": "Building clinics is not a direct objective of the public health nurse, who focuses on service delivery and education."
+  },
+  {
+    "id": 32,
+    "question": "Talking to a baby is important because it provides the building block for future development.",
+    "options": ["cognitive", "language", "motor", "social"],
+    "answer": "language",
+    "explanation": "Talking to a baby stimulates language development, forming the foundation for communication skills."
+  },
+  {
+    "id": 33,
+    "question": "Community health nursing process include the following EXCEPT:",
+    "options": ["Diagnosis", "Planning", "Access into the community", "Implementation"],
+    "answer": "Access into the community",
+    "explanation": "Access into the community is not a formal step in the nursing process, which includes assessment, diagnosis, planning, implementation, and evaluation."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is NOT a principle of public health nursing?",
+    "options": ["Writing of report", "Review available literature", "Decide for the family or the people", "Work without expecting reward"],
+    "answer": "Decide for the family or the people",
+    "explanation": "Public health nursing involves collaboration with families, not making decisions for them."
+  },
+  {
+    "id": 35,
+    "question": "What is the definition of Community Health?",
+    "options": ["The process of enabling people to exercise collectively their responsibility for their own health and to demand health as their right.", "The process of enabling people to exercise collectively their responsibility for their own health and to demand health as their right.", "The process of advising people to fight for their own health and to demand health as their right.", "The process of taking measures to help something succeed."],
+    "answer": "The process of enabling people to exercise collectively their responsibility for their own health and to demand health as their right.",
+    "explanation": "Community health empowers collective responsibility and advocacy for health rights."
+  },
+  {
+    "id": 36,
+    "question": "One of the under listed is NOT a component of Community Health Nursing.",
+    "options": ["Immunization", "Under five clinics", "Feeding the under five", "Organize Family Planning Clinic"],
+    "answer": "Feeding the under five",
+    "explanation": "Feeding under-fives is not a formal component of community health nursing, unlike immunization and clinics."
+  },
+  {
+    "id": 37,
+    "question": "When the Occupational Health Nurse employs ergonomic principles, she is performing which of her roles?",
+    "options": ["Health care provider", "Health educator", "Health care coordinator", "Environmental manager"],
+    "answer": "Environmental manager",
+    "explanation": "Applying ergonomic principles involves managing the workplace environment to reduce health risks."
+  },
+  {
+    "id": 38,
+    "question": "Comfort is Afiba's co-worker as Community Health Nurse. Which of the following is the general duty of Comfort?",
+    "options": ["Provides nursing care to the community", "Communicates to the health team", "Coordinates with municipal Public Health Officer", "Establishes rapport with clients"],
+    "answer": "Provides nursing care to the community",
+    "explanation": "The primary duty of a community health nurse is to provide nursing care to the community."
+  },
+  {
+    "id": 39,
+    "question": "A garment factory does not have an occupational nurse. Who shall provide the occupational health needs of the factory workers?",
+    "options": ["Occupational health nurse at the Regional Health Office", "Physician employed by the factory", "Public health nurse of the Regional Health Unit of their municipality", "Rural sanitary inspector of the Regional Health Unit of their municipality"],
+    "answer": "Public health nurse of the Regional Health Unit of their municipality",
+    "explanation": "In the absence of an occupational nurse, the public health nurse from the regional health unit provides care."
+  },
+  {
+    "id": 40,
+    "question": "The role of the nurse in promoting the health of the worker include the following EXCEPT:",
+    "options": ["Health education", "Identification of health hazards and notification of authorities for remedy", "Performing minor surgeries", "Liaise with management to provide better condition of service for mothers"],
+    "answer": "Performing minor surgeries",
+    "explanation": "Nurses do not typically perform surgeries, which is outside their scope in occupational health."
+  }
+]
