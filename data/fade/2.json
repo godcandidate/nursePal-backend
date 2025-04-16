@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "When the lower end of the fibula is fractured with severe damage to ligaments round the ankle, it is termed as?",
+    "options": ["Communited fracture", "Pott's fracture", "Transvers fracture", "Colles' fracture"],
+    "answer": "Pott's fracture",
+    "explanation": "Pott's fracture involves a fracture of the lower fibula with associated ankle ligament damage."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is the use of Roller Bandages?",
+    "options": ["Is used for the limbs and sometimes the head and the trunk.", "Pin the apex at the elbow so that the joint is enclosed", "Made of cotton or calico, used for perineal dressings", "Bandage from upwards downwards."],
+    "answer": "Is used for the limbs and sometimes the head and the trunk.",
+    "explanation": "Roller bandages are versatile and commonly used for limbs, head, and trunk to secure dressings."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following will you consider prior to lifting a patient?",
+    "options": ["Quick action is necessary to preserve life and limb", "Consider the weight of patient and mode of transportation", "All messages through a bearer should be written simply", "Reassure the patient by word of mouth"],
+    "answer": "Consider the weight of patient and mode of transportation",
+    "explanation": "Assessing the patient's weight and transportation method ensures safe and effective lifting."
+  },
+  {
+    "id": 4,
+    "question": "Nurse Osei witnessed a fight where one fighter gave the opponent a blow causing the brain to shake without any injury to the bone. What would be your impression?",
+    "options": ["Strain", "Concussion", "Sprain", "Compression of the brain"],
+    "answer": "Concussion",
+    "explanation": "A blow causing the brain to shake without bone injury is characteristic of a concussion."
+  },
+  {
+    "id": 5,
+    "question": "A bandage is applied so that each layer covers two-thirds of the previous one. We keep the edges?",
+    "options": ["Transverse", "Parallel", "Oblique", "Horizontal"],
+    "answer": "Parallel",
+    "explanation": "Bandage edges are kept parallel to ensure even pressure and secure application."
+  },
+  {
+    "id": 6,
+    "question": "Mr. Appiah got involved in RTA and sustained injuries caused by blunt metal. What type of wound would he sustain?",
+    "options": ["Sinus wound", "Abscess wound", "Lacerated wound", "Fistula wound"],
+    "answer": "Lacerated wound",
+    "explanation": "Blunt metal trauma typically causes lacerated wounds with irregular edges."
+  },
+  {
+    "id": 7,
+    "question": "This type of wound is caused by a sharp instrument such as a scalpel, knife, or a blade...",
+    "options": ["Punctured wound", "Incised wound", "Abrasion wound", "Lacerated wound"],
+    "answer": "Incised wound",
+    "explanation": "Incised wounds are clean, straight cuts caused by sharp instruments like knives."
+  },
+  {
+    "id": 68,
+    "question": "When the integrity of the muscle is compromised in injury, the wound is called as..",
+    "options": ["Gunshot wound", "Incisional wound", "Abraded wound", "Avulsion wound"],
+    "answer": "Avulsion wound",
+    "explanation": "An avulsion wound involves tissue, such as muscle, being torn away, compromising its integrity."
+  },
+  {
+    "id": 9,
+    "question": "Ghanaians have experienced flood all over the country these days. As a nurse, which one of the underlisted, would you advise against to prevent further flooding?",
+    "options": ["Deforestation", "Planting trees", "Absence of 'galamsay' operation", "Good drainage system"],
+    "answer": "Deforestation",
+    "explanation": "Deforestation exacerbates flooding by reducing water absorption, unlike the other options."
+  },
+  {
+    "id": 10,
+    "question": "This is damage to the tissues under the skin and bleeding from this damage tissue collect under the skin causing swelling.",
+    "options": ["Contusion wound", "Abrasion wound", "Penetration wound", "Avulsion wound"],
+    "answer": "Contusion wound",
+    "explanation": "A contusion involves tissue damage and bleeding under the skin, causing swelling."
+  },
+  {
+    "id": 11,
+    "question": "Madam Adwoa Kuma fell and had frictional injuries in which the skin was grazed off but no injury to deeper tissues, there is severe burning sensation in the wound.",
+    "options": ["This is gunshot wound", "This is buruli ulcer", "This is abraded wound", "This is penetration wound"],
+    "answer": "This is abraded wound",
+    "explanation": "An abraded wound involves skin being grazed off with a burning sensation, without deeper tissue damage."
+  },
+  {
+    "id": 12,
+    "question": "Match the following Agencies for Disaster Management: Ministry of Water Resources",
+    "options": ["Floods", "Fire", "Earthquakes", "Epidemics"],
+    "answer": "Floods",
+    "explanation": "The Ministry of Water Resources is responsible for managing flood-related disasters."
+  },
+  {
+    "id": 13,
+    "question": "Match the following Agencies for Disaster Management: Meteorological Department",
+    "options": ["Floods", "Fire", "Earthquakes", "Epidemics"],
+    "answer": "Earthquakes",
+    "explanation": "The Meteorological Department monitors conditions that can lead to disasters like earthquakes."
+  },
+  {
+    "id": 14,
+    "question": "Match the following Agencies for Disaster Management: Ministry of Home Affairs",
+    "options": ["Floods", "Fire", "Earthquakes", "Epidemics"],
+    "answer": "Fire",
+    "explanation": "The Ministry of Home Affairs oversees fire-related disaster management."
+  },
+  {
+    "id": 15,
+    "question": "Match the following Agencies for Disaster Management: Ministry of Health and Family Welfare",
+    "options": ["Floods", "Fire", "Earthquakes", "Epidemics"],
+    "answer": "Epidemics",
+    "explanation": "The Ministry of Health and Family Welfare manages epidemic-related disasters."
+  },
+  {
+    "id": 16,
+    "question": "A disaster which includes technological or industrial accidents.",
+    "options": ["Natural Disasters", "Environmental Emergencies", "Complex Emergencies", "Pandemic Emergencies"],
+    "answer": "Environmental Emergencies",
+    "explanation": "Technological or industrial accidents fall under environmental emergencies."
+  },
+  {
+    "id": 17,
+    "question": "A type of disaster that includes floods, hurricanes, earthquakes, and volcano eruptions",
+    "options": ["Natural Disasters", "Environmental Emergencies", "Complex Emergencies", "Pandemic Emergencies"],
+    "answer": "Natural Disasters",
+    "explanation": "Floods, hurricanes, earthquakes, and volcanoes are classified as natural disasters."
+  },
+  {
+    "id": 18,
+    "question": "This disaster involves a sudden onset of contagious disease that affects health, disrupts services and businesses which brings economic and social costs.",
+    "options": ["Natural Disasters", "Environmental Emergencies", "Complex Emergencies", "Pandemic Emergencies"],
+    "answer": "Pandemic Emergencies",
+    "explanation": "A sudden contagious disease outbreak is a pandemic emergency."
+  },
+  {
+    "id": 19,
+    "question": "A disaster situation where there a breakdown of authority, looting and attacks on strategic installations, including conflict situations and war.",
+    "options": ["Natural Disasters", "Environmental Emergencies", "Complex Emergencies", "Pandemic Emergencies"],
+    "answer": "Complex Emergencies",
+    "explanation": "Breakdown of authority and conflict situations are characteristic of complex emergencies."
+  },
+  {
+    "id": 20,
+    "question": "It defines the time during which medical personnel anticipate disaster and are warned to prepare.",
+    "options": ["Postimpact", "Disaster", "Impact", "Preimpact"],
+    "answer": "Preimpact",
+    "explanation": "The preimpact phase involves preparation and anticipation before a disaster strikes."
+  },
+  {
+    "id": 21,
+    "question": "During this period of disaster phase, several key assessments are made, including evaluating the extent of the loss, identifying resources available, and planning the rescue of victims.",
+    "options": ["Postimpact", "Disaster", "Impact", "Preimpact"],
+    "answer": "Impact",
+    "explanation": "The impact phase involves immediate assessments and planning during the disaster."
+  },
+  {
+    "id": 22,
+    "question": "During this phase, the extent of the loss is evaluated, and the rescue of victims also completed",
+    "options": ["Postimpact", "Disaster", "Impact", "Preimpact"],
+    "answer": "Postimpact",
+    "explanation": "The postimpact phase focuses on evaluating losses and completing victim rescues."
+  },
+  {
+    "id": 23,
+    "question": "Any occurrence that cause damage, ecological disruption, loss of human life, deterioration of health and health services on a scale, sufficient to warrant an extraordinary response from outside.",
+    "options": ["Postimpact", "Disaster", "Impact", "Preimpact"],
+    "answer": "Disaster",
+    "explanation": "This definition describes a disaster, requiring an extraordinary response."
+  },
+  {
+    "id": 24,
+    "question": "This can be defined as the adaptation of professional nursing skills in recognizing and meeting the nursing, physical and emotional needs resulting from a disaster",
+    "options": ["Burns and scalds", "Human error", "Disaster nursing", "Gestational diabetes"],
+    "answer": "Disaster nursing",
+    "explanation": "Disaster nursing involves applying nursing skills to meet needs during a disaster."
+  },
+  {
+    "id": 25,
+    "question": "This is a cause of disaster",
+    "options": ["Burns and scalds", "Human error", "Disaster nursing", "Gestational diabetes"],
+    "answer": "Human error",
+    "explanation": "Human error can lead to disasters, such as technological accidents."
+  },
+  {
+    "id": 26,
+    "question": "Madam Akua Mansah, Gravida 2 Para 1, reported at the Antenatal with 32 weeks pregnant with glucose in her blood.",
+    "options": ["Burns and scalds", "Human error", "Disaster nursing", "Gestational diabetes"],
+    "answer": "Gestational diabetes",
+    "explanation": "Glucose in the blood during pregnancy indicates gestational diabetes."
+  },
+  {
+    "id": 27,
+    "question": "These conditions are damage to the skin and mucous membrane as a result of heat causing denature of the skin and mucus membrane.",
+    "options": ["Burns and scalds", "Human error", "Disaster nursing", "Gestational diabetes"],
+    "answer": "Burns and scalds",
+    "explanation": "Heat-induced damage to skin and mucous membranes is classified as burns and scalds."
+  },
+  {
+    "id": 28,
+    "question": "Nurse Oppong, a junior colleague informed you that after checking the patient's urine there was the presence of ketone bodies (acetone) in the breath and in the urine. The patient diagnosis could be....",
+    "options": ["Heart attack", "Embolism", "Diabetes mellitus", "Jaundice"],
+    "answer": "Diabetes mellitus",
+    "explanation": "Ketone bodies in breath and urine suggest diabetic ketoacidosis, a complication of diabetes mellitus."
+  },
+  {
+    "id": 29,
+    "question": "Mr Kuyala, a 45year old man was involved in RTA, and sustained various degrees of injuries. Upon rectal examination, there was a deceased rectal tone. Patient could be having ....",
+    "options": ["Heart attack", "Embolism", "Diabetes mellitus", "Spinal cord injury"],
+    "answer": "Spinal cord injury",
+    "explanation": "Decreased rectal tone is a clinical sign of spinal cord injury."
+  },
+  {
+    "id": 30,
+    "question": "Nurse Shantel, an emergency nurse examined patient Kuyala and observed deviation of his eyes to one side. This could be a ...",
+    "options": ["Ipsilateral cortical lesion", "Paralysis", "Spinal cord injury", "Blunt abdominal injury"],
+    "answer": "Ipsilateral cortical lesion",
+    "explanation": "Eye deviation to one side may indicate an ipsilateral cortical lesion affecting brain function."
+  },
+  {
+    "id": 31,
+    "question": "Patient Nuunu's eyes were seen dilated and unreactive upon physical examination, what impression would the emergency nurse form? May be patient had....",
+    "options": ["Sympathomimetic overdose", "Anticholinergic overdose", "Blunt abdominal overdose", "Paralysis"],
+    "answer": "Anticholinergic overdose",
+    "explanation": "Dilated and unreactive pupils are characteristic of anticholinergic overdose."
+  },
+  {
+    "id": 32,
+    "question": "When a patient's eyes are dilated but reactive to light, the emergency nurse should think that probably patient is having....",
+    "options": ["Antibiotics overdose", "Anticholinergic overdose", "Vitamin overdose", "Sympathomimetic overdose"],
+    "answer": "Sympathomimetic overdose",
+    "explanation": "Dilated but reactive pupils suggest sympathomimetic overdose, stimulating the nervous system."
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is NOT the use of bandage?",
+    "options": ["Secure dressing in position", "Correct deformity", "Supply warmth", "Cover the abdomen"],
+    "answer": "Cover the abdomen",
+    "explanation": "Bandages are not primarily used to cover the abdomen but to secure dressings, correct deformities, or provide warmth."
+  },
+  {
+    "id": 34,
+    "question": "One of the under listed is a Rule of applying a bandage to a body part",
+    "options": ["Apply the bandage loosely", "Apply the bandage firmly", "Apply the bandage tightly", "Apply the bandage from upwards below"],
+    "answer": "Apply the bandage firmly",
+    "explanation": "Bandages should be applied firmly to ensure support without being too tight."
+  },
+  {
+    "id": 35,
+    "question": "Among the Rules of bandaging are the following but NOT",
+    "options": ["Bandage limbs from below upwards", "Bandage limbs from within outwards", "Bandage limbs from outwards within", "Apply the bandage firmly"],
+    "answer": "Bandage limbs from outwards within",
+    "explanation": "Bandaging from outwards within is not a standard rule; limbs are bandaged from below upwards and within outwards."
+  },
+  {
+    "id": 36,
+    "question": "When bandaging a limb, the first aider would stand",
+    "options": ["Infront of the hand or feet", "Bandage all fingers together", "At the side of the patient", "Let the patient hold the affected part"],
+    "answer": "At the side of the patient",
+    "explanation": "Standing at the side of the patient allows better access and control while bandaging a limb."
+  },
+  {
+    "id": 37,
+    "question": "Never apply the outer side of the tail of the bandage to the injured part first.",
+    "options": ["FALSE", "TRUE"],
+    "answer": "TRUE",
+    "explanation": "The inner side of the bandage tail is applied first to ensure a smooth and secure fit."
+  },
+  {
+    "id": 38,
+    "question": "Never bandage without having previously applied a pad of cotton wool",
+    "options": ["FALSE", "TRUE"],
+    "answer": "FALSE",
+    "explanation": "While padding is often used, it is not always required, depending on the wound and bandage type."
+  },
+  {
+    "id": 39,
+    "question": "This is a subjective data collected by a first aider",
+    "options": ["Bleeding from the leg", "Headache", "Sweating", "Vomiting"],
+    "answer": "Headache",
+    "explanation": "Headache is subjective, reported by the patient, unlike the other observable signs."
+  },
+  {
+    "id": 40,
+    "question": "Mr. Taabi complained of severe pain in his chest after his involvement in RTA. His data would be considered as",
+    "options": ["Subjective", "Objective", "Diagnosis", "Sign"],
+    "answer": "Subjective",
+    "explanation": "Chest pain is a subjective symptom reported by the patient."
+  },
+  {
+    "id": 41,
+    "question": "When a neonate doesn't get enough oxygen during the birth process, it can be fatal. Which of the following could be his diagnosis...",
+    "options": ["Rh incompatibility", "Evisceration", "Asphyxia neonatorum", "Birth defect"],
+    "answer": "Asphyxia neonatorum",
+    "explanation": "Lack of oxygen during birth leads to asphyxia neonatorum, a potentially fatal condition."
+  },
+  {
+    "id": 42,
+    "question": "Mr furranku, inadvertently ate contaminated food. What would you consider to be the cause?",
+    "options": ["Suicidal poisoning", "Murder", "Accident poisoning", "Self-poisoning"],
+    "answer": "Accident poisoning",
+    "explanation": "Inadvertent consumption of contaminated food is classified as accidental poisoning."
+  },
+  {
+    "id": 43,
+    "question": "Baby Samm took in a poisonous substance which caused irritation and inflammation of the tissues of the alimentary tract. The poison may be classified as",
+    "options": ["Corrosive poison", "Irritant poison", "Narcotic poison", "Contaminated poison"],
+    "answer": "Irritant poison",
+    "explanation": "Irritant poisons cause inflammation and irritation of the alimentary tract."
+  },
+  {
+    "id": 44,
+    "question": "This is 'coughing up' of blood from any part of the respiratory tract usually from the lungs?",
+    "options": ["Haemoptysis", "Epistaxis", "Haematemesis", "Melena"],
+    "answer": "Haemoptysis",
+    "explanation": "Haemoptysis is the coughing up of blood from the respiratory tract, typically the lungs."
+  },
+  {
+    "id": 45,
+    "question": "After giving a demulcent to a patient who has taken in an irritant poison, what would be the next line of action?",
+    "options": ["Give an emetic", "Give apparent", "Give copious water", "Give copious milk"],
+    "answer": "Give copious water",
+    "explanation": "After a demulcent, giving copious water helps dilute the irritant poison."
+  },
+  {
+    "id": 46,
+    "question": "In poisoning, if the actual poisonous substance is known which of the following action is taken",
+    "options": ["Give an emetic", "Give apparent", "Give antidote", "Give copious milk"],
+    "answer": "Give antidote",
+    "explanation": "If the poison is known, administering a specific antidote is the most effective action."
+  },
+  {
+    "id": 47,
+    "question": "When a casualty can answer simple questions when asked such as his name and address but does not know where he is, he is said to be...",
+    "options": ["Disorientated", "Conscious", "Awake", "In a good condition"],
+    "answer": "Disorientated",
+    "explanation": "Inability to know location despite answering simple questions indicates disorientation."
+  },
+  {
+    "id": 48,
+    "question": "During an accident scene Mr Catee was found in a state of partial consciousness. He would be described to be in",
+    "options": ["Coma", "Conscious state", "Stupor", "In a good condition"],
+    "answer": "Stupor",
+    "explanation": "Stupor is a state of partial consciousness with reduced responsiveness."
+  },
+  {
+    "id": 49,
+    "question": "A state of complete unconsciousness when the person's eyes are wide open. It seems the person is awake and watchful but is an indication of great exhaustion and prostration.",
+    "options": ["Stupor", "Conscious state", "Coma vigil", "Coma"],
+    "answer": "Coma vigil",
+    "explanation": "Coma vigil is characterized by unconsciousness with open eyes, indicating severe exhaustion."
+  },
+  {
+    "id": 50,
+    "question": "In a first aid class, your lecturer asked you mention a disease of the nervous system characterised by sudden attacks of unconsciousness and fits. What would be your impression?",
+    "options": ["Diabetes mellitus", "Head injury", "Inflammation", "Epilepsy"],
+    "answer": "Epilepsy",
+    "explanation": "Epilepsy is a nervous system disorder causing sudden unconsciousness and seizures."
+  },
+  {
+    "id": 51,
+    "question": "A common form of heart attack usually occurs in elderly people mostly men with high pressures, characterized by severe agonising pain at the front of his chest and over the heart.",
+    "options": ["Myocardial infarction", "Angina pectoris", "Cardiogenic shock", "Aortic dissection"],
+    "answer": "Myocardial infarction",
+    "explanation": "Myocardial infarction presents with severe chest pain in elderly men, often with hypertension."
+  },
+  {
+    "id": 52,
+    "question": "Mr Kwaku Dua a 85 year old man with enlarged prostate couldn't pass urine. His inability to pass urine is called...",
+    "options": ["Urinary retention", "Urinary incontinence", "Haematuria", "Dysuria"],
+    "answer": "Urinary retention",
+    "explanation": "Inability to pass urine due to an enlarged prostate is termed urinary retention."
+  },
+  {
+    "id": 53,
+    "question": "Mr Kwadwo Mensah a drunkard was found unconscious due to overdose of palm wine drink. What type of coma is he having",
+    "options": ["Alcoholic coma", "Diabetic coma", "Insulin coma", "Hepatic coma"],
+    "answer": "Alcoholic coma",
+    "explanation": "Unconsciousness from excessive alcohol consumption is an alcoholic coma."
+  },
+  {
+    "id": 54,
+    "question": "This is a type of unconsciousness found in pregnant women only caused by albumin in urine, oedema of the feet and raised blood pressure.",
+    "options": ["Eclamptic coma", "Diabetic coma", "Insulin coma", "Uraemic coma"],
+    "answer": "Eclamptic coma",
+    "explanation": "Eclamptic coma in pregnant women is caused by preeclampsia symptoms like proteinuria, edema, and hypertension."
+  },
+  {
+    "id": 55,
+    "question": "This is a serious mental illness which occurs in a few women within 40 days or 8 weeks following childbirth.",
+    "options": ["Postpartum depression", "Postpartum psychosis", "Puerperal fever", "Postpartum anxiety"],
+    "answer": "Postpartum psychosis",
+    "explanation": "Postpartum psychosis is a severe mental illness occurring within weeks after childbirth."
+  },
+  {
+    "id": 56,
+    "question": "This bandage is made in the shape of the letter from which it takes its name.",
+    "options": ["T-bandage", "Figure-of-eight bandage", "Spiral bandage", "Circular bandage"],
+    "answer": "T-bandage",
+    "explanation": "A T-bandage is shaped like the letter 'T' and used for specific areas like the perineum."
+  },
+  {
+    "id": 57,
+    "question": "This is a special kind of reef knot in which there is an extra twist in the first loop.",
+    "options": ["Granny knot", "Surgeon's knot", "Square knot", "Slip knot"],
+    "answer": "Surgeon's knot",
+    "explanation": "A surgeon's knot has an extra twist in the first loop for added security."
+  },
+  {
+    "id": 58,
+    "question": "In this kind of knot, the ends lie at right angles to the line of the bandage, even though an attempt may be made to hide this appearance.",
+    "options": ["Granny knot", "Surgeon's knot", "Square knot", "Slip knot"],
+    "answer": "Granny knot",
+    "explanation": "A granny knot has ends at right angles to the bandage, unlike a square knot."
+  },
+  {
+    "id": 59,
+    "question": "In this type of pattern in bandaging, the bandage is carried horizontally around the part.",
+    "options": ["Spiral bandage", "Figure-of-eight bandage", "Circular bandage", "Reverse spiral bandage"],
+    "answer": "Circular bandage",
+    "explanation": "A circular bandage is applied horizontally around a part in a continuous loop."
+  },
+  {
+    "id": 60,
+    "question": "In this type of pattern in bandaging, the bandage is applied for unflexed joints and as an alternative to the reverse spiral for limbs...",
+    "options": ["Spiral bandage", "Figure-of-eight bandage", "Circular bandage", "Spica bandage"],
+    "answer": "Spiral bandage",
+    "explanation": "A spiral bandage is used for unflexed joints and limbs as an alternative to reverse spiral."
+  }
+]
