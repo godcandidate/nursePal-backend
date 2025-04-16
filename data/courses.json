@@ -28,5 +28,10 @@
     "id": "mip2",
     "title": "Microbiology & Infection Prevention II",
     "description": "Covers microbes, infection control, and hygiene practices in clinical settings."
-  }
+  },
+  {
+  "id": "fade",
+  "title": "First Aid, Disaster, and Emergency Nursing",
+  "description": "Study of first aid principles, disaster preparedness, and emergency nursing care essential for handling critical situations in healthcare settings."
+}
 ]
