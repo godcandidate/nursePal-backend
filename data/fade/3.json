@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is NOT a type of hemorrhage?",
+    "options": ["Arterial", "Chemical", "Internal", "External"],
+    "answer": "Chemical",
+    "explanation": "Hemorrhage refers to bleeding, categorized as arterial, venous, capillary, internal, or external. Chemical is not a type of hemorrhage."
+  },
+  {
+    "id": 2,
+    "question": "How would you explain ABCD in first aid to a first-year student?",
+    "options": ["Airways, Breathing, Circulation, Disability", "Alertness, Body temperature, CPR, Dressing", "Airway, Breathing, Circulation, Defibrillation", "Airway, Bleeding, CPR, Defibrillation"],
+    "answer": "Airways, Breathing, Circulation, Disability",
+    "explanation": "ABCD stands for Airway, Breathing, Circulation, and Disability, representing the primary survey steps in first aid to assess a casualty."
+  },
+  {
+    "id": 3,
+    "question": "Which type of bleeding is most difficult to control?",
+    "options": ["Arterial", "Capillary", "Venous", "Internal"],
+    "answer": "Arterial",
+    "explanation": "Arterial bleeding is high-pressure and spurts with each heartbeat, making it the most challenging to control."
+  },
+  {
+    "id": 4,
+    "question": "What does AVPU stand for in first aid?",
+    "options": ["Alert, Voice, Pain, Unresponsive", "Awareness, Vision, Pain, Unconsciousness", "Artery, Vein, Pulse, Urgency", "Airway, Ventilation, Pulse, Urine output"],
+    "answer": "Alert, Voice, Pain, Unresponsive",
+    "explanation": "AVPU is a scale to assess consciousness: Alert, responds to Voice, responds to Pain, or Unresponsive."
+  },
+  {
+    "id": 5,
+    "question": "What would be your action if a person is bleeding from the mouth due to internal injuries?",
+    "options": ["Lay them flat on their back", "Ignore it", "Give them food", "Keep them sitting slightly forward"],
+    "answer": "Keep them sitting slightly forward",
+    "explanation": "Sitting slightly forward prevents blood from obstructing the airway and allows it to drain, reducing choking risk."
+  },
+  {
+    "id": 6,
+    "question": "You were called to attend to a casualty who is not breathing, what would be your first line of action?",
+    "options": ["Try to wake them up by shaking", "Leave them alone to recover", "Give them food and water", "Call emergency services and start CPR"],
+    "answer": "Call emergency services and start CPR",
+    "explanation": "For a non-breathing casualty, immediately call for help and begin CPR to restore circulation and oxygenation."
+  },
+  {
+    "id": 7,
+    "question": "If a casualty only responds when spoken to loudly, they are classified as?",
+    "options": ["Pain responsive (P)", "Unresponsive (U)", "Voice responsive (V)", "Alert (A)"],
+    "answer": "Voice responsive (V)",
+    "explanation": "On the AVPU scale, responding only to loud verbal stimuli classifies the casualty as Voice responsive (V)."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following can lead to neurogenic shock?",
+    "options": ["Severe spinal cord injury", "Low blood sugar", "A minor cut on the hand", "Mild dehydration"],
+    "answer": "Severe spinal cord injury",
+    "explanation": "Neurogenic shock results from spinal cord injury disrupting nervous system control, leading to vasodilation and shock."
+  },
+  {
+    "id": 9,
+    "question": "What is the purpose of the AVPU scale?",
+    "options": ["To assess a person's level of consciousness", "To measure blood pressure", "To check breathing rate", "To diagnose circulation"],
+    "answer": "To assess a person's level of consciousness",
+    "explanation": "The AVPU scale evaluates a casualty’s responsiveness to determine their level of consciousness quickly."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following qualities should a first aider have?",
+    "options": ["Confidence and quick decision-making", "Impulsiveness", "Ignorance of basic procedures", "Panic and quick action"],
+    "answer": "Confidence and quick decision-making",
+    "explanation": "A first aider needs confidence and quick decision-making to act effectively and calmly in emergencies."
+  },
+  {
+    "id": 11,
+    "question": "How would you explain the cause of septic shock to a junior colleague?",
+    "options": ["From dehydration", "Due to a severe bacterial infection", "After a minor allergic reaction", "From a head injury"],
+    "answer": "Due to a severe bacterial infection",
+    "explanation": "Septic shock is caused by a severe bacterial infection leading to systemic inflammation and organ dysfunction."
+  },
+  {
+    "id": 12,
+    "question": "What is the golden rule for treating hemorrhage?",
+    "options": ["Ignore minor bleeding", "Apply alcohol to the wound", "Apply pressure, elevate, and seek medical help", "Let the wound bleed to clean itself"],
+    "answer": "Apply pressure, elevate, and seek medical help",
+    "explanation": "The golden rule for hemorrhage is to apply direct pressure, elevate the limb (if possible), and seek medical assistance."
+  },
+  {
+    "id": 13,
+    "question": "What is the first step in managing Mr Manu who has been brought to the ED with external bleeding?",
+    "options": ["Massage the wound", "Give the person water", "Remove the dressing frequently", "Apply direct pressure"],
+    "answer": "Apply direct pressure",
+    "explanation": "Applying direct pressure is the first step to control external bleeding and stabilize the patient."
+  },
+  {
+    "id": 14,
+    "question": "What is the most common type of shock?",
+    "options": ["Septic shock", "Neurogenic shock", "Hypovolemic shock", "Cardiogenic shock"],
+    "answer": "Hypovolemic shock",
+    "explanation": "Hypovolemic shock, caused by significant blood or fluid loss, is the most common type due to trauma or dehydration."
+  },
+  {
+    "id": 15,
+    "question": "How does application of a cold compress help with hemorrhage?",
+    "options": ["It numbs the area permanently", "It constricts blood vessels", "It reduces pain", "It increases blood flow"],
+    "answer": "It constricts blood vessels",
+    "explanation": "A cold compress causes vasoconstriction, reducing blood flow to the area and aiding hemorrhage control."
+  },
+  {
+    "id": 16,
+    "question": "In CPR, what does the 'C' in ABCD refer to?",
+    "options": ["Consciousness", "Cooling", "Circulation", "Chest compression"],
+    "answer": "Circulation",
+    "explanation": "In the ABCD of first aid, 'C' stands for Circulation, ensuring blood flow, often via CPR if needed."
+  },
+  {
+    "id": 17,
+    "question": "A colleague was confused as to the best position to place a casualty with severe bleeding in a limb. What advice would you give to him?",
+    "options": ["Elevate the limb above heart level", "Keep the limb below heart level", "Make them walk to increase circulation", "Keep the limb at heart level"],
+    "answer": "Elevate the limb above heart level",
+    "explanation": "Elevating the limb reduces blood flow to the area, helping to control bleeding, assuming no fractures."
+  },
+  {
+    "id": 18,
+    "question": "What color is venous blood during hemorrhage?",
+    "options": ["Yellowish", "Pinkish", "Dark red", "Bright red"],
+    "answer": "Dark red",
+    "explanation": "Venous blood is darker red due to lower oxygen content, unlike bright red arterial blood."
+  },
+  {
+    "id": 19,
+    "question": "What is the meaning of the acronym DRABC in first aid?",
+    "options": ["Direct Rescue, Action, Breathing, CPR", "Diagnosis, Recovery, Airflow, Bleeding, Consciousness", "Danger, Rescue, Assessment, Bleeding, CPR", "Danger, Response, Airway, Breathing, Circulation"],
+    "answer": "Danger, Response, Airway, Breathing, Circulation",
+    "explanation": "DRABC stands for Danger, Response, Airway, Breathing, Circulation, guiding the initial assessment in first aid."
+  },
+  {
+    "id": 20,
+    "question": "How do you check if a person responds to pain in the AVPU scale?",
+    "options": ["Ask them to blink when you tap their shoulder", "Check their pulse", "Apply a painful stimulus, such as a pinch or sternal rub", "Look for eye movement when you call"],
+    "answer": "Apply a painful stimulus, such as a pinch or sternal rub",
+    "explanation": "Pain response on the AVPU scale is tested with a controlled painful stimulus like a sternal rub."
+  },
+  {
+    "id": 21,
+    "question": "A person who responds to normal conversation is classified as?",
+    "options": ["Voice responsive (V)", "Alert (A)", "Pain responsive (P)", "Unresponsive (U)"],
+    "answer": "Alert (A)",
+    "explanation": "Responding to normal conversation indicates the person is fully Alert (A) on the AVPU scale."
+  },
+  {
+    "id": 22,
+    "question": "How would you check for breathing in an unconscious person who is in your care?",
+    "options": ["Call them to wake up or respond", "Shake the person and shout", "Look, listen, and feel for breath", "Pour cold water on them"],
+    "answer": "Look, listen, and feel for breath",
+    "explanation": "To check breathing, observe chest movement, listen for breath sounds, and feel for air movement."
+  },
+  {
+    "id": 23,
+    "question": "On your way to work you met a casualty on the roadside bleeding. How would you be able to determine that the flow of blood is arterial?",
+    "options": ["Spurts out in bright red color", "Oozes slowly", "Flows steadily", "Dark red, slow bleeding"],
+    "answer": "Spurts out in bright red color",
+    "explanation": "Arterial bleeding is characterized by bright red blood spurting in sync with the heartbeat."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following best describes a responsible first aider?",
+    "options": ["Avoids getting involved in emergencies", "Waits for someone else to help", "Takes charge and ensures proper care is given", "Leaves the casualty after giving first aid"],
+    "answer": "Takes charge and ensures proper care is given",
+    "explanation": "A responsible first aider takes control, provides care, and ensures professional help is sought."
+  },
+  {
+    "id": 25,
+    "question": "In a first aid class, you are requested to mention a sign of shock. What would be your response?",
+    "options": ["Rapid, weak pulse", "Slow breathing", "High energy and alertness", "Warm, flushed skin"],
+    "answer": "Rapid, weak pulse",
+    "explanation": "Shock often presents with a rapid, weak pulse due to inadequate circulation."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is NOT a common cause of shock?",
+    "options": ["Severe burns", "Severe bleeding", "Dehydration", "Hypertension (high blood pressure)"],
+    "answer": "Hypertension (high blood pressure)",
+    "explanation": "Burns, bleeding, and dehydration cause shock by reducing blood volume or function; hypertension does not."
+  },
+  {
+    "id": 27,
+    "question": "What is the first priority in ABCD of first aid?",
+    "options": ["Performing CPR", "Ensuring an open airway", "Checking for bleeding", "Checking for pulse"],
+    "answer": "Ensuring an open airway",
+    "explanation": "Ensuring an open airway is the first priority to allow breathing and sustain life."
+  },
+  {
+    "id": 28,
+    "question": "As a first aider, which of these should NOT be done when treating shock?",
+    "options": ["Giving the person food and drink", "Calling emergency services", "Keeping the person warm", "Elevating the legs (if no spinal injury)"],
+    "answer": "Giving the person food and drink",
+    "explanation": "Food and drink can cause choking or complications in shock; other actions support stabilization."
+  },
+  {
+    "id": 29,
+    "question": "Mr Manu was rushed to the roadside in shock with no spinal injury. How would you position him?",
+    "options": ["Sitting up", "Lying flat with legs elevated", "Lying on their side", "Standing and walking"],
+    "answer": "Lying flat with legs elevated",
+    "explanation": "Lying flat with legs elevated improves blood flow to vital organs in shock, assuming no spinal injury."
+  },
+  {
+    "id": 30,
+    "question": "How would you check circulation in an unconscious person?",
+    "options": ["Look at their skin color, rise and fall of the chest", "See if the person responds to pain", "Check for a pulse and signs of life", "Move their limbs"],
+    "answer": "Check for a pulse and signs of life",
+    "explanation": "Circulation is assessed by checking for a pulse and other signs like skin color or warmth."
+  },
+  {
+    "id": 31,
+    "question": "What should be done if there is no pulse?",
+    "options": ["Start CPR immediately", "Try to wake them up", "Keep them sitting upright and call ambulance", "Give water to the person and shout for help"],
+    "answer": "Start CPR immediately",
+    "explanation": "No pulse indicates cardiac arrest, requiring immediate CPR to restore circulation."
+  }
+    ]
