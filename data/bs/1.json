@@ -1,157 +1,422 @@
 [
   {
     "id": 1,
-    "question": "Who was the first king of Israel?",
-    "options": ["David", "Solomon", "Saul", "Samuel"],
-    "answer": "Saul",
-    "explanation": "Saul was anointed as the first king of Israel by the prophet Samuel."
+    "question": "Which of the following books marks the beginning of Deuteronomistic history?",
+    "options": ["Deuteronomy", "Joshua", "Samuel", "Ruth"],
+    "answer": "Deuteronomy",
+    "explanation": "Deuteronomistic history begins with Deuteronomy, which sets the theological framework for the historical books that follow."
   },
   {
     "id": 2,
-    "question": "Which apostle denied Jesus three times before the rooster crowed?",
-    "options": ["Peter", "John", "James", "Andrew"],
-    "answer": "Peter",
-    "explanation": "Peter denied knowing Jesus three times before the rooster crowed, as Jesus had predicted."
+    "question": "The following are part of the Deuteronomistic history except",
+    "options": ["Deuteronomy", "Joshua", "Samuel", "Ruth"],
+    "answer": "Ruth",
+    "explanation": "Deuteronomistic history includes Deuteronomy, Joshua, Judges, Samuel, and Kings; Ruth is a separate narrative."
   },
   {
     "id": 3,
-    "question": "What is the first book of the New Testament?",
-    "options": ["Mark", "Matthew", "Luke", "John"],
-    "answer": "Matthew",
-    "explanation": "The New Testament begins with the Gospel according to Matthew."
+    "question": "What period was referred to as the period of Judges?",
+    "options": ["After Moses had died", "After Israel entered the Promised Land", "After the death of Joshua", "After the destruction of Jericho"],
+    "answer": "After the death of Joshua",
+    "explanation": "The period of Judges begins after Joshua's death, as described in the Book of Judges."
   },
   {
     "id": 4,
-    "question": "Who led the Israelites out of Egypt?",
-    "options": ["Aaron", "Moses", "Joshua", "Joseph"],
-    "answer": "Moses",
-    "explanation": "Moses led the Israelites out of slavery in Egypt during the Exodus."
+    "question": "What happened in the period of Judges?",
+    "options": ["There was so much prosperity", "Many people died", "There was cultic and moral deterioration", "There was so much backwardness"],
+    "answer": "There was cultic and moral deterioration",
+    "explanation": "The Book of Judges describes a cycle of moral and religious decline, followed by divine intervention."
   },
   {
     "id": 5,
-    "question": "In which city was Jesus born?",
-    "options": ["Nazareth", "Jerusalem", "Bethlehem", "Capernaum"],
-    "answer": "Bethlehem",
-    "explanation": "Jesus was born in Bethlehem, fulfilling the prophecy of the Messiah's birthplace."
+    "question": "Who is the author of the book of Joshua?",
+    "options": ["Anonymous", "Joshua", "Moses", "Aaron"],
+    "answer": "Anonymous",
+    "explanation": "The Book of Joshua's authorship is traditionally anonymous, with no definitive evidence attributing it to Joshua."
   },
   {
     "id": 6,
-    "question": "Who is considered the 'father of faith' in the Bible?",
-    "options": ["Isaac", "Jacob", "Abraham", "Noah"],
-    "answer": "Abraham",
-    "explanation": "Abraham is known as the 'father of faith' for his unwavering belief in God's promises."
+    "question": "Where did the people of Israel set off from when the events in the book of Joshua take place?",
+    "options": ["Canaan", "Egypt", "Kadesh Barnea", "Mountain Sinai"],
+    "answer": "Kadesh Barnea",
+    "explanation": "The events of Joshua begin as Israel moves from Kadesh Barnea toward the Promised Land."
   },
   {
     "id": 7,
-    "question": "Which book comes immediately after the Gospels in the New Testament?",
-    "options": ["Romans", "Acts", "Revelation", "Hebrews"],
-    "answer": "Acts",
-    "explanation": "The Acts of the Apostles follows the four Gospels in the New Testament."
+    "question": "Who is the author of the book of Judges?",
+    "options": ["Joshua", "Judges", "Anonymous", "Samuel"],
+    "answer": "Anonymous",
+    "explanation": "Like Joshua, the Book of Judges is considered to have an anonymous author."
   },
   {
     "id": 8,
-    "question": "Who was thrown into the lion's den?",
-    "options": ["Daniel", "Ezekiel", "Jeremiah", "Isaiah"],
-    "answer": "Daniel",
-    "explanation": "Daniel was thrown into the lion's den for praying to God, but was unharmed."
+    "question": "At what time did the stories of the book of Ruth take place?",
+    "options": ["During the period when the people of Israel set off from Kadesh Barnea", "At the time when Joshua died", "At the period of Judges", "When King Saul ascended the throne"],
+    "answer": "At the period of Judges",
+    "explanation": "Ruth 1:1 states the events occurred 'in the days when the judges ruled.'"
   },
   {
     "id": 9,
-    "question": "What is the shortest verse in the Bible?",
-    "options": [
-      "'Jesus wept.'",
-      "'Rejoice always.'",
-      "'Pray continually.'",
-      "'God is love.'"
-    ],
-    "answer": "'Jesus wept.'",
-    "explanation": "John 11:35, 'Jesus wept,' is the shortest verse in the Bible."
+    "question": "What is the central theme of the book of Samuel?",
+    "options": ["It deals with the choice of Jerusalem as a place for Solomon to build the temple", "How God rejected Saul due to disobedience", "How Saul became a king", "How Samuel began to minister as a judge and prophet"],
+    "answer": "How God rejected Saul due to disobedience",
+    "explanation": "The Books of Samuel focus on the transition from judges to monarchy, highlighting Saul's rejection for disobedience."
   },
   {
     "id": 10,
-    "question": "Who betrayed Jesus to the religious leaders?",
-    "options": ["Peter", "Judas Iscariot", "Thomas", "James"],
-    "answer": "Judas Iscariot",
-    "explanation": "Judas Iscariot betrayed Jesus to the chief priests for thirty pieces of silver."
+    "question": "In whose time did the monarchy divide into Northern and Southern kingdoms?",
+    "options": ["Saul", "David", "Solomon", "Rehoboam"],
+    "answer": "Rehoboam",
+    "explanation": "The monarchy split into Israel (North) and Judah (South) during Rehoboam’s reign after Solomon’s death."
   },
   {
     "id": 11,
-    "question": "Which Old Testament prophet was swallowed by a great fish?",
-    "options": ["Elijah", "Elisha", "Jonah", "Isaiah"],
-    "answer": "Jonah",
-    "explanation": "Jonah was swallowed by a great fish after trying to flee from God's command."
+    "question": "What is the capital of the Northern kingdom of ancient Israel?",
+    "options": ["Jerusalem", "Samaria", "Israel", "Jericho"],
+    "answer": "Samaria",
+    "explanation": "Samaria was the capital of the Northern Kingdom (Israel) after the division."
   },
   {
     "id": 12,
-    "question": "What are the first three words of the Bible?",
-    "options": [
-      "'In the beginning'",
-      "'Once upon a time'",
-      "'There was light'",
-      "'God created heavens'"
-    ],
-    "answer": "'In the beginning'",
-    "explanation": "The Bible starts with 'In the beginning God created the heavens and the earth.'"
+    "question": "What is the capital of the Southern kingdom of ancient Israel?",
+    "options": ["Jerusalem", "Samaria", "Israel", "Jericho"],
+    "answer": "Jerusalem",
+    "explanation": "Jerusalem was the capital of the Southern Kingdom (Judah)."
   },
   {
     "id": 13,
-    "question": "Who was known for his wisdom and built the temple in Jerusalem?",
-    "options": ["David", "Solomon", "Samuel", "Saul"],
+    "question": "Which one of the following kings of Israel was chosen to build the temple?",
+    "options": ["David", "Solomon", "Rehoboam", "Saul"],
     "answer": "Solomon",
-    "explanation": "King Solomon was renowned for his wisdom and constructed the first temple in Jerusalem."
+    "explanation": "God chose Solomon to build the First Temple, as David was not permitted due to his bloodshed."
   },
   {
     "id": 14,
-    "question": "Which apostle was a tax collector before following Jesus?",
-    "options": ["Peter", "Andrew", "Matthew", "Thomas"],
-    "answer": "Matthew",
-    "explanation": "Matthew, also known as Levi, was a tax collector before becoming an apostle."
+    "question": "Which of the following Israelite leaders was appointed to teach the law so that Israel will not experience God's punishment?",
+    "options": ["Ezra", "Nehemiah", "Esther", "Zerubhabel"],
+    "answer": "Ezra",
+    "explanation": "Ezra, a scribe, was tasked with teaching the Law to ensure Israel’s obedience post-exile."
   },
   {
     "id": 15,
-    "question": "On which mountain did Moses receive the Ten Commandments?",
-    "options": ["Mount Sinai", "Mount Ararat", "Mount Carmel", "Mount Zion"],
-    "answer": "Mount Sinai",
-    "explanation": "Moses received the Ten Commandments from God on Mount Sinai."
+    "question": "Which of the following Israelite leaders was appointed to supervise the rebuilding of the walls and temple after the release from captivity?",
+    "options": ["Ezra", "Nehemiah", "Esther", "David"],
+    "answer": "Nehemiah",
+    "explanation": "Nehemiah led the rebuilding of Jerusalem’s walls, while Zerubbabel oversaw the temple reconstruction."
   },
   {
     "id": 16,
-    "question": "Who was the mother of Jesus?",
-    "options": ["Mary Magdalene", "Elizabeth", "Martha", "Mary"],
-    "answer": "Mary",
-    "explanation": "Mary, a young virgin, was chosen to be the mother of Jesus."
+    "question": "What is the role of the Old Testament prophets?",
+    "options": ["They foretold the future", "They prayed for the sick to be healed", "They [spoke] the word of God into the current situation", "They called fire from heaven on sacrifices"],
+    "answer": "They [spoke] the word of God into the current situation",
+    "explanation": "Prophets primarily conveyed God’s messages, addressing contemporary issues and calling for repentance."
   },
   {
     "id": 17,
-    "question": "Which Psalm is known as the Shepherd's Psalm?",
-    "options": ["Psalm 1", "Psalm 23", "Psalm 100", "Psalm 150"],
-    "answer": "Psalm 23",
-    "explanation": "Psalm 23, beginning with 'The Lord is my shepherd,' is known as the Shepherd's Psalm."
+    "question": "Who are the classical prophets?",
+    "options": ["Those could prophesy for it to be fulfilled", "Those who have a powerful prophetic ministry", "Those prophets who wrote the books of the Bible", "Those who have a long-lasting ministry"],
+    "answer": "Those prophets who wrote the books of the Bible",
+    "explanation": "Classical prophets, like Isaiah and Jeremiah, are those whose writings are preserved in the Bible."
   },
   {
     "id": 18,
-    "question": "Who interpreted Pharaoh's dreams in Egypt?",
-    "options": ["Moses", "Aaron", "Joseph", "Daniel"],
-    "answer": "Joseph",
-    "explanation": "Joseph interpreted Pharaoh's dreams, predicting seven years of plenty followed by seven years of famine."
+    "question": "The following are classical prophets except",
+    "options": ["Jeremiah", "Isaiah", "Hosea", "Elijah"],
+    "answer": "Elijah",
+    "explanation": "Elijah is a non-writing prophet, while Jeremiah, Isaiah, and Hosea authored prophetic books."
   },
   {
     "id": 19,
-    "question": "What was the first miracle performed by Jesus?",
-    "options": [
-      "Healing the blind man",
-      "Feeding the 5000",
-      "Turning water into wine",
-      "Walking on water"
-    ],
-    "answer": "Turning water into wine",
-    "explanation": "Jesus' first recorded miracle was turning water into wine at the wedding in Cana."
+    "question": "Which of the following prophet is a preexilic prophet?",
+    "options": ["Isaiah", "Jeremiah", "Zephaniah", "Zechariah"],
+    "answer": "Zephaniah",
+    "explanation": "Zephaniah prophesied before the Babylonian exile, unlike Zechariah, who was postexilic."
   },
   {
     "id": 20,
-    "question": "Who wrote the majority of the New Testament letters?",
-    "options": ["Peter", "John", "Paul", "James"],
-    "answer": "Paul",
-    "explanation": "The Apostle Paul wrote the majority of the New Testament letters."
+    "question": "Which of the following prophet is a postexilic prophet?",
+    "options": ["Isaiah", "Jeremiah", "Hosea", "Zechariah"],
+    "answer": "Zechariah",
+    "explanation": "Zechariah prophesied after the return from Babylonian exile, during the restoration period."
+  },
+  {
+    "id": 21,
+    "question": "What is the content of the message pre-exilic prophet?",
+    "options": ["Prosperity and victory over enemies", "Judgments in various forms for wickedness", "Both judgments and hope", "Hope and revival"],
+    "answer": "Both judgments and hope",
+    "explanation": "Pre-exilic prophets warned of judgment for sin but also offered hope for repentance and restoration."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is an example of the Ketuvim?",
+    "options": ["The book of Kings", "The book of Samuel", "The book of Judges", "The book of Job"],
+    "answer": "The book of Job",
+    "explanation": "Ketuvim (Writings) includes Job, Psalms, and Proverbs, while Kings, Samuel, and Judges are in the Nevi’im."
+  },
+  {
+    "id": 23,
+    "question": "The following are examples of the Wisdom Literature except",
+    "options": ["Proverbs", "Songs of Solomon", "Job", "Ecclesiastes"],
+    "answer": "Songs of Solomon",
+    "explanation": "Proverbs, Job, and Ecclesiastes are Wisdom Literature; Song of Solomon is poetic but not strictly wisdom."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following best defines Symbolic action?",
+    "options": ["The use of art and symbols in ancient Israelite palace", "The use of nonverbal gestures by the prophets", "The use of symbols by the elders", "The body language by the prophets when they are declaring messages to the people of Israel"],
+    "answer": "The use of nonverbal gestures by the prophets",
+    "explanation": "Symbolic actions are dramatic acts by prophets (e.g., Ezekiel’s signs) to convey God’s message."
+  },
+  {
+    "id": 25,
+    "question": "Which one of the following prophets was asked by Yahweh to eat the scroll?",
+    "options": ["Isaiah", "Hosea", "Ezekiel", "Jeremiah"],
+    "answer": "Ezekiel",
+    "explanation": "Ezekiel 3:1-3 describes God commanding Ezekiel to eat a scroll symbolizing the word of God."
+  },
+  {
+    "id": 26,
+    "question": "Which one of the following prophets was asked by Yahweh to walk naked and barefooted on the streets for three years?",
+    "options": ["Isaiah", "Hosea", "Ezekiel", "Jeremiah"],
+    "answer": "Isaiah",
+    "explanation": "Isaiah 20:2-3 recounts God’s command for Isaiah to walk naked and barefoot as a sign against Egypt and Cush."
+  },
+  {
+    "id": 27,
+    "question": "Who was asked to mixed human excreta with bread and eat?",
+    "options": ["Isaiah", "Hosea", "Ezekiel", "Jeremiah"],
+    "answer": "Ezekiel",
+    "explanation": "Ezekiel 4:12-15 describes God instructing Ezekiel to bake bread with human dung, later modified to cow dung."
+  },
+  {
+    "id": 28,
+    "question": "Which one of the following prophets was asked by Yahweh to marry a woman who will later in life become a prostitute?",
+    "options": ["Isaiah", "Hosea", "Ezekiel", "Jeremiah"],
+    "answer": "Hosea",
+    "explanation": "Hosea 1:2 records God commanding Hosea to marry a woman of whoredom, symbolizing Israel’s unfaithfulness."
+  },
+  {
+    "id": 29,
+    "question": "What is the name of Hosea's wife?",
+    "options": ["Naomi", "Gomer", "Gomez", "Goma"],
+    "answer": "Gomer",
+    "explanation": "Hosea 1:3 identifies Hosea’s wife as Gomer, daughter of Diblaim."
+  },
+  {
+    "id": 30,
+    "question": "Which one of the following prophets was asked by Yahweh not to marry nor bear children?",
+    "options": ["Isaiah", "Hosea", "Ezekiel", "Jeremiah"],
+    "answer": "Jeremiah",
+    "explanation": "Jeremiah 16:2 states God’s command for Jeremiah not to marry or have children as a sign of impending judgment."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following gives the original meaning of the word gospel?",
+    "options": ["Reward given to everyone to someone", "Reward is given to someone bringing a report of a Prince being born", "Reward is given to someone who has preached to someone", "Reward is given to someone rich"],
+    "answer": "Reward is given to someone bringing a report of a Prince being born",
+    "explanation": "The term 'gospel' (euangelion) originally meant good news, often a reward for reporting significant events like a royal birth."
+  },
+  {
+    "id": 32,
+    "question": "What was the former name of Matthew, the disciple of Christ?",
+    "options": ["Johannes", "Levis", "Messiah", "Levi"],
+    "answer": "Levi",
+    "explanation": "Matthew, the tax collector, was also called Levi before following Jesus (Mark 2:14, Luke 5:27)."
+  },
+  {
+    "id": 33,
+    "question": "What is the meaning of the word eschaton?",
+    "options": ["End times", "Jesus' coming back", "Beginning", "The gospel"],
+    "answer": "End times",
+    "explanation": "Eschaton refers to the end times or final events in biblical theology."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is known to be the gospel of action?",
+    "options": ["Matthew", "Mark", "Luke", "John"],
+    "answer": "Mark",
+    "explanation": "Mark’s Gospel emphasizes Jesus’ actions and miracles, presenting a fast-paced narrative."
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is considered to be the teaching gospel?",
+    "options": ["Matthew", "Mark", "Luke", "John"],
+    "answer": "Matthew",
+    "explanation": "Matthew’s Gospel focuses on Jesus’ teachings, especially in discourses like the Sermon on the Mount."
+  },
+  {
+    "id": 36,
+    "question": "Which of the following best gives a similarity between the book of Luke and Acts?",
+    "options": ["They are both gospels", "They are both addressed to Theophilus", "They both contain the story of the birth of Christ", "They both contain the account of Paul's ministry"],
+    "answer": "They are both addressed to Theophilus",
+    "explanation": "Both Luke and Acts are addressed to Theophilus (Luke 1:3, Acts 1:1), indicating shared authorship."
+  },
+  {
+    "id": 37,
+    "question": "What is the purpose of Matthew writing the book of Matthew?",
+    "options": ["For people to believe that Jesus Christ is the son of God", "To explain that Jesus Christ is the King of kings", "To explain that Jesus Christ is Lord", "To explain that Jesus Christ is the promised Messiah"],
+    "answer": "To explain that Jesus Christ is the promised Messiah",
+    "explanation": "Matthew emphasizes Jesus as the Messiah, fulfilling Old Testament prophecies."
+  },
+  {
+    "id": 38,
+    "question": "What is the purpose of John writing the book of John?",
+    "options": ["For people to believe that Jesus Christ is the son of God", "To explain that Jesus Christ is the King of kings", "To explain that Jesus Christ is Lord", "To explain that Jesus Christ is the promised Messiah"],
+    "answer": "For people to believe that Jesus Christ is the son of God",
+    "explanation": "John 20:31 states the purpose is for readers to believe Jesus is the Christ, the Son of God."
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is believed to be a collection from Peter?",
+    "options": ["Matthew", "Mark", "Luke", "John"],
+    "answer": "Mark",
+    "explanation": "Tradition holds that Mark’s Gospel reflects Peter’s teachings, as Mark was his interpreter."
+  },
+  {
+    "id": 40,
+    "question": "Which of the following gospels was written to Theophilus?",
+    "options": ["Matthew", "Mark", "Luke", "John"],
+    "answer": "Luke",
+    "explanation": "Luke’s Gospel is explicitly addressed to Theophilus (Luke 1:3)."
+  },
+  {
+    "id": 41,
+    "question": "What is the meaning of the word biblion?",
+    "options": ["Scroll", "Clothe", "Material", "Money"],
+    "answer": "Scroll",
+    "explanation": "Biblion, a Greek word, refers to a scroll or written document."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following languages does the word biblion [come from]?",
+    "options": ["German word", "Latin word", "Greek word", "Hebrew word"],
+    "answer": "Greek word",
+    "explanation": "Biblion is a Greek term, used for scrolls or books."
+  },
+  {
+    "id": 43,
+    "question": "What is the meaning of the word ta biblia?",
+    "options": ["Small material", "Small library", "Small documents", "Small books"],
+    "answer": "Small books",
+    "explanation": "Ta biblia, Greek for 'the books,' refers to the collection of biblical writings."
+  },
+  {
+    "id": 44,
+    "question": "The whole Bible is made up of",
+    "options": ["27 Old Testament, 39 New Testament", "39 Old Testament, 27 New Testament", "40 Old Testament, 26 New Testament", "26 Old Testament, 40 New Testament"],
+    "answer": "39 Old Testament, 27 New Testament",
+    "explanation": "The Protestant Bible comprises 39 Old Testament books and 27 New Testament books."
+  },
+  {
+    "id": 45,
+    "question": "Why is the Old Testament referred to as the Hebrew Bible (HB)?",
+    "options": ["Because the people of Hebrew wrote them", "Because the king of the Hebrews wrote them", "Because they were written in Hebrew language for the people of ancient Israel", "Because the books belongs to the people and cannot be used by others"],
+    "answer": "Because they were written in Hebrew language for the people of ancient Israel",
+    "explanation": "The Old Testament is called the Hebrew Bible because it was primarily written in Hebrew for Israel."
+  },
+  {
+    "id": 46,
+    "question": "Which of the following correspond to the arrangement of the Hebrew Bible?",
+    "options": ["Ketuvim, tôrāh, and Nevi'im", "tôrāh, Ketuvim, and Nevi'im", "Nevi'im tôrāh, and Ketuvim", "tôrāh, Ketuvim, and Nevi'im"],
+    "answer": "tôrāh, Nevi'im, and Ketuvim",
+    "explanation": "The Hebrew Bible is arranged as Torah (Law), Nevi’im (Prophets), and Ketuvim (Writings)."
+  },
+  {
+    "id": 47,
+    "question": "Why are the first five books of Moses called Pentateuch?",
+    "options": ["Because they were written by Moses", "Because they were discovered by five people", "Because they contain five books", "Because they should be handled by five Israelite priests"],
+    "answer": "Because they contain five books",
+    "explanation": "Pentateuch, from Greek, means 'five scrolls,' referring to Genesis, Exodus, Leviticus, Numbers, and Deuteronomy."
+  },
+  {
+    "id": 48,
+    "question": "Why are the first four books of the New Testament called the gospels?",
+    "options": ["They contain stories of the Roman Empire", "They contain the news of writers being set free from prison", "They contain good news in the Roman Empire at the time of writing", "They contain the good news of salvation"],
+    "answer": "They contain the good news of salvation",
+    "explanation": "The gospels narrate the life, death, and resurrection of Jesus, proclaiming salvation."
+  },
+  {
+    "id": 49,
+    "question": "What is the difference between the arrangement of the Old Testament found in the current that we have and that contained in Hebrew?",
+    "options": ["The Bible in original Hebrew ends with Malachi while the current ends with Chronicles", "The Bible in original Hebrew ends with Chronicles while the current ends with Malachi", "The Bible in original Hebrew ends with Zechariah while the current ends with Malachi", "The Bible in original Hebrew ends with Proverbs while current ends with Malachi"],
+    "answer": "The Bible in original Hebrew ends with Chronicles while the current ends with Malachi",
+    "explanation": "The Hebrew Bible concludes with Chronicles; Christian Old Testaments end with Malachi."
+  },
+  {
+    "id": 50,
+    "question": "Which of the following Hebrew titles of the first five Hebrew Bible is meant for Leviticus?",
+    "options": ["shemot", "Bemidhar", "Vayyiqra", "Devarim"],
+    "answer": "Vayyiqra",
+    "explanation": "Vayyiqra, meaning 'And He called,' is the Hebrew title for Leviticus."
+  },
+  {
+    "id": 51,
+    "question": "Which of the following books is one of the Former Prophets?",
+    "options": ["Jeremiah", "Isaiah", "Samuel", "Ezekiel"],
+    "answer": "Samuel",
+    "explanation": "Former Prophets include Joshua, Judges, Samuel, and Kings; Jeremiah and others are Latter Prophets."
+  },
+  {
+    "id": 52,
+    "question": "Why is the book of Jeremiah called a Major Prophet?",
+    "options": ["Because he performs more powerful miracles", "Because he prophesies to the whole world", "Because his prophecies always come to pass", "Because the book of Jeremiah is very voluminous"],
+    "answer": "Because the book of Jeremiah is very voluminous",
+    "explanation": "Major Prophets (e.g., Jeremiah, Isaiah) are named for their longer books compared to Minor Prophets."
+  },
+  {
+    "id": 53,
+    "question": "The word canop came from both Hebrew and Greek words that mean?",
+    "options": ["Agreement", "Measurements", "Measuring rod", "Measuring tape"],
+    "answer": "Measuring rod",
+    "explanation": "Canon, from Greek 'kanon,' means a measuring rod, used metaphorically for the standard of scripture."
+  },
+  {
+    "id": 54,
+    "question": "Which of the following bishops chaired the synod that officially approved a list of the Bible?",
+    "options": ["Bishop Athasius", "Bishop Clement", "Bishop Cyprian", "Bishop Athanasius"],
+    "answer": "Bishop Athanasius",
+    "explanation": "Athanasius of Alexandria is credited with listing the 27 New Testament books in 367 CE."
+  },
+  {
+    "id": 55,
+    "question": "What is the meaning of the word Apocrypha?",
+    "options": ["Hiding a book", "Hiding the truth", "Hidden away", "Hidden from children"],
+    "answer": "Hidden away",
+    "explanation": "Apocrypha means 'hidden away,' referring to books not included in the Protestant canon."
+  },
+  {
+    "id": 56,
+    "question": "What is the meaning of the word Pseudepigrapha?",
+    "options": ["False books", "False witness", "False Documents", "False writings"],
+    "answer": "False writings",
+    "explanation": "Pseudepigrapha refers to writings falsely attributed to biblical figures, not accepted as canonical."
+  },
+  {
+    "id": 57,
+    "question": "Where did the synod that approved the list of books of the Bible take place?",
+    "options": ["Rome", "Jerusalem", "Cairo", "Alexandria"],
+    "answer": "Alexandria",
+    "explanation": "Athanasius’ canon list was associated with Alexandria, though formal synods occurred elsewhere later."
+  },
+  {
+    "id": 58,
+    "question": "In what year did that synod take place?",
+    "options": ["363 BCE", "363 CE", "365 BCE", "365 CE"],
+    "answer": "363 CE",
+    "explanation": "The Synod of Laodicea, around 363 CE, discussed the biblical canon, aligning with Athanasius’ era."
+  },
+  {
+    "id": 59,
+    "question": "What is vulgate?",
+    "options": ["Latin translation of the Greek Bible", "Latin translation of the Hebrew Bible", "Greek translation of the Hebrew Bible", "Hebrew translation of the Greek Bible"],
+    "answer": "Latin translation of the Hebrew Bible",
+    "explanation": "The Vulgate is Jerome’s Latin translation, primarily from Hebrew for the Old Testament."
+  },
+  {
+    "id": 60,
+    "question": "What is Septuagint?",
+    "options": ["Latin translation of the Greek Bible", "Latin translation of the Hebrew Bible", "Greek translation of the Hebrew Bible", "Hebrew translation of the Greek Bible"],
+    "answer": "Greek translation of the Hebrew Bible",
+    "explanation": "The Septuagint is the Greek translation of the Hebrew Bible, created in the 3rd-2nd century BCE."
   }
 ]
