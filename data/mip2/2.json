@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "How is Schistosoma haematobium transmitted?",
+    "options": ["Ingestion of raw or undercooked snail", "Invasion of larvae from the soil", "Standing or swimming in contaminated water", "Tsetse fly bite"],
+    "answer": "Standing or swimming in contaminated water",
+    "explanation": "Schistosoma haematobium is transmitted when cercariae in contaminated water penetrate human skin during contact."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is the tape worm acquired from eating undercooked pork?",
+    "options": ["Ascaris lumbricoides", "Taenia saginata", "Trichinella spiralis", "Taenia solium"],
+    "answer": "Taenia solium",
+    "explanation": "Taenia solium, the pork tapeworm, is acquired from eating undercooked pork containing cysticerci."
+  },
+  {
+    "id": 3,
+    "question": "Which round worm is transmitted by filari-form larvae that are found in the soil and penetrate the skin?",
+    "options": ["Dracunculus medinensis", "Enterobius vermicularis", "Strongyloides stercoralis", "Taenia saginata"],
+    "answer": "Strongyloides stercoralis",
+    "explanation": "Strongyloides stercoralis is transmitted via filariform larvae in soil penetrating the skin, causing strongyloidiasis."
+  },
+  {
+    "id": 4,
+    "question": "Each of the following statements concerning Trichomonas vaginalis is correct except:",
+    "options": ["T. vaginalis causes yellowish green vaginal discharge", "T. vaginalis causes bloody diarrhea", "T. vaginalis can be diagnosed by visualizing the trophozoite", "T. vaginalis can be treated effectively with metronidazole"],
+    "answer": "T. vaginalis causes bloody diarrhea",
+    "explanation": "Trichomonas vaginalis causes vaginal discharge, not bloody diarrhea, which is associated with other pathogens like Entamoeba histolytica."
+  },
+  {
+    "id": 5,
+    "question": "In malaria, the form of plasmodium that is transmitted from mosquito to human is the:",
+    "options": ["Sporozoite", "Gametocyte", "Merozoite", "Trophozoite"],
+    "answer": "Sporozoite",
+    "explanation": "Sporozoites are the infectious form of Plasmodium transmitted from mosquito saliva to humans during a bite."
+  },
+  {
+    "id": 6,
+    "question": "Elephantiasis can be prevented by:",
+    "options": ["Avoiding mosquito bites", "Observe personal hygiene", "Avoiding undercooked meat", "Avoid walking bare footed"],
+    "answer": "Avoiding mosquito bites",
+    "explanation": "Elephantiasis, caused by filarial worms like Wuchereria bancrofti, is prevented by avoiding mosquito bites, the primary vector."
+  },
+  {
+    "id": 7,
+    "question": "Mosquito is the vector in the following disorder",
+    "options": ["Onchocerciasis", "Leishmaniasis", "African Trypanosomiasis", "Bancroftian filariasis"],
+    "answer": "Bancroftian filariasis",
+    "explanation": "Bancroftian filariasis is transmitted by mosquitoes, unlike the other diseases which involve different vectors."
+  },
+  {
+    "id": 8,
+    "question": "Man is intermediate host for",
+    "options": ["Guinea Worm", "Filaria", "Malaria", "Kala-azar"],
+    "answer": "Malaria",
+    "explanation": "Humans are the intermediate host for malaria, where Plasmodium develops, with mosquitoes as the definitive host."
+  },
+  {
+    "id": 9,
+    "question": "When an insect serves as an intermediary in a disease such as Sleeping sickness, the transmission is:",
+    "options": ["Indirect contact", "Direct contact", "Vector-borne", "Airborne"],
+    "answer": "Vector-borne",
+    "explanation": "Sleeping sickness is transmitted by the tsetse fly, making it a vector-borne disease."
+  },
+  {
+    "id": 10,
+    "question": "The following description (more complex organism, unicellular, mobile, lack cell wall and may change shape several times), fits which group of infective agents?",
+    "options": ["Viruses", "Bacteria", "Protozoa", "Fungi"],
+    "answer": "Protozoa",
+    "explanation": "Protozoa are unicellular, mobile, lack cell walls, and can change shape, fitting the described characteristics."
+  },
+  {
+    "id": 11,
+    "question": "These infective agents are hard to control, can hide inside human cell, alter the host chromosome leading to the development of malignant cells or cancer:",
+    "options": ["Bacteria", "Protozoa", "Viruses", "Fungi"],
+    "answer": "Viruses",
+    "explanation": "Viruses can integrate into host DNA, causing cellular changes that may lead to cancer, and are difficult to control."
+  },
+  {
+    "id": 12,
+    "question": "What parasite produces Iron deficiency anemia in human?",
+    "options": ["Ascaris lumbricoides", "Necator americanus", "Strongyloides stercoralis", "Trichuris trichiura"],
+    "answer": "Necator americanus",
+    "explanation": "Necator americanus, a hookworm, causes iron deficiency anemia due to blood loss in the intestines."
+  },
+  {
+    "id": 13,
+    "question": "A clinical situation in which immune system or a therapy failed to eliminate all the Plasmodium spp infected erythrocytes and numbers of Plasmodium spp in RBCs begin to increase again with subsequent clinical symptoms is called:",
+    "options": ["Latency", "Re-infection", "Relapse", "Recrudescence"],
+    "answer": "Recrudescence",
+    "explanation": "Recrudescence occurs when Plasmodium persists in the blood, leading to a resurgence of symptoms."
+  },
+  {
+    "id": 14,
+    "question": "A virus is an infectious agent made of nucleic acid and a protein coat which:",
+    "options": ["Is not alive and has no energy", "Is obligate intracellular", "Has either DNA or RNA", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Viruses are non-living outside hosts, obligate intracellular, and contain either DNA or RNA."
+  },
+  {
+    "id": 15,
+    "question": "Infectious proteins that are abnormally folded are called:",
+    "options": ["Prions", "Enveloped viruses", "Antigens", "Naked viruses"],
+    "answer": "Prions",
+    "explanation": "Prions are misfolded proteins that can cause diseases like Creutzfeldt-Jakob disease."
+  },
+  {
+    "id": 16,
+    "question": "An inflammation of the parotid salivary glands is indicative of which viral disease?",
+    "options": ["Measles", "Mumps", "Rubella", "HIV"],
+    "answer": "Mumps",
+    "explanation": "Mumps virus causes parotitis, characterized by inflamed parotid salivary glands."
+  },
+  {
+    "id": 17,
+    "question": "During which of the following stages of HIV infection would you expect to see three or more opportunistic infections or rare cancers layered?",
+    "options": ["Acute primary", "Asymptomatic", "Symptomatic", "AIDS"],
+    "answer": "AIDS",
+    "explanation": "AIDS is characterized by multiple opportunistic infections and cancers due to severe immune suppression."
+  },
+  {
+    "id": 18,
+    "question": "Genital warts are caused by:",
+    "options": ["Papilloma virus", "Chlamydia", "Herpes Simplex virus"],
+    "answer": "Papilloma virus",
+    "explanation": "Human papillomavirus (HPV) causes genital warts, a sexually transmitted condition."
+  },
+  {
+    "id": 19,
+    "question": "What happens during the 'incubation period'?",
+    "options": ["The virus is cleared from the body by the immune system", "Virus replication happens at an intracellular level", "This period commonly lasts for a few days", "This period commonly lasts for a few hours"],
+    "answer": "Virus replication happens at an intracellular level",
+    "explanation": "During the incubation period, the virus replicates within host cells before symptoms appear."
+  },
+  {
+    "id": 20,
+    "question": "Koplik's spots will develop in",
+    "options": ["HIV", "Measles", "Mumps", "Rubella"],
+    "answer": "Measles",
+    "explanation": "Koplik's spots, white spots in the mouth, are a hallmark of measles infection."
+  },
+  {
+    "id": 21,
+    "question": "Mycotoxins such as aflatoxins are produced by",
+    "options": ["Bacteria", "Fungi", "Worms", "Protozoans"],
+    "answer": "Fungi",
+    "explanation": "Fungi, such as Aspergillus species, produce mycotoxins like aflatoxins."
+  },
+  {
+    "id": 22,
+    "question": "Their Growth promoted by warmth and moisture;",
+    "options": ["Bacteria", "Fungi", "Viruses", "Protozoa"],
+    "answer": "Fungi",
+    "explanation": "Fungi thrive in warm, moist environments, promoting their growth."
+  },
+  {
+    "id": 23,
+    "question": "Fungi producing mycelium are called;",
+    "options": ["Moulds", "Filamentous fungi", "Both a and b", "Yeasts"],
+    "answer": "Both a and b",
+    "explanation": "Fungi with mycelium are called moulds or filamentous fungi, distinguishing them from yeasts."
+  },
+  {
+    "id": 24,
+    "question": "Candidiasis is caused by;",
+    "options": ["Candida floccosum", "Aspergillus spp.", "Candida albicans", "M. floccosum"],
+    "answer": "Candida albicans",
+    "explanation": "Candida albicans is the primary cause of candidiasis, affecting mucous membranes and skin."
+  },
+  {
+    "id": 25,
+    "question": "They often spread through spores;",
+    "options": ["Bacteria", "Protozoa", "Virus", "Fungi"],
+    "answer": "Fungi",
+    "explanation": "Fungi commonly reproduce and spread via spores, unlike the other agents."
+  },
+  {
+    "id": 26,
+    "question": "Candida causes the following;",
+    "options": ["Tinea versicolor", "Vaginal thrush", "Thrush of the mouth", "Both b & c"],
+    "answer": "Both b & c",
+    "explanation": "Candida albicans causes vaginal thrush and oral thrush, but not tinea versicolor, which is caused by Malassezia."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following arguments makes the most sense?",
+    "options": ["Parasites want to kill off the host as soon as possible", "Parasites tend to feed off their host little by little", "Parasite/host relationship is like a predator and a prey", "None of the above"],
+    "answer": "Parasites tend to feed off their host little by little",
+    "explanation": "Parasites typically sustain themselves by slowly feeding on the host to ensure their own survival."
+  },
+  {
+    "id": 28,
+    "question": "Filariasis occurs when worms end up blocking?",
+    "options": ["The digestive system", "Circulatory system", "Lymphatic system", "Nervous system"],
+    "answer": "Lymphatic system",
+    "explanation": "Filariasis, caused by filarial worms, leads to lymphatic system blockage, causing swelling like elephantiasis."
+  },
+  {
+    "id": 29,
+    "question": "Hemorrhagic viruses often kill by what mechanism?",
+    "options": ["Systemic shock", "Dehydration", "Bleeding to death", "Pneumonia"],
+    "answer": "Bleeding to death",
+    "explanation": "Hemorrhagic viruses, like Ebola, cause severe bleeding, leading to death from blood loss."
+  },
+  {
+    "id": 30,
+    "question": "A human protozoa that causes infection of the reproductive tracts of men and women, attaching to the mucous membranes and causing inflammation.",
+    "options": ["Entamoeba histolytica", "Neisseria gonococcus", "Trichomonas vaginalis", "Clamydia trachomatis"],
+    "answer": "Trichomonas vaginalis",
+    "explanation": "Trichomonas vaginalis, a protozoan, infects reproductive tracts, causing inflammation and discharge."
+  },
+  {
+    "id": 31,
+    "question": "Incubation period varies between plasmodium species, and species has longest incubation period.",
+    "options": ["P.falciparum", "P malariae", "P.ovale", "P.vivax"],
+    "answer": "P malariae",
+    "explanation": "Plasmodium malariae has the longest incubation period, often ranging from 18 to 40 days or more."
+  },
+  {
+    "id": 32,
+    "question": "A client is diagnosed with AIDS. The nurse recognizes that an opportunistic infection is present when the oral cavity is examined and white plaques are discovered on the mucosa. What does this finding most likely represent?",
+    "options": ["Oral herpes", "Syphilitic chancre", "Candida albicans", "Human papillomavirus"],
+    "answer": "Candida albicans",
+    "explanation": "White plaques in the oral cavity of an AIDS patient are typically due to Candida albicans, causing oral thrush."
+  },
+  {
+    "id": 33,
+    "question": "Coronavirus derives its name from:",
+    "options": ["Circle appearance", "Concave shape", "Crown-like appearance", "Cold resistance"],
+    "answer": "Crown-like appearance",
+    "explanation": "Coronaviruses are named for their crown-like spikes visible under a microscope."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following chemicals can be used as a cure to Coronavirus?",
+    "options": ["Amoxicillin", "Macrolide antibiotics", "ACT", "No specific drug has been found yet"],
+    "answer": "No specific drug has been found yet",
+    "explanation": "As of the exam date, no specific cure for COVID-19 was universally established, though treatments were used."
+  },
+  {
+    "id": 35,
+    "question": "Which virus causes Rabies?",
+    "options": ["Orthromyxo virus", "Paramyxo virus", "Rhabdo virus", "Toga viruses"],
+    "answer": "Rhabdo virus",
+    "explanation": "Rabies is caused by a rhabdovirus, specifically the rabies virus."
+  },
+  {
+    "id": 36,
+    "question": "The study of fungi is:",
+    "options": ["Parasitology", "Fungulogy", "Mycology", "Virology"],
+    "answer": "Mycology",
+    "explanation": "Mycology is the scientific study of fungi."
+  },
+  {
+    "id": 37,
+    "question": "Malaria is endemic in many countries and is reported to be a leading cause of death from the parasitic infection killing millions of people globally, the most number of deaths occurring in Africa. Which of the following age group of people have a high fatality rate?",
+    "options": ["10-15 years of age", "Under 5 years of age", "Above 40 years of age", "10-25 years of age"],
+    "answer": "Under 5 years of age",
+    "explanation": "Children under 5 are most vulnerable to malaria due to underdeveloped immunity, leading to high fatality rates."
+  },
+  {
+    "id": 38,
+    "question": "A person can develop severe infections when infected with P. falciparum, the parasites grow and infect mainly red blood cells and liver cells and in severe cases may even invade the central nervous system. The malaria complications can lead to hemolytic anemia and symptoms like jaundice, discoloration of the urine can be seen, which of the following name have been given to this type of complication caused by P. falciparum?",
+    "options": ["Rift valley fever", "Yellow fever", "Blackwater fever", "Kala azar"],
+    "answer": "Blackwater fever",
+    "explanation": "Blackwater fever, associated with P. falciparum, involves hemolytic anemia, jaundice, and dark urine."
+  },
+  {
+    "id": 39,
+    "question": "The malaria drug Hydroxychloroquine was falsely reported to be effective in which type of viral infection recently?",
+    "options": ["Hepatitis B", "Influenza", "Covid-19", "Swine flu"],
+    "answer": "Covid-19",
+    "explanation": "Hydroxychloroquine was controversially promoted for COVID-19, but studies showed limited efficacy."
+  },
+  {
+    "id": 40,
+    "question": "Each of the following statements concerning Ascaris lumbricoides is correct except:",
+    "options": ["Ascaris lumbricoides is one of the largest nematodes", "Ascaris lumbricoides can cause pneumonia", "Both dogs and cats are intermediate host of Ascaris lumbricoides", "A lumbricoides is transmitted by ingestion of eggs"],
+    "answer": "Both dogs and cats are intermediate host of Ascaris lumbricoides",
+    "explanation": "Ascaris lumbricoides infects humans directly via egg ingestion; dogs and cats are not intermediate hosts."
+  },
+  {
+    "id": 41,
+    "question": "The following are preventive measures against COVID-19 except;",
+    "options": ["Vaccination", "Social distancing", "Wearing of Mask", "None of the above"],
+    "answer": "None of the above",
+    "explanation": "All listed measures—vaccination, social distancing, and masks—are preventive for COVID-19."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is a symptom of COVID-19?",
+    "options": ["Chronic Obstructive Pulmonary Disease (COPD)", "Asthma", "Pneumonia", "Bronchitis"],
+    "answer": "Pneumonia",
+    "explanation": "Pneumonia is a common complication and symptom of severe COVID-19, unlike the other chronic conditions."
+  },
+  {
+    "id": 43,
+    "question": "Coronaviruses are a large family of viruses that cause illnesses ranging from the common cold to diseases such as MERS, SARS and COVID, what does SARS mean?",
+    "options": ["Slow acute release syndrome", "Slow acute respiratory syndrome", "Severe acute respiratory syndrome", "Severe acute release syndrome"],
+    "answer": "Severe acute respiratory syndrome",
+    "explanation": "SARS stands for Severe Acute Respiratory Syndrome, a disease caused by a coronavirus."
+  },
+  {
+    "id": 44,
+    "question": "Which organization declared Coronavirus as a global health emergency?",
+    "options": ["United Nations", "Centre for Disease Control (CDC)", "WHO", "IMF"],
+    "answer": "WHO",
+    "explanation": "The World Health Organization (WHO) declared COVID-19 a global health emergency in 2020."
+  },
+  {
+    "id": 45,
+    "question": "AIDS is caused by",
+    "options": ["Rhabdovirus", "Rotavirus", "Retrovirus", "Prion"],
+    "answer": "Retrovirus",
+    "explanation": "AIDS is caused by HIV, a retrovirus that attacks the immune system."
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is not useful in the treatment of viruses?",
+    "options": ["Acyclovir", "Interferon", "Antibiotics", "Antibodies"],
+    "answer": "Antibiotics",
+    "explanation": "Antibiotics target bacteria, not viruses, making them ineffective for viral infections."
+  },
+  {
+    "id": 47,
+    "question": "They tend to mutate or change during replication making it very difficult for a host to develop adequate immunity.",
+    "options": ["Bacteria", "Fungi", "Viruses", "Protozoa"],
+    "answer": "Viruses",
+    "explanation": "Viruses frequently mutate during replication, complicating immunity development, as seen with influenza."
+  },
+  {
+    "id": 48,
+    "question": "Human papillomavirus causes the following tumors:",
+    "options": ["Hepatic carcinoma", "Cervical cancer", "Condyloma acuminatum", "Plantar wart"],
+    "answer": "Cervical cancer",
+    "explanation": "Human papillomavirus (HPV) is a major cause of cervical cancer, particularly high-risk strains."
+  },
+  {
+    "id": 49,
+    "question": "A 56-year-old man from Kumasi presented with abdominal pain and a mass in the right upper quadrant. He reported that he had been previously diagnosed with viral hepatitis several years ago. What is the most likely underlying viral infection?",
+    "options": ["Hepatitis A virus", "Hepatitis B virus", "Hepatitis D virus", "Hepatitis E virus"],
+    "answer": "Hepatitis B virus",
+    "explanation": "Hepatitis B virus is associated with chronic liver disease and liver cancer, likely causing the mass."
+  },
+  {
+    "id": 50,
+    "question": "A 40-year-old man returned from a two-week trip in Kenya. 14 days later, he presented with fever, headaches and widespread maculopapular rash. What is the most likely diagnosis?",
+    "options": ["Typhoid fever", "Acute HIV infection", "Schistosomiasis", "Strongyloidiasis"],
+    "answer": "Acute HIV infection",
+    "explanation": "Fever, headache, and rash post-travel suggest acute HIV infection, common in high-prevalence areas like Kenya."
+  },
+  {
+    "id": 51,
+    "question": "Some remain latent after invasion; they enter the host cells and multiply very slowly or not at all until some later time",
+    "options": ["Bacteria", "Fungi", "Viruses", "Protozoa"],
+    "answer": "Viruses",
+    "explanation": "Viruses like herpes can remain latent in host cells, reactivating later."
+  },
+  {
+    "id": 52,
+    "question": "The protective covering for the genetic material of viruses",
+    "options": ["RNA", "Envelope", "Capsid", "Capsomere"],
+    "answer": "Capsid",
+    "explanation": "The capsid is the protein coat that protects the genetic material of viruses."
+  },
+  {
+    "id": 53,
+    "question": "Hepatitis viruses attack the liver in human, resulting in the following, except?",
+    "options": ["Jaundice", "Dark urine", "Light colored faeces", "Maculopapular rash"],
+    "answer": "Maculopapular rash",
+    "explanation": "Hepatitis causes jaundice, dark urine, and light feces, but maculopapular rash is not typical."
+  },
+  {
+    "id": 54,
+    "question": "COVID-19 cutting short the lives of people worldwide is?",
+    "options": ["An outbreak", "An epidemic", "A Pandemic", "An Endemic"],
+    "answer": "A Pandemic",
+    "explanation": "COVID-19 was declared a pandemic due to its global spread across multiple continents."
+  },
+  {
+    "id": 55,
+    "question": "MMR vaccine protects against what three diseases?",
+    "options": ["Malaria, Measles and Rabies", "Measles, Mumps and Rabies", "Measles, Mumps and Rubella", "Malaria, Measles and Rubella"],
+    "answer": "Measles, Mumps and Rubella",
+    "explanation": "The MMR vaccine protects against measles, mumps, and rubella."
+  },
+  {
+    "id": 56,
+    "question": "Touching an infectious lesion or sexual intercourse is an example of?",
+    "options": ["Indirect contact", "Direct contact", "Vector-borne", "Nosocomial"],
+    "answer": "Direct contact",
+    "explanation": "Touching lesions or sexual intercourse involves direct contact transmission of pathogens."
+  },
+  {
+    "id": 57,
+    "question": "What is the primary cause of Amoebiasis / Amoebic dysentery?",
+    "options": ["T. Gondii", "E. Histolytica", "P. Carinii", "None of the Above"],
+    "answer": "E. Histolytica",
+    "explanation": "Entamoeba histolytica is the protozoan causing amoebiasis or amoebic dysentery."
+  },
+  {
+    "id": 58,
+    "question": "A Nursing student recently visited an area where she had been warned about eye disease transmitted by insects. She was in a river area, and despite her best efforts she received a lot of insect bites. She discovered lately that she has visual impairment and the sensation that something is moving in her eye. She also has some subcutaneous nodules. If her infection was acquired by insect bite, what is the most likely causative agent?",
+    "options": ["Wuchereria bancrofti", "Dracunculus medinensis", "Plasmodium falciparum", "Onchocerca volvulus"],
+    "answer": "Onchocerca volvulus",
+    "explanation": "Onchocerca volvulus, transmitted by blackflies, causes river blindness with eye symptoms and nodules."
+  },
+  {
+    "id": 59,
+    "question": "Ama was diagnosed with having a light-colored, 20.5-cm long roundworm and eggs consistent with Ascaris. How did she acquire this infection?",
+    "options": ["Ingestion of water containing larvae", "Skin penetration by larvae", "Insect bite", "Ingestion of food contaminated with the eggs"],
+    "answer": "Ingestion of food contaminated with the eggs",
+    "explanation": "Ascaris lumbricoides is acquired by ingesting eggs from contaminated food or soil."
+  },
+  {
+    "id": 60,
+    "question": "What is the most likely reason for a Plasmodium vivax relapsing?",
+    "options": ["P.vivax has a significant level of drug resistance", "P.vivax has a persistent erythrocytic stage", "P.vivax has a persistent preerythrocytic stage (hypnozoite)", "No known reason for relapse in P.vivax"],
+    "answer": "P.vivax has a persistent preerythrocytic stage (hypnozoite)",
+    "explanation": "P. vivax relapses due to hypnozoites, dormant liver stages that can reactivate."
+  }
+]
