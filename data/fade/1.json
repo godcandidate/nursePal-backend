@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "On your way to work, you came across a drunkard who has drunk an irritant poison. As a First Aider, what would be your first line of action?",
+    "options": ["Give an emetic until copious vomiting has occurred", "Don't give anything by mouth", "Give copious water", "Give copious milk"],
+    "answer": "Don't give anything by mouth",
+    "explanation": "For a drunkard who has ingested an irritant poison, the safest initial action is to avoid giving anything by mouth to prevent further irritation or complications."
+  },
+  {
+    "id": 2,
+    "question": "Mr. Lamina was involved in RTA and sustained fracture of the lower end of the radius. His diagnosis would be?",
+    "options": ["Depressed Fracture", "Pott's fracture", "Compound or Open Fracture", "Colles' fracture"],
+    "answer": "Colles' fracture",
+    "explanation": "A fracture of the lower end of the radius is typically a Colles' fracture, characterized by a distal radius fracture with dorsal displacement."
+  },
+  {
+    "id": 3,
+    "question": "Mr. Kojo Mensah fell and was diagnosed as having a state of cardiovascular dysfunction resulting in a generalized inadequacy of tissue perfusion relating to metabolic requirements. Which of the following would fit his diagnosis?",
+    "options": ["Alkalosis", "Acidosis", "Asthma", "Shock"],
+    "answer": "Shock",
+    "explanation": "Shock is a state of cardiovascular dysfunction leading to inadequate tissue perfusion, matching the described condition."
+  },
+  {
+    "id": 4,
+    "question": "Mr. Kubala had tissue hypoxia that led to progressive failure of his cellular metabolism, eventually resulting in multiple organ dysfunction or death. What could be his diagnosis?",
+    "options": ["Diabetes mellitus", "Hypertension", "Shock", "Alkalosis"],
+    "answer": "Shock",
+    "explanation": "Tissue hypoxia causing cellular metabolism failure and organ dysfunction is characteristic of shock."
+  },
+  {
+    "id": 5,
+    "question": "One of the following can cause shock except?",
+    "options": ["Poison ingestion", "Allergic reaction", "Burns injury", "Blood pH of 7.4"],
+    "answer": "Blood pH of 7.4",
+    "explanation": "A blood pH of 7.4 is normal and does not cause shock, whereas the other options can lead to various types of shock."
+  },
+  {
+    "id": 6,
+    "question": "During a road traffic accident Mr. Kpolley sustained open fracture of his left femur and bleed profusely. What type of shock is he likely to suffer from?",
+    "options": ["Anaphylactic shock", "Hypovolemia shock", "Septic shock", "Neurogenic shock"],
+    "answer": "Hypovolemia shock",
+    "explanation": "Profuse bleeding from an open femur fracture leads to hypovolemic shock due to significant blood loss."
+  },
+  {
+    "id": 7,
+    "question": "Madam Saamaa 29 years, gravid 2 para 1 had a chronic progressive condition that affect the body's ability to metabolise glucose which led to high sugar level in her blood. She is suffering from....",
+    "options": ["Hypertension", "Shock", "Gestational diabetes", "Diabetes type I"],
+    "answer": "Gestational diabetes",
+    "explanation": "A pregnant woman with high blood sugar levels is likely suffering from gestational diabetes, which affects glucose metabolism during pregnancy."
+  },
+  {
+    "id": 8,
+    "question": "Mr. Radaas Rummaa who works in the brewery industry sustained damage to the skin and mucous membrane because of heat causing denature of the skin and mucus membrane. As a first aider what would be your diagnosis?",
+    "options": ["Asphyxia", "Shock", "Burns and scalds", "Dermatitis"],
+    "answer": "Burns and scalds",
+    "explanation": "Heat-induced damage to the skin and mucous membranes is diagnosed as burns or scalds."
+  },
+  {
+    "id": 9,
+    "question": "A known diabetic patient was found on the roadside in a comatose state with the presence of ketone bodies (acetone) in the breath and in the urine. He might be suffering from.",
+    "options": ["Insulin coma", "Burns coma", "Hypertension coma", "Diabetic coma"],
+    "answer": "Diabetic coma",
+    "explanation": "Ketone bodies in breath and urine in a comatose diabetic patient indicate diabetic ketoacidosis, leading to a diabetic coma."
+  },
+  {
+    "id": 10,
+    "question": "Baby Akwasi accidentally had hot soup poured on him and sustained injury of the anterior abdomen. What type of injury is this?",
+    "options": ["Wound injury", "Burns injury", "Scalding", "Hypertension"],
+    "answer": "Scalding",
+    "explanation": "Injury from hot liquid like soup is classified as scalding, a type of thermal injury."
+  },
+  {
+    "id": 11,
+    "question": "After Mr Panmumi slammed his chest against the steering wheel during road traffic accident, blood escaped from the bloodvessel into the chest cavity. In diagnosing, the first aider's impression would be?",
+    "options": ["Concealed haemorrhage", "External haemorrhage", "Arterial haemorrhage", "Mixed haemorrhage"],
+    "answer": "Concealed haemorrhage",
+    "explanation": "Blood escaping into the chest cavity is an internal, concealed haemorrhage."
+  },
+  {
+    "id": 12,
+    "question": "A patient with a known myocardial infarction was found in a shock state on the roadside. As a degree nurse what impression would you have to direct you give a first aid treatment?",
+    "options": ["Hypovolumic shock", "External shock", "Cardiogenic shock", "Hypervolemic shock"],
+    "answer": "Cardiogenic shock",
+    "explanation": "Myocardial infarction can lead to cardiogenic shock due to impaired heart pump function."
+  },
+  {
+    "id": 13,
+    "question": "Madam Yaa Mansh after injecting herself with the usual dose of insulin forgot to eat and this resulted in coma. This coma would be?",
+    "options": ["Diabetic coma", "Hyperglycaemic coma", "Insulin coma", "Hypertension"],
+    "answer": "Insulin coma",
+    "explanation": "A coma from insulin overdose without eating is an insulin coma due to severe hypoglycemia."
+  },
+  {
+    "id": 14,
+    "question": "Mr Homiah's fracture occurred on the part of the bone where the force or violence was applied. The cause could be?",
+    "options": ["Direct violence", "Indirect violence", "Muscular twist", "Over reaction"],
+    "answer": "Direct violence",
+    "explanation": "A fracture at the site of applied force is caused by direct violence."
+  },
+  {
+    "id": 15,
+    "question": "His bleeding is in a form of steady stream with little pressure and the bleeding is from the part of the wound farthest away from the heart.",
+    "options": ["Mixed bleeding", "Internal bleeding", "Arterial bleeding", "Venous bleeding"],
+    "answer": "Venous bleeding",
+    "explanation": "Steady stream bleeding with low pressure from the distal wound part indicates venous bleeding."
+  },
+  {
+    "id": 16,
+    "question": "Mr. Sammawin an electrician, fell from a height and sustained cardiac tamponade. He would have which type of shock?",
+    "options": ["Hypervolemic shock", "Hypovolumic shock", "Obstructive shock", "Neurogenic shock"],
+    "answer": "Obstructive shock",
+    "explanation": "Cardiac tamponade causes obstructive shock by impairing heart filling and output."
+  },
+  {
+    "id": 17,
+    "question": "This injury occurs when the body is exposed to extreme cold, causing constriction of the blood-vessels making inadequate blood supply reaching the part to supply warmth and vitality.",
+    "options": ["Sunburns", "Frost bite", "Sun bite", "Nerve bite"],
+    "answer": "Frost bite",
+    "explanation": "Frostbite is caused by extreme cold leading to vasoconstriction and tissue damage."
+  },
+  {
+    "id": 18,
+    "question": "Treatment of burns and scalds are relatively the same.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Burns and scalds are treated similarly, focusing on cooling, covering, and preventing infection."
+  },
+  {
+    "id": 19,
+    "question": "A junior colleague asked you to mention the causes of fracture to enable do her assignment, which of the under listed would you not include...",
+    "options": ["Direct violence", "Scalding", "Indirect violence", "Over twisting of the muscles"],
+    "answer": "Scalding",
+    "explanation": "Scalding causes burns, not fractures, unlike the other options."
+  },
+  {
+    "id": 20,
+    "question": "Kwadwo Manu had a dog bite, this wound would be?",
+    "options": ["Incised wound", "Lacerated wound", "Abrasion wound", "Punctured wound"],
+    "answer": "Punctured wound",
+    "explanation": "A dog bite typically causes a punctured wound due to the penetration of teeth."
+  },
+  {
+    "id": 21,
+    "question": "In dog bite the casualty is likely to get which of the following?",
+    "options": ["Hydrophobia", "Photophobia", "Agraphobia", "Agoraphobia"],
+    "answer": "Hydrophobia",
+    "explanation": "Hydrophobia is associated with rabies, a potential risk from dog bites."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following actions should the first aider NOT perform in dog bite?",
+    "options": ["Send the patient to hospital as quickly as possible.", "Wash the wound thoroughly with warm water", "The constriction should be tight to occlude arteries.", "Keep the part low by hanging down and allow the wound to bleed freely"],
+    "answer": "The constriction should be tight to occlude arteries.",
+    "explanation": "Tight arterial constriction is not recommended for dog bites as it may cause tissue damage."
+  },
+  {
+    "id": 23,
+    "question": "When tissue is burnt or scalded there is damage to the capillaries with escape of fluid into the tissue. This is likely to cause one of the following",
+    "options": ["Gangrene", "Blister formation", "Syndrome", "Frost bite"],
+    "answer": "Blister formation",
+    "explanation": "Burns or scalds cause capillary damage, leading to fluid leakage and blister formation."
+  },
+  {
+    "id": 24,
+    "question": "This shock causes abnormality of the peripheral circulation",
+    "options": ["Hypovolumic shock", "Distributive shock", "Cardiogenic shock", "Anaphylactic shock"],
+    "answer": "Distributive shock",
+    "explanation": "Distributive shock, such as anaphylactic or septic shock, affects peripheral circulation."
+  },
+  {
+    "id": 25,
+    "question": "The first line of action of care for snake bite is to?",
+    "options": ["Keep the patient absolutely at rest", "Give analgesics", "Tie a constriction tightly round the limb on the side of the wound nearest to the heart", "Suck the area of bite"],
+    "answer": "Keep the patient absolutely at rest",
+    "explanation": "Keeping the patient at rest minimizes venom spread, the priority in snake bite first aid."
+  },
+  {
+    "id": 26,
+    "question": "In treating a casualty with bee bite, the first aider should?",
+    "options": ["Cover the wound with grinded eggshell", "Cover the wound with disinfectant", "Cover the wound with Vaseline", "Open the wound and expose the sting"],
+    "answer": "Open the wound and expose the sting",
+    "explanation": "Removing the sting by exposing it is the first step in treating a bee sting."
+  },
+  {
+    "id": 27,
+    "question": "Baby Yaw accidentally swallowed a twenty-pesewa coin. Which of the following action would you not take?",
+    "options": ["Giving an emetic", "Sending baby to the hospital", "Reassuring the parents", "Examining the baby"],
+    "answer": "Giving an emetic",
+    "explanation": "Inducing vomiting with an emetic is dangerous as it may cause choking or aspiration."
+  },
+  {
+    "id": 28,
+    "question": "A condition where expiration is much prolonged and is accompanied by a characteristic wheezing is called?",
+    "options": ["Bronchiectasis", "Asthma", "Whooping cough", "Haematemesis"],
+    "answer": "Asthma",
+    "explanation": "Asthma is characterized by prolonged expiration and wheezing due to airway obstruction."
+  },
+  {
+    "id": 29,
+    "question": "In giving first aid treatment to a casualty with severe burns, the first line of action is?",
+    "options": ["Cover the wound", "Send the casualty to the hospital", "Check the air way", "Give analgesics"],
+    "answer": "Check the air way",
+    "explanation": "Ensuring a patent airway is the priority in severe burns to address potential inhalation injuries."
+  },
+  {
+    "id": 30,
+    "question": "Mr. Kwao sustained burns injury of the head, both upper limbs and the anterior trunk. What would be the percentage using the Wallace Rule of Nine?",
+    "options": ["36%", "40%", "63%", "45%"],
+    "answer": "45%",
+    "explanation": "Using the Rule of Nine: head (9%), both upper limbs (18%), anterior trunk (18%) = 9 + 18 + 18 = 45%."
+  },
+  {
+    "id": 31,
+    "question": "Mr. Aboami's burns injuries were seen with blisters. What degree of burns injury is that?",
+    "options": ["First degree", "Second degree", "Third degree", "Fourth degree"],
+    "answer": "Second degree",
+    "explanation": "Second-degree burns are characterized by blisters due to damage to the epidermis and dermis."
+  },
+  {
+    "id": 32,
+    "question": "After a scratch blood ooze from the wound with very little force behind it and the colour is neither bright red nor dark red in colour. The blood is coming from.",
+    "options": ["Artery", "Vein", "Capillary", "Femoral artery"],
+    "answer": "Capillary",
+    "explanation": "Capillary bleeding is characterized by slow oozing with a color that is neither bright nor dark red."
+  },
+  {
+    "id": 33,
+    "question": "In large, lacerated wounds, all the three types of blood vessels may be involved which is called?",
+    "options": ["Mixed bleeding", "Vein bleeding", "Capillary bleeding", "Artery bleeding"],
+    "answer": "Mixed bleeding",
+    "explanation": "Large lacerated wounds can involve arteries, veins, and capillaries, resulting in mixed bleeding."
+  },
+  {
+    "id": 34,
+    "question": "When a bone is broken, the pieces which are formed because of the fracture are called?",
+    "options": ["Oblique", "Transverse", "Impacted", "Fragments"],
+    "answer": "Fragments",
+    "explanation": "Broken bone pieces resulting from a fracture are referred to as fragments."
+  },
+  {
+    "id": 35,
+    "question": "This is a complication of burns as a result of over secretion of hydrochloric acid in severe burns injury",
+    "options": ["Rodent' ulcer", "Curling's ulcer", "Pressure ulcer", "Buruli ulcer"],
+    "answer": "Curling's ulcer",
+    "explanation": "Curling's ulcer is a stress ulcer associated with severe burns due to increased hydrochloric acid secretion."
+  },
+  {
+    "id": 36,
+    "question": "A resuscitation measures taken to revive a person in a state of clinical death or severe injury is called.",
+    "options": ["Oxygen", "Reanimations", "Iv fluid administration", "Hydrocortisone"],
+    "answer": "Reanimations",
+    "explanation": "Reanimation refers to resuscitation efforts to revive someone in clinical death or severe injury."
+  },
+  {
+    "id": 37,
+    "question": "The first aider should note all signs and symptoms, this means he/she should be",
+    "options": ["Tactful", "Resourceful", "Observant", "Empathetic"],
+    "answer": "Observant",
+    "explanation": "A first aider must be observant to accurately note all signs and symptoms for proper assessment."
+  },
+  {
+    "id": 38,
+    "question": "Mr Furgeson a third-year student informed a first-year student that she should make the best use of things at hand in first aid care. This means ...",
+    "options": ["Gentle", "Resourceful", "Cheerful", "Empathetic"],
+    "answer": "Resourceful",
+    "explanation": "Using available items effectively in first aid requires resourcefulness."
+  },
+  {
+    "id": 39,
+    "question": "If the first aider is to determine the nature of the case requiring attention necessary for the efficient and intelligent treatment. What interpretation would you give to this?",
+    "options": ["Sympathetic", "Treatment", "Diagnosis", "Observant"],
+    "answer": "Diagnosis",
+    "explanation": "Determining the nature of a case for treatment involves making a diagnosis."
+  },
+  {
+    "id": 40,
+    "question": "Unconscious casualty should be placed in which of the following position.",
+    "options": ["Recumbent", "Prone", "Lithotomy", "Dorsal"],
+    "answer": "Prone",
+    "explanation": "An unconscious casualty is typically placed in the prone recovery position to maintain airway patency."
+  },
+  {
+    "id": 41,
+    "question": "Mr Kugungula with injury of the femur is now unconscious, what action would you NOT take.",
+    "options": ["Not to be given anything to drink", "Put in recumbent position with head turned to one side.", "Avoid further injury by handling the patient properly", "Organize unskilled onlookers to assist in any way possible"],
+    "answer": "Organize unskilled onlookers to assist in any way possible",
+    "explanation": "Unskilled onlookers may cause harm, so they should not be involved in assisting."
+  },
+  {
+    "id": 42,
+    "question": "The acronym AVPU means what to the first aider?",
+    "options": ["Alert, Vim, Pressure and Unresponsiveness", "Assessment, Verbal, Pain, and Unresponsiveness", "Assessment, Verbal, Pain, and Unconsciousness", "Alert, Verbal, Pain, and Unresponsiveness"],
+    "answer": "Alert, Verbal, Pain, and Unresponsiveness",
+    "explanation": "AVPU is a scale used to assess consciousness: Alert, Verbal response, Pain response, Unresponsiveness."
+  },
+  {
+    "id": 43,
+    "question": "All the following are painful stimuli applied to elicit responsiveness in casualties EXCEPT?",
+    "options": ["Ear lobe squeeze", "Nail bed squeeze", "Sternal rub", "Lip prick"],
+    "answer": "Lip prick",
+    "explanation": "Lip prick is not a standard painful stimulus for assessing responsiveness, unlike the others."
+  },
+  {
+    "id": 44,
+    "question": "Details of a casualty's condition you may assess using your senses that is: Look, listen, feel, and smell means?",
+    "options": ["Diagnosis", "Symptoms", "Sign", "Treatment"],
+    "answer": "Sign",
+    "explanation": "Observable details assessed through senses are signs of a casualty’s condition."
+  },
+  {
+    "id": 45,
+    "question": "You were called to give first aid to a casualty with nose bleeding. What diagnosis would you write when disposing off the casualty...",
+    "options": ["Hypertension", "Epistaxis", "Haematemesis", "Maleana"],
+    "answer": "Epistaxis",
+    "explanation": "Nose bleeding is medically termed epistaxis."
+  },
+  {
+    "id": 46,
+    "question": "Make sure the scene is NOT safe, and remember that your own personal safety is above all else",
+    "options": ["False", "True"],
+    "answer": "False",
+    "explanation": "The scene must be ensured to be safe for the first aider’s personal safety."
+  },
+  {
+    "id": 47,
+    "question": "On your way to school, a casualty you saw on the roadside was urinating blood. What impression would you form...",
+    "options": ["Haematemesis", "Haematuria", "Haemoptysis", "Hypertension"],
+    "answer": "Haematuria",
+    "explanation": "Blood in urine is termed haematuria, indicating a urinary tract issue."
+  },
+  {
+    "id": 48,
+    "question": "The act of applying a bandage or a bind to a part is called?",
+    "options": ["Application", "Bandage", "Bandaging", "Treatment"],
+    "answer": "Bandaging",
+    "explanation": "The process of applying a bandage is called bandaging."
+  },
+  {
+    "id": 49,
+    "question": "One of the following is NOT a function of bandage.",
+    "options": ["To provide warmth", "To arrest bleeding", "To correct deformity", "To provide function"],
+    "answer": "To provide function",
+    "explanation": "Bandages do not provide function but support, control bleeding, or provide warmth."
+  },
+  {
+    "id": 50,
+    "question": "A junior colleague, asked you where he should begin from when bandaging the extremities, what would be your response? Start from....",
+    "options": ["Proximal to distal", "Proximal to medial", "Distal to proximal", "Distal to medial"],
+    "answer": "Distal to proximal",
+    "explanation": "Bandaging extremities starts distally and moves proximally to ensure proper circulation."
+  },
+  {
+    "id": 51,
+    "question": "Provision of Full set of vitals, focus adjuncts; cardiac monitor, continues pulse oximetry, facilitate family persons are done in which stage of emergency care?",
+    "options": ["Primary survey", "Secondary survey", "Emergency care", "Unresponsiveness"],
+    "answer": "Secondary survey",
+    "explanation": "The secondary survey includes detailed assessments like vitals and monitoring after the primary survey."
+  },
+  {
+    "id": 52,
+    "question": "During assessment of the emergency patient. Which stage would you assess bilateral sounds of breath?",
+    "options": ["Airway", "Circulation", "Level of consciousness", "Breathing"],
+    "answer": "Breathing",
+    "explanation": "Bilateral breath sounds are assessed during the breathing stage of the primary survey."
+  },
+  {
+    "id": 53,
+    "question": "When nursing the emergency client, palpating the skin for temperature, moisture, and the briskness of capillary refill in the extremities is done during which period of assessment?",
+    "options": ["Circulation", "Airway", "Breathing", "Disability"],
+    "answer": "Circulation",
+    "explanation": "Skin temperature, moisture, and capillary refill are assessed during the circulation stage."
+  },
+  {
+    "id": 54,
+    "question": "During lottery of Mr. Quame Sharp who was involved in road traffic accident the doctor had decreased rectal tone, this means the client is possibly having?",
+    "options": ["Spinal cord injury", "Cerebral herniation", "Clonidine overdose", "Disability"],
+    "answer": "Spinal cord injury",
+    "explanation": "Decreased rectal tone is a sign of spinal cord injury affecting nerve function."
+  },
+  {
+    "id": 55,
+    "question": "Mr. Quao, a drunkard, reported at the emergency room with Wernicke-Korsakoff which of the following will the doctor prescribe for him?",
+    "options": ["Thiamine", "Nifedipine", "Clonidine", "Clexane"],
+    "answer": "Thiamine",
+    "explanation": "Wernicke-Korsakoff syndrome, often linked to alcoholism, is treated with thiamine (vitamin B1)."
+  },
+  {
+    "id": 56,
+    "question": "Pharmacologic therapy is directed at causes of altered levels of consciousness in emergencies, such as the administration of glucose for which condition?",
+    "options": ["Hypoglycaemia", "Hyperglycaemia", "Hypertension", "Hypotension"],
+    "answer": "Hypoglycaemia",
+    "explanation": "Glucose is administered to correct low blood sugar levels in hypoglycaemia."
+  },
+  {
+    "id": 57,
+    "question": "Nurse Boadiwaa delivered an asphyxiated baby due to opioid overdose to the mother before the baby was born. Which of the following medication would be given to the baby?",
+    "options": ["Naloxone", "Ampicillin", "Erythromycin", "Ketamine"],
+    "answer": "Naloxone",
+    "explanation": "Naloxone is used to reverse opioid-induced respiratory depression in newborns."
+  },
+  {
+    "id": 58,
+    "question": "As a nurse on the ED, when more than 100 accident victims are presented to the emergency department at a time, how would you explain it?",
+    "options": ["Multiple casualty incident", "Casualty mass", "Incident casualty", "Mass casualty incident"],
+    "answer": "Mass casualty incident",
+    "explanation": "A mass casualty incident involves a large number of victims overwhelming emergency resources."
+  },
+  {
+    "id": 59,
+    "question": "In a motor vehicle crash where several persons, but fewer than 10, sustaining injury are sent to the emergency department, it is said to be?",
+    "options": ["Mass patient incident", "Multiple casualty accident", "Accident casualty", "Casualty incident"],
+    "answer": "Multiple casualty accident",
+    "explanation": "A multiple casualty accident involves several but fewer victims, not overwhelming resources."
+  },
+  {
+    "id": 60,
+    "question": "Which agency is responsible for Industrial Disasters?",
+    "options": ["Ministry of Health", "Meteorological Department", "Ministry of Water Resources", "Ministry of Labour"],
+    "answer": "Ministry of Labour",
+    "explanation": "The Ministry of Labour oversees industrial safety and disaster management."
+  }
+]
