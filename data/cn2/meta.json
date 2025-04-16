@@ -2,6 +2,15 @@
   {
     "id": 0,
     "title": "Community Health Nursing II Practice",
-    "numberOfTests": 0
-  }
+    "numberOfTests": 2
+  },
+  ,
+  { "id": 1,
+    "title": "Test 1: Pasco 2022/2023 A",
+    "numberOfTests": 40
+  },
+  { "id": 2,
+  "title": "Test 2: Pasco 2022/2023 B",
+  "numberOfTests": 44
+}
 ]
