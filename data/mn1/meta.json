@@ -2,11 +2,16 @@
   {
     "id": 0,
     "title": "Medical Nursing I Practice",
-    "numberOfTests": 1
+    "numberOfTests": 2
   },
   {
     "id": 1,
     "title": "Test 1",
     "numberOfTests": 24
+  }, 
+    {
+    "id": 2,
+    "title": "Test 2: Pasco 2023/2022",
+    "numberOfTests": 60
   }
 ]
