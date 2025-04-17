@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "question": "A new nurse is posted to a health center and needs training on the cold chain system. What is the main goal of cold chain training for health workers?",
+    "options": ["To teach vaccine preparation", "To reduce the cost of vaccines", "To increase vaccine production", "To ensure vaccines remain effective and potent"],
+    "answer": "To ensure vaccines remain effective and potent",
+    "explanation": "Cold chain training ensures health workers maintain vaccines at proper temperatures to preserve their effectiveness and potency, critical for immunization success."
+  },
+  {
+    "id": 2,
+    "question": "Clients commonly nursed at home include all the following EXCEPT:",
+    "options": ["Diabetes mellitus patients", "HIV/AIDS patients", "Severe psychotic patient", "The aged"],
+    "answer": "Severe psychotic patient",
+    "explanation": "Diabetes, HIV/AIDS patients, and the aged can often be managed at home, but severe psychotic patients typically require specialized care in a clinical setting."
+  },
+  {
+    "id": 3,
+    "question": "In order to identify the health needs of clients and family in home, the nurse must do ALL the following activities EXCEPT:",
+    "options": ["Enhance the environment", "Inspect health care records", "Conduct physical examination", "Explain mission to the family"],
+    "answer": "Enhance the environment",
+    "explanation": "Identifying health needs involves inspecting records, conducting examinations, and explaining the mission, but enhancing the environment is not a direct step in this process."
+  },
+  {
+    "id": 4,
+    "question": "All the following factors can cause the decline of attendance at the under-five clinic EXCEPT:",
+    "options": ["Poor information dissemination", "Poor staff attitude at the clinic", "Coordinated service delivery", "Disrespecting clients suggestions"],
+    "answer": "Coordinated service delivery",
+    "explanation": "Coordinated service delivery improves attendance, while poor information, staff attitude, and disrespect can deter clients."
+  },
+  {
+    "id": 5,
+    "question": "The middle compartments of the home visiting bag include the following, EXCEPT:",
+    "options": ["Thermometer", "Gallipots", "Cord ligature", "Lotions"],
+    "answer": "Lotions",
+    "explanation": "The middle compartments typically include tools like thermometers, gallipots, and cord ligatures, but lotions are stored separately, often in side compartments."
+  },
+  {
+    "id": 6,
+    "question": "Which type of ice pack should be used in vaccine transportation to prevent freezing?",
+    "options": ["Cool (conditioned) ice packs", "Frozen ice packs", "Hot water bottles", "Dry ice"],
+    "answer": "Cool (conditioned) ice packs",
+    "explanation": "Cool (conditioned) ice packs, kept at around 0°C, prevent freezing while maintaining the required cold chain temperature for vaccines."
+  },
+  {
+    "id": 7,
+    "question": "A mother brings her 6-week-old infant to the CWC for immunization. She is unsure about which vaccines the baby should receive. Which vaccines are given at 6 weeks according to the Ghana Expanded Programme on Immunization (EPI)?",
+    "options": ["BCG, OPV-0", "MMR, Hepatitis A", "Pentavalent (DPT-HepB-Hib), OPV1, PCV-1, Rota-1", "Measles-Rubella, Yellow Fever"],
+    "answer": "Pentavalent (DPT-HepB-Hib), OPV1, PCV-1, Rota-1",
+    "explanation": "At 6 weeks, the Ghana EPI schedule includes the first doses of Pentavalent (DPT-HepB-Hib), OPV1, PCV-1, and Rota-1 vaccines."
+  },
+  {
+    "id": 8,
+    "question": "The following are challenges health workers encounter during special home visit EXCEPT:",
+    "options": ["Needs follow up cases' list", "Needs personnel and time", "Non traceable addresses", "Climatic conditions"],
+    "answer": "Needs follow up cases' list",
+    "explanation": "Challenges include personnel, time, addresses, and climate, but needing a follow-up list is a preparatory step, not a challenge during the visit."
+  },
+  {
+    "id": 9,
+    "question": "What is the best method for preventing needle stick injuries among healthcare workers?",
+    "options": ["Avoiding injections in infected patients", "Using gloves during procedures", "Washing hands after injections", "Proper disposal of needles in sharps containers"],
+    "answer": "Proper disposal of needles in sharps containers",
+    "explanation": "Proper disposal in sharps containers directly prevents needle stick injuries by ensuring needles are safely contained after use."
+  },
+  {
+    "id": 10,
+    "question": "What is the recommended age for the first dose of the measles-rubella vaccine in Ghana?",
+    "options": ["9 months", "18 months", "6 weeks", "2 years"],
+    "answer": "9 months",
+    "explanation": "The Ghana EPI schedule recommends the first dose of the measles-rubella vaccine at 9 months to ensure early protection."
+  },
+  {
+    "id": 11,
+    "question": "A 35-year-old office worker complains of back pain, wrist pain, and eye strain after working long hours at a computer. What is the most likely cause of his symptoms?",
+    "options": ["Malnutrition", "Viral infection", "Poor workplace ergonomics", "Psychological stress"],
+    "answer": "Poor workplace ergonomics",
+    "explanation": "Back pain, wrist pain, and eye strain from prolonged computer use are classic symptoms of poor ergonomics, such as improper chair height or screen position."
+  },
+  {
+    "id": 12,
+    "question": "A nurse working in a district hospital in Ghana accidentally pricks herself with a needle after administering an injection to a patient with hepatitis B. What is the most appropriate immediate step?",
+    "options": ["Squeeze the wound to remove the blood", "Apply antiseptic and ignore it", "Wait for symptoms to develop before seeking medical help", "Wash the area with soap and water"],
+    "answer": "Wash the area with soap and water",
+    "explanation": "Washing with soap and water is the immediate step to reduce infection risk, followed by reporting and seeking medical evaluation."
+  },
+  {
+    "id": 13,
+    "question": "On a routine home visit, Midwife Grace met the following clients. Which of them should she attend to first?",
+    "options": ["A pregnant woman who is six months pregnant", "A Diabetic client on treatment", "A 65-year-old lady", "A mother with a preterm baby"],
+    "answer": "A mother with a preterm baby",
+    "explanation": "A preterm baby requires urgent attention due to higher risks of complications, making this the priority over other clients."
+  },
+  {
+    "id": 14,
+    "question": "All the under listed are part of the occupational health laws in Ghana EXCEPT:",
+    "options": ["Environmental Protection Agency Act 1994 (Act 490)", "Ghana Labor Act 2003, Act 651", "Factories, Offices and Shops Act, LI 328", "Mining Regulations Act 1970 LI 656"],
+    "answer": "Environmental Protection Agency Act 1994 (Act 490)",
+    "explanation": "The EPA Act focuses on environmental protection, not occupational health, unlike the other laws which address workplace safety."
+  },
+  {
+    "id": 15,
+    "question": "Ghana is privy to all the International Conventions below concerning occupational health EXCEPT:",
+    "options": ["Convention 119 - Guarding Machinery (18/03/65)", "Convention 91 - Labour Inspection (02/07/59)", "Convention 120 - Hygiene (Commerce and Office) (21/11/66)", "Convention 115 - Radiation Protection Convention (07/11/61)"],
+    "answer": "Convention 91 - Labour Inspection (02/07/59)",
+    "explanation": "Ghana is privy to conventions like 119, 120, and 115, but there is no record of ratification for Convention 91 on Labour Inspection from 1959."
+  },
+  {
+    "id": 16,
+    "question": "Nurse Atsu is planning for a home visit. Which of these is she expected to do first?",
+    "options": ["Pack all needed equipment", "Have an objective for the visit", "Decide on the type of visit", "Documentation of activities"],
+    "answer": "Have an objective for the visit",
+    "explanation": "Having a clear objective for the visit ensures the nurse plans effectively and addresses the specific needs of the client."
+  },
+  {
+    "id": 17,
+    "question": "What is the primary goal of growth monitoring at the CWC?",
+    "options": ["To detect early signs of malnutrition and intervene promptly", "To provide family planning education", "To track immunization schedules only", "To provide vaccinations"],
+    "answer": "To detect early signs of malnutrition and intervene promptly",
+    "explanation": "Growth monitoring at the CWC aims to identify malnutrition early to allow timely interventions, ensuring healthy child development."
+  },
+  {
+    "id": 18,
+    "question": "The following are objectives of child welfare clinic EXCEPT:",
+    "options": ["Monitoring of health workers", "Detection of abnormalities", "Reduction in infant mortality", "Prevention of diseases"],
+    "answer": "Monitoring of health workers",
+    "explanation": "Child welfare clinics focus on child health outcomes like detecting abnormalities, reducing mortality, and preventing diseases, not monitoring health workers."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is the best opportunity to observe family dynamics in Family-Nurse contact?",
+    "options": ["Written communication", "Home visits", "Clinic consultation", "Group conference"],
+    "answer": "Home visits",
+    "explanation": "Home visits allow nurses to observe family dynamics in their natural environment, providing insights into relationships and living conditions."
+  },
+  {
+    "id": 20,
+    "question": "What color change in the VVM indicates that a vaccine has been exposed to high temperatures for too long?",
+    "options": ["White to blue", "Red to brown", "Light to dark", "Yellow to green"],
+    "answer": "Light to dark",
+    "explanation": "Vaccine Vial Monitors (VVMs) change from light to dark when exposed to excessive heat over time, indicating potential vaccine degradation."
+  },
+  {
+    "id": 21,
+    "question": "The middle compartments of the home visiting bag include the following EXCEPT:",
+    "options": ["Medicine", "Lotions", "Dropper", "Weighing scale"],
+    "answer": "Weighing scale",
+    "explanation": "The middle compartments typically hold smaller items like medicines, lotions, and droppers, while a weighing scale is too large and stored separately."
+  },
+  {
+    "id": 22,
+    "question": "The underlisted are requirements for carrying out routine home visit EXCEPT:",
+    "options": ["Small note book", "Transport to site", "Visiting bag", "Area register"],
+    "answer": "Area register",
+    "explanation": "A small notebook, transport, and visiting bag are essential for a home visit, but an area register is typically used for planning, not during the visit."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is an advantage of a home visit? It",
+    "options": ["allows sharing of experience among people with similar health problems", "provides an opportunity to assess the home situation", "prepare the family to provide for health needs of its members", "allows the nurse to provide care to a greater number of people"],
+    "answer": "provides an opportunity to assess the home situation",
+    "explanation": "Home visits allow nurses to assess the home environment directly, which is a key advantage for tailoring care to the family's needs."
+  },
+  {
+    "id": 24,
+    "question": "A nurse at a district hospital in Ghana notices that the refrigerator used to store vaccines is not cooling properly. The temperature log indicates fluctuations between 0°C and 12°C. What is the recommended temperature range for storing most vaccines in the cold chain?",
+    "options": ["-10°C to 0°C", "2°C to 8°C", "-5°C to 5°C", "0°C to 10°C"],
+    "answer": "2°C to 8°C",
+    "explanation": "Most vaccines should be stored at 2°C to 8°C to maintain potency, as per standard cold chain guidelines."
+  }
+]
