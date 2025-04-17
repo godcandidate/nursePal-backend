@@ -11,7 +11,6 @@ interface ITokenOptions {
   secure?: boolean;
 }
 
-
 // parse enviroment variables to integrates with fallback values
 const accessTokenExpire = parseInt(
   process.env.ACCESS_TOKEN_EXPIRE || "300",
@@ -43,11 +42,9 @@ export const sendToken = (user: any, statusCode: number, res: Response) => {
   const accessToken = user.SignAccessToken();
   const refreshToken = user.SignRefreshToken();
 
-  res.cookie("access_token", accessToken, accessTokenOptions);
-  res.cookie("refresh_token", refreshToken, refreshTokenOptions);
-
   res.status(statusCode).json({
     success: true,
     name: user.name,
+    accessToken,
   });
 };

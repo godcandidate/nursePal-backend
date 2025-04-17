@@ -5,23 +5,26 @@ import jwt, { JwtPayload } from "jsonwebtoken";
 
 import "dotenv/config";
 
-
-
 //Authenticate user
 export const isAuthenticated = CatchAsyncError(
   async (req: Request, res: Response, next: NextFunction) => {
     try {
-      const access_token = req.cookies.access_token;
+      // Access the authorization header to validate the request
+      const authHeader = req.headers.authorization;
 
-      if (!access_token) {
-        return next(
-          new ErrorHandler("Please login to access this resource", 400)
-        );
+      // made changes to fit swagger api docs
+      if (!authHeader /*|| !authHeader.startsWith("Bearer ")*/) {
+        return res.status(401).json({
+          error: "Authentication Failed, login to access this resource",
+        });
       }
+
+      // Extract the token from the authorization header
+      const token = authHeader.split(" ")[1];
 
       //Verify token
       const decoded = jwt.verify(
-        access_token,
+        token,
         process.env.ACCESS_TOKEN as string
       ) as JwtPayload;
       if (!decoded) {
@@ -33,7 +36,7 @@ export const isAuthenticated = CatchAsyncError(
       if (!user) {
         return next(new ErrorHandler("User not found", 400));
       }
-      req.user  = user as any;
+      req.user = user as any;
       next();
     } catch (error: any) {
       return next(new ErrorHandler(error.message, 400));
