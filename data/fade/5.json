@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of bandaging as described in the presentation?",
+    "options": ["To decorate the injured area", "To retain dressings and splints in position", "To increase blood flow", "To cool the injured part"],
+    "answer": "To retain dressings and splints in position",
+    "explanation": "Bandaging is primarily used to secure dressings and splints, ensuring they stay in place to protect wounds or support injuries."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a use of bandaging mentioned in the presentation?",
+    "options": ["To prevent swelling", "To correct deformity", "To arrest haemorrhage", "To disinfect the wound"],
+    "answer": "To disinfect the wound",
+    "explanation": "Bandaging helps with swelling, deformity correction, and haemorrhage control, but disinfection is achieved through antiseptics, not bandages."
+  },
+  {
+    "id": 3,
+    "question": "What should a nurse do first before starting the bandaging procedure?",
+    "options": ["Apply the bandage", "Explain the procedure to the patient", "Secure the bandage with a knot", "Unroll the entire bandage"],
+    "answer": "Explain the procedure to the patient",
+    "explanation": "Explaining the procedure to the patient is a key initial step to ensure cooperation and reduce anxiety before bandaging begins."
+  },
+  {
+    "id": 4,
+    "question": "Why should hands be washed before and after bandaging?",
+    "options": ["To cool the hands", "To avoid spreading contamination", "To make the bandage stick better", "To warm the hands"],
+    "answer": "To avoid spreading contamination",
+    "explanation": "Washing hands prevents the spread of contamination from hair, wound debris, or other sources during the bandaging process."
+  },
+  {
+    "id": 5,
+    "question": "What should be done with a soiled dressing after removal?",
+    "options": ["Reuse it after washing", "Dispose of it into a clinical waste bag", "Leave it on the patient", "Store it for later use"],
+    "answer": "Dispose of it into a clinical waste bag",
+    "explanation": "Soiled dressings should be disposed of safely in a clinical waste bag to prevent infection and maintain hygiene."
+  },
+  {
+    "id": 6,
+    "question": "When bandaging a limb, where should the nurse stand?",
+    "options": ["Behind the patient", "To the side of the patient", "In front of the hand or foot", "At the patient’s head"],
+    "answer": "In front of the hand or foot",
+    "explanation": "Standing in front of the hand or foot ensures proper visibility and control while applying the bandage to a limb."
+  },
+  {
+    "id": 7,
+    "question": "How should the ends of a bandage be secured according to the presentation?",
+    "options": ["With clips or pins", "With a reef knot or adhesive tape", "With elastic bands", "By leaving them loose"],
+    "answer": "With a reef knot or adhesive tape",
+    "explanation": "The presentation advises securing bandage ends with a reef knot or adhesive tape, avoiding clips, pins, or elastic bands."
+  },
+  {
+    "id": 8,
+    "question": "What direction should bandaging follow on a limb?",
+    "options": ["From above downwards", "From within outwards and below upwards", "In a circular motion only", "From the middle to the sides"],
+    "answer": "From within outwards and below upwards",
+    "explanation": "Bandaging from within outwards and below upwards helps maintain circulation and prevents swelling in the limb."
+  },
+  {
+    "id": 9,
+    "question": "What should be applied before bandaging to prevent vein compression?",
+    "options": ["A pad of cotton wool", "A layer of gauze", "An adhesive strip", "A plastic sheet"],
+    "answer": "A pad of cotton wool",
+    "explanation": "A pad of cotton wool prevents vein compression while allowing the bandage to be applied firmly."
+  },
+  {
+    "id": 10,
+    "question": "Why should the foot be included when bandaging a lower limb?",
+    "options": ["To make the bandage tighter", "To prevent swelling", "To cover more area", "To support the ankle only"],
+    "answer": "To prevent swelling",
+    "explanation": "Including the foot in the bandage helps prevent distal swelling, especially in the lower limb."
+  },
+  {
+    "id": 11,
+    "question": "When bandaging extremities, where should you start?",
+    "options": ["From the proximal end", "From the middle of the limb", "From the distal end", "From the joint"],
+    "answer": "From the distal end",
+    "explanation": "Starting from the distal end prevents pocketing of blood and ensures proper circulation."
+  },
+  {
+    "id": 12,
+    "question": "What indicates that a bandage is too tight on a limb?",
+    "options": ["Redness of the skin", "Swelling or numbness of fingers", "Increased warmth", "Patient comfort"],
+    "answer": "Swelling or numbness of fingers",
+    "explanation": "Swelling, numbness, or blueness of nails indicates restricted blood flow, meaning the bandage is too tight."
+  },
+  {
+    "id": 13,
+    "question": "When bandaging the elbow, what should be done to avoid constricting blood vessels?",
+    "options": ["Keep the elbow straight", "Place a large pad of cotton wool around the joint", "Use a tight bandage", "Avoid padding the joint"],
+    "answer": "Place a large pad of cotton wool around the joint",
+    "explanation": "A large pad of cotton wool around the elbow joint prevents constriction of blood vessels during bandaging."
+  },
+  {
+    "id": 14,
+    "question": "What type of bandage is commonly used for first-aid workers and slings?",
+    "options": ["Roller bandage", "Triangular bandage", "T-bandage", "Many tail bandage"],
+    "answer": "Triangular bandage",
+    "explanation": "Triangular bandages are versatile and commonly used in first aid for slings and improvised support."
+  },
+  {
+    "id": 15,
+    "question": "When applying a triangular bandage as a sling, where should the apex be positioned?",
+    "options": ["At the wrist", "Just above the elbow", "At the shoulder", "At the neck"],
+    "answer": "Just above the elbow",
+    "explanation": "The apex of the triangular bandage should be just above the elbow to ensure proper support for the arm."
+  },
+  {
+    "id": 16,
+    "question": "What type of knot is used when applying a chest bandage with a triangular bandage?",
+    "options": ["Granny knot", "Square knot", "Surgeon’s knot", "Clove hitch"],
+    "answer": "Square knot",
+    "explanation": "A square knot (reef knot) is used to secure the folded base and apex of a chest bandage at the back."
+  },
+  {
+    "id": 17,
+    "question": "How should a cravat bandage for the eye be applied to avoid covering the uninjured eye?",
+    "options": ["Tie both cravats over the uninjured eye", "Pull the second cravat up and away from the uninjured eye", "Cover both eyes completely", "Tie the first cravat over the uninjured eye"],
+    "answer": "Pull the second cravat up and away from the uninjured eye",
+    "explanation": "The second cravat is tied and pulled up to ensure the uninjured eye remains uncovered while securing the bandage."
+  },
+  {
+    "id": 18,
+    "question": "What is the purpose of a roller bandage as described in the presentation?",
+    "options": ["To cover the head only", "To secure dressings on limbs and other body parts", "To apply perineal dressings", "To support the chest only"],
+    "answer": "To secure dressings on limbs and other body parts",
+    "explanation": "Roller bandages are versatile and used to secure dressings on limbs, head, and trunk areas."
+  },
+  {
+    "id": 19,
+    "question": "What type of bandage is specifically used for perineal dressings?",
+    "options": ["Triangular bandage", "Roller bandage", "T-bandage", "Many tail bandage"],
+    "answer": "T-bandage",
+    "explanation": "A T-bandage, shaped like the letter T, is designed for perineal dressings, securing around the waist and between the thighs."
+  },
+  {
+    "id": 20,
+    "question": "What is the purpose of a many tail bandage?",
+    "options": ["To support a fractured limb", "For frequent dressing changes on the chest or abdomen", "To cover the head", "To secure a sling"],
+    "answer": "For frequent dressing changes on the chest or abdomen",
+    "explanation": "A many tail bandage is used for chest and abdomen dressings that require frequent changes due to its design with multiple tails."
+  },
+  {
+    "id": 21,
+    "question": "Why is a triangular bandage preferred over a roller bandage in first aid?",
+    "options": ["It is more expensive", "It can be quickly and efficiently applied", "It is less versatile", "It is harder to apply"],
+    "answer": "It can be quickly and efficiently applied",
+    "explanation": "Triangular bandages can be applied quickly, folded into various shapes, and improvised in emergencies, making them ideal for first aid."
+  },
+  {
+    "id": 22,
+    "question": "What type of knot is recommended to secure the ends of a bandage?",
+    "options": ["Granny knot", "Reef knot", "Clove hitch", "Slip knot"],
+    "answer": "Reef knot",
+    "explanation": "A reef knot is reliable, lies flat, and can be easily untied, making it ideal for securing bandage ends."
+  },
+  {
+    "id": 23,
+    "question": "What material is recommended for bandaging to arrest haemorrhage?",
+    "options": ["Gauze", "Crepe bandage", "Rubber bandage", "Calico"],
+    "answer": "Rubber bandage",
+    "explanation": "Rubber bandages are specifically noted for their use in arresting haemorrhage due to their compressive properties."
+  },
+  {
+    "id": 24,
+    "question": "What width of roller bandage is typically used for fingers and thumbs?",
+    "options": ["2 inches", "3 inches", "3/4 to 1 inch", "4 inches"],
+    "answer": "3/4 to 1 inch",
+    "explanation": "A 3/4 to 1-inch roller bandage is appropriate for smaller areas like fingers and thumbs."
+  },
+  {
+    "id": 25,
+    "question": "What is a key characteristic of a good roller bandage application?",
+    "options": ["It is very tight for better support", "It entirely covers the dressing and is not cumbersome", "It leaves the dressing exposed", "It is applied loosely"],
+    "answer": "It entirely covers the dressing and is not cumbersome",
+    "explanation": "A good roller bandage should cover the dressing fully, be firm but not too tight, and not hinder the patient’s comfort."
+  },
+  {
+    "id": 26,
+    "question": "What bandaging pattern is used for parts of equal dimensions, such as fingers?",
+    "options": ["Figure-of-eight", "Simple spiral", "Spica", "Recurrent"],
+    "answer": "Simple spiral",
+    "explanation": "A simple spiral is used for parts of equal dimensions, like fingers, due to its consistent upward slope."
+  },
+  {
+    "id": 27,
+    "question": "Which bandaging pattern is suitable for flexed joints like the elbow or knee?",
+    "options": ["Circular turn", "Reversed spiral", "Divergent spica", "Simple spiral"],
+    "answer": "Divergent spica",
+    "explanation": "A divergent spica is designed for flexed joints like the elbow or knee, accommodating their angles."
+  },
+  {
+    "id": 28,
+    "question": "What type of sling is used to support the elbow as well as the arm and forearm?",
+    "options": ["Small arm sling", "Triangular sling", "Large arm sling", "Collar-and-cuff sling"],
+    "answer": "Large arm sling",
+    "explanation": "A large arm sling supports the elbow, arm, and forearm, making it suitable for injuries like forearm fractures."
+  },
+  {
+    "id": 29,
+    "question": "What is the purpose of a tubular gauze bandage?",
+    "options": ["To apply firm pressure", "To secure dressings without restricting movement", "To cover the entire trunk", "To support a fractured limb"],
+    "answer": "To secure dressings without restricting movement",
+    "explanation": "Tubular gauze is used to secure dressings while allowing movement, applied easily with an applicator."
+  },
+  {
+    "id": 30,
+    "question": "When applying a spica bandage to the shoulder, what pattern should be formed on the chest and back?",
+    "options": ["A circular pattern", "A fan pattern", "A spiral pattern", "A straight line"],
+    "answer": "A fan pattern",
+    "explanation": "For an ascending spica on the shoulder, the turns spread out towards the injured shoulder, forming a fan pattern on the chest and back."
+  }
+]
