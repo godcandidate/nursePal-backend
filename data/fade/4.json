@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary focus of emergency nursing as defined in the presentation?",
+    "options": ["Long-term care of chronic illnesses", "Care during the critical phase of illness or injury", "Routine health checkups", "Post-surgical rehabilitation"],
+    "answer": "Care during the critical phase of illness or injury",
+    "explanation": "Emergency nursing focuses on caring for patients in the critical phase of illness or injury, requiring prompt attention to avoid long-term disability or death (PAGE2)."
+  },
+  {
+    "id": 2,
+    "question": "What skill is an emergency nurse expected to be adept at?",
+    "options": ["Scheduling appointments", "Discerning life-threatening problems", "Conducting research studies", "Managing hospital finances"],
+    "answer": "Discerning life-threatening problems",
+    "explanation": "Emergency nurses are skilled at discerning life-threatening problems and prioritizing care, as mentioned in the definition (PAGE2, PAGE4)."
+  },
+  {
+    "id": 3,
+    "question": "How is trauma defined in the presentation?",
+    "options": ["A chronic condition requiring long-term care", "A sudden or severe physical or emotional injury", "A minor injury that heals quickly", "A psychological disorder"],
+    "answer": "A sudden or severe physical or emotional injury",
+    "explanation": "Trauma is defined as a sudden or severe physical or emotional injury that could be life-threatening and requires immediate attention (PAGE5)."
+  },
+  {
+    "id": 4,
+    "question": "What is the role of Emergency Medical Services (EMS) according to the presentation?",
+    "options": ["Providing long-term care", "Establishing and coordinating emergency care", "Conducting routine checkups", "Managing hospital budgets"],
+    "answer": "Establishing and coordinating emergency care",
+    "explanation": "EMS is responsible for establishing, regulating, coordinating, and monitoring emergency care components (PAGE6)."
+  },
+  {
+    "id": 5,
+    "question": "Which level of EMT is the highest according to the presentation?",
+    "options": ["Emergency Medical Technician (EMT)", "Emergency Medical Technician Intermediate (EMTI)", "Emergency Medical Technician Paramedic (EMTP)", "Ambulance Technician"],
+    "answer": "Emergency Medical Technician Paramedic (EMTP)",
+    "explanation": "EMTPs are the highest level of EMTs, with advanced education in anatomy, physiology, and medical procedures (PAGE9)."
+  },
+  {
+    "id": 6,
+    "question": "What is one of the golden rules of emergency care mentioned in the presentation?",
+    "options": ["Leave the victim alone", "Care for the most serious injuries first", "Focus on minor injuries first", "Assume obvious injuries are the only ones"],
+    "answer": "Care for the most serious injuries first",
+    "explanation": "The golden rules include caring for the most serious injuries first to prioritize life-saving interventions (PAGE10)."
+  },
+  {
+    "id": 7,
+    "question": "What is the first step in the four basic steps for emergencies?",
+    "options": ["Administer medications", "Know the facility", "Perform a secondary assessment", "Call the doctor immediately"],
+    "answer": "Know the facility",
+    "explanation": "Knowing the facility, including the location of emergency resources like fire extinguishers and defibrillators, is the first step (PAGE11)."
+  },
+  {
+    "id": 8,
+    "question": "What is a responsibility of nurses during an emergency as per the presentation?",
+    "options": ["Avoiding patient interaction", "Deciding when to call the doctor", "Focusing only on secondary assessments", "Ignoring family concerns"],
+    "answer": "Deciding when to call the doctor",
+    "explanation": "Nurses are responsible for deciding when to call the doctor, coordinating care, and performing assessments (PAGE12)."
+  },
+  {
+    "id": 9,
+    "question": "What drug is used in emergencies to treat low heart rate or antidote for cholinergic overdose?",
+    "options": ["Epinephrine", "Atropine Sulphate", "Heparin", "Lorazepam"],
+    "answer": "Atropine Sulphate",
+    "explanation": "Atropine Sulphate is used for low heart rate and as an antidote for cholinergic drug overdose or mushroom poisoning (PAGE16)."
+  },
+  {
+    "id": 10,
+    "question": "What is the first action in the Emergency Action Principles?",
+    "options": ["Perform a secondary assessment", "Survey the scene for hazards", "Check the patient’s history", "Administer pain relief"],
+    "answer": "Survey the scene for hazards",
+    "explanation": "The first step is to survey the scene for hazards, ensuring safety before proceeding with care (PAGE20)."
+  },
+  {
+    "id": 11,
+    "question": "What does the 'A' in the ABCDE mnemonic of the primary assessment stand for?",
+    "options": ["Allergies", "Airway", "Assessment", "Activity"],
+    "answer": "Airway",
+    "explanation": "The 'A' in ABCDE stands for Airway, evaluated with simultaneous cervical spine protection in trauma patients (PAGE25)."
+  },
+  {
+    "id": 12,
+    "question": "What odor might indicate diabetic ketoacidosis during the initial assessment?",
+    "options": ["Fishy smell", "Bitter almonds", "Ketones on the breath", "Sweat-like odor"],
+    "answer": "Ketones on the breath",
+    "explanation": "The smell of ketones on the breath is associated with diabetic ketoacidosis, as noted in the presentation (PAGE24)."
+  },
+  {
+    "id": 13,
+    "question": "What should be done if the airway is partially or totally obstructed during assessment?",
+    "options": ["Proceed to breathing assessment", "Perform immediate intervention to restore patency", "Wait for the obstruction to clear naturally", "Ignore the obstruction"],
+    "answer": "Perform immediate intervention to restore patency",
+    "explanation": "Immediate intervention, such as head tilt chin lift or suctioning, is required to restore airway patency (PAGE28)."
+  },
+  {
+    "id": 14,
+    "question": "What should be assessed during the breathing component of the primary assessment?",
+    "options": ["Blood pressure", "Rate and pattern of breathing", "Pupil size", "Body temperature"],
+    "answer": "Rate and pattern of breathing",
+    "explanation": "Breathing assessment includes evaluating the rate, pattern, chest rise, and work of breathing (PAGE30)."
+  },
+  {
+    "id": 15,
+    "question": "What intervention might be used to support breathing if it is ineffective?",
+    "options": ["Assisted ventilation with a bag-mask device", "Administering pain relief", "Checking blood pressure", "Performing a CT scan"],
+    "answer": "Assisted ventilation with a bag-mask device",
+    "explanation": "If breathing is absent or ineffective, assisted ventilation using a bag-mask device is employed (PAGE31)."
+  },
+  {
+    "id": 16,
+    "question": "What is assessed during the circulation component of the primary assessment?",
+    "options": ["Level of consciousness", "Skin color and capillary refill", "Pupil reactivity", "Respiratory rate"],
+    "answer": "Skin color and capillary refill",
+    "explanation": "Circulation assessment includes checking skin color, temperature, moisture, and capillary refill (PAGE33)."
+  },
+  {
+    "id": 17,
+    "question": "What does the AVPU mnemonic assess in the disability component?",
+    "options": ["Airway patency", "Level of consciousness", "Breathing rate", "Circulation status"],
+    "answer": "Level of consciousness",
+    "explanation": "The AVPU mnemonic is a rapid tool to assess the patient’s level of consciousness during the disability component (PAGE36)."
+  },
+  {
+    "id": 18,
+    "question": "What Glasgow Coma Scale score indicates a severe coma?",
+    "options": ["15", "10", "3", "7"],
+    "answer": "3",
+    "explanation": "A Glasgow Coma Scale score of 3 indicates a severe coma, while 15 is the maximum score (PAGE39)."
+  },
+  {
+    "id": 19,
+    "question": "What pupil finding might indicate an opiate overdose during the disability assessment?",
+    "options": ["Dilated, reactive pupils", "Pinpoint pupils", "Dilated, unreactive pupils", "Unequal pupils"],
+    "answer": "Pinpoint pupils",
+    "explanation": "Pinpoint pupils are a diagnostic implication of opiate, cholinergic, or clonidine overdose (PAGE40)."
+  },
+  {
+    "id": 20,
+    "question": "What is the purpose of the exposure component in the primary assessment?",
+    "options": ["To measure vital signs", "To examine for underlying signs of illness or injury", "To assess breathing", "To check the patient’s history"],
+    "answer": "To examine for underlying signs of illness or injury",
+    "explanation": "Exposure involves removing clothing to examine for signs of illness or injury while maintaining privacy and preventing heat loss (PAGE45)."
+  },
+  {
+    "id": 21,
+    "question": "What is included in the secondary assessment according to the presentation?",
+    "options": ["Airway management only", "Full set of vital signs and head-to-toe assessment", "Circulation assessment only", "Administering medications"],
+    "answer": "Full set of vital signs and head-to-toe assessment",
+    "explanation": "The secondary assessment includes vital signs, pain assessment, history, and a head-to-toe examination (PAGE48)."
+  },
+  {
+    "id": 22,
+    "question": "Why is temperature measurement mandatory for all ED patients?",
+    "options": ["To check for allergies", "It may be the only clue of a significant medical problem", "To assess circulation", "To determine medication dosage"],
+    "answer": "It may be the only clue of a significant medical problem",
+    "explanation": "Deviation from normal temperature can indicate significant medical issues, making it mandatory for all ED patients (PAGE52)."
+  },
+  {
+    "id": 23,
+    "question": "What does the 'A' in the AMPLE mnemonic stand for when gathering historical data?",
+    "options": ["Airway", "Allergies", "Assessment", "Activity"],
+    "answer": "Allergies",
+    "explanation": "The AMPLE mnemonic includes Allergies, Medications, Past health history, Last meal, and Events leading to the illness/injury (PAGE56)."
+  },
+  {
+    "id": 24,
+    "question": "What is a life-threatening breathing problem mentioned in the presentation?",
+    "options": ["Mild cough", "Tension pneumothorax", "Sore throat", "Allergic rhinitis"],
+    "answer": "Tension pneumothorax",
+    "explanation": "Tension pneumothorax is listed as a life-threatening breathing problem that requires immediate intervention (PAGE61)."
+  },
+  {
+    "id": 25,
+    "question": "What is a potential complication of the Trendelenburg position in emergency care?",
+    "options": ["Improved circulation", "Dyspnea and hypoventilation", "Reduced pain", "Enhanced oxygenation"],
+    "answer": "Dyspnea and hypoventilation",
+    "explanation": "The Trendelenburg position can cause dyspnea, hypoventilation, and atelectasis, and its effects are short-lived (PAGE64)."
+  },
+  {
+    "id": 26,
+    "question": "What should be looked for during the head, skull, and face assessment in trauma patients?",
+    "options": ["Blood pressure changes", "Lacerations and raccoon eyes", "Respiratory rate", "Body temperature"],
+    "answer": "Lacerations and raccoon eyes",
+    "explanation": "The head, skull, and face assessment includes looking for lacerations, ecchymosis, and signs like raccoon eyes (PAGE70)."
+  },
+  {
+    "id": 27,
+    "question": "What intervention might be prepared for a patient with a tension pneumothorax during the chest assessment?",
+    "options": ["Administering pain relief", "Needle decompression", "Checking blood pressure", "Performing a CT scan"],
+    "answer": "Needle decompression",
+    "explanation": "Needle decompression is an intervention prepared for tension pneumothorax during the chest assessment (PAGE74)."
+  },
+  {
+    "id": 28,
+    "question": "What is one of the 6 P’s to assess for compartment syndrome in extremities?",
+    "options": ["Pressure", "Pallor", "Performance", "Position"],
+    "answer": "Pallor",
+    "explanation": "The 6 P’s for compartment syndrome include Pulses, Pain, Paralysis, Paresthesia, Pallor, and Plaintiff (PAGE80)."
+  },
+  {
+    "id": 29,
+    "question": "What is the first-line treatment for managing an agitated or violent patient in the ED?",
+    "options": ["Immediate use of intramuscular medications", "Verbal attempts to calm the patient", "Physical restraints", "Surgical intervention"],
+    "answer": "Verbal attempts to calm the patient",
+    "explanation": "The least invasive measure, such as verbal attempts to calm the patient, should be tried first to manage agitation (PAGE92)."
+  },
+  {
+    "id": 30,
+    "question": "What oral medication is suggested for managing psychotic agitation in the ED?",
+    "options": ["Lorazepam", "Risperidone", "Epinephrine", "Atropine"],
+    "answer": "Risperidone",
+    "explanation": "Risperidone, 2 mg, is recommended as an oral antipsychotic for managing psychotic agitation, often with lorazepam (PAGE94)."
+  }
+]
