@@ -33,5 +33,10 @@
   "id": "fade",
   "title": "First Aid, Disaster, and Emergency Nursing",
   "description": "Study of first aid principles, disaster preparedness, and emergency nursing care essential for handling critical situations in healthcare settings."
+},
+{
+"id": "ana1",
+"title": "Anatomy 1",
+"description": "Study of the structure and organization of the human body, including the skeletal, muscular, and nervous systems, providing a foundational understanding of human anatomy."
 }
 ]
