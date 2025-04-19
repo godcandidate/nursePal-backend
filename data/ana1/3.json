@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What are the two main anatomical divisions of the nervous system?",
+    "options": ["Afferent and efferent", "Central and peripheral", "Somatic and autonomic", "Sympathetic and parasympathetic"],
+    "answer": "Central and peripheral",
+    "explanation": "The nervous system is anatomically divided into the central nervous system (CNS), which includes the brain and spinal cord, and the peripheral nervous system (PNS), which includes all neural tissues outside the CNS (PAGE4)."
+  },
+  {
+    "id": 2,
+    "question": "What is the primary function of the afferent division of the PNS?",
+    "options": ["Carries motor commands to effectors", "Brings sensory information to the CNS", "Coordinates voluntary responses", "Regulates involuntary responses"],
+    "answer": "Brings sensory information to the CNS",
+    "explanation": "The afferent division of the PNS brings information to the CNS from receptors in body tissues and organs, detecting changes in the environment (PAGE5)."
+  },
+  {
+    "id": 3,
+    "question": "Which subdivision of the efferent division controls skeletal muscle?",
+    "options": ["Autonomic nervous system (ANS)", "Somatic nervous system (SNS)", "Sympathetic division", "Parasympathetic division"],
+    "answer": "Somatic nervous system (SNS)",
+    "explanation": "The somatic nervous system (SNS), a subdivision of the efferent division, controls skeletal muscle movements (PAGE6)."
+  },
+  {
+    "id": 4,
+    "question": "What would be the effect of damage to the afferent division of the PNS?",
+    "options": ["Loss of motor control", "Inability to process sensory information", "Increased reflex activity", "Enhanced autonomic responses"],
+    "answer": "Inability to process sensory information",
+    "explanation": "Damage to the afferent division would prevent sensory information from reaching the CNS, impairing the ability to process sensory input (PAGE7)."
+  },
+  {
+    "id": 5,
+    "question": "What is the primary functional unit of the nervous system?",
+    "options": ["Neuroglia", "Neurons", "Synapses", "Effectors"],
+    "answer": "Neurons",
+    "explanation": "Neurons are the basic functional units of the nervous system, responsible for communication with other cells (PAGE7)."
+  },
+  {
+    "id": 6,
+    "question": "Which part of a neuron receives signals coming into the cell body?",
+    "options": ["Axon", "Dendrites", "Axon terminals", "Nissl bodies"],
+    "answer": "Dendrites",
+    "explanation": "Dendrites are projections from the neuron cell body that receive signals coming into the cell (PAGE8)."
+  },
+  {
+    "id": 7,
+    "question": "Why can’t most CNS neurons be replaced if destroyed?",
+    "options": ["They lack dendrites", "They lack centrioles", "They are myelinated", "They are unipolar"],
+    "answer": "They lack centrioles",
+    "explanation": "Most CNS neurons lack centrioles, which prevents them from dividing and being replaced if destroyed (PAGE9)."
+  },
+  {
+    "id": 8,
+    "question": "Which type of neuron is most common in the CNS?",
+    "options": ["Unipolar neurons", "Bipolar neurons", "Multipolar neurons", "Sensory neurons"],
+    "answer": "Multipolar neurons",
+    "explanation": "Multipolar neurons, with two or more dendrites and a single axon, are the most common type in the CNS, including all motor neurons controlling skeletal muscles (PAGE10)."
+  },
+  {
+    "id": 9,
+    "question": "What type of neurons are most sensory neurons classified as?",
+    "options": ["Multipolar neurons", "Unipolar neurons", "Bipolar neurons", "Interneurons"],
+    "answer": "Unipolar neurons",
+    "explanation": "Most sensory neurons are unipolar, with dendrites and axons continuous and the cell body off to one side (PAGE10)."
+  },
+  {
+    "id": 10,
+    "question": "Which neuroglial cells maintain the blood-brain barrier in the CNS?",
+    "options": ["Oligodendrocytes", "Microglia", "Astrocytes", "Ependymal cells"],
+    "answer": "Astrocytes",
+    "explanation": "Astrocytes, the largest and most numerous neuroglia in the CNS, maintain the blood-brain barrier, isolating the CNS from general circulation (PAGE14)."
+  },
+  {
+    "id": 11,
+    "question": "What is the role of oligodendrocytes in the CNS?",
+    "options": ["Produce cerebrospinal fluid", "Engulf pathogens", "Form myelin around axons", "Support neuron cell bodies"],
+    "answer": "Form myelin around axons",
+    "explanation": "Oligodendrocytes produce myelin, an insulating wrapping around CNS axons, with gaps called nodes of Ranvier (PAGE14)."
+  },
+  {
+    "id": 12,
+    "question": "Which neuroglial cell in the PNS covers every axon?",
+    "options": ["Satellite cells", "Schwann cells", "Astrocytes", "Microglia"],
+    "answer": "Schwann cells",
+    "explanation": "Schwann cells cover every axon in the PNS, either forming myelin around one segment or encircling several unmyelinated axons (PAGE17)."
+  },
+  {
+    "id": 13,
+    "question": "What are bundles of axons called in the CNS?",
+    "options": ["Nerves", "Tracts", "Ganglia", "Nuclei"],
+    "answer": "Tracts",
+    "explanation": "In the CNS, bundles of axons are called tracts, which form larger groups called columns in the spinal cord (PAGE18)."
+  },
+  {
+    "id": 14,
+    "question": "What happens at a synapse between two neurons?",
+    "options": ["Electrical impulses are directly transmitted", "Neurotransmitters are released and diffuse across the synaptic cleft", "Ions are exchanged between cells", "The postsynaptic neuron releases neurotransmitters"],
+    "answer": "Neurotransmitters are released and diffuse across the synaptic cleft",
+    "explanation": "At a synapse, the presynaptic neuron releases neurotransmitters that diffuse across the synaptic cleft to bind to receptors on the postsynaptic neuron (PAGE20)."
+  },
+  {
+    "id": 15,
+    "question": "What is the innermost meningeal layer surrounding the CNS?",
+    "options": ["Dura mater", "Arachnoid", "Pia mater", "Subdural space"],
+    "answer": "Pia mater",
+    "explanation": "The pia mater is the innermost meningeal layer, firmly bound to the neural tissue underneath and highly vascularized (PAGE23)."
+  },
+  {
+    "id": 16,
+    "question": "What is the function of the subarachnoid space?",
+    "options": ["Reduces friction between layers", "Contains cerebrospinal fluid", "Binds neural tissue", "Produces neurotransmitters"],
+    "answer": "Contains cerebrospinal fluid",
+    "explanation": "The subarachnoid space, deep to the arachnoid layer, is filled with cerebrospinal fluid (CSF) and created by a web of collagen and elastic fibers (PAGE22)."
+  },
+  {
+    "id": 17,
+    "question": "What part of the spinal cord contains visceral motor nuclei?",
+    "options": ["Posterior gray horns", "Lateral gray horns", "Anterior gray horns", "White columns"],
+    "answer": "Lateral gray horns",
+    "explanation": "The lateral gray horns of the spinal cord contain visceral motor nuclei, which are involved in autonomic functions (PAGE28)."
+  },
+  {
+    "id": 18,
+    "question": "Why are spinal nerves called mixed nerves?",
+    "options": ["They contain only sensory fibers", "They contain only motor fibers", "They contain both sensory and motor fibers", "They connect directly to the brain"],
+    "answer": "They contain both sensory and motor fibers",
+    "explanation": "Spinal nerves are called mixed nerves because they contain both sensory fibers (from dorsal roots) and motor fibers (from ventral roots) (PAGE27)."
+  },
+  {
+    "id": 19,
+    "question": "Which brain region is responsible for conscious thoughts and intellectual functions?",
+    "options": ["Cerebellum", "Diencephalon", "Cerebrum", "Medulla oblongata"],
+    "answer": "Cerebrum",
+    "explanation": "The cerebrum, divided into cerebral hemispheres, is responsible for conscious thoughts, sensations, intellectual functions, and memory processing (PAGE31)."
+  },
+  {
+    "id": 20,
+    "question": "What is the role of the thalamus in the diencephalon?",
+    "options": ["Regulates body temperature", "Relays sensory information", "Controls balance", "Produces melatonin"],
+    "answer": "Relays sensory information",
+    "explanation": "The thalamus acts as a relay and processing center for sensory information, filtering and passing it to the primary sensory cortex (PAGE46)."
+  },
+  {
+    "id": 21,
+    "question": "Which part of the brain adjusts postural muscles to maintain balance?",
+    "options": ["Cerebrum", "Cerebellum", "Midbrain", "Hypothalamus"],
+    "answer": "Cerebellum",
+    "explanation": "The cerebellum adjusts postural muscles to maintain balance and fine-tunes movements based on sensory input and stored memories (PAGE49)."
+  },
+  {
+    "id": 22,
+    "question": "What is the function of cerebrospinal fluid (CSF) in the brain?",
+    "options": ["Increases brain weight", "Cushions and supports the brain", "Produces neurotransmitters", "Filters sensory information"],
+    "answer": "Cushions and supports the brain",
+    "explanation": "Cerebrospinal fluid (CSF) cushions the brain and spinal cord against trauma and supports the brain by 'floating' it in fluid (PAGE35)."
+  },
+  {
+    "id": 23,
+    "question": "Which cranial nerve is responsible for the sense of smell?",
+    "options": ["Optic nerve (N II)", "Olfactory nerve (N I)", "Trigeminal nerve (N V)", "Facial nerve (N VII)"],
+    "answer": "Olfactory nerve (N I)",
+    "explanation": "The olfactory nerve (N I) carries sensory information related to the sense of smell from the nasal epithelium to the olfactory centers of the brain (PAGE53)."
+  },
+  {
+    "id": 24,
+    "question": "What is the primary function of the vagus nerve (N X)?",
+    "options": ["Controls eye movement", "Provides autonomic control of visceral functions", "Innervates chewing muscles", "Monitors balance"],
+    "answer": "Provides autonomic control of visceral functions",
+    "explanation": "The vagus nerve (N X) provides sensory input from visceral receptors and is a major pathway for autonomic control of visceral functions, such as cardiac and digestive systems (PAGE56)."
+  },
+  {
+    "id": 25,
+    "question": "Which nerve plexus innervates the diaphragm?",
+    "options": ["Brachial plexus", "Cervical plexus", "Lumbar plexus", "Sacral plexus"],
+    "answer": "Cervical plexus",
+    "explanation": "The cervical plexus innervates the muscles of the neck and the diaphragm, which is critical for breathing (PAGE59)."
+  },
+  {
+    "id": 26,
+    "question": "What is a dermatome?",
+    "options": ["A bundle of axons in the PNS", "A region of the body surface monitored by a pair of spinal nerves", "A type of neuron in the CNS", "A layer of the meninges"],
+    "answer": "A region of the body surface monitored by a pair of spinal nerves",
+    "explanation": "A dermatome is a specific region of the body surface monitored by a pair of spinal nerves, useful for identifying nerve damage (PAGE60)."
+  },
+  {
+    "id": 27,
+    "question": "Which neurotransmitter is released by all preganglionic fibers in the ANS?",
+    "options": ["Norepinephrine (NE)", "Acetylcholine (ACh)", "Dopamine", "Serotonin"],
+    "answer": "Acetylcholine (ACh)",
+    "explanation": "All preganglionic fibers in the autonomic nervous system (ANS) are cholinergic, meaning they release acetylcholine (ACh), which is excitatory (PAGE62)."
+  },
+  {
+    "id": 28,
+    "question": "What is the primary effect of the sympathetic division?",
+    "options": ["Promotes digestion", "Increases alertness and metabolic rate", "Reduces heart rate", "Constricts pupils"],
+    "answer": "Increases alertness and metabolic rate",
+    "explanation": "The sympathetic division, known as the 'fight-or-flight' division, increases alertness, metabolic rate, heart rate, and blood flow to skeletal muscles (PAGE64)."
+  },
+  {
+    "id": 29,
+    "question": "What provides about 75 percent of all parasympathetic outflow?",
+    "options": ["Oculomotor nerve (N III)", "Facial nerve (N VII)", "Vagus nerve (N X)", "Glossopharyngeal nerve (N IX)"],
+    "answer": "Vagus nerve (N X)",
+    "explanation": "The vagus nerve (N X) provides about 75 percent of all parasympathetic outflow, affecting various visceral organs (PAGE65)."
+  },
+  {
+    "id": 30,
+    "question": "What is a major cause of age-related reduction in brain size?",
+    "options": ["Increase in synaptic connections", "Reduction in number of neurons", "Increase in blood flow", "Decrease in intracellular deposits"],
+    "answer": "Reduction in number of neurons",
+    "explanation": "Age-related changes, starting by age 30, include a reduction in the number of neurons, contributing to brain shrinkage over time (PAGE68)."
+  }
+]
