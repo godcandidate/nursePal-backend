@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is a key similarity between the nervous and endocrine systems?",
+    "options": ["Both are regulated by positive feedback", "Both rely on the release of chemicals that bind to specific receptors", "Both have short-lived effects", "Both operate independently of each other"],
+    "answer": "Both rely on the release of chemicals that bind to specific receptors",
+    "explanation": "The nervous and endocrine systems both rely on chemicals (neurotransmitters and hormones) that bind to specific receptors on target cells to maintain homeostasis (PAGE3)."
+  },
+  {
+    "id": 2,
+    "question": "How does the endocrine system primarily communicate with target cells?",
+    "options": ["Through direct synaptic connections", "By releasing hormones into the bloodstream", "Via electrical impulses", "Through local diffusion only"],
+    "answer": "By releasing hormones into the bloodstream",
+    "explanation": "The endocrine system releases hormones into the bloodstream, which then bind to target cells, producing longer-lasting effects (PAGE3, PAGE4)."
+  },
+  {
+    "id": 3,
+    "question": "Which group of hormones is derived from amino acids?",
+    "options": ["Steroid hormones", "Peptide hormones", "Amino acid derivatives", "Eicosanoids"],
+    "answer": "Amino acid derivatives",
+    "explanation": "Amino acid derivatives, such as epinephrine, norepinephrine, thyroid hormones, and melatonin, are structurally similar to amino acids (PAGE5)."
+  },
+  {
+    "id": 4,
+    "question": "What type of hormones are the largest class according to the presentation?",
+    "options": ["Amino acid derivatives", "Peptide hormones", "Steroid hormones", "Eicosanoids"],
+    "answer": "Peptide hormones",
+    "explanation": "Peptide hormones, consisting of chains of amino acids, are the largest class and include hormones like ADH, oxytocin, and pancreatic hormones (PAGE5)."
+  },
+  {
+    "id": 5,
+    "question": "Which hormones use intracellular receptors to exert their effects?",
+    "options": ["Epinephrine and norepinephrine", "Peptide hormones", "Thyroid and steroid hormones", "Eicosanoids"],
+    "answer": "Thyroid and steroid hormones",
+    "explanation": "Thyroid and steroid hormones are lipid-soluble and use intracellular receptors in the cytoplasm or nucleus to alter gene expression (PAGE9)."
+  },
+  {
+    "id": 6,
+    "question": "What is the role of second messengers in hormone action?",
+    "options": ["They block hormone receptors", "They amplify the effect of the hormone on the cell", "They degrade the hormone", "They transport the hormone into the cell"],
+    "answer": "They amplify the effect of the hormone on the cell",
+    "explanation": "Second messengers, like cyclic-AMP, amplify the effect of hormones by activating thousands of molecules inside the cell (PAGE8)."
+  },
+  {
+    "id": 7,
+    "question": "What determines a target cell's sensitivity to a hormone?",
+    "options": ["The hormone's chemical structure", "The presence or absence of specific receptors", "The hormone's concentration in the blood", "The target cell's location"],
+    "answer": "The presence or absence of specific receptors",
+    "explanation": "A target cell's sensitivity to a hormone depends on the presence or absence of specific receptors for that hormone (PAGE6)."
+  },
+  {
+    "id": 8,
+    "question": "How does the hypothalamus regulate the anterior pituitary?",
+    "options": ["Through direct innervation", "By secreting releasing and inhibiting hormones", "By producing ACTH", "Through negative feedback only"],
+    "answer": "By secreting releasing and inhibiting hormones",
+    "explanation": "The hypothalamus secretes releasing and inhibiting hormones to control the anterior pituitary's secretions via the hypophyseal portal system (PAGE10, PAGE13)."
+  },
+  {
+    "id": 9,
+    "question": "Where is the pituitary gland located?",
+    "options": ["In the thyroid cartilage", "In the sphenoid bone's sella turcica", "On the kidneys", "In the pancreas"],
+    "answer": "In the sphenoid bone's sella turcica",
+    "explanation": "The pituitary gland, or hypophysis, is protected by the sella turcica of the sphenoid bone and hangs from the hypothalamus (PAGE11)."
+  },
+  {
+    "id": 10,
+    "question": "Which hormone from the anterior pituitary targets the thyroid gland?",
+    "options": ["Adrenocorticotropic hormone (ACTH)", "Thyroid-stimulating hormone (TSH)", "Prolactin (PRL)", "Growth hormone (GH)"],
+    "answer": "Thyroid-stimulating hormone (TSH)",
+    "explanation": "TSH, or thyrotropin, is released by the anterior pituitary in response to TRH and targets the thyroid gland to trigger thyroid hormone release (PAGE14)."
+  },
+  {
+    "id": 11,
+    "question": "What is the primary target of follicle-stimulating hormone (FSH) in females?",
+    "options": ["Adrenal cortex", "Mammary glands", "Ovaries", "Kidneys"],
+    "answer": "Ovaries",
+    "explanation": "FSH, a gonadotropin, targets the ovaries in females to promote follicle development (PAGE15, PAGE16)."
+  },
+  {
+    "id": 12,
+    "question": "What does luteinizing hormone (LH) stimulate in males?",
+    "options": ["Sperm production", "Testosterone production", "Milk production", "Glucose uptake"],
+    "answer": "Testosterone production",
+    "explanation": "LH, also called interstitial cell-stimulating hormone (ICSH) in males, stimulates the interstitial cells of the testes to produce testosterone (PAGE16)."
+  },
+  {
+    "id": 13,
+    "question": "What is the primary function of growth hormone (GH)?",
+    "options": ["Stimulates milk production", "Increases melanin production", "Stimulates cell growth and replication", "Regulates blood calcium levels"],
+    "answer": "Stimulates cell growth and replication",
+    "explanation": "Growth hormone (GH) stimulates cell growth and replication, especially in skeletal muscle and chondrocytes, via somatomedins (PAGE17)."
+  },
+  {
+    "id": 14,
+    "question": "When is melanocyte-stimulating hormone (MSH) primarily secreted?",
+    "options": ["In adults under stress", "During fetal development and in young children", "During exercise", "In response to low blood glucose"],
+    "answer": "During fetal development and in young children",
+    "explanation": "MSH is secreted during fetal development, in very young children, in pregnant women, and in certain diseases, but its function is unclear in adults (PAGE18)."
+  },
+  {
+    "id": 15,
+    "question": "What triggers the release of antidiuretic hormone (ADH) from the posterior pituitary?",
+    "options": ["High blood glucose levels", "Low blood water levels", "Increased blood calcium", "Decreased blood sodium"],
+    "answer": "Low blood water levels",
+    "explanation": "ADH, or vasopressin, is released when the body is low on water, stimulated by increased solute concentration or decreased blood volume/pressure (PAGE20)."
+  },
+  {
+    "id": 16,
+    "question": "What is a primary function of oxytocin in women?",
+    "options": ["Stimulates testosterone production", "Stimulates uterine contractions during labor", "Increases blood glucose levels", "Regulates calcium levels"],
+    "answer": "Stimulates uterine contractions during labor",
+    "explanation": "Oxytocin stimulates uterine muscle contractions during labor and delivery, and also aids in milk ejection from mammary glands (PAGE21)."
+  },
+  {
+    "id": 17,
+    "question": "Where is the thyroid gland located?",
+    "options": ["Posterior to the trachea", "On the kidneys", "In the pancreas", "In the third ventricle"],
+    "answer": "Posterior to the trachea",
+    "explanation": "The thyroid gland is located anterior to the trachea and inferior to the thyroid cartilage, with two lobes connected by an isthmus (PAGE23)."
+  },
+  {
+    "id": 18,
+    "question": "What is the primary effect of thyroid hormones on the body?",
+    "options": ["Increase blood calcium levels", "Increase metabolic rate", "Decrease blood glucose", "Stimulate milk production"],
+    "answer": "Increase metabolic rate",
+    "explanation": "Thyroid hormones (T₃ and T₄) affect nearly every cell, increasing ATP production and metabolism, known as the calorigenic effect (PAGE24)."
+  },
+  {
+    "id": 19,
+    "question": "What hormone do the C cells of the thyroid gland produce?",
+    "options": ["Thyroxine (T₄)", "Calcitonin (CT)", "Parathyroid hormone (PTH)", "Triiodothyronine (T₃)"],
+    "answer": "Calcitonin (CT)",
+    "explanation": "C cells, or parafollicular cells, of the thyroid gland produce calcitonin, which helps regulate calcium levels by inhibiting osteoclasts (PAGE25)."
+  },
+  {
+    "id": 20,
+    "question": "What stimulates the release of parathyroid hormone (PTH)?",
+    "options": ["High plasma calcium levels", "Low plasma calcium levels", "High blood glucose", "Low blood pressure"],
+    "answer": "Low plasma calcium levels",
+    "explanation": "Parathyroid hormone (PTH) is secreted by the parathyroid glands in response to a decrease in plasma calcium levels to prevent hypocalcemia (PAGE27)."
+  },
+  {
+    "id": 21,
+    "question": "Where are the adrenal glands located?",
+    "options": ["In the trachea", "On the superior border of each kidney", "In the third ventricle", "In the pancreas"],
+    "answer": "On the superior border of each kidney",
+    "explanation": "The adrenal glands, also called suprarenal glands, are pyramid-shaped and sit on the superior border of each kidney (PAGE29)."
+  },
+  {
+    "id": 22,
+    "question": "What is the primary mineralocorticoid produced by the adrenal cortex?",
+    "options": ["Cortisol", "Aldosterone", "Epinephrine", "Androgens"],
+    "answer": "Aldosterone",
+    "explanation": "Aldosterone, produced by the zona glomerulosa of the adrenal cortex, is the major mineralocorticoid, affecting electrolyte balance (PAGE31)."
+  },
+  {
+    "id": 23,
+    "question": "What is the primary effect of glucocorticoids from the adrenal cortex?",
+    "options": ["Increase blood calcium levels", "Increase blood glucose levels", "Decrease blood pressure", "Stimulate milk production"],
+    "answer": "Increase blood glucose levels",
+    "explanation": "Glucocorticoids, like cortisol, increase glucose synthesis and glycogen formation, raising blood glucose levels (PAGE31)."
+  },
+  {
+    "id": 24,
+    "question": "What hormones are produced by the adrenal medulla?",
+    "options": ["Cortisol and cortisone", "Epinephrine and norepinephrine", "Aldosterone and androgens", "Thyroxine and calcitonin"],
+    "answer": "Epinephrine and norepinephrine",
+    "explanation": "The adrenal medulla produces epinephrine (75-80%) and norepinephrine (20-25%), which increase energy availability and support sympathetic responses (PAGE32)."
+  },
+  {
+    "id": 25,
+    "question": "What hormone does the pineal gland produce?",
+    "options": ["Melatonin", "Calcitonin", "Aldosterone", "Insulin"],
+    "answer": "Melatonin",
+    "explanation": "The pineal gland, located in the third ventricle, produces melatonin, which is influenced by light and day-night cycles (PAGE34)."
+  },
+  {
+    "id": 26,
+    "question": "What is a possible function of melatonin produced by the pineal gland?",
+    "options": ["Increases blood glucose", "Regulates circadian rhythms", "Stimulates testosterone production", "Increases blood calcium"],
+    "answer": "Regulates circadian rhythms",
+    "explanation": "Melatonin plays a role in maintaining circadian rhythms, and may also influence sexual maturation and provide antioxidant activity (PAGE34)."
+  },
+  {
+    "id": 27,
+    "question": "What hormone do the beta cells of the pancreas secrete?",
+    "options": ["Glucagon", "Insulin", "Calcitonin", "Aldosterone"],
+    "answer": "Insulin",
+    "explanation": "Beta cells in the pancreatic islets secrete insulin, which lowers blood glucose by stimulating glucose uptake by cells (PAGE35, PAGE36)."
+  },
+  {
+    "id": 28,
+    "question": "What hormone do the kidneys secrete in response to low oxygen levels?",
+    "options": ["Calcitriol", "Erythropoietin (EPO)", "Renin", "Atrial natriuretic peptide (ANP)"],
+    "answer": "Erythropoietin (EPO)",
+    "explanation": "The kidneys secrete erythropoietin (EPO) in response to low oxygen levels, increasing red blood cell production (PAGE37)."
+  },
+  {
+    "id": 29,
+    "question": "What hormone does the heart release in response to increased blood volume?",
+    "options": ["Renin", "Atrial natriuretic peptide (ANP)", "Thymosins", "Leptin"],
+    "answer": "Atrial natriuretic peptide (ANP)",
+    "explanation": "The heart releases atrial natriuretic peptide (ANP) in response to increased blood volume, promoting sodium and water loss to decrease blood pressure (PAGE38)."
+  },
+  {
+    "id": 30,
+    "question": "What hormone does adipose tissue produce to regulate appetite?",
+    "options": ["Leptin", "Thymosins", "Estrogens", "Renin"],
+    "answer": "Leptin",
+    "explanation": "Adipose tissue produces leptin, which provides negative feedback control of appetite by binding to hypothalamic neurons to trigger satiation (PAGE41)."
+  }
+]
