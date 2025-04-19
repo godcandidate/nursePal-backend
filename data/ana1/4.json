@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary function of the reproductive system?",
+    "options": ["Regulates body temperature", "Produces and transports gametes", "Filters blood", "Supports skeletal structure"],
+    "answer": "Produces and transports gametes",
+    "explanation": "The reproductive system produces, stores, nourishes, and transports gametes (reproductive cells) such as sperm in males and oocytes in females (PAGE2)."
+  },
+  {
+    "id": 2,
+    "question": "What are the gonads in the male reproductive system?",
+    "options": ["Epididymis", "Testes", "Prostate gland", "Seminal vesicles"],
+    "answer": "Testes",
+    "explanation": "The gonads in males are the testes, which produce sperm and secrete androgens like testosterone (PAGE3)."
+  },
+  {
+    "id": 3,
+    "question": "What is the role of the scrotum in the male reproductive system?",
+    "options": ["Produces testosterone", "Stores semen", "Holds and regulates temperature of the testes", "Transports sperm to the urethra"],
+    "answer": "Holds and regulates temperature of the testes",
+    "explanation": "The scrotum holds the testes outside the body and regulates their temperature using the dartos and cremaster muscles to ensure optimal conditions for sperm development (PAGE5-6)."
+  },
+  {
+    "id": 4,
+    "question": "Why is the temperature in the testes lower than the core body temperature?",
+    "options": ["To increase blood flow", "To support normal sperm development", "To reduce muscle contraction", "To enhance hormone production"],
+    "answer": "To support normal sperm development",
+    "explanation": "Normal sperm development requires a temperature about 1.1°C (2°F) lower than body temperature, which is why the testes are positioned outside the pelvic cavity (PAGE6)."
+  },
+  {
+    "id": 5,
+    "question": "Where does spermatogenesis occur in the testes?",
+    "options": ["Rete testis", "Seminiferous tubules", "Efferent ductules", "Epididymis"],
+    "answer": "Seminiferous tubules",
+    "explanation": "Spermatogenesis, the production of sperm, occurs in the seminiferous tubules within the testes (PAGE6)."
+  },
+  {
+    "id": 6,
+    "question": "What cells in the testes produce testosterone?",
+    "options": ["Sertoli cells", "Spermatogonia", "Leydig cells", "Spermatids"],
+    "answer": "Leydig cells",
+    "explanation": "Leydig cells, also called interstitial cells, are located between seminiferous tubules and produce testosterone (PAGE7)."
+  },
+  {
+    "id": 7,
+    "question": "What is the final stage of sperm production called?",
+    "options": ["Mitosis", "Meiosis", "Spermiogenesis", "Capacitation"],
+    "answer": "Spermiogenesis",
+    "explanation": "Spermiogenesis is the final stage of sperm production where spermatids mature into spermatozoa (PAGE13)."
+  },
+  {
+    "id": 8,
+    "question": "What structure in a spermatozoon contains enzymes to penetrate an oocyte?",
+    "options": ["Tail", "Middle piece", "Acrosome", "Neck"],
+    "answer": "Acrosome",
+    "explanation": "The acrosome, located at the tip of the sperm’s head, contains enzymes that help penetrate the oocyte during fertilization (PAGE13)."
+  },
+  {
+    "id": 9,
+    "question": "What is the primary function of the epididymis?",
+    "options": ["Produces sperm", "Stores and matures sperm", "Secretes testosterone", "Transports semen to the penis"],
+    "answer": "Stores and matures sperm",
+    "explanation": "The epididymis stores and protects maturing spermatozoa, where they complete their maturation over about two weeks (PAGE14)."
+  },
+  {
+    "id": 10,
+    "question": "What percentage of semen volume is contributed by the seminal glands?",
+    "options": ["Less than 5 percent", "20-30 percent", "60 percent", "80 percent"],
+    "answer": "60 percent",
+    "explanation": "The seminal glands (seminal vesicles) contribute about 60 percent of the fluid in semen (PAGE18)."
+  },
+  {
+    "id": 11,
+    "question": "What is the role of seminalplasmin in prostatic fluid?",
+    "options": ["Neutralizes acids", "Provides nutrients", "Has antibiotic properties", "Stimulates muscle contractions"],
+    "answer": "Has antibiotic properties",
+    "explanation": "Seminalplasmin, found in prostatic fluid, is a protein with antibiotic properties that helps prevent urinary tract infections (PAGE18)."
+  },
+  {
+    "id": 12,
+    "question": "What is the normal sperm count in semen per milliliter?",
+    "options": ["1-5 million", "20-100 million", "200-500 million", "1-2 billion"],
+    "answer": "20-100 million",
+    "explanation": "A typical ejaculation contains 20-100 million sperm per milliliter of semen (PAGE19)."
+  },
+  {
+    "id": 13,
+    "question": "What hormone triggers the release of FSH and LH in males?",
+    "options": ["Testosterone", "GnRH", "Inhibin", "Progesterone"],
+    "answer": "GnRH",
+    "explanation": "Gonadotropin-releasing hormone (GnRH) from the hypothalamus triggers the release of FSH and LH from the anterior pituitary in males (PAGE23)."
+  },
+  {
+    "id": 14,
+    "question": "What effect does low FSH levels have on sperm production?",
+    "options": ["Increases production", "No effect", "Decreases production", "Stops production completely"],
+    "answer": "Decreases production",
+    "explanation": "Low FSH levels would reduce stimulation of nurse cells in the testes, leading to decreased spermatogenesis and sperm production (PAGE24)."
+  },
+  {
+    "id": 15,
+    "question": "What are the gonads in the female reproductive system?",
+    "options": ["Uterus", "Ovaries", "Vagina", "Clitoris"],
+    "answer": "Ovaries",
+    "explanation": "The ovaries are the female gonads, responsible for producing oocytes and secreting hormones like estrogens and progesterone (PAGE26)."
+  },
+  {
+    "id": 16,
+    "question": "What is a key difference between oogenesis and spermatogenesis?",
+    "options": ["Oogenesis produces diploid cells", "Spermatogenesis occurs before birth", "Oogenesis produces unequal cytoplasm distribution", "Spermatogenesis involves polar bodies"],
+    "answer": "Oogenesis produces unequal cytoplasm distribution",
+    "explanation": "In oogenesis, the cytoplasm of the primary oocyte is unevenly distributed, with the secondary oocyte receiving most of it, while spermatogenesis divides cytoplasm equally (PAGE28)."
+  },
+  {
+    "id": 17,
+    "question": "At what stage is the secondary oocyte suspended during oogenesis?",
+    "options": ["Prophase I", "Metaphase II", "Anaphase I", "Telophase II"],
+    "answer": "Metaphase II",
+    "explanation": "The secondary oocyte is suspended in metaphase II of meiosis and only completes division after fertilization by a sperm (PAGE28)."
+  },
+  {
+    "id": 18,
+    "question": "What triggers ovulation in the ovarian cycle?",
+    "options": ["Rise in FSH", "Surge in LH", "Drop in estrogen", "Increase in progesterone"],
+    "answer": "Surge in LH",
+    "explanation": "A surge in luteinizing hormone (LH) triggers ovulation by causing the tertiary follicle to rupture and release the secondary oocyte (PAGE32)."
+  },
+  {
+    "id": 19,
+    "question": "What structure forms after ovulation and secretes progesterone?",
+    "options": ["Graafian follicle", "Corpus luteum", "Corpus albicans", "Primordial follicle"],
+    "answer": "Corpus luteum",
+    "explanation": "After ovulation, the empty follicle collapses and develops into the corpus luteum, which secretes progesterone to prepare the endometrium for implantation (PAGE32)."
+  },
+  {
+    "id": 20,
+    "question": "How long does it typically take for an oocyte to travel from the uterine tube to the uterus?",
+    "options": ["1-2 hours", "12-24 hours", "3-4 days", "7-10 days"],
+    "answer": "3-4 days",
+    "explanation": "It normally takes 3-4 days for an oocyte to travel through the uterine tube to reach the uterus (PAGE36)."
+  },
+  {
+    "id": 21,
+    "question": "What layer of the uterus is shed during menstruation?",
+    "options": ["Myometrium", "Perimetrium", "Functional zone of endometrium", "Basilar zone of endometrium"],
+    "answer": "Functional zone of endometrium",
+    "explanation": "The functional zone of the endometrium is shed during menstruation due to a drop in progesterone and estrogen levels (PAGE39)."
+  },
+  {
+    "id": 22,
+    "question": "What phase of the uterine cycle is stimulated by a rise in progesterone?",
+    "options": ["Menses", "Proliferative phase", "Secretory phase", "Ovulatory phase"],
+    "answer": "Secretory phase",
+    "explanation": "The secretory phase of the uterine cycle is stimulated by a rise in progesterone, preparing the endometrium for a potential embryo (PAGE40)."
+  },
+  {
+    "id": 23,
+    "question": "What is the primary function of the vagina during reproduction?",
+    "options": ["Produces oocytes", "Receives penis and holds semen", "Secretes progesterone", "Supports fetal development"],
+    "answer": "Receives penis and holds semen",
+    "explanation": "The vagina receives the penis and holds semen during intercourse, and also serves as a passageway for menstrual fluid and part of the birth canal (PAGE42)."
+  },
+  {
+    "id": 24,
+    "question": "What female structure is embryologically comparable to the penis?",
+    "options": ["Labia majora", "Clitoris", "Vestibular bulbs", "Greater vestibular glands"],
+    "answer": "Clitoris",
+    "explanation": "The clitoris is derived from the same embryonic tissue as the penis and contains erectile tissue comparable to the corpora cavernosa (PAGE43)."
+  },
+  {
+    "id": 25,
+    "question": "What hormone primarily governs the follicular phase of the ovarian cycle?",
+    "options": ["Progesterone", "LH", "FSH", "Inhibin"],
+    "answer": "FSH",
+    "explanation": "Follicle-stimulating hormone (FSH) governs the follicular phase by stimulating follicle development in the ovaries (PAGE46)."
+  },
+  {
+    "id": 26,
+    "question": "What physiological change occurs in males during sexual arousal?",
+    "options": ["Decreased heart rate", "Engorgement of erectile tissue", "Contraction of the corpus luteum", "Reduced blood flow to the penis"],
+    "answer": "Engorgement of erectile tissue",
+    "explanation": "During sexual arousal in males, increased parasympathetic activity leads to engorgement of erectile tissue, causing an erection (PAGE51)."
+  },
+  {
+    "id": 27,
+    "question": "What muscle contractions are responsible for ejaculation in males?",
+    "options": ["Dartos and cremaster", "Ischiocavernosus and bulbospongiosus", "Smooth muscles of the urethra", "Muscles of the prostate gland"],
+    "answer": "Ischiocavernosus and bulbospongiosus",
+    "explanation": "Ejaculation in males results from rhythmic contractions of the ischiocavernosus and bulbospongiosus muscles (PAGE52)."
+  },
+  {
+    "id": 28,
+    "question": "What is a common symptom of menopause in females?",
+    "options": ["Increased progesterone levels", "Hot flashes", "Thickening of the endometrium", "Increased follicle development"],
+    "answer": "Hot flashes",
+    "explanation": "Menopause is often accompanied by neural effects such as hot flashes, due to a decline in estrogen and progesterone levels (PAGE53)."
+  },
+  {
+    "id": 29,
+    "question": "What happens to testosterone levels during the male climacteric?",
+    "options": ["They increase sharply", "They remain unchanged", "They decline gradually", "They stop completely"],
+    "answer": "They decline gradually",
+    "explanation": "During the male climacteric (andropause), testosterone levels start to decline gradually between ages 50-60 (PAGE54)."
+  },
+  {
+    "id": 30,
+    "question": "How does the reproductive system interact with the skeletal system?",
+    "options": ["Regulates blood pressure", "Estrogens stimulate bone growth", "Produces red blood cells", "Controls muscle contractions"],
+    "answer": "Estrogens stimulate bone growth",
+    "explanation": "Estrogens from the reproductive system stimulate bone growth, affecting the skeletal system, while a decline during menopause can lead to osteoporosis (PAGE46, PAGE53)."
+  }
+]
