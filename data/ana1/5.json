@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary role of the digestive system?",
+    "options": ["Regulates body temperature", "Provides fuel for body cells", "Produces hormones", "Supports skeletal structure"],
+    "answer": "Provides fuel for body cells",
+    "explanation": "The digestive system provides fuel for body cells by breaking down food into absorbable nutrients (PAGE5)."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a part of the digestive tract?",
+    "options": ["Oral cavity", "Esophagus", "Liver", "Large intestine"],
+    "answer": "Liver",
+    "explanation": "The liver is an accessory organ, not part of the digestive tract, which includes the oral cavity, esophagus, stomach, and intestines (PAGE5)."
+  },
+  {
+    "id": 3,
+    "question": "What is the first step in the digestive process?",
+    "options": ["Absorption", "Ingestion", "Secretion", "Excretion"],
+    "answer": "Ingestion",
+    "explanation": "Ingestion is the first step, occurring when food and drink enter the mouth (PAGE7)."
+  },
+  {
+    "id": 4,
+    "question": "What is the purpose of mechanical processing in digestion?",
+    "options": ["Chemically breaks down food", "Increases surface area for enzymes", "Absorbs nutrients", "Eliminates waste"],
+    "answer": "Increases surface area for enzymes",
+    "explanation": "Mechanical processing crushes food to increase its surface area, making it easier for enzymes to work (PAGE7)."
+  },
+  {
+    "id": 5,
+    "question": "Which histological layer of the GI tract is the innermost?",
+    "options": ["Serosa", "Muscularis externa", "Submucosa", "Mucosa"],
+    "answer": "Mucosa",
+    "explanation": "The mucosa is the innermost layer of the GI tract, forming the inner lining (PAGE10-11)."
+  },
+  {
+    "id": 6,
+    "question": "What type of epithelium lines the mucosa of the esophagus?",
+    "options": ["Simple columnar", "Stratified squamous", "Cuboidal", "Transitional"],
+    "answer": "Stratified squamous",
+    "explanation": "The esophagus is lined with stratified squamous epithelium to withstand physical stress (PAGE12)."
+  },
+  {
+    "id": 7,
+    "question": "What does the submucosal plexus regulate?",
+    "options": ["Blood flow", "Secretion and motility", "Nutrient absorption", "Muscle contraction"],
+    "answer": "Secretion and motility",
+    "explanation": "The submucosal plexus regulates secretion and motility in the GI tract (PAGE13)."
+  },
+  {
+    "id": 8,
+    "question": "What is the function of the serosa in the GI tract?",
+    "options": ["Protects and covers the tract", "Absorbs nutrients", "Secretes enzymes", "Contracts to move food"],
+    "answer": "Protects and covers the tract",
+    "explanation": "The serosa, or visceral peritoneum, covers and protects the muscularis externa along the GI tract (PAGE15)."
+  },
+  {
+    "id": 9,
+    "question": "What is the role of the oral cavity in digestion?",
+    "options": ["Absorbs nutrients", "Begins carbohydrate digestion", "Stores food", "Eliminates waste"],
+    "answer": "Begins carbohydrate digestion",
+    "explanation": "The oral cavity begins enzymatic digestion of carbohydrates and lipids with saliva (PAGE19)."
+  },
+  {
+    "id": 10,
+    "question": "Which structure forms the roof of the oral cavity?",
+    "options": ["Tongue", "Hard palate", "Cheeks", "Lingual frenulum"],
+    "answer": "Hard palate",
+    "explanation": "The roof of the oral cavity is formed by the hard palate and soft palate (PAGE20)."
+  },
+  {
+    "id": 11,
+    "question": "Which salivary gland produces the most salivary amylase?",
+    "options": ["Sublingual", "Submandibular", "Parotid", "Lingual"],
+    "answer": "Parotid",
+    "explanation": "The parotid salivary gland primarily produces salivary amylase, which digests starches (PAGE26)."
+  },
+  {
+    "id": 12,
+    "question": "What is the hardest substance in the human body, found on teeth?",
+    "options": ["Dentin", "Enamel", "Cementum", "Pulp"],
+    "answer": "Enamel",
+    "explanation": "Enamel covers the crown of teeth and is the hardest biologically manufactured substance (PAGE27)."
+  },
+  {
+    "id": 13,
+    "question": "Which type of tooth is best for cutting food?",
+    "options": ["Molars", "Incisors", "Cuspids", "Premolars"],
+    "answer": "Incisors",
+    "explanation": "Incisors are blade-shaped and used for clipping or cutting food (PAGE29)."
+  },
+  {
+    "id": 14,
+    "question": "How many permanent teeth are typically present in an adult?",
+    "options": ["20", "28", "32", "36"],
+    "answer": "32",
+    "explanation": "The secondary or permanent dentition in adults typically includes 32 teeth (PAGE30)."
+  },
+  {
+    "id": 15,
+    "question": "What type of epithelium lines the pharynx?",
+    "options": ["Simple columnar", "Stratified squamous", "Cuboidal", "Pseudostratified"],
+    "answer": "Stratified squamous",
+    "explanation": "The pharynx is lined with stratified squamous epithelium to handle physical stress (PAGE34)."
+  },
+  {
+    "id": 16,
+    "question": "What structure regulates the flow of food into the stomach?",
+    "options": ["Pyloric sphincter", "Upper esophageal sphincter", "Lower esophageal sphincter", "Ileocecal valve"],
+    "answer": "Lower esophageal sphincter",
+    "explanation": "The lower esophageal sphincter regulates the flow of food from the esophagus into the stomach (PAGE35)."
+  },
+  {
+    "id": 17,
+    "question": "What is the role of intrinsic factor produced by the stomach?",
+    "options": ["Digests proteins", "Absorbs vitamin B12", "Neutralizes acid", "Emulsifies fats"],
+    "answer": "Absorbs vitamin B12",
+    "explanation": "Intrinsic factor, produced by parietal cells in the stomach, is needed for vitamin B12 absorption (PAGE36)."
+  },
+  {
+    "id": 18,
+    "question": "Which region of the stomach connects to the small intestine?",
+    "options": ["Cardia", "Fundus", "Body", "Pylorus"],
+    "answer": "Pylorus",
+    "explanation": "The pylorus is the most distal portion of the stomach and connects to the small intestine (PAGE37)."
+  },
+  {
+    "id": 19,
+    "question": "What is the primary site of nutrient absorption in the digestive system?",
+    "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+    "answer": "Small intestine",
+    "explanation": "The small intestine is the major site of digestion and absorption, handling 90% of nutrient absorption (PAGE45)."
+  },
+  {
+    "id": 20,
+    "question": "Which segment of the small intestine is the shortest?",
+    "options": ["Duodenum", "Jejunum", "Ileum", "Cecum"],
+    "answer": "Duodenum",
+    "explanation": "The duodenum is the shortest segment of the small intestine, about 25 cm long (PAGE47)."
+  },
+  {
+    "id": 21,
+    "question": "What feature of the small intestine increases its surface area for absorption?",
+    "options": ["Gastric pits", "Circular folds", "Rugae", "Haustra"],
+    "answer": "Circular folds",
+    "explanation": "Circular folds (plicae circulares), along with villi and microvilli, increase the surface area for absorption in the small intestine (PAGE49)."
+  },
+  {
+    "id": 22,
+    "question": "What hormone triggers the pancreas to release alkaline fluid?",
+    "options": ["Cholecystokinin (CCK)", "Secretin", "Insulin", "Glucagon"],
+    "answer": "Secretin",
+    "explanation": "Secretin, released from the duodenum, triggers the pancreas to release alkaline fluid to neutralize acidic chyme (PAGE56)."
+  },
+  {
+    "id": 23,
+    "question": "Which pancreatic enzyme breaks down lipids?",
+    "options": ["Pancreatic amylase", "Pancreatic lipase", "Nucleases", "Trypsin"],
+    "answer": "Pancreatic lipase",
+    "explanation": "Pancreatic lipase breaks down lipids or fats in the small intestine (PAGE57)."
+  },
+  {
+    "id": 24,
+    "question": "What is the primary function of bile produced by the liver?",
+    "options": ["Digests proteins", "Emulsifies fats", "Absorbs carbohydrates", "Neutralizes acid"],
+    "answer": "Emulsifies fats",
+    "explanation": "Bile salts in bile emulsify fats, breaking them into smaller droplets for enzymatic action (PAGE68)."
+  },
+  {
+    "id": 25,
+    "question": "What is the role of the gallbladder in digestion?",
+    "options": ["Produces bile", "Stores and concentrates bile", "Absorbs nutrients", "Secretes enzymes"],
+    "answer": "Stores and concentrates bile",
+    "explanation": "The gallbladder stores and concentrates bile, releasing it into the duodenum when needed (PAGE70)."
+  },
+  {
+    "id": 26,
+    "question": "What is the main function of the large intestine?",
+    "options": ["Absorbs nutrients", "Reabsorbs water and compacts feces", "Digests carbohydrates", "Produces bile"],
+    "answer": "Reabsorbs water and compacts feces",
+    "explanation": "The large intestine reabsorbs water, compacts chyme into feces, and stores it prior to defecation (PAGE73)."
+  },
+  {
+    "id": 27,
+    "question": "What structure controls the flow of chyme into the large intestine?",
+    "options": ["Pyloric sphincter", "Ileocecal valve", "Lower esophageal sphincter", "Anal sphincter"],
+    "answer": "Ileocecal valve",
+    "explanation": "The ileocecal valve controls the flow of chyme from the ileum into the cecum of the large intestine (PAGE48)."
+  },
+  {
+    "id": 28,
+    "question": "What is a common age-related change in the digestive system?",
+    "options": ["Increased peristalsis", "Decreased smooth muscle tone", "Thicker mucosa", "Reduced cancer risk"],
+    "answer": "Decreased smooth muscle tone",
+    "explanation": "Aging leads to decreased smooth muscle tone, slowing peristalsis and often causing constipation (PAGE78)."
+  },
+  {
+    "id": 29,
+    "question": "How does the digestive system interact with the skeletal system?",
+    "options": ["Produces blood cells", "Absorbs calcium for bone matrix", "Regulates muscle contraction", "Controls respiratory rate"],
+    "answer": "Absorbs calcium for bone matrix",
+    "explanation": "The digestive system absorbs calcium and phosphate ions, which are used in the bone matrix of the skeletal system (PAGE82)."
+  },
+  {
+    "id": 30,
+    "question": "What role does the cardiovascular system play in digestion?",
+    "options": ["Produces digestive enzymes", "Carries nutrients from absorption sites", "Regulates peristalsis", "Stores bile"],
+    "answer": "Carries nutrients from absorption sites",
+    "explanation": "The cardiovascular system carries nutrients, water, and ions from absorption sites in the digestive tract to the rest of the body (PAGE82)."
+  }
+    ]
