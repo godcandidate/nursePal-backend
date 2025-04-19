@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is a primary function of the urinary system?",
+    "options": ["Produces hormones", "Excretes organic wastes", "Regulates body temperature", "Supports skeletal structure"],
+    "answer": "Excretes organic wastes",
+    "explanation": "The urinary system excretes organic wastes like urea from body fluids (PAGE5)."
+  },
+  {
+    "id": 2,
+    "question": "Which organ is NOT part of the urinary tract?",
+    "options": ["Ureters", "Kidneys", "Urinary bladder", "Urethra"],
+    "answer": "Kidneys",
+    "explanation": "Kidneys produce urine, but the urinary tract includes ureters, bladder, and urethra (PAGE6)."
+  },
+  {
+    "id": 3,
+    "question": "What is the process of eliminating urine called?",
+    "options": ["Filtration", "Micturition", "Reabsorption", "Secretion"],
+    "answer": "Micturition",
+    "explanation": "Micturition, or urination, is the process of eliminating urine from the body (PAGE6)."
+  },
+  {
+    "id": 4,
+    "question": "What homeostatic function does the urinary system perform?",
+    "options": ["Produces red blood cells", "Regulates blood volume", "Synthesizes proteins", "Stores energy"],
+    "answer": "Regulates blood volume",
+    "explanation": "The urinary system regulates blood volume and blood pressure (PAGE8)."
+  },
+  {
+    "id": 5,
+    "question": "Where are the kidneys located relative to the vertebral column?",
+    "options": ["Anterior", "Lateral", "On either side", "Inferior"],
+    "answer": "On either side",
+    "explanation": "Kidneys are located on either side of the vertebral column, between T12 and L3 (PAGE10)."
+  },
+  {
+    "id": 6,
+    "question": "Why does the right kidney sit lower than the left?",
+    "options": ["Displaced by the spleen", "Displaced by the liver", "Smaller size", "Genetic variation"],
+    "answer": "Displaced by the liver",
+    "explanation": "The right kidney is slightly lower due to displacement by the liver (PAGE10)."
+  },
+  {
+    "id": 7,
+    "question": "What is the term for the kidney's position behind the peritoneum?",
+    "options": ["Intraperitoneal", "Retroperitoneal", "Subperitoneal", "Extraperitoneal"],
+    "answer": "Retroperitoneal",
+    "explanation": "The kidneys are situated dorsal to the peritoneum, a position called retroperitoneal (PAGE10)."
+  },
+  {
+    "id": 8,
+    "question": "What structure anchors the kidneys to surrounding tissues?",
+    "options": ["Renal artery", "Fibrous capsule", "Outer fibrous layer", "Renal pelvis"],
+    "answer": "Outer fibrous layer",
+    "explanation": "The outer fibrous layer anchors the kidneys to surrounding structures (PAGE12)."
+  },
+  {
+    "id": 9,
+    "question": "What is the indentation on the kidney where the renal artery enters?",
+    "options": ["Renal cortex", "Renal medulla", "Hilum", "Renal papilla"],
+    "answer": "Hilum",
+    "explanation": "The hilum is the indentation where the renal artery, nerves, and ureter enter/exit (PAGE14)."
+  },
+  {
+    "id": 10,
+    "question": "What is the outer layer of the kidney called?",
+    "options": ["Renal medulla", "Renal cortex", "Renal pelvis", "Renal pyramid"],
+    "answer": "Renal cortex",
+    "explanation": "The renal cortex is the outer layer of the kidney, in contact with the fibrous capsule (PAGE15)."
+  },
+  {
+    "id": 11,
+    "question": "How many nephrons are typically found in each kidney?",
+    "options": ["500,000", "1.25 million", "2 million", "3 million"],
+    "answer": "1.25 million",
+    "explanation": "Each kidney contains about 1.25 million nephrons (PAGE16)."
+  },
+  {
+    "id": 12,
+    "question": "What percentage of cardiac output do the kidneys receive?",
+    "options": ["5-10%", "10-15%", "20-25%", "30-35%"],
+    "answer": "20-25%",
+    "explanation": "Kidneys receive 20-25% of total cardiac output, about 1200 mL of blood per minute (PAGE18)."
+  },
+  {
+    "id": 13,
+    "question": "What is the first vessel in the kidney's blood flow path?",
+    "options": ["Renal vein", "Renal artery", "Interlobar vein", "Afferent arteriole"],
+    "answer": "Renal artery",
+    "explanation": "Blood flow to the kidney begins with the renal artery (PAGE18)."
+  },
+  {
+    "id": 14,
+    "question": "What structure in juxtamedullary nephrons runs parallel to the nephron loop?",
+    "options": ["Peritubular capillaries", "Vasa recta", "Glomerulus", "Cortical radiate veins"],
+    "answer": "Vasa recta",
+    "explanation": "The vasa recta run parallel to long nephron loops in juxtamedullary nephrons (PAGE20)."
+  },
+  {
+    "id": 15,
+    "question": "What is the basic functional unit of the kidney?",
+    "options": ["Renal pyramid", "Nephron", "Renal pelvis", "Glomerulus"],
+    "answer": "Nephron",
+    "explanation": "The nephron is the basic functional unit of the kidney (PAGE23)."
+  },
+  {
+    "id": 16,
+    "question": "What structure in the renal corpuscle contains the glomerular capillaries?",
+    "options": ["Proximal convoluted tubule", "Glomerular capsule", "Nephron loop", "Distal convoluted tubule"],
+    "answer": "Glomerular capsule",
+    "explanation": "The glomerular (Bowman's) capsule contains the glomerular capillaries (PAGE25)."
+  },
+  {
+    "id": 17,
+    "question": "What process occurs in the renal corpuscle to produce filtrate?",
+    "options": ["Reabsorption", "Secretion", "Filtration", "Excretion"],
+    "answer": "Filtration",
+    "explanation": "Filtration in the renal corpuscle produces filtrate from blood plasma (PAGE25)."
+  },
+  {
+    "id": 18,
+    "question": "What is the first segment of the renal tubule where filtrate flows?",
+    "options": ["Nephron loop", "Proximal convoluted tubule", "Distal convoluted tubule", "Collecting duct"],
+    "answer": "Proximal convoluted tubule",
+    "explanation": "Filtrate flows into the proximal convoluted tubule (PCT) first (PAGE26)."
+  },
+  {
+    "id": 19,
+    "question": "What cells in the glomerular capsule wrap around capillaries?",
+    "options": ["Juxtaglomerular cells", "Macula densa", "Podocytes", "Parietal cells"],
+    "answer": "Podocytes",
+    "explanation": "Podocytes in the visceral epithelium have pedicels that wrap around glomerular capillaries (PAGE29)."
+  },
+  {
+    "id": 20,
+    "question": "What structure prevents blood cells from passing into the filtrate?",
+    "options": ["Proximal convoluted tubule", "Filtration membrane", "Nephron loop", "Collecting duct"],
+    "answer": "Filtration membrane",
+    "explanation": "The filtration membrane prevents blood cells and most plasma proteins from entering the filtrate (PAGE32)."
+  },
+  {
+    "id": 21,
+    "question": "Where does the majority of reabsorption occur in the nephron?",
+    "options": ["Renal corpuscle", "Proximal convoluted tubule", "Nephron loop", "Distal convoluted tubule"],
+    "answer": "Proximal convoluted tubule",
+    "explanation": "The majority of reabsorption of nutrients, ions, and water occurs in the proximal convoluted tubule (PAGE34)."
+  },
+  {
+    "id": 22,
+    "question": "What does the ascending limb of the nephron loop actively transport?",
+    "options": ["Water", "Glucose", "Sodium and chloride", "Amino acids"],
+    "answer": "Sodium and chloride",
+    "explanation": "The ascending limb actively transports sodium and chloride, creating a high solute concentration in the medulla (PAGE35)."
+  },
+  {
+    "id": 23,
+    "question": "What process occurs in the distal convoluted tubule?",
+    "options": ["Filtration", "Active secretion of acids", "Water production", "Blood cell formation"],
+    "answer": "Active secretion of acids",
+    "explanation": "The distal convoluted tubule actively secretes ions, acids, drugs, and toxins (PAGE36)."
+  },
+  {
+    "id": 24,
+    "question": "What structure regulates blood pressure via renin secretion?",
+    "options": ["Macula densa", "Juxtaglomerular complex", "Podocytes", "Collecting duct"],
+    "answer": "Juxtaglomerular complex",
+    "explanation": "The juxtaglomerular complex regulates blood pressure through renin secretion (PAGE37)."
+  },
+  {
+    "id": 25,
+    "question": "What type of epithelium lines the ureters?",
+    "options": ["Stratified squamous", "Transitional", "Simple columnar", "Cuboidal"],
+    "answer": "Transitional",
+    "explanation": "The inner layer of the ureters is lined with transitional epithelium (PAGE42)."
+  },
+  {
+    "id": 26,
+    "question": "What is the triangular area in the urinary bladder called?",
+    "options": ["Detrusor muscle", "Trigone", "Neck", "Ureteral opening"],
+    "answer": "Trigone",
+    "explanation": "The base of the bladder has a triangular area called the trigone, formed by ureteral openings and the urethral entrance (PAGE45)."
+  },
+  {
+    "id": 27,
+    "question": "What sphincter in the urethra is under voluntary control?",
+    "options": ["Internal urethral sphincter", "External urethral sphincter", "Ureteral sphincter", "Detrusor sphincter"],
+    "answer": "External urethral sphincter",
+    "explanation": "The external urethral sphincter is under voluntary control (PAGE46)."
+  },
+  {
+    "id": 28,
+    "question": "What age-related change affects the urinary system after age 40?",
+    "options": ["Increased GFR", "Decreased body water content", "Increased mineral content", "Reduced disorder incidence"],
+    "answer": "Decreased body water content",
+    "explanation": "After age 40, there is a gradual decrease in total body water content (PAGE50)."
+  },
+  {
+    "id": 29,
+    "question": "Which system excretes wastes through perspiration, aiding the urinary system?",
+    "options": ["Respiratory system", "Integumentary system", "Digestive system", "Skeletal system"],
+    "answer": "Integumentary system",
+    "explanation": "The integumentary system excretes wastes through perspiration, contributing to the excretory system (PAGE52)."
+  },
+  {
+    "id": 30,
+    "question": "What role does the urinary system play for other body systems?",
+    "options": ["Produces energy", "Excretes wastes from other systems", "Regulates muscle growth", "Synthesizes vitamins"],
+    "answer": "Excretes wastes from other systems",
+    "explanation": "The urinary system excretes wastes produced by other organ systems, supporting overall homeostasis (PAGE52)."
+  }
+]
