@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "title": "Anatomy I Practice",
+    "numberOfTests": 4
+  },
+  { "id": 1,
+    "title": "Test 1: Integumentary Slides",
+    "numberOfTests": 30
+  },
+  { "id": 2,
+  "title": "Test 2: Endocrine system Slides",
+  "numberOfTests": 30
+},
+    { "id": 3,
+  "title": "Test 3: Nervous system Slides",
+  "numberOfTests": 30
+},
+    { "id": 4,
+  "title": "Test 4: Reproductive system Slides",
+  "numberOfTests": 30
+},
+    { "id": 5,
+  "title": "Test 5: Digestive system  Slides",
+  "numberOfTests": 30
+    },
+    { "id": 6,
+  "title": "Test 6: Urinary system Slides",
+  "numberOfTests": 30
+    }
+  
+]
