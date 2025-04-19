@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What are the two major parts of the integumentary system?",
+    "options": ["Epidermis and dermis", "Cutaneous membrane and accessory structures", "Hypodermis and subcutaneous layer", "Hair and nails only"],
+    "answer": "Cutaneous membrane and accessory structures",
+    "explanation": "The integumentary system consists of the cutaneous membrane (skin) and accessory structures like hair, exocrine glands, and nails (PAGE2)."
+  },
+  {
+    "id": 2,
+    "question": "Which layer of the cutaneous membrane is avascular?",
+    "options": ["Dermis", "Hypodermis", "Epidermis", "Subcutaneous layer"],
+    "answer": "Epidermis",
+    "explanation": "The epidermis is composed of layered epithelial tissue and is avascular, relying on diffusion from the underlying dermis for nutrients (PAGE5)."
+  },
+  {
+    "id": 3,
+    "question": "What is one of the general functions of the integumentary system?",
+    "options": ["Digestive enzyme production", "Sensory reception", "Blood cell production", "Oxygen transport"],
+    "answer": "Sensory reception",
+    "explanation": "The integumentary system detects touch, pressure, pain, and temperature through receptors, relaying this information to the nervous system (PAGE4)."
+  },
+  {
+    "id": 4,
+    "question": "Where is thick skin typically found on the body?",
+    "options": ["Arms and legs", "Palms of hands and soles of feet", "Face and neck", "Back and chest"],
+    "answer": "Palms of hands and soles of feet",
+    "explanation": "Thick skin, with five layers of cells, is found on the palms of hands and soles of feet, where the stratum corneum is very thick (PAGE5)."
+  },
+  {
+    "id": 5,
+    "question": "What is the deepest layer of the epidermis called?",
+    "options": ["Stratum corneum", "Stratum lucidum", "Stratum basale", "Stratum spinosum"],
+    "answer": "Stratum basale",
+    "explanation": "The stratum basale, also called the stratum germinativum, is the deepest layer of the epidermis, attached to the basement membrane (PAGE7)."
+  },
+  {
+    "id": 6,
+    "question": "What type of cells in the stratum basale are responsible for producing melanin?",
+    "options": ["Keratinocytes", "Melanocytes", "Merkel cells", "Basal cells"],
+    "answer": "Melanocytes",
+    "explanation": "Melanocytes in the stratum basale synthesize melanin, a pigment that influences skin color and protects against UV radiation (PAGE7)."
+  },
+  {
+    "id": 7,
+    "question": "What is the role of epidermal ridges formed by the stratum basale?",
+    "options": ["Produce sweat", "Increase surface area for diffusion", "Store lipids", "Synthesize vitamin D"],
+    "answer": "Increase surface area for diffusion",
+    "explanation": "Epidermal ridges interlock with dermal papillae, increasing surface area for diffusion and strengthening the bond between layers (PAGE8)."
+  },
+  {
+    "id": 8,
+    "question": "Which layer of the epidermis contains flattened, densely packed cells filled with keratin?",
+    "options": ["Stratum granulosum", "Stratum lucidum", "Stratum spinosum", "Stratum corneum"],
+    "answer": "Stratum lucidum",
+    "explanation": "The stratum lucidum, found in thick skin, consists of flattened, densely packed cells filled with keratin (PAGE10)."
+  },
+  {
+    "id": 9,
+    "question": "How long does it typically take for a cell to move from the stratum basale to the stratum corneum?",
+    "options": ["1-2 days", "7-10 days", "15-20 days", "30 days"],
+    "answer": "7-10 days",
+    "explanation": "It generally takes 7-10 days for a cell to move from the stratum basale to the stratum corneum, where it becomes keratinized and dies (PAGE11)."
+  },
+  {
+    "id": 10,
+    "question": "What pigment gives an orange-yellow color to the skin?",
+    "options": ["Melanin", "Carotene", "Hemoglobin", "Keratin"],
+    "answer": "Carotene",
+    "explanation": "Carotene, an orange-yellow pigment found in foods like carrots, accumulates in epidermal cells and influences skin color (PAGE11)."
+  },
+  {
+    "id": 11,
+    "question": "What happens to melanocytes when exposed to sunlight?",
+    "options": ["They decrease melanin production", "They increase melanin production", "They stop functioning", "They produce carotene"],
+    "answer": "They increase melanin production",
+    "explanation": "Melanocytes increase melanin production in response to sunlight exposure, absorbing UV radiation to protect deeper layers (PAGE12)."
+  },
+  {
+    "id": 12,
+    "question": "What is the role of vitamin D₃ produced in the epidermis?",
+    "options": ["Protects against UV radiation", "Aids in calcium and phosphorus absorption", "Inhibits bacterial growth", "Provides skin color"],
+    "answer": "Aids in calcium and phosphorus absorption",
+    "explanation": "Vitamin D₃, formed by epidermal cells exposed to sunlight, is converted into calcitriol, which is essential for calcium and phosphorus absorption (PAGE13)."
+  },
+  {
+    "id": 13,
+    "question": "What is the most common type of skin cancer mentioned in the presentation?",
+    "options": ["Malignant melanoma", "Basal cell carcinoma", "Squamous cell carcinoma", "Kaposi sarcoma"],
+    "answer": "Basal cell carcinoma",
+    "explanation": "Basal cell carcinoma, originating in the stratum basale, is the most common skin cancer caused by sunlight exposure (PAGE14)."
+  },
+  {
+    "id": 14,
+    "question": "What type of tissue makes up the dermal papillary layer?",
+    "options": ["Dense irregular connective tissue", "Areolar tissue", "Adipose tissue", "Stratified squamous epithelium"],
+    "answer": "Areolar tissue",
+    "explanation": "The dermal papillary layer consists of areolar tissue, which supports and nourishes the epidermis (PAGE15)."
+  },
+  {
+    "id": 15,
+    "question": "What is the dominant cell type in the dermal reticular layer?",
+    "options": ["Keratinocytes", "Melanocytes", "Fibroblasts", "Adipocytes"],
+    "answer": "Fibroblasts",
+    "explanation": "The dominant cell type in the dermal reticular layer is fibroblasts, which produce collagen and elastic fibers (PAGE16)."
+  },
+  {
+    "id": 16,
+    "question": "What is the primary function of the hypodermis?",
+    "options": ["Synthesize vitamin D₃", "Stabilize the position of the skin", "Produce sweat", "Protect against UV radiation"],
+    "answer": "Stabilize the position of the skin",
+    "explanation": "The hypodermis stabilizes the position of the skin relative to underlying tissues, despite not being part of the integument (PAGE17)."
+  },
+  {
+    "id": 17,
+    "question": "Where do hair follicles typically project into?",
+    "options": ["Epidermis only", "Dermis and often hypodermis", "Stratum corneum", "Subcutaneous fat only"],
+    "answer": "Dermis and often hypodermis",
+    "explanation": "Hair follicles project into the dermis and usually into the hypodermis, where they are anchored (PAGE18)."
+  },
+  {
+    "id": 18,
+    "question": "What layer of the hair shaft contains flexible soft keratin?",
+    "options": ["Cuticle", "Cortex", "Medulla", "Root"],
+    "answer": "Medulla",
+    "explanation": "The medulla, the core of the hair shaft, contains flexible soft keratin, unlike the hard keratin in the cuticle and cortex (PAGE20)."
+  },
+  {
+    "id": 19,
+    "question": "What muscle causes hair to stand up and produce 'goose bumps'?",
+    "options": ["Sebaceous muscle", "Arrector pili muscle", "Dermal muscle", "Keratin muscle"],
+    "answer": "Arrector pili muscle",
+    "explanation": "The arrector pili muscle contracts to make hair stand up, producing 'goose bumps' and expressing emotional states (PAGE22)."
+  },
+  {
+    "id": 20,
+    "question": "What determines the color of hair?",
+    "options": ["Type and amount of melanin", "Thickness of the cortex", "Size of the medulla", "Keratin production"],
+    "answer": "Type and amount of melanin",
+    "explanation": "Hair color is determined by the type and amount of melanin produced by melanocytes, varying from black to blond (PAGE22)."
+  },
+  {
+    "id": 21,
+    "question": "What is the primary secretion of sebaceous glands?",
+    "options": ["Sweat", "Sebum", "Cerumen", "Milk"],
+    "answer": "Sebum",
+    "explanation": "Sebaceous glands, or oil glands, secrete sebum, an oily lipid that lubricates hair and inhibits bacterial growth (PAGE23)."
+  },
+  {
+    "id": 22,
+    "question": "Where do apocrine sweat glands secrete their products?",
+    "options": ["Directly onto the skin surface", "Into hair follicles in specific regions", "Into the bloodstream", "Into the dermis"],
+    "answer": "Into hair follicles in specific regions",
+    "explanation": "Apocrine sweat glands secrete into hair follicles in areas like the armpits, around nipples, and pubic region (PAGE25)."
+  },
+  {
+    "id": 23,
+    "question": "What is the primary function of merocrine sweat glands?",
+    "options": ["Produce earwax", "Cool the body through evaporation", "Secrete milk", "Lubricate hair"],
+    "answer": "Cool the body through evaporation",
+    "explanation": "Merocrine (eccrine) sweat glands secrete watery perspiration onto the skin surface to cool the body through evaporation (PAGE26)."
+  },
+  {
+    "id": 24,
+    "question": "What modified sweat gland produces earwax?",
+    "options": ["Mammary gland", "Ceruminous gland", "Sebaceous gland", "Apocrine gland"],
+    "answer": "Ceruminous gland",
+    "explanation": "Ceruminous glands, located in the external ear, produce cerumen (earwax) in combination with sebaceous gland secretions (PAGE27)."
+  },
+  {
+    "id": 25,
+    "question": "Where is the nail root located?",
+    "options": ["At the tip of the finger", "In the visible nail body", "In an epithelial fold not visible from the surface", "In the lateral nail folds"],
+    "answer": "In an epithelial fold not visible from the surface",
+    "explanation": "The nail root, the site of nail production, is located in an epithelial fold not visible from the surface, covered by the cuticle (PAGE28)."
+  },
+  {
+    "id": 26,
+    "question": "What triggers the inflammatory phase of skin repair?",
+    "options": ["Fibroblast activity", "Mast cells releasing chemicals", "Stratum basale migration", "Collagen fiber production"],
+    "answer": "Mast cells releasing chemicals",
+    "explanation": "The inflammatory phase is triggered by mast cells releasing chemicals at the injury site, causing increased blood flow and phagocyte activity (PAGE29)."
+  },
+  {
+    "id": 27,
+    "question": "During which phase of skin repair does granulation tissue form in deeper areas?",
+    "options": ["Inflammatory phase", "Migratory phase", "Proliferation phase", "Scarring phase"],
+    "answer": "Migratory phase",
+    "explanation": "Granulation tissue, consisting of a blood clot, fibroblasts, and capillaries, forms in deeper areas during the migratory phase (PAGE30)."
+  },
+  {
+    "id": 28,
+    "question": "What type of burn affects only the epidermis and causes erythema?",
+    "options": ["First-degree burn", "Second-degree burn", "Third-degree burn", "Full-thickness burn"],
+    "answer": "First-degree burn",
+    "explanation": "A first-degree burn is a partial-thickness burn that affects only the epidermis, causing erythema or redness from inflammation (PAGE37)."
+  },
+  {
+    "id": 29,
+    "question": "What effect of aging on the integument is caused by a decrease in vitamin D₃ production?",
+    "options": ["Skin becomes dryer", "Muscles weaken and bones lose strength", "Hair thins", "Skin repairs more slowly"],
+    "answer": "Muscles weaken and bones lose strength",
+    "explanation": "A decline in vitamin D₃ production leads to reduced calcium absorption, causing weaker muscles and bones (PAGE39)."
+  },
+  {
+    "id": 30,
+    "question": "Why does the ability to lose heat decrease with aging?",
+    "options": ["Due to increased melanin production", "Due to reduced dermal blood supply and less active sweat glands", "Due to thicker epidermis", "Due to increased hair growth"],
+    "answer": "Due to reduced dermal blood supply and less active sweat glands",
+    "explanation": "Aging reduces dermal blood supply and sweat gland activity, decreasing the ability to lose heat (PAGE40)."
+  }
+]
