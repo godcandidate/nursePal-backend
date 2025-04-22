@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "question": "What is a state of altered consciousness with inhibited sensory capacities, voluntary muscle activity, and little or no interaction with the environment?",
+    "options": ["Sleep", "Insomnia", "Narcolepsy", "Hypersomnia", "State Misperception"],
+    "answer": "Sleep",
+    "explanation": "Sleep is characterized by altered consciousness, inhibited sensory and voluntary muscle activity, and minimal environmental interaction."
+  },
+  {
+    "id": 2,
+    "question": "What is the term for an alteration in smell sensation, e.g., due to hormonal effects in pregnancy?",
+    "options": ["Anosmia", "Parosmia", "Chemoreception", "Olfactory", "Hyperosmia"],
+    "answer": "Parosmia",
+    "explanation": "Parosmia refers to an altered sense of smell, often due to hormonal changes like in pregnancy."
+  },
+  {
+    "id": 3,
+    "question": "The sense of taste and smell allow us to separate undesirable or even lethal foods from those that are pleasant to eat.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Taste and smell help distinguish safe, pleasant foods from potentially harmful ones."
+  },
+  {
+    "id": 4,
+    "question": "Rapid Eye Movement (REM) sleep is also known as?",
+    "options": ["Paradoxical Sleep", "Hyperosmia Sleep", "Dysosmia Sleep", "Parosmia Sleep", "Chemoreception Sleep"],
+    "answer": "Paradoxical Sleep",
+    "explanation": "REM sleep is also called paradoxical sleep due to brain activity resembling wakefulness while the body is paralyzed."
+  },
+  {
+    "id": 5,
+    "question": "All the following are true about simple diffusion EXCEPT?",
+    "options": [
+      "It occurs against an electrochemical gradient ('uphill')",
+      "It does not require ATP and therefore is passive",
+      "It is the only form of transport that is not carrier-mediated",
+      "It occurs down an electrochemical gradient ('downhill')",
+      "It does not require metabolic energy and therefore is passive"
+    ],
+    "answer": "It occurs against an electrochemical gradient ('uphill')",
+    "explanation": "Simple diffusion occurs down an electrochemical gradient, not against it."
+  },
+  {
+    "id": 6,
+    "question": "Which one is odd about primary active transport?",
+    "options": [
+      "It occurs down an electrochemical gradient ('downhill')",
+      "It occurs against an electrochemical gradient ('uphill')",
+      "It requires direct input of metabolic energy in the form of adenosine triphosphate (ATP) and therefore is active",
+      "Is carrier-mediated and therefore exhibits stereospecificity, saturation, and competition",
+      "Na+,K+-ATPase (or Na+-K+ pump) in cell membranes transports Na+ from intracellular to extracellular fluid and K+ from extracellular to intracellular fluid"
+    ],
+    "answer": "It occurs down an electrochemical gradient ('downhill')",
+    "explanation": "Primary active transport occurs against an electrochemical gradient, requiring ATP."
+  },
+  {
+    "id": 7,
+    "question": "Which one is TRUE about secondary active transport?",
+    "options": [
+      "One of the solutes (usually Na+) is transported 'downhill' and provides energy for the 'uphill' transport of the other solute(s)",
+      "It does not require ATP and therefore is passive",
+      "It is the only form of transport that is not carrier-mediated",
+      "It occurs down an electrochemical gradient ('downhill')",
+      "It does not require metabolic energy and therefore is passive"
+    ],
+    "answer": "One of the solutes (usually Na+) is transported 'downhill' and provides energy for the 'uphill' transport of the other solute(s)",
+    "explanation": "Secondary active transport uses the energy from the downhill movement of one solute (e.g., Na+) to drive the uphill transport of another."
+  },
+  {
+    "id": 8,
+    "question": "What is the term for loss of smell sensation, e.g., in a cancer patient, tumor, or trauma due to damage to the olfactory epithelium?",
+    "options": ["Anosmia", "Parosmia", "Chemoreception", "Olfactory", "Hyperosmia"],
+    "answer": "Anosmia",
+    "explanation": "Anosmia is the loss of smell sensation due to damage to the olfactory epithelium."
+  },
+  {
+    "id": 9,
+    "question": "Ligand-gated channels are opened or closed by hormones, second messengers, or neurotransmitters.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Ligand-gated channels open or close in response to the binding of hormones, second messengers, or neurotransmitters."
+  },
+  {
+    "id": 10,
+    "question": "If solutes move in the same direction across the cell membrane, it is called:",
+    "options": ["Counter transport", "Exchange", "Antiport", "Colligative", "Symport"],
+    "answer": "Symport",
+    "explanation": "Symport refers to the movement of solutes in the same direction across the cell membrane."
+  },
+  {
+    "id": 11,
+    "question": "Neurotransmitters are released at the end of a nerve fiber and transfer impulses across synapses or gap junctions. They are also known as?",
+    "options": ["Second Messengers", "Hormones", "Chemical Messengers", "Colligative", "Symport"],
+    "answer": "Chemical Messengers",
+    "explanation": "Neurotransmitters are often referred to as chemical messengers because they transmit signals across synapses."
+  },
+  {
+    "id": 12,
+    "question": "What is the term for an increase in smell sensation, e.g., in adrenal insufficiency?",
+    "options": ["Anosmia", "Parosmia", "Chemoreception", "Olfactory", "Hyperosmia"],
+    "answer": "Hyperosmia",
+    "explanation": "Hyperosmia refers to an increased sensitivity to smell, as seen in adrenal insufficiency."
+  },
+  {
+    "id": 13,
+    "question": "Which is ODD about excitable nerve and muscle cells?",
+    "options": [
+      "Action potential is a property of excitable cells (i.e., nerve, muscle) that consists of a rapid action potential",
+      "Action potentials have stereotypical size and shape, are propagating, and are all-or-none",
+      "Depolarization makes the membrane potential less negative",
+      "Action potentials have no stereotypical size and shape, are propagating, and are all-or-none",
+      "Depolarization, or upstroke, followed by repolarization of the membrane"
+    ],
+    "answer": "Action potentials have no stereotypical size and shape, are propagating, and are all-or-none",
+    "explanation": "Action potentials do have a stereotypical size and shape, making this statement odd."
+  },
+  {
+    "id": 14,
+    "question": "Hyperpolarization makes the membrane potential:",
+    "options": ["More Positive", "More Negative", "Less Negative", "Less Positive", "Negative"],
+    "answer": "More Negative",
+    "explanation": "Hyperpolarization increases the negativity of the membrane potential."
+  },
+  {
+    "id": 15,
+    "question": "In action potentials, the threshold is the membrane potential at which the action potential is inevitable.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "The threshold is the membrane potential at which an action potential will inevitably occur."
+  },
+  {
+    "id": 16,
+    "question": "Resting membrane potential is approximately?",
+    "options": [
+      "70 mV, cell negative",
+      "0.70 mV, cell positive",
+      "-70.07 mV, cell negative",
+      "70 mV, cell positive",
+      "70 mV, cell negative"
+    ],
+    "answer": "-70.07 mV, cell negative",
+    "explanation": "The resting membrane potential is approximately -70 mV, with the cell interior negative relative to the exterior."
+  },
+  {
+    "id": 17,
+    "question": "What is the relative refractory period?",
+    "options": [
+      "Is the period during which another action potential cannot be elicited, no matter how large the stimulus",
+      "Coincides with almost the entire duration of the action potential",
+      "An action potential can be elicited during this period only if a larger than usual inward current is provided",
+      "Recall that the inactivation gates of the Na+ channel are closed when the membrane potential is depolarized. They remain closed until repolarization occurs",
+      "No action potential can occur until the inactivation gates open"
+    ],
+    "answer": "An action potential can be elicited during this period only if a larger than usual inward current is provided",
+    "explanation": "During the relative refractory period, an action potential can be triggered with a stronger-than-normal stimulus."
+  },
+  {
+      "id": 18,
+    "question": "Homeostasis depends on the action and interaction of a number of body systems to maintain a range of conditions within which the body can best operate. These organ systems include:",
+    "options": ["Circulatory system", "Lymphatic system and immunity", "Digestive system", "Nervous system", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Homeostasis involves multiple systems, including circulatory, lymphatic, digestive, and nervous systems."
+  },
+  {
+    "id": 19,
+    "question": "What condition is caused by the presence of antibodies to the ACh receptor?",
+    "options": ["Hypertension", "Diabetes Mellitus", "Myasthenia Gravis", "Paraplegia", "Rhesus Incompatibility"],
+    "answer": "Myasthenia Gravis",
+    "explanation": "Myasthenia Gravis is caused by antibodies attacking acetylcholine (ACh) receptors at the neuromuscular junction."
+  },
+  {
+    "id": 20,
+    "question": "Thin filaments contain the following EXCEPT:",
+    "options": ["Actin", "Tropomyosin", "Troponin", "Myosin", "Are Anchored At The Z Lines"],
+    "answer": "Myosin",
+    "explanation": "Thin filaments contain actin, tropomyosin, and troponin, but myosin is part of thick filaments."
+  }
+]
