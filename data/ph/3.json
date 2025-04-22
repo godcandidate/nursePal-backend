@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "Which type of synovial joint allows movement in one plane only, such as the elbow?",
+    "options": ["Ball-and-socket joint", "Hinge joint", "Pivot joint", "Saddle joint"],
+    "answer": "Hinge joint",
+    "explanation": "A hinge joint allows movement in one plane, like flexion and extension, as seen in the elbow (QUESTION ONE-A)."
+  },
+  {
+    "id": 2,
+    "question": "What is an example of a ball-and-socket joint?",
+    "options": ["Knee", "Elbow", "Shoulder", "Wrist"],
+    "answer": "Shoulder",
+    "explanation": "The shoulder is a ball-and-socket joint, allowing movement in multiple planes (QUESTION ONE-A)."
+  },
+  {
+    "id": 3,
+    "question": "Which synovial joint type is found in the thumb, allowing opposition?",
+    "options": ["Hinge joint", "Pivot joint", "Saddle joint", "Condyloid joint"],
+    "answer": "Saddle joint",
+    "explanation": "The saddle joint, such as in the thumb at the carpometacarpal joint, allows opposition (QUESTION ONE-A)."
+  },
+  {
+    "id": 4,
+    "question": "What type of synovial joint is the atlantoaxial joint, allowing rotation of the neck?",
+    "options": ["Hinge joint", "Pivot joint", "Saddle joint", "Gliding joint"],
+    "answer": "Pivot joint",
+    "explanation": "The atlantoaxial joint is a pivot joint, enabling rotational movement of the neck (QUESTION ONE-A)."
+  },
+  {
+    "id": 5,
+    "question": "Which synovial joint type allows limited sliding movements, such as between carpal bones?",
+    "options": ["Ball-and-socket joint", "Hinge joint", "Gliding joint", "Condyloid joint"],
+    "answer": "Gliding joint",
+    "explanation": "Gliding joints, like those between carpal bones, allow limited sliding movements (QUESTION ONE-A)."
+  },
+  {
+    "id": 6,
+    "question": "Which structure brings deoxygenated blood from the upper body to the heart?",
+    "options": ["Inferior Vena Cava", "Superior Vena Cava", "Pulmonary Artery", "Aorta"],
+    "answer": "Superior Vena Cava",
+    "explanation": "The superior vena cava brings deoxygenated blood from the upper body to the right atrium (QUESTION ONE-B)."
+  },
+  {
+    "id": 7,
+    "question": "What structure carries oxygenated blood from the lungs to the heart?",
+    "options": ["Pulmonary Artery", "Pulmonary Veins", "Aorta", "Superior Vena Cava"],
+    "answer": "Pulmonary Veins",
+    "explanation": "Pulmonary veins carry oxygenated blood from the lungs to the left atrium (QUESTION ONE-B)."
+  },
+  {
+    "id": 8,
+    "question": "Which valve prevents backflow of blood from the pulmonary artery to the right ventricle?",
+    "options": ["Aortic Valve", "Pulmonary Valve", "Tricuspid Valve", "Mitral Valve"],
+    "answer": "Pulmonary Valve",
+    "explanation": "The pulmonary valve prevents backflow from the pulmonary artery to the right ventricle (QUESTION ONE-B)."
+  },
+  {
+    "id": 9,
+    "question": "What is the first chamber of the heart that deoxygenated blood enters?",
+    "options": ["Left Atrium", "Right Atrium", "Left Ventricle", "Right Ventricle"],
+    "answer": "Right Atrium",
+    "explanation": "Deoxygenated blood enters the heart via the right atrium from the vena cavae (QUESTION ONE-C)."
+  },
+  {
+    "id": 10,
+    "question": "Where does blood go after leaving the left ventricle?",
+    "options": ["Pulmonary Artery", "Aorta", "Pulmonary Veins", "Right Atrium"],
+    "answer": "Aorta",
+    "explanation": "Oxygenated blood leaves the left ventricle and enters the aorta to be distributed to the body (QUESTION ONE-C)."
+  },
+  {
+    "id": 11,
+    "question": "Which type of stratified epithelial tissue is found in the esophagus?",
+    "options": ["Stratified Squamous", "Stratified Cuboidal", "Stratified Columnar", "Transitional"],
+    "answer": "Stratified Squamous",
+    "explanation": "Stratified squamous epithelium lines the esophagus, protecting it from abrasion (QUESTION TWO-A)."
+  },
+  {
+    "id": 12,
+    "question": "Where is transitional epithelium typically found in the body?",
+    "options": ["Skin", "Bladder", "Intestines", "Blood vessels"],
+    "answer": "Bladder",
+    "explanation": "Transitional epithelium is found in the bladder, allowing it to stretch (QUESTION TWO-A)."
+  },
+  {
+    "id": 13,
+    "question": "Which type of stratified epithelium is rare but can be found in the male urethra?",
+    "options": ["Stratified Squamous", "Stratified Cuboidal", "Stratified Columnar", "Transitional"],
+    "answer": "Stratified Columnar",
+    "explanation": "Stratified columnar epithelium is rare but found in parts of the male urethra (QUESTION TWO-A)."
+  },
+  {
+    "id": 14,
+    "question": "Where is stratified cuboidal epithelium commonly located?",
+    "options": ["Skin", "Sweat gland ducts", "Bladder", "Esophagus"],
+    "answer": "Sweat gland ducts",
+    "explanation": "Stratified cuboidal epithelium is found in the ducts of sweat glands (QUESTION TWO-A)."
+  },
+  {
+    "id": 15,
+    "question": "Which characteristic best describes skeletal muscle?",
+    "options": ["Involuntary, non-striated", "Voluntary, striated", "Involuntary, striated", "Branching, intercalated discs"],
+    "answer": "Voluntary, striated",
+    "explanation": "Skeletal muscle is voluntary and striated, attached to bones for movement (QUESTION TWO-B)."
+  },
+  {
+    "id": 16,
+    "question": "What feature is unique to cardiac muscle?",
+    "options": ["Striated, voluntary", "Non-striated, involuntary", "Intercalated discs, branching", "Multinucleated, striated"],
+    "answer": "Intercalated discs, branching",
+    "explanation": "Cardiac muscle has intercalated discs and branching fibers, enabling coordinated contractions (QUESTION TWO-B)."
+  },
+  {
+    "id": 17,
+    "question": "Which characteristic defines smooth muscle?",
+    "options": ["Striated, voluntary", "Non-striated, involuntary", "Intercalated discs", "Multinucleated"],
+    "answer": "Non-striated, involuntary",
+    "explanation": "Smooth muscle is non-striated and involuntary, found in walls of internal organs (QUESTION TWO-B)."
+  },
+  {
+    "id": 18,
+    "question": "What causes haemolytic disease of the newborn in Rh incompatibility?",
+    "options": ["Mother Rh+, fetus Rh-", "Mother Rh-, fetus Rh+", "Mother O, fetus A", "Mother A, fetus B"],
+    "answer": "Mother Rh-, fetus Rh+",
+    "explanation": "Haemolytic disease occurs when an Rh- mother carries an Rh+ fetus, leading to antibody production against fetal red blood cells (QUESTION THREE-A)."
+  },
+  {
+    "id": 19,
+    "question": "Which blood group has anti-A and anti-B agglutinins?",
+    "options": ["A", "B", "AB", "O"],
+    "answer": "O",
+    "explanation": "Blood group O has both anti-A and anti-B agglutinins in the plasma (QUESTION THREE-B)."
+  },
+  {
+    "id": 20,
+    "question": "Which blood group is compatible with AB for transfusion?",
+    "options": ["A only", "B only", "AB only", "O only"],
+    "answer": "AB only",
+    "explanation": "Blood group AB is compatible with AB as it has no agglutinins to react with A or B antigens (QUESTION THREE-B)."
+  },
+  {
+    "id": 21,
+    "question": "What is a function of blood in the body?",
+    "options": ["Produces muscle", "Transports oxygen", "Synthesizes bone", "Stores fat"],
+    "answer": "Transports oxygen",
+    "explanation": "Blood transports oxygen from the lungs to tissues via hemoglobin in red blood cells (QUESTION THREE-C)."
+  },
+  {
+    "id": 22,
+    "question": "Which phase of mitosis involves the alignment of chromosomes at the cell's equatorial plane?",
+    "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "answer": "Metaphase",
+    "explanation": "During metaphase of mitosis, chromosomes align at the equatorial plane of the cell (QUESTION FOUR-A)."
+  },
+  {
+    "id": 23,
+    "question": "What is the primary goal of meiosis?",
+    "options": ["Growth and repair", "Produce identical cells", "Reduce chromosome number", "Increase chromosome number"],
+    "answer": "Reduce chromosome number",
+    "explanation": "Meiosis reduces the chromosome number by half to produce gametes for sexual reproduction (QUESTION FOUR-A)."
+  },
+  {
+    "id": 24,
+    "question": "In which phase of meiosis does crossing over occur?",
+    "options": ["Prophase I", "Metaphase I", "Anaphase I", "Telophase I"],
+    "answer": "Prophase I",
+    "explanation": "Crossing over, the exchange of genetic material between homologous chromosomes, occurs during prophase I of meiosis (QUESTION FOUR-A)."
+  },
+  {
+    "id": 25,
+    "question": "What does the term 'proximal' mean in anatomical terms?",
+    "options": ["Closer to the point of attachment", "Farther from the point of attachment", "Toward the midline", "Away from the midline"],
+    "answer": "Closer to the point of attachment",
+    "explanation": "Proximal means closer to the point of attachment of a limb to the trunk (QUESTION FOUR-B)."
+  },
+  {
+    "id": 26,
+    "question": "What does the term 'distal' refer to in anatomy?",
+    "options": ["Closer to the midline", "Farther from the point of attachment", "Toward the head", "Toward the feet"],
+    "answer": "Farther from the point of attachment",
+    "explanation": "Distal means farther from the point of attachment of a limb to the trunk (QUESTION FOUR-B)."
+  },
+  {
+    "id": 27,
+    "question": "What does 'superior' mean in anatomical terminology?",
+    "options": ["Toward the feet", "Toward the head", "Closer to the midline", "Farther from the midline"],
+    "answer": "Toward the head",
+    "explanation": "Superior refers to a position toward the head or upper part of the body (QUESTION FOUR-B)."
+  },
+  {
+    "id": 28,
+    "question": "What does the term 'medial' indicate in anatomy?",
+    "options": ["Away from the midline", "Toward the midline", "Toward the head", "Toward the feet"],
+    "answer": "Toward the midline",
+    "explanation": "Medial means toward the midline of the body (QUESTION FOUR-B)."
+  },
+  {
+    "id": 29,
+    "question": "What does 'posterior' mean in anatomical terms?",
+    "options": ["Toward the front", "Toward the back", "Closer to the surface", "Farther from the surface"],
+    "answer": "Toward the back",
+    "explanation": "Posterior refers to a position toward the back of the body (QUESTION FOUR-B)."
+  },
+  {
+    "id": 30,
+    "question": "What does the term 'superficial' mean in anatomy?",
+    "options": ["Closer to the surface", "Farther from the surface", "Toward the midline", "Away from the midline"],
+    "answer": "Closer to the surface",
+    "explanation": "Superficial means closer to the surface of the body (QUESTION FOUR-B)."
+  }
+]
