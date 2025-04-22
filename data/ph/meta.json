@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "Physiology 1",
-    "numberOfTests": 5
+    "numberOfTests": 8
   },
   {
     "id": 1,
@@ -28,5 +28,21 @@
     "id": 5,
     "title": "Test 5: Pasco B",
     "numberOfTests": 20
-  }
+  },  
+  {
+    "id": 6,
+    "title": "Test 5:Homeostasis, and Physiology Tiss6ue"
+   ",
+    "numberOfTests": 30
+  },   
+  {
+    "id": 7,
+    "title": "Test 7: Body Fluids, Sense of Smell, and Autonomic Nervous System",
+    "numberOfTests": 30
+  },  
+  {
+    "id": 8,
+    "title": "Test 8:  Reflexes, The Menstrual Cycle, and Electrical Activities of the Brain"",
+    "numberOfTests": 30
+  } 
 ]
