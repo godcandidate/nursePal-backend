@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "title": "Physiology 1",
+    "numberOfTests": 4
+  },
+  {
+    "id": 1,
+    "title": "Test 1: Pasco 2022 A",
+    "numberOfTests": 30
+  },  
+  {
+    "id": 2,
+    "title": "Test 2: Pasco 2022 B",
+    "numberOfTests": 30
+  }
+  
+]
