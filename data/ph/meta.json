@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "Physiology 1",
-    "numberOfTests": 4
+    "numberOfTests": 5
   },
   {
     "id": 1,
@@ -13,6 +13,20 @@
     "id": 2,
     "title": "Test 2: Pasco 2022 B",
     "numberOfTests": 30
-  }
+  }{
+    "id": 3,
+    "title": "Test 3: Pasco 2020 ",
+    "numberOfTests": 30
+  },  
   
+  {
+    "id": 4,
+    "title": "Test 4: Pasco A",
+    "numberOfTests": 30
+  },  
+  {
+    "id": 5,
+    "title": "Test 5: Pasco B",
+    "numberOfTests": 20
+  }
 ]
