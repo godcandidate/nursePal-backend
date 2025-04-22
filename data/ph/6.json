@@ -1,0 +1,212 @@
+[
+      {
+        "id": 1,
+        "question": "What is the primary purpose of homeostasis in the body?",
+        "options": ["To increase energy production", "To maintain a stable internal environment", "To enhance muscle growth", "To regulate external temperature"],
+        "answer": "To maintain a stable internal environment",
+        "explanation": "Homeostasis maintains a stable internal environment despite external changes, as explained in Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 2,
+        "question": "Which system is primarily involved in maintaining body temperature homeostasis?",
+        "options": ["Digestive system", "Nervous system", "Muscular system", "Skeletal system"],
+        "answer": "Nervous system",
+        "explanation": "The nervous system, particularly the hypothalamus, regulates body temperature, as per Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 3,
+        "question": "What type of feedback mechanism is most common in homeostasis?",
+        "options": ["Positive feedback", "Negative feedback", "Neutral feedback", "Cyclic feedback"],
+        "answer": "Negative feedback",
+        "explanation": "Negative feedback corrects deviations from a set point, such as in temperature regulation, as described in Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 4,
+        "question": "What happens when blood glucose levels rise above the set point?",
+        "options": ["Insulin is released", "Glucagon is released", "Adrenaline is released", "Cortisol is released"],
+        "answer": "Insulin is released",
+        "explanation": "Insulin is released to lower blood glucose levels through negative feedback, as per Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 5,
+        "question": "Which organ plays a key role in maintaining pH homeostasis?",
+        "options": ["Liver", "Kidneys", "Heart", "Spleen"],
+        "answer": "Kidneys",
+        "explanation": "The kidneys regulate pH by excreting excess H+ or reabsorbing bicarbonate, as noted in Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 6,
+        "question": "What is an example of a positive feedback mechanism in the body?",
+        "options": ["Temperature regulation", "Blood glucose regulation", "Childbirth contractions", "Blood pressure regulation"],
+        "answer": "Childbirth contractions",
+        "explanation": "Childbirth involves positive feedback, where contractions intensify until delivery, as explained in Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 7,
+        "question": "What physiological variable is regulated by homeostasis to maintain blood pressure?",
+        "options": ["Blood volume", "Hair growth", "Skin color", "Bone density"],
+        "answer": "Blood volume",
+        "explanation": "Homeostasis regulates blood volume to maintain blood pressure, as per Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 8,
+        "question": "What is the role of a sensor in a homeostatic feedback loop?",
+        "options": ["To effect a change", "To detect a change", "To integrate signals", "To store energy"],
+        "answer": "To detect a change",
+        "explanation": "A sensor detects changes in a physiological variable, as described in Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 9,
+        "question": "What happens if homeostasis fails to regulate body temperature?",
+        "options": ["Hyperthermia or hypothermia", "Increased muscle mass", "Improved digestion", "Enhanced vision"],
+        "answer": "Hyperthermia or hypothermia",
+        "explanation": "Failure to regulate body temperature can lead to hyperthermia or hypothermia, as per Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 10,
+        "question": "Which hormone helps maintain calcium homeostasis in the blood?",
+        "options": ["Insulin", "Parathyroid hormone", "Adrenaline", "Thyroxine"],
+        "answer": "Parathyroid hormone",
+        "explanation": "Parathyroid hormone regulates calcium levels in the blood, as noted in Khan Academy's Homeostasis video."
+      },
+      {
+        "id": 11,
+        "question": "What does physiology primarily study?",
+        "options": ["The structure of organs", "The functions of living systems", "The classification of tissues", "The history of medicine"],
+        "answer": "The functions of living systems",
+        "explanation": "Physiology focuses on how living systems function, as introduced in Crash Course Anatomy & Physiology #1."
+      },
+      {
+        "id": 12,
+        "question": "What is a key focus of human physiology?",
+        "options": ["Plant growth", "How organs work together", "Animal behavior", "Microbial genetics"],
+        "answer": "How organs work together",
+        "explanation": "Human physiology studies how organs and systems work together, as per Crash Course Anatomy & Physiology #1."
+      },
+      {
+        "id": 13,
+        "question": "What distinguishes physiology from anatomy?",
+        "options": ["Physiology studies structure, anatomy studies function", "Physiology studies function, anatomy studies structure", "Physiology studies diseases, anatomy studies health", "Physiology studies cells, anatomy studies tissues"],
+        "answer": "Physiology studies function, anatomy studies structure",
+        "explanation": "Physiology focuses on function, while anatomy focuses on structure, as explained in Khan Academy's Human Anatomy and Physiology."
+      },
+      {
+        "id": 14,
+        "question": "What is an example of a physiological process?",
+        "options": ["Bone growth", "Digestion", "Hair color", "Skin texture"],
+        "answer": "Digestion",
+        "explanation": "Digestion is a physiological process involving the function of the digestive system, as per Crash Course Anatomy & Physiology #1."
+      },
+      {
+        "id": 15,
+        "question": "What system would a physiologist study to understand breathing?",
+        "options": ["Skeletal system", "Respiratory system", "Integumentary system", "Lymphatic system"],
+        "answer": "Respiratory system",
+        "explanation": "The respiratory system is studied to understand the physiology of breathing, as noted in Khan Academy's Human Anatomy and Physiology."
+      },
+      {
+        "id": 16,
+        "question": "What level of organization does physiology often focus on?",
+        "options": ["Cellular level only", "Systemic level", "Atomic level", "Molecular level only"],
+        "answer": "Systemic level",
+        "explanation": "Physiology often focuses on the systemic level, studying how systems function together, as per Crash Course Anatomy & Physiology #1."
+      },
+      {
+        "id": 17,
+        "question": "What is a key tool used in physiology to measure heart function?",
+        "options": ["Electrocardiogram (ECG)", "Microscope", "Thermometer", "Stethoscope"],
+        "answer": "Electrocardiogram (ECG)",
+        "explanation": "An ECG measures the electrical activity of the heart, a key tool in physiology, as noted in Khan Academy's Human Anatomy and Physiology."
+      },
+      {
+        "id": 18,
+        "question": "What physiological process is involved in maintaining blood oxygen levels?",
+        "options": ["Photosynthesis", "Respiration", "Osmosis", "Diffusion"],
+        "answer": "Respiration",
+        "explanation": "Respiration ensures oxygen delivery to the blood, as explained in Crash Course Anatomy & Physiology #1."
+      },
+      {
+        "id": 19,
+        "question": "What does physiology help us understand about diseases?",
+        "options": ["How they are inherited", "How they affect body functions", "How they are diagnosed", "How they are treated"],
+        "answer": "How they affect body functions",
+        "explanation": "Physiology helps understand how diseases disrupt normal body functions, as per Khan Academy's Human Anatomy and Physiology."
+      },
+      {
+        "id": 20,
+        "question": "What is a physiological response to low blood pressure?",
+        "options": ["Increased heart rate", "Decreased heart rate", "Increased digestion", "Decreased respiration"],
+        "answer": "Increased heart rate",
+        "explanation": "Low blood pressure triggers a physiological response to increase heart rate, as noted in Crash Course Anatomy & Physiology #1."
+      },
+      {
+        "id": 21,
+        "question": "What is a characteristic of skeletal muscle tissue?",
+        "options": ["Involuntary and non-striated", "Voluntary and striated", "Involuntary and striated", "Branching with intercalated discs"],
+        "answer": "Voluntary and striated",
+        "explanation": "Skeletal muscle is voluntary and striated, as explained in Crash Course Anatomy & Physiology #21."
+      },
+      {
+        "id": 22,
+        "question": "What ion is primarily responsible for the depolarization phase of a neuron’s action potential?",
+        "options": ["Potassium (K+)", "Sodium (Na+)", "Calcium (Ca2+)", "Chloride (Cl-)"],
+        "answer": "Sodium (Na+)",
+        "explanation": "Sodium (Na+) influx causes depolarization in neurons, as per Khan Academy's Structure of the Nervous System."
+      },
+      {
+        "id": 23,
+        "question": "What structure in muscle cells releases calcium during contraction?",
+        "options": ["Mitochondria", "Sarcoplasmic reticulum", "Nucleus", "Golgi apparatus"],
+        "answer": "Sarcoplasmic reticulum",
+        "explanation": "The sarcoplasmic reticulum releases calcium for muscle contraction, as described in Crash Course Anatomy & Physiology #21."
+      },
+      {
+        "id": 24,
+        "question": "What type of neuron carries signals from the CNS to muscles?",
+        "options": ["Sensory neuron", "Interneuron", "Motor neuron", "Bipolar neuron"],
+        "answer": "Motor neuron",
+        "explanation": "Motor neurons transmit signals from the CNS to muscles, as per Khan Academy's Structure of the Nervous System."
+      },
+      {
+        "id": 25,
+        "question": "What is the role of the myelin sheath in nerve cells?",
+        "options": ["Stores neurotransmitters", "Increases speed of nerve impulses", "Produces energy", "Protects against toxins"],
+        "answer": "Increases speed of nerve impulses",
+        "explanation": "The myelin sheath speeds up nerve impulse conduction, as explained in Khan Academy's Structure of the Nervous System."
+      },
+      {
+        "id": 26,
+        "question": "What protein in muscle cells binds to calcium to initiate contraction?",
+        "options": ["Actin", "Myosin", "Troponin", "Tropomyosin"],
+        "answer": "Troponin",
+        "explanation": "Troponin binds calcium, triggering muscle contraction, as per Crash Course Anatomy & Physiology #21."
+      },
+      {
+        "id": 27,
+        "question": "What is the resting membrane potential of a typical neuron?",
+        "options": ["-70 mV", "+70 mV", "0 mV", "-30 mV"],
+        "answer": "-70 mV",
+        "explanation": "The resting membrane potential of a neuron is approximately -70 mV, as noted in Khan Academy's Structure of the Nervous System."
+      },
+      {
+        "id": 28,
+        "question": "What type of muscle tissue is found in the heart?",
+        "options": ["Skeletal muscle", "Smooth muscle", "Cardiac muscle", "Striated muscle"],
+        "answer": "Cardiac muscle",
+        "explanation": "Cardiac muscle is found in the heart, as described in Crash Course Anatomy & Physiology #21."
+      },
+      {
+        "id": 29,
+        "question": "What neurotransmitter is typically released at the neuromuscular junction?",
+        "options": ["Dopamine", "Serotonin", "Acetylcholine", "Norepinephrine"],
+        "answer": "Acetylcholine",
+        "explanation": "Acetylcholine is released at the neuromuscular junction to trigger muscle contraction, as per Crash Course Anatomy & Physiology #21."
+      },
+      {
+        "id": 30,
+        "question": "What happens during the repolarization phase of an action potential?",
+        "options": ["Sodium channels open", "Potassium channels open", "Calcium channels open", "Chloride channels open"],
+        "answer": "Potassium channels open",
+        "explanation": "Potassium channels open, allowing K+ to exit and repolarize the neuron, as explained in Khan Academy's Structure of the Nervous System."
+      }
+        ]
