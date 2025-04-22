@@ -13,12 +13,12 @@
     "id": 2,
     "title": "Test 2: Pasco 2022 B",
     "numberOfTests": 30
-  }{
+  },
+  {
     "id": 3,
     "title": "Test 3: Pasco 2020 ",
     "numberOfTests": 30
   },  
-  
   {
     "id": 4,
     "title": "Test 4: Pasco A",
