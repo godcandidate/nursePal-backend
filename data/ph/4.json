@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "question": "At a steady state, ECF osmolarity and ICF osmolarity are not equal.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "explanation": "At a steady state, ECF and ICF osmolarity are equal due to the movement of water to balance osmotic gradients."
+  },
+  {
+    "id": 2,
+    "question": "To achieve equality of ECF and ICF osmolarity, water does not shift between the ECF and ICF compartments.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "explanation": "Water shifts between ECF and ICF compartments to achieve osmotic equality."
+  },
+  {
+    "id": 3,
+    "question": "It is assumed that solutes such as NaCl and mannitol do not cross cell membranes and are confined to ECF.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "NaCl and mannitol are assumed to be confined to the ECF as they do not easily cross cell membranes."
+  },
+  {
+    "id": 4,
+    "question": "Infusion of isotonic NaCl-addition of isotonic fluid is also called isosmotic volume expansion.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Infusion of isotonic NaCl increases ECF volume without changing osmolarity, known as isosmotic volume expansion."
+  },
+  {
+    "id": 5,
+    "question": "After infusion of isotonic NaCl, ECF volume increases, but no change occurs in the osmolarity of ECF or ICF.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Isotonic NaCl infusion increases ECF volume but does not alter ECF or ICF osmolarity."
+  },
+  {
+    "id": 6,
+    "question": "Because osmolarity is unchanged after isotonic NaCl infusion, water does not shift between the ECF and ICF compartments.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "With unchanged osmolarity, there is no osmotic gradient to drive water shifts between ECF and ICF."
+  },
+  {
+    "id": 7,
+    "question": "Plasma protein concentration and hematocrit decrease because the addition of isotonic fluid to the ECF dilutes the protein and red blood cells (RBCs). Because ECF osmolarity is unchanged, the RBCs will not shrink or swell.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Isotonic fluid dilutes plasma proteins and RBCs, lowering protein concentration and hematocrit, and RBCs remain unchanged in size due to stable osmolarity."
+  },
+  {
+    "id": 8,
+    "question": "Arterial blood pressure does not decrease because ECF volume decreases.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "explanation": "Arterial blood pressure may increase with isotonic fluid infusion as ECF volume increases, not decreases."
+  },
+  {
+    "id": 9,
+    "question": "Intracellular fluid (ICF) does not form two-thirds of TBW.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "explanation": "ICF forms approximately two-thirds of total body water (TBW), as per the 60-40-20 rule."
+  },
+  {
+    "id": 10,
+    "question": "The major cations of ICF are K+ and Na+.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "explanation": "The major cation of ICF is K+, while Na+ is the major cation of ECF."
+  },
+  {
+    "id": 11,
+    "question": "The major anions of ICF are protein and organic phosphates [adenosine triphosphate (ATP), adenosine diphosphate (ADP), and adenosine monophosphate (AMP)].",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Proteins and organic phosphates like ATP, ADP, and AMP are the major anions in the ICF."
+  },
+  {
+    "id": 12,
+    "question": "Extracellular fluid (ECF) is two-thirds of TBW.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "explanation": "ECF is one-third of TBW, while ICF is two-thirds, according to the 60-40-20 rule."
+  },
+  {
+    "id": 13,
+    "question": "Extracellular fluid (ECF) is composed of interstitial fluid and plasma.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "ECF consists of interstitial fluid and plasma."
+  },
+  {
+    "id": 14,
+    "question": "The major cation of ECF is K+.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "explanation": "The major cation of ECF is Na+, not K+."
+  },
+  {
+    "id": 15,
+    "question": "The major anions of ECF are Cl- and HCO3-.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "The major anions of ECF are chloride (Cl-) and bicarbonate (HCO3-)."
+  },
+  {
+    "id": 16,
+    "question": "Plasma is one-fourth of the ECF. Thus, it is one-twelfth of TBW (1/4 × 1/3).",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Plasma is one-fourth of ECF, and since ECF is one-third of TBW, plasma is 1/12 of TBW."
+  },
+  {
+    "id": 17,
+    "question": "The major plasma proteins are albumin, water, and globulins.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "explanation": "The major plasma proteins are albumin and globulins; water is not a protein."
+  },
+  {
+    "id": 18,
+    "question": "Interstitial fluid is three-fourths of the ECF. Thus, it is one-fourth of TBW (3/4 × 1/3).",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Interstitial fluid is three-fourths of ECF, and since ECF is one-third of TBW, interstitial fluid is 1/4 of TBW."
+  },
+  {
+    "id": 19,
+    "question": "The composition of interstitial fluid is the same as that of plasma except that it has little protein. Thus, interstitial fluid is an ultrafiltrate of plasma.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Interstitial fluid is an ultrafiltrate of plasma, with similar composition but minimal protein content."
+  },
+  {
+    "id": 20,
+    "question": "In adrenocortical insufficiency, there is a loss of NaCl.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "explanation": "Adrenocortical insufficiency, such as in Addison's disease, leads to loss of NaCl due to decreased aldosterone."
+  },
+  {
+    "id": 21,
+    "question": "According to the 60-40-20 rule of TBW, which sequence is correct?",
+    "options": [
+      "TBW is 20% of body weight, ICF is 40% of body weight, ECF is 20% of body weight",
+      "TBW is 60% of body weight, ICF is 20% of body weight, ECF is 40% of body weight",
+      "TBW is 40% of body weight, ICF is 60% of body weight, ECF is 20% of body weight",
+      "TBW is 60% of body weight, ICF is 40% of body weight, ECF is 20% of body weight",
+      "TBW is 60% of body weight, ICF is 20% of body weight, ECF is 40% of body weight"
+    ],
+    "answer": "TBW is 60% of body weight, ICF is 40% of body weight, ECF is 20% of body weight",
+    "explanation": "The 60-40-20 rule states TBW is 60% of body weight, ICF is 40% (two-thirds of TBW), and ECF is 20% (one-third of TBW)."
+  },
+  {
+    "id": 22,
+    "question": "The percentage of TBW is highest in newborns and adult females and lowest in adult males and in adults with a large amount of adipose tissue.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "explanation": "TBW percentage is highest in newborns and lowest in adults with high adipose tissue, but adult males generally have higher TBW than females due to less fat."
+  },
+  {
+    "id": 23,
+    "question": "Evans blue is a marker for plasma volume because it is a dye that binds to:",
+    "options": [
+      "Serum albumin and is therefore confined to the plasma compartment",
+      "Adipose albumin and is therefore confined to the plasma compartment",
+      "Serum adipose and is therefore confined to the plasma compartment",
+      "Water albumin and is therefore confined to the plasma compartment",
+      "Serum water and is therefore confined to the plasma compartment"
+    ],
+    "answer": "Serum albumin and is therefore confined to the plasma compartment",
+    "explanation": "Evans blue binds to serum albumin, confining it to the plasma compartment, making it a marker for plasma volume."
+  },
+  {
+    "id": 24,
+    "question": "Mannitol is a marker for ECF because it cannot cross cell membranes and is therefore excluded from the ICF. It is recommended for patients with?",
+    "options": ["Diabetes Mellitus", "Hypertension", "Hypotension", "Kwashiorkor", "Head injury"],
+    "answer": "Head injury",
+    "explanation": "Mannitol is used to reduce intracranial pressure in patients with head injuries due to its confinement to the ECF."
+  },
+  {
+    "id": 25,
+    "question": "Which are the catalyst enzyme-filled membrane packages that can neutralize toxins?",
+    "options": ["Peroxisome Endoplasmic", "Endoplasmic Lysosomes", "Peroxisome", "Ribosomes", "Lysosomes"],
+    "answer": "Peroxisome",
+    "explanation": "Peroxisomes are enzyme-filled organelles that neutralize toxins in the body."
+  },
+  {
+    "id": 26,
+    "question": "Which organelle modifies, sorts, packages, and distributes proteins received from the ER, and prepares materials for export outside the cell?",
+    "options": ["Vesicles", "Golgi apparatus", "Endoplasmic Reticulum", "Rough Endoplasmic Reticulum", "Smooth Endoplasmic Reticulum"],
+    "answer": "Golgi apparatus",
+    "explanation": "The Golgi apparatus modifies, sorts, packages, and distributes proteins from the ER for export."
+  },
+  {
+    "id": 27,
+    "question": "Which are the digestive enzyme-filled membrane packages capable of digesting food, viruses, bacteria, etc.?",
+    "options": ["Peroxisome Endoplasmic", "Endoplasmic Lysosomes", "Peroxisome", "Ribosomes", "Lysosomes"],
+    "answer": "Lysosomes",
+    "explanation": "Lysosomes are enzyme-filled organelles that digest food, viruses, and bacteria."
+  },
+  {
+    "id": 28,
+    "question": "Which structures are responsible for the movement of the cell, like in muscle cells, involving Actin and Myosin?",
+    "options": ["Microtubules", "Mitochondria", "Microfilaments", "Plasma membrane", "Endoplasmic Reticulum"],
+    "answer": "Microfilaments",
+    "explanation": "Microfilaments, composed of actin and myosin, are responsible for cell movement, especially in muscle cells."
+  },
+  {
+    "id": 29,
+    "question": "Which are the attachments between cells, often epithelial cells, that may be an intercellular pathway for solutes, depending on the size, charge, and characteristic of the junction?",
+    "options": ["Zonula occludens", "Distal tubule", "Proximal tubule", "Myocardial cells", "Gap junctions"],
+    "answer": "Zonula occludens",
+    "explanation": "Zonula occludens (tight junctions) are attachments between epithelial cells that can act as pathways for solutes based on their properties."
+  },
+  {
+    "id": 30,
+    "question": "Which are the attachments between cells that permit intercellular communication, such as current flow and electrical coupling between myocardial cells?",
+    "options": ["Zonula occludens", "Distal tubule", "Proximal tubule", "Myocardial cells", "Gap junctions"],
+    "answer": "Gap junctions",
+    "explanation": "Gap junctions allow intercellular communication, enabling current flow and electrical coupling between myocardial cells."
+  }
+]
