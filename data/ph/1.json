@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "During cross-bridge formation in skeletal muscle, what does myosin bind to?",
+    "options": ["Actin and Myosin", "Tropomyosin and Actin", "Troponin and Actin", "Actin and ATP"],
+    "answer": "Actin and ATP",
+    "explanation": "Myosin binds to actin and ATP during cross-bridge formation to enable excitation-contraction coupling in skeletal muscle (PAGE2)."
+  },
+  {
+    "id": 2,
+    "question": "Which organelle is responsible for cell division?",
+    "options": ["Lysosomes", "Peroxisome", "Microfilaments", "Microtubules"],
+    "answer": "Microtubules",
+    "explanation": "Microtubules form the mitotic spindle and are responsible for cell division (PAGE2)."
+  },
+  {
+    "id": 3,
+    "question": "Where are thin filaments anchored in a muscle cell?",
+    "options": ["A line", "T line", "Z line", "S line"],
+    "answer": "Z line",
+    "explanation": "Thin filaments are anchored at the Z line in the sarcomere of a muscle cell (PAGE2)."
+  },
+  {
+    "id": 4,
+    "question": "In which band of the sarcomere are thin filaments present?",
+    "options": ["I lines", "B lines", "Z lines", "C lines"],
+    "answer": "I lines",
+    "explanation": "Thin filaments are located in the I bands of the sarcomere (PAGE2)."
+  },
+  {
+    "id": 5,
+    "question": "What is the extracellular matrix that holds cells together?",
+    "options": ["Cell membrane", "Collagen", "Endoplasmic Reticulum", "Golgi apparatus"],
+    "answer": "Collagen",
+    "explanation": "Collagen in the extracellular matrix is responsible for holding cells together (PAGE2)."
+  },
+  {
+    "id": 6,
+    "question": "What are the three major types of passive transport?",
+    "options": ["Diffusion, Osmosis, Plasma", "Filtration, Plasma, Diffusion", "Diffusion, Osmosis, Filtration", "Osmosis, Plasma, Diffusion"],
+    "answer": "Diffusion, Osmosis, Filtration",
+    "explanation": "The three major types of passive transport are diffusion, osmosis, and filtration (PAGE2)."
+  },
+  {
+    "id": 7,
+    "question": "Which vesicle contains enzymes that neutralize toxins in the body?",
+    "options": ["Lysosomes", "Peroxisome", "Microfilaments", "Microtubules"],
+    "answer": "Peroxisome",
+    "explanation": "Peroxisomes contain enzymes that neutralize toxins in the body (PAGE2)."
+  },
+  {
+    "id": 8,
+    "question": "What is the site where signals are transmitted to postsynaptic cells?",
+    "options": ["Exocytosis receptor", "Synaptic receptor", "Diffuse receptor", "Nicotinic receptor"],
+    "answer": "Synaptic receptor",
+    "explanation": "The synaptic receptor is the specialized site where signals are transmitted to postsynaptic cells (PAGE3)."
+  },
+  {
+    "id": 9,
+    "question": "Which part of the cell controls all its activities?",
+    "options": ["Cell membrane", "Cell wall", "Lysosome", "Nucleus"],
+    "answer": "Nucleus",
+    "explanation": "The nucleus is the control center of the cell, managing all its activities (PAGE3)."
+  },
+  {
+    "id": 10,
+    "question": "How many pairs of spinal nerves are found in humans?",
+    "options": ["33", "13", "23", "31"],
+    "answer": "31",
+    "explanation": "Humans have 31 pairs of spinal nerves (PAGE3)."
+  },
+  {
+    "id": 11,
+    "question": "Which organelle digests food, viruses, and bacteria?",
+    "options": ["Peroxisome Endoplasmic", "Lysosomes", "Peroxisome", "Ribosomes"],
+    "answer": "Lysosomes",
+    "explanation": "Lysosomes are enzyme-filled organelles that digest food, viruses, and bacteria (PAGE3)."
+  },
+  {
+    "id": 12,
+    "question": "Which organelle transports proteins from ribosomes to the Golgi apparatus?",
+    "options": ["Microtubules", "Mitochondria", "Microfilaments", "Endoplasmic Reticulum"],
+    "answer": "Endoplasmic Reticulum",
+    "explanation": "The endoplasmic reticulum transports proteins from ribosomes to the Golgi apparatus (PAGE3)."
+  },
+  {
+    "id": 13,
+    "question": "Which intercellular connection allows solute passage between epithelial cells?",
+    "options": ["Zonula occludens", "Distal tubule", "Proximal tubule", "Myocardial cells"],
+    "answer": "Zonula occludens",
+    "explanation": "Zonula occludens allows solute passage between epithelial cells based on size and charge (PAGE3)."
+  },
+  {
+    "id": 14,
+    "question": "Which connection permits electrical coupling between myocardial cells?",
+    "options": ["Gap junctions", "Myocardial cells", "Distal tubule", "Zonula occludens"],
+    "answer": "Gap junctions",
+    "explanation": "Gap junctions permit electrical coupling and current flow between myocardial cells (PAGE3)."
+  },
+  {
+    "id": 15,
+    "question": "What condition is characterized by inhibited sensory capacities and voluntary muscle activity?",
+    "options": ["Sleep", "Insomnia", "Narcolepsy", "Hypersomnia"],
+    "answer": "Sleep",
+    "explanation": "Sleep is a state of altered consciousness with inhibited sensory capacities and voluntary muscle activity (PAGE4)."
+  },
+  {
+    "id": 16,
+    "question": "What term describes an alteration in smell sensation, such as during pregnancy?",
+    "options": ["Anosmia", "Parasomia", "Chemoreception", "Hypersomnia"],
+    "answer": "Parasomia",
+    "explanation": "Parasomia refers to an alteration in smell sensation, often due to hormonal changes like in pregnancy (PAGE4)."
+  },
+  {
+    "id": 17,
+    "question": "Which statement is ODD about simple diffusion?",
+    "options": ["It occurs against an electrochemical gradient", "It does not require ATP", "It is not carrier-mediated", "It occurs down an electrochemical gradient"],
+    "answer": "It occurs against an electrochemical gradient",
+    "explanation": "Simple diffusion occurs down an electrochemical gradient, not against it (PAGE4)."
+  },
+  {
+    "id": 18,
+    "question": "Which statement is ODD about primary active transport?",
+    "options": ["It occurs down an electrochemical gradient", "It occurs against an electrochemical gradient", "It requires ATP", "It is carrier-mediated"],
+    "answer": "It occurs down an electrochemical gradient",
+    "explanation": "Primary active transport occurs against an electrochemical gradient and requires ATP (PAGE4)."
+  },
+  {
+    "id": 19,
+    "question": "What is TRUE about secondary active transport?",
+    "options": ["It does not require ATP", "Na+ is transported downhill to provide energy", "It does not require ATP and is passive", "It is not carrier-mediated"],
+    "answer": "Na+ is transported downhill to provide energy",
+    "explanation": "Secondary active transport uses the downhill movement of Na+ to drive the uphill transport of other solutes (PAGE4)."
+  },
+  {
+    "id": 20,
+    "question": "What is the term for loss of smell sensation due to olfactory epithelium damage?",
+    "options": ["Parasomia", "Anosmia", "Olfactory", "Hypersomnia"],
+    "answer": "Anosmia",
+    "explanation": "Anosmia is the loss of smell sensation due to damage to the olfactory epithelium (PAGE4)."
+  },
+  {
+    "id": 21,
+    "question": "What is the term for two solutions with the same calculated osmolarity?",
+    "options": ["Isotonic", "Iosmostic", "Isometric", "Isomymetic"],
+    "answer": "Iosmostic",
+    "explanation": "Two solutions with the same calculated osmolarity are termed iosmostic (PAGE4)."
+  },
+  {
+    "id": 22,
+    "question": "What is the movement of two solutes in opposite directions across the cell membrane called?",
+    "options": ["Transport", "Symport", "Antiport", "Colligative"],
+    "answer": "Antiport",
+    "explanation": "Antiport refers to the movement of two solutes in opposite directions across the cell membrane (PAGE5)."
+  },
+  {
+    "id": 23,
+    "question": "What condition is likely to develop from diarrhea due to contaminated food?",
+    "options": ["Urinary alkalosis", "Respiratory acidosis", "Metabolic acidosis", "Metabolic alkalosis"],
+    "answer": "Metabolic acidosis",
+    "explanation": "Diarrhea causes loss of bicarbonate, leading to metabolic acidosis (PAGE7)."
+  },
+  {
+    "id": 24,
+    "question": "What condition might result from excess milk consumption?",
+    "options": ["Metabolic acidosis", "Urinary acidosis", "Respiratory alkalosis", "Metabolic alkalosis"],
+    "answer": "Metabolic alkalosis",
+    "explanation": "Excess milk consumption can lead to metabolic alkalosis due to increased base intake (PAGE7)."
+  },
+  {
+    "id": 25,
+    "question": "What condition is likely if a patient has difficulty breathing with CO2 accumulation?",
+    "options": ["Metabolic acidosis", "Respiratory acidosis", "Respiratory alkalosis", "Metabolic alkalosis"],
+    "answer": "Respiratory acidosis",
+    "explanation": "Difficulty breathing leading to CO2 accumulation causes respiratory acidosis (PAGE7)."
+  },
+  {
+    "id": 26,
+    "question": "What are the sequential components of a negative-feedback mechanism in homeostasis?",
+    "options": ["Effector, Center, Sensor", "Control, Sensor, Effector", "Sensor, Effector, Control center", "Sensor, Control Center, Effector"],
+    "answer": "Sensor, Control Center, Effector",
+    "explanation": "Negative-feedback mechanisms in homeostasis consist of a sensor, control center, and effector in sequence (PAGE7)."
+  },
+  {
+    "id": 27,
+    "question": "What is one cause of edema?",
+    "options": ["Decreased capillary permeability", "Increased lymphatic drainage", "Increased capillary permeability", "Decreased blood pressure"],
+    "answer": "Increased capillary permeability",
+    "explanation": "Increased capillary permeability is a cause of edema, leading to fluid accumulation in interstitial spaces (PAGE9)."
+  },
+  {
+    "id": 28,
+    "question": "What is a role of water in the human body?",
+    "options": ["Produces energy", "Regulates body temperature", "Synthesizes proteins", "Stores minerals"],
+    "answer": "Regulates body temperature",
+    "explanation": "Water helps regulate body temperature through processes like sweating (PAGE9)."
+  },
+  {
+    "id": 29,
+    "question": "What is the first component of the reflex arc?",
+    "options": ["Sensory neuron", "Receptor", "Motor neuron", "Effector"],
+    "answer": "Receptor",
+    "explanation": "The reflex arc begins with a receptor that detects a stimulus (PAGE9)."
+  },
+  {
+    "id": 30,
+    "question": "What effect does the sympathetic nervous system have on the heart?",
+    "options": ["Decreases heart rate", "Increases heart rate", "No effect", "Decreases contractility"],
+    "answer": "Increases heart rate",
+    "explanation": "The sympathetic nervous system increases heart rate to prepare the body for fight-or-flight responses (PAGE9)."
+  }
+    ]
