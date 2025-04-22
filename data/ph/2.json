@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What structure in the eye is a transparent white jelly that supports the eye and aids in seeing distance?",
+    "options": ["Conjunctiva", "Vitreous humor", "Aqueous humor", "Lens"],
+    "answer": "Vitreous humor",
+    "explanation": "The vitreous humor is a transparent jelly-like substance that supports the eye and helps with seeing distance (PAGE5)."
+  },
+  {
+    "id": 2,
+    "question": "Which part of the eye is fibrous, white, and provides support to maintain its shape?",
+    "options": ["Lens", "Macula", "Sclera", "Conjunctiva"],
+    "answer": "Sclera",
+    "explanation": "The sclera, known as the white of the eye, is fibrous and provides support to maintain the eyeball's shape (PAGE5)."
+  },
+  {
+    "id": 3,
+    "question": "Mannitol is a marker for ECF and is recommended for patients with which condition?",
+    "options": ["Diabetes Mellitus", "Hypertension", "Hypotension", "Head injury"],
+    "answer": "Head injury",
+    "explanation": "Mannitol, confined to the ECF, is used to reduce intracranial pressure in patients with head injuries (PAGE6)."
+  },
+  {
+    "id": 4,
+    "question": "Which method measures cortical activity by assessing the scattering of near-infrared light from brain tissue?",
+    "options": ["Transcranial magnetic stimulation", "Photon immigration tomography", "Positron emission tomography", "Computerized tomography"],
+    "answer": "Photon immigration tomography",
+    "explanation": "Photon immigration tomography measures cortical activity by assessing near-infrared light scattering from brain tissue (PAGE6)."
+  },
+  {
+    "id": 5,
+    "question": "What test detects abnormalities in brain waves or electrical activity of the brain?",
+    "options": ["Positron emission tomography", "Electroencephalogram", "Electrocardiogram", "Echocardiography"],
+    "answer": "Electroencephalogram",
+    "explanation": "An electroencephalogram (EEG) detects abnormalities in brain waves or electrical activity (PAGE6)."
+  },
+  {
+    "id": 6,
+    "question": "If two solutions have different calculated osmolarities, the solution with higher osmolarity is called?",
+    "options": ["Hypertonic", "Hyperosmotic", "Isosmotic", "Hypermetric"],
+    "answer": "Hyperosmotic",
+    "explanation": "A solution with higher osmolarity compared to another is termed hyperosmotic (PAGE6)."
+  },
+  {
+    "id": 7,
+    "question": "What is true about the relative refractory period?",
+    "options": ["No action potential can be elicited", "It coincides with the entire action potential duration", "An action potential can be elicited with a larger inward current", "Na+ channel inactivation gates open during depolarization"],
+    "answer": "An action potential can be elicited with a larger inward current",
+    "explanation": "During the relative refractory period, an action potential can be elicited if a larger-than-usual inward current is provided (PAGE6)."
+  },
+  {
+    "id": 8,
+    "question": "What are the two main systems that homeostasis depends on for controlling the body?",
+    "options": ["Circulatory and Digestive systems", "Lymphatic system and immunity", "Digestive and endocrine systems", "Nervous and endocrine systems"],
+    "answer": "Nervous and endocrine systems",
+    "explanation": "Homeostasis depends on the nervous and endocrine systems for action and interaction to control the body (PAGE6)."
+  },
+  {
+    "id": 9,
+    "question": "Which ions do not cross the cell membrane and are confined to the ECF?",
+    "options": ["Na+ and K+", "K+ and Mannitol", "K+ and H2O", "N+ and Mannitol"],
+    "answer": "N+ and Mannitol",
+    "explanation": "Mannitol (and 'N+' as a likely typo for Na+) cannot cross the cell membrane and are confined to the ECF (PAGE6)."
+  },
+  {
+    "id": 10,
+    "question": "In skeletal muscle contraction, what is the tension developed by stretching the muscle to different lengths?",
+    "options": ["Effector tension", "Active tension", "Passive tension", "Control tension"],
+    "answer": "Passive tension",
+    "explanation": "Passive tension is the tension developed by stretching the muscle to different lengths without stimulation (PAGE7)."
+  },
+  {
+    "id": 11,
+    "question": "What is the tension developed when a muscle is stimulated to contract at different lengths?",
+    "options": ["Total tension", "Active tension", "Passive tension", "Control tension"],
+    "answer": "Active tension",
+    "explanation": "Active tension develops when the muscle is stimulated to contract at different lengths (PAGE7)."
+  },
+  {
+    "id": 12,
+    "question": "Acid-base balance is mainly concerned with which two ions?",
+    "options": ["Na+ and K+", "H+ and HCO3-", "Cl- and K+", "Ca2+ and Mg2+"],
+    "answer": "H+ and HCO3-",
+    "explanation": "Acid-base balance primarily involves hydrogen ions (H+) and bicarbonate ions (HCO3-) (PAGE7)."
+  },
+  {
+    "id": 13,
+    "question": "What is the absence of the sense of taste called?",
+    "options": ["Ageusia", "Dysgeusia", "Hypogeusia", "Hypergeusia"],
+    "answer": "Ageusia",
+    "explanation": "Ageusia is the absence of the sense of taste (PAGE7)."
+  },
+  {
+    "id": 14,
+    "question": "What can cause a distorted sense of smell?",
+    "options": ["Increased blood sugar", "Hormonal changes", "Dehydration", "High blood pressure"],
+    "answer": "Hormonal changes",
+    "explanation": "A distorted sense of smell can be caused by hormonal changes, such as during pregnancy (PAGE4, PAGE8)."
+  },
+  {
+    "id": 15,
+    "question": "What are disorders in speaking called?",
+    "options": ["Aphasia", "Dysphagia", "Apraxia", "Dysarthria"],
+    "answer": "Dysarthria",
+    "explanation": "Disorders in speaking are called dysarthria, which affects the physical production of speech (PAGE8)."
+  },
+  {
+    "id": 16,
+    "question": "What secretes cerebrospinal fluid?",
+    "options": ["Pineal gland", "Choroid plexus", "Pituitary gland", "Hypothalamus"],
+    "answer": "Choroid plexus",
+    "explanation": "Cerebrospinal fluid is secreted by the choroid plexus in the brain (PAGE8)."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is a cause of edema?",
+    "options": ["Increased lymphatic drainage", "Decreased capillary permeability", "Increased plasma protein levels", "Heart failure"],
+    "answer": "Heart failure",
+    "explanation": "Heart failure can cause edema by increasing hydrostatic pressure, leading to fluid accumulation in interstitial spaces (PAGE9)."
+  },
+  {
+    "id": 18,
+    "question": "What is a role of water in the human body?",
+    "options": ["Produces hormones", "Facilitates digestion", "Stores energy", "Synthesizes proteins"],
+    "answer": "Facilitates digestion",
+    "explanation": "Water facilitates digestion by aiding in the breakdown and absorption of nutrients (PAGE9)."
+  },
+  {
+    "id": 19,
+    "question": "What effect does the sympathetic nervous system have on the eye?",
+    "options": ["Constricts pupil", "Dilates pupil", "Decreases tear production", "Increases lens curvature"],
+    "answer": "Dilates pupil",
+    "explanation": "The sympathetic nervous system dilates the pupil to enhance vision in fight-or-flight situations (PAGE9)."
+  },
+  {
+    "id": 20,
+    "question": "What effect does the parasympathetic nervous system have on salivary flow?",
+    "options": ["Decreases salivary flow", "Increases salivary flow", "No effect", "Inhibits salivary glands"],
+    "answer": "Increases salivary flow",
+    "explanation": "The parasympathetic nervous system increases salivary flow to aid in digestion (PAGE9)."
+  },
+  {
+    "id": 21,
+    "question": "What effect does the sympathetic nervous system have on the bronchi?",
+    "options": ["Constricts bronchi", "Dilates bronchi", "No effect", "Increases mucus production"],
+    "answer": "Dilates bronchi",
+    "explanation": "The sympathetic nervous system dilates the bronchi to improve airflow during stress (PAGE9)."
+  },
+  {
+    "id": 22,
+    "question": "What effect does the parasympathetic nervous system have on the stomach/pancreas?",
+    "options": ["Inhibits secretion", "Stimulates secretion", "No effect", "Decreases motility"],
+    "answer": "Stimulates secretion",
+    "explanation": "The parasympathetic nervous system stimulates secretion in the stomach and pancreas to aid digestion (PAGE9)."
+  },
+  {
+    "id": 23,
+    "question": "What effect does the sympathetic nervous system have on the intestines?",
+    "options": ["Increases motility", "Decreases motility", "Stimulates secretion", "No effect"],
+    "answer": "Decreases motility",
+    "explanation": "The sympathetic nervous system decreases intestinal motility to redirect energy during stress (PAGE9)."
+  },
+  {
+    "id": 24,
+    "question": "What effect does the parasympathetic nervous system have on the bladder?",
+    "options": ["Inhibits contraction", "Stimulates contraction", "No effect", "Relaxes sphincter"],
+    "answer": "Stimulates contraction",
+    "explanation": "The parasympathetic nervous system stimulates bladder contraction to facilitate urination (PAGE9)."
+  },
+  {
+    "id": 25,
+    "question": "What effect does the sympathetic nervous system have on the penis?",
+    "options": ["Promotes erection", "Promotes ejaculation", "Inhibits erection", "No effect"],
+    "answer": "Promotes ejaculation",
+    "explanation": "The sympathetic nervous system promotes ejaculation as part of the fight-or-flight response (PAGE9)."
+  },
+  {
+    "id": 26,
+    "question": "What is the second component of the reflex arc?",
+    "options": ["Receptor", "Sensory neuron", "Motor neuron", "Effector"],
+    "answer": "Sensory neuron",
+    "explanation": "The second component of the reflex arc is the sensory neuron, which transmits the signal from the receptor to the spinal cord (PAGE9)."
+  },
+  {
+    "id": 27,
+    "question": "What is the third component of the reflex arc?",
+    "options": ["Receptor", "Sensory neuron", "Integration center", "Effector"],
+    "answer": "Integration center",
+    "explanation": "The third component of the reflex arc is the integration center, typically in the spinal cord, where the signal is processed (PAGE9)."
+  },
+  {
+    "id": 28,
+    "question": "What is an essential variable of the internal environment for homeostasis?",
+    "options": ["Body weight", "Blood glucose levels", "Skin color", "Hair growth"],
+    "answer": "Blood glucose levels",
+    "explanation": "Blood glucose levels are an essential variable that must be maintained within acceptable limits for homeostasis (PAGE9)."
+  },
+  {
+    "id": 29,
+    "question": "What is another essential variable of the internal environment for homeostasis?",
+    "options": ["Body temperature", "Eye color", "Muscle mass", "Nail growth"],
+    "answer": "Body temperature",
+    "explanation": "Body temperature is a critical variable that must be regulated to maintain homeostasis (PAGE9)."
+  },
+  {
+    "id": 30,
+    "question": "What is a third essential variable of the internal environment for homeostasis?",
+    "options": ["Blood pressure", "Hair length", "Skin texture", "Bone density"],
+    "answer": "Blood pressure",
+    "explanation": "Blood pressure is an essential variable that must be kept within acceptable limits for homeostasis (PAGE9)."
+  }
+]
