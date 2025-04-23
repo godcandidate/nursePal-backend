@@ -2,12 +2,46 @@
   {
     "id": 0,
     "title": "Pharmacology & Traditional Medicine Practice",
-    "numberOfTests": 1
+    "numberOfTests": 8
   }, 
     {
     "id": 1,
     "title": "Test 1: Midserm Questions",
     "numberOfTests": 40
-  }
-  
+    }, 
+    {
+    "id": 2,
+    "title": "Test 2: Anti Viral Slides",
+    "numberOfTests": 30
+    },
+  {
+    "id": 3,
+    "title": "Test 3: CSV Slides",
+    "numberOfTests": 50
+    },
+  {
+    "id": 4,
+    "title": "Test 4: Heart Failure Slides",
+    "numberOfTests": 30
+    },
+  {
+    "id": 5,
+    "title": "Test 5: Anti lipemic  Slides",
+    "numberOfTests": 30
+    },
+  {
+    "id": 6,
+    "title": "Test 6: Anti Anginal Slides",
+    "numberOfTests": 20
+    },
+  {
+    "id": 7,
+    "title": "Test 7: Endocrine Slides",
+    "numberOfTests": 50
+    },
+  {
+    "id": 8,
+    "title": "Test 8: OBS and GYN  Slides",
+    "numberOfTests": 50
+    },
 ]
