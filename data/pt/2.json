@@ -1,362 +1,212 @@
 [
-  {
-    "id": 1,
-    "question": "What is the primary characteristic of viruses that makes them obligate intracellular parasites?",
-    "options": [
-      "They can replicate outside a host cell",
-      "They use host cell mechanisms for nucleic acid and protein synthesis",
-      "They have their own metabolic processes",
-      "They do not require a host to retain infectivity"
-    ],
-    "answer": "They use host cell mechanisms for nucleic acid and protein synthesis",
-    "explanation": "Viruses are obligate intracellular parasites because they rely on the host cell's biochemical mechanisms to replicate, as stated on page 2 of the document."
-  },
-  {
-    "id": 2,
-    "question": "How are viruses primarily classified based on their nucleic acid core?",
-    "options": [
-      "Protein or lipoprotein",
-      "DNA or RNA",
-      "Capsid or envelope",
-      "Morphology or replication site"
-    ],
-    "answer": "DNA or RNA",
-    "explanation": "Viruses are classified as DNA or RNA viruses based on the type of nucleic acid in their core, as noted on page 3."
-  },
-  {
-    "id": 3,
-    "question": "Which of the following is an example of a DNA virus and its associated disease?",
-    "options": [
-      "Orthomyxovirus - Influenza",
-      "Herpesvirus - Chickenpox",
-      "Rubella virus - German measles",
-      "Rhabdovirus - Rabies"
-    ],
-    "answer": "Herpesvirus - Chickenpox",
-    "explanation": "Herpesviruses, which are DNA viruses, cause diseases like chickenpox, as listed on page 4."
-  },
-  {
-    "id": 4,
-    "question": "Which RNA virus is associated with AIDS?",
-    "options": [
-      "Retrovirus",
-      "Paramyxovirus",
-      "Picornavirus",
-      "Arborvirus"
-    ],
-    "answer": "Retrovirus",
-    "explanation": "Retroviruses, a type of RNA virus, are associated with AIDS, as mentioned on page 5."
-  },
-  {
-    "id": 5,
-    "question": "What is the first step in the viral replication cycle?",
-    "options": [
-      "Uncoating",
-      "Attachment and penetration",
-      "Synthesis of viral components",
-      "Release of the virus"
-    ],
-    "answer": "Attachment and penetration",
-    "explanation": "The viral replication cycle begins with attachment and penetration, as outlined on page 6."
-  },
-  {
-    "id": 6,
-    "question": "What is a major challenge in the chemotherapy of viral infections?",
-    "options": [
-      "Viruses replicate too quickly",
-      "Finding a drug that is selectively toxic to the virus",
-      "Viruses do not have a protein coat",
-      "Host cells reject antiviral drugs"
-    ],
-    "answer": "Finding a drug that is selectively toxic to the virus",
-    "explanation": "The document highlights on page 7 that the main problem in viral chemotherapy is finding a drug that is selectively toxic to the virus due to the close link between viral and host cell processes."
-  },
-  {
-    "id": 7,
-    "question": "How do retroviruses like HIV produce DNA during their replication?",
-    "options": [
-      "Using viral DNA polymerase",
-      "Using host cell ribosomes",
-      "Using viral reverse transcriptase",
-      "Using host cell DNA polymerase"
-    ],
-    "answer": "Using viral reverse transcriptase",
-    "explanation": "Retroviruses use viral reverse transcriptase to produce DNA from their RNA template, as described on page 9."
-  },
-  {
-    "id": 8,
-    "question": "What is the mechanism of action of non-HIV antiviral drugs like acyclovir?",
-    "options": [
-      "They inhibit viral assembly",
-      "They block the activity of a polymerase enzyme",
-      "They prevent viral attachment",
-      "They enhance host immune response"
-    ],
-    "answer": "They block the activity of a polymerase enzyme",
-    "explanation": "Non-HIV antivirals work by blocking the polymerase enzyme to impair viral replication, as stated on page 11."
-  },
-  {
-    "id": 9,
-    "question": "Which enzyme converts acyclovir to its active form, acyclovir triphosphate?",
-    "options": [
-      "Viral reverse transcriptase",
-      "Viral thymidine kinase",
-      "Host cell protease",
-      "Viral integrase"
-    ],
-    "answer": "Viral thymidine kinase",
-    "explanation": "Acyclovir is activated through phosphorylation, starting with viral thymidine kinase converting it to acyclovir monophosphate, as described on page 13."
-  },
-  {
-    "id": 10,
-    "question": "What is a key indication for intravenous acyclovir?",
-    "options": [
-      "Recurrent genital herpes",
-      "Herpes simplex keratitis",
-      "Herpes simplex encephalitis",
-      "Herpes zoster in immunocompetent patients"
-    ],
-    "answer": "Herpes simplex encephalitis",
-    "explanation": "Intravenous acyclovir is indicated for herpes simplex encephalitis, as noted on page 14."
-  },
-  {
-    "id": 11,
-    "question": "What is a dose-limiting toxicity of intravenous acyclovir?",
-    "options": [
-      "Photosensitivity",
-      "Reversible renal dysfunction",
-      "Abdominal pain",
-      "Dizziness"
-    ],
-    "answer": "Reversible renal dysfunction",
-    "explanation": "Reversible renal dysfunction (azotemia) is a dose-limiting toxicity of intravenous acyclovir, as mentioned on page 15."
-  },
-  {
-    "id": 12,
-    "question": "How does penciclovir differ from acyclovir in its mechanism of action?",
-    "options": [
-      "Penciclovir causes chain termination",
-      "Penciclovir does not cause chain termination",
-      "Penciclovir inhibits viral attachment",
-      "Penciclovir targets host cell enzymes"
-    ],
-    "answer": "Penciclovir does not cause chain termination",
-    "explanation": "Unlike acyclovir, penciclovir triphosphate acts as a competitive inhibitor of viral DNA polymerase without causing chain termination, as stated on page 16."
-  },
-  {
-    "id": 13,
-    "question": "What is a common adverse effect of oral famciclovir?",
-    "options": [
-      "Renal dysfunction",
-      "Headache",
-      "Photosensitivity",
-      "Seizures"
-    ],
-    "answer": "Headache",
-    "explanation": "Oral famciclovir is generally well-tolerated, with common adverse effects including headache, as noted on page 17."
-  },
-  {
-    "id": 14,
-    "question": "Which anti-influenza drug inhibits the viral M2 protein to prevent replication?",
-    "options": [
-      "Oseltamivir",
-      "Zanamivir",
-      "Amantadine",
-      "Acyclovir"
-    ],
-    "answer": "Amantadine",
-    "explanation": "Amantadine inhibits the viral M2 protein, preventing the acid-mediated dissociation of the ribonucleoprotein complex, as described on page 19."
-  },
-  {
-    "id": 15,
-    "question": "What is the mechanism of action of oseltamivir?",
-    "options": [
-      "Inhibits viral assembly",
-      "Inhibits neuraminidase activity",
-      "Blocks viral DNA polymerase",
-      "Prevents viral uncoating"
-    ],
-    "answer": "Inhibits neuraminidase activity",
-    "explanation": "Oseltamivir inhibits influenza A and B neuraminidase, preventing the release of progeny virus, as stated on page 20."
-  },
-  {
-    "id": 16,
-    "question": "Which cell types does HIV primarily infect?",
-    "options": [
-      "CD8 T cells and macrophages",
-      "CD4 T cells, macrophages, and dendritic cells",
-      "B cells and dendritic cells",
-      "Neutrophils and CD4 T cells"
-    ],
-    "answer": "CD4 T cells, macrophages, and dendritic cells",
-    "explanation": "HIV infects CD4 T lymphocytes, macrophages, and dendritic cells, as noted on page 25."
-  },
-  {
-    "id": 17,
-    "question": "What is the role of the chemokine co-receptor in HIV entry?",
-    "options": [
-      "It synthesizes viral DNA",
-      "It facilitates viral attachment to CD4",
-      "It allows fusion of the viral and cellular membranes",
-      "It transcribes viral RNA"
-    ],
-    "answer": "It allows fusion of the viral and cellular membranes",
-    "explanation": "Binding of gp120 to CXCR4 or CCR5 causes a rearrangement that allows fusion of the viral and cellular membranes, as described on page 25."
-  },
-  {
-    "id": 18,
-    "question": "Which enzyme integrates HIV DNA into the host genome?",
-    "options": [
-      "Reverse transcriptase",
-      "Protease",
-      "Integrase",
-      "Thymidine kinase"
-    ],
-    "answer": "Integrase",
-    "explanation": "HIV integrase integrates the viral DNA into the host genome, as mentioned on page 26."
-  },
-  {
-    "id": 19,
-    "question": "Which of the following is a major mode of HIV transmission?",
-    "options": [
-      "Contact with sweat",
-      "Unprotected sexual intercourse",
-      "Airborne transmission",
-      "Contact with saliva"
-    ],
-    "answer": "Unprotected sexual intercourse",
-    "explanation": "HIV is transmitted through unprotected sexual intercourse, as listed on page 28."
-  },
-  {
-    "id": 20,
-    "question": "What is the goal of the UNAIDS 95-95-95 strategy by 2030?",
-    "options": [
-      "95% of people living with HIV to know their status, 95% of those to access treatment, and 95% of those to achieve viral suppression",
-      "95% reduction in HIV transmission",
-      "95% vaccination coverage for HIV",
-      "95% funding for HIV research"
-    ],
-    "answer": "95% of people living with HIV to know their status, 95% of those to access treatment, and 95% of those to achieve viral suppression",
-    "explanation": "The 95-95-95 strategy aims for 95% of people living with HIV to know their status, 95% to access treatment, and 95% to achieve viral suppression, as outlined on page 31."
-  },
-  {
-    "id": 21,
-    "question": "What is a key challenge to the 95-95-95 strategy?",
-    "options": [
-      "Lack of effective antiviral drugs",
-      "Stigma",
-      "Overfunding of HIV programs",
-      "Excessive access to care"
-    ],
-    "answer": "Stigma",
-    "explanation": "Stigma is identified as a key challenge to the 95-95-95 strategy, as noted on page 32."
-  },
-  {
-    "id": 22,
-    "question": "Which drug class includes Zidovudine and Lamivudine?",
-    "options": [
-      "Non-nucleoside Reverse Transcriptase Inhibitors (NNRTIs)",
-      "Nucleoside Reverse Transcriptase Inhibitors (NRTIs)",
-      "Protease Inhibitors (PIs)",
-      "Integrase Inhibitors"
-    ],
-    "answer": "Nucleoside Reverse Transcriptase Inhibitors (NRTIs)",
-    "explanation": "Zidovudine and Lamivudine are classified as NRTIs, as listed on page 34."
-  },
-  {
-    "id": 23,
-    "question": "What is a common adverse effect of NRTIs like Zidovudine?",
-    "options": [
-      "Hepatitis",
-      "Lactic acidosis",
-      "Neuropsychiatric disturbances",
-      "Hypercholesterolemia"
-    ],
-    "answer": "Lactic acidosis",
-    "explanation": "Lactic acidosis is a serious adverse effect of NRTIs like Zidovudine, as noted on pages 37 and 38."
-  },
-  {
-    "id": 24,
-    "question": "What is the mechanism of action of NNRTIs like Efavirenz?",
-    "options": [
-      "They inhibit viral protease",
-      "They bind to reverse transcriptase and denature it",
-      "They prevent viral integration",
-      "They block neuraminidase activity"
-    ],
-    "answer": "They bind to reverse transcriptase and denature it",
-    "explanation": "NNRTIs bind to reverse transcriptase near the catalytic site and denature it, as described on page 41."
-  },
-  {
-    "id": 25,
-    "question": "What is a serious adverse effect of Nevirapine?",
-    "options": [
-      "Pancreatitis",
-      "Stevens-Johnson syndrome",
-      "Lactic acidosis",
-      "Hyperglycemia"
-    ],
-    "answer": "Stevens-Johnson syndrome",
-    "explanation": "Nevirapine can cause Stevens-Johnson syndrome, a serious adverse effect, as mentioned on page 41."
-  },
-  {
-    "id": 26,
-    "question": "What is the primary objective of Highly Active Antiretroviral Therapy (HAART)?",
-    "options": [
-      "To cure HIV infection",
-      "To prolong life and postpone complications",
-      "To prevent HIV transmission",
-      "To eliminate opportunistic infections"
-    ],
-    "answer": "To prolong life and postpone complications",
-    "explanation": "The main objective of HAART is to prolong life and postpone complications, as stated on page 43."
-  },
-  {
-    "id": 27,
-    "question": "What is the first-line regimen for HAART according to the document?",
-    "options": [
-      "2 NRTIs and 1 boosted Protease Inhibitor",
-      "2 NRTIs and 1 NNRTI",
-      "1 NRTI and 2 NNRTIs",
-      "3 NRTIs"
-    ],
-    "answer": "2 NRTIs and 1 NNRTI",
-    "explanation": "The first-line HAART regimen consists of 2 NRTIs and 1 NNRTI, as outlined on page 44."
-  },
-  {
-    "id": 28,
-    "question": "What is the recommended prophylaxis for a child born to an HIV-positive mother with Hb < 8 g/dl?",
-    "options": [
-      "Zidovudine 4 mg/kg 12 hourly for 6 weeks",
-      "Nevirapine 2 mg/kg daily for 6 weeks",
-      "Lamivudine 150 mg 12 hourly for 28 days",
-      "Efavirenz 600 mg daily for 6 weeks"
-    ],
-    "answer": "Nevirapine 2 mg/kg daily for 6 weeks",
-    "explanation": "A child with Hb < 8 g/dl born to an HIV-positive mother is given nevirapine 2 mg/kg daily for 6 weeks, as stated on page 45."
-  },
-  {
-    "id": 29,
-    "question": "What is the recommended prophylaxis for high-risk HIV exposure in post-exposure prophylaxis (PEP)?",
-    "options": [
-      "Wash exposed area with soap and water",
-      "Zidovudine and Lamivudine for 28 days",
-      "Zidovudine, Lamivudine, and Lopinavir/r for 28 days",
-      "Efavirenz and Tenofovir for 28 days"
-    ],
-    "answer": "Zidovudine, Lamivudine, and Lopinavir/r for 28 days",
-    "explanation": "For high-risk exposure, PEP includes Zidovudine, Lamivudine, and Lopinavir/r for 28 days, as noted on page 47."
-  },
-  {
-    "id": 30,
-    "question": "What is the treatment for oropharyngeal candidiasis in HIV patients?",
-    "options": [
-      "Co-trimoxazole",
-      "Pyrimethamine and sulfadiazine",
-      "Antifungal agents like Fluconazole",
-      "Ciprofloxacin and metronidazole"
-    ],
-    "answer": "Antifungal agents like Fluconazole",
-    "explanation": "Oropharyngeal candidiasis in HIV patients is treated with antifungal agents like Fluconazole, as listed on page 49."
-  }
+    {
+      "id": 1,
+      "question": "Which of the following is a characteristic feature of viruses as described in antiviral pharmacology?",
+      "options": ["They replicate independently outside host cells", "They are obligate intracellular parasites", "They lack a protein coat", "They do not require host cell mechanisms for replication"],
+      "answer": "They are obligate intracellular parasites",
+      "explanation": "Viruses are obligate intracellular parasites that rely on host cell mechanisms for nucleic acid and protein synthesis to replicate."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following viruses is classified as a DNA virus?",
+      "options": ["Influenza virus", "Hepatitis B virus", "Rubella virus", "Rabies virus"],
+      "answer": "Hepatitis B virus",
+      "explanation": "Hepatitis B virus is a DNA virus (hepadnavirus), while influenza, rubella, and rabies are RNA viruses."
+    },
+    {
+      "id": 3,
+      "question": "The replication cycle of a virus begins with which of the following steps?",
+      "options": ["Synthesis of viral components", "Attachment and penetration", "Uncoating", "Release of the virus"],
+      "answer": "Attachment and penetration",
+      "explanation": "Viral replication starts with attachment to specific receptor sites on the host cell, followed by penetration."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following antiviral drugs is a guanosine analogue used primarily for herpes simplex virus infections?",
+      "options": ["Oseltamivir", "Acyclovir", "Zidovudine", "Foscarnet"],
+      "answer": "Acyclovir",
+      "explanation": "Acyclovir is a guanosine analogue with high specificity for herpes simplex virus and varicella zoster virus."
+    },
+    {
+      "id": 5,
+      "question": "All the following are adverse effects of intravenous acyclovir EXCEPT...",
+      "options": ["Reversible renal dysfunction", "Neurotoxicity", "Photosensitivity", "Hepatitis"],
+      "answer": "Hepatitis",
+      "explanation": "Intravenous acyclovir may cause renal dysfunction and neurotoxicity, but hepatitis is not a commonly reported adverse effect."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following drugs inhibits viral DNA polymerase without causing chain termination?",
+      "options": ["Acyclovir", "Penciclovir", "Zidovudine", "Foscarnet"],
+      "answer": "Penciclovir",
+      "explanation": "Penciclovir triphosphate competitively inhibits viral DNA polymerase but does not cause chain termination, unlike acyclovir."
+    },
+    {
+      "id": 7,
+      "question": "Amantadine and rimantadine are effective against which of the following viruses?",
+      "options": ["Influenza B", "Influenza A", "Herpes simplex virus", "Hepatitis C"],
+      "answer": "Influenza A",
+      "explanation": "Amantadine and rimantadine inhibit influenza A replication by blocking the M2 protein, with negligible activity against influenza B."
+    },
+    {
+      "id": 8,
+      "question": "Oseltamivir is indicated for influenza treatment because it inhibits which viral enzyme?",
+      "options": ["Reverse transcriptase", "Neuraminidase", "DNA polymerase", "Protease"],
+      "answer": "Neuraminidase",
+      "explanation": "Oseltamivir inhibits neuraminidase, preventing the release and spread of influenza A and B progeny viruses."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a common mode of HIV transmission?",
+      "options": ["Sweat contact", "Unprotected sexual intercourse", "Airborne droplets", "Saliva exposure"],
+      "answer": "Unprotected sexual intercourse",
+      "explanation": "HIV is transmitted through direct contact with body fluids, such as during unprotected sexual intercourse, not through sweat, saliva, or air."
+    },
+    {
+      "id": 10,
+      "question": "HIV viral entry into CD4 T cells requires binding to which co-receptor?",
+      "options": ["CXCR4", "CD8", "Integrase", "gp41"],
+      "answer": "CXCR4",
+      "explanation": "HIV gp120 binds to CD4 and the chemokine co-receptor CXCR4 (for T cells) or CCR5 (for macrophages) to enter target cells."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following drugs is a nucleoside reverse transcriptase inhibitor (NRTI) used in HIV treatment?",
+      "options": ["Efavirenz", "Zidovudine", "Ritonavir", "Dolutegravir"],
+      "answer": "Zidovudine",
+      "explanation": "Zidovudine is an NRTI that competitively inhibits HIV reverse transcriptase, causing premature chain termination."
+    },
+    {
+      "id": 12,
+      "question": "All the following are protease inhibitors used in HIV therapy EXCEPT...",
+      "options": ["Ritonavir", "Saquinavir", "Nevirapine", "Atazanavir"],
+      "answer": "Nevirapine",
+      "explanation": "Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI), not a protease inhibitor."
+    },
+    {
+      "id": 13,
+      "question": "The primary objective of highly active antiretroviral therapy (HAART) is to:",
+      "options": ["Eradicate HIV from the body", "Prolong life and postpone complications", "Prevent HIV transmission", "Cure opportunistic infections"],
+      "answer": "Prolong life and postpone complications",
+      "explanation": "HAART aims to suppress HIV replication, prolong life, and delay complications, but it does not eradicate the virus."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a component of the first-line HAART regimen?",
+      "options": ["Two NRTIs and one protease inhibitor", "Two NRTIs and one NNRTI", "One NRTI and two protease inhibitors", "Three NRTIs"],
+      "answer": "Two NRTIs and one NNRTI",
+      "explanation": "First-line HAART typically includes two NRTIs and one NNRTI for maximal HIV suppression."
+    },
+    {
+      "id": 15,
+      "question": "Zidovudine is contraindicated in HIV-exposed infants with which condition?",
+      "options": ["Hemoglobin < 8 g/dl", "Renal impairment", "Hepatitis", "Neurotoxicity"],
+      "answer": "Hemoglobin < 8 g/dl",
+      "explanation": "Infants with hemoglobin < 8 g/dl receive nevirapine instead of zidovudine for HIV prophylaxis due to the risk of anemia."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following adverse effects is associated with nevirapine?",
+      "options": ["Stevens-Johnson syndrome", "Renal dysfunction", "Neurotoxicity", "Pancreatitis"],
+      "answer": "Stevens-Johnson syndrome",
+      "explanation": "Nevirapine, an NNRTI, is associated with severe skin reactions like Stevens-Johnson syndrome."
+    },
+    {
+      "id": 17,
+      "question": "Foscarnet is primarily used to treat which viral infection?",
+      "options": ["Influenza", "Hepatitis B", "Herpesviruses", "HIV"],
+      "answer": "Herpesviruses",
+      "explanation": "Foscarnet is an antiviral used for herpesvirus infections, particularly in immunocompromised patients."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following drugs is used for post-exposure prophylaxis (PEP) in high-risk HIV exposure?",
+      "options": ["Acyclovir", "Lopinavir/ritonavir", "Oseltamivir", "Famciclovir"],
+      "answer": "Lopinavir/ritonavir",
+      "explanation": "Lopinavir/ritonavir, combined with zidovudine and lamivudine, is used for high-risk HIV post-exposure prophylaxis."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a key challenge to the 95-95-95 HIV strategy?",
+      "options": ["Excess funding", "Stigma", "Overdiagnosis", "Low viral load"],
+      "answer": "Stigma",
+      "explanation": "Stigma is a major barrier to achieving the 95-95-95 targets, hindering testing, treatment access, and adherence."
+    },
+    {
+      "id": 20,
+      "question": "Acyclovir is less effective against host enzymes BECAUSE it requires viral thymidine kinase for activation.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Acyclovir’s specificity for viral enzymes is due to its activation by viral thymidine kinase, making it less effective against host enzymes."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following drugs is an integrase inhibitor used in HIV treatment?",
+      "options": ["Zidovudine", "Dolutegravir", "Ritonavir", "Efavirenz"],
+      "answer": "Dolutegravir",
+      "explanation": "Dolutegravir is an integrase inhibitor that prevents HIV DNA integration into the host genome."
+    },
+    {
+      "id": 22,
+      "question": "Penciclovir is primarily eliminated by which route?",
+      "options": ["Hepatic metabolism", "Renal excretion", "Biliary excretion", "Pulmonary clearance"],
+      "answer": "Renal excretion",
+      "explanation": "Penciclovir is mostly eliminated unchanged by the kidneys via glomerular filtration and active tubular secretion."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is NOT a recommended antiretroviral drug in Ghana?",
+      "options": ["Zidovudine", "Lamivudine", "Saquinavir", "Dolutegravir"],
+      "answer": "Saquinavir",
+      "explanation": "Saquinavir is not listed among the recommended ARVs in Ghana, unlike zidovudine, lamivudine, and dolutegravir."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following opportunistic infections is treated with pyrimethamine and sulfadiazine?",
+      "options": ["Pneumocystis jirovecii pneumonia", "Cerebral toxoplasmosis", "Tuberculosis", "Kaposi’s sarcoma"],
+      "answer": "Cerebral toxoplasmosis",
+      "explanation": "Pyrimethamine and sulfadiazine, with folic acid, are used to treat cerebral toxoplasmosis in HIV patients."
+    },
+    {
+      "id": 25,
+      "question": "Efavirenz should be used with caution in patients with which condition?",
+      "options": ["Renal impairment", "Liver disease", "Anemia", "Pancreatitis"],
+      "answer": "Liver disease",
+      "explanation": "Efavirenz can cause abnormal liver function tests, requiring caution in patients with liver disease."
+    },
+    {
+      "id": 26,
+      "question": "All the following are strategies to address the 95-95-95 HIV challenges EXCEPT...",
+      "options": ["Expand access to ART", "Strengthen prevention efforts", "Increase stigma", "Enhance health systems"],
+      "answer": "Increase stigma",
+      "explanation": "Increasing stigma is not a strategy; addressing stigma is critical to achieving the 95-95-95 targets."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following drugs is used to treat oropharyngeal candidiasis in HIV patients?",
+      "options": ["Co-trimoxazole", "Fluconazole", "Ciprofloxacin", "Albendazole"],
+      "answer": "Fluconazole",
+      "explanation": "Fluconazole, an antifungal, is used to treat oropharyngeal candidiasis in HIV patients."
+    },
+    {
+      "id": 28,
+      "question": "The mechanism of action of protease inhibitors in HIV therapy involves:",
+      "options": ["Inhibiting reverse transcriptase", "Blocking viral DNA integration", "Disrupting polyprotein cleavage", "Preventing viral entry"],
+      "answer": "Disrupting polyprotein cleavage",
+      "explanation": "Protease inhibitors bind to the cleavage site, preventing the viral protease from processing polyproteins into mature viral components."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is a serious, dose-limiting adverse effect of didanosine?",
+      "options": ["Headache", "Pancreatitis", "Nausea", "Diarrhea"],
+      "answer": "Pancreatitis",
+      "explanation": "Didanosine, an NRTI, is associated with pancreatitis as a serious, dose-limiting adverse effect."
+    },
+    {
+      "id": 30,
+      "question": "Zidovudine and lamivudine are used for low-risk HIV post-exposure prophylaxis BECAUSE they inhibit reverse transcriptase.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Zidovudine and lamivudine are used in PEP for low-risk HIV exposure due to their ability to inhibit reverse transcriptase, preventing viral replication."
+    }
 ]
