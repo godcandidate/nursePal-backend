@@ -1,0 +1,352 @@
+[
+    {
+      "id": 1,
+      "question": "The endocrine system primarily functions to:",
+      "options": ["Transport oxygen", "Regulate distant organs via hormones", "Produce digestive enzymes", "Facilitate nerve impulses"],
+      "answer": "Regulate distant organs via hormones",
+      "explanation": "The endocrine system releases hormones into the bloodstream to target and regulate distant organs."
+    },
+    {
+      "id": 2,
+      "question": "Endocrine glands are referred to as ductless glands because:",
+      "options": ["They secrete hormones directly into the bloodstream", "They lack blood supply", "They produce enzymes", "They are located in the digestive tract"],
+      "answer": "They secrete hormones directly into the bloodstream",
+      "explanation": "Endocrine glands lack ducts and release hormones directly into the circulatory system."
+    },
+    {
+      "id": 3,
+      "question": "The two major areas controlling the endocrine system are:",
+      "options": ["Thyroid and pancreas", "Hypothalamus and pituitary gland", "Adrenal glands and gonads", "Parathyroid and pineal gland"],
+      "answer": "Hypothalamus and pituitary gland",
+      "explanation": "The hypothalamus and pituitary gland coordinate the endocrine system through hormonal feedback loops."
+    },
+    {
+      "id": 4,
+      "question": "Hormones are primarily responsible for:",
+      "options": ["Maintaining homeostasis", "Producing antibodies", "Breaking down carbohydrates", "Conducting nerve signals"],
+      "answer": "Maintaining homeostasis",
+      "explanation": "Hormones maintain homeostasis by regulating organ system functions."
+    },
+    {
+      "id": 5,
+      "question": "Which hormone is secreted by the hypothalamus to stimulate TSH release?",
+      "options": ["Corticotropin-releasing hormone (CRH)", "Thyrotropin-releasing hormone (TRH)", "Gonadotropin-releasing hormone (GnRH)", "Growth hormone-releasing hormone (GHRH)"],
+      "answer": "Thyrotropin-releasing hormone (TRH)",
+      "explanation": "TRH from the hypothalamus stimulates the anterior pituitary to release TSH."
+    },
+    {
+      "id": 6,
+      "question": "The anterior pituitary gland secretes:",
+      "options": ["Oxytocin", "Antidiuretic hormone (ADH)", "Growth hormone (GH)", "Melanocyte-stimulating hormone (MSH)"],
+      "answer": "Growth hormone (GH)",
+      "explanation": "GH is secreted by the anterior pituitary, while oxytocin and ADH are from the posterior pituitary."
+    },
+    {
+      "id": 7,
+      "question": "Which hormone promotes milk production in the mammary glands?",
+      "options": ["Oxytocin", "Prolactin", "TSH", "ACTH"],
+      "answer": "Prolactin",
+      "explanation": "Prolactin, secreted by lactotrophs in the anterior pituitary, promotes milk production."
+    },
+    {
+      "id": 8,
+      "question": "The hypothalamic-pituitary axis (HPA) regulates:",
+      "options": ["Digestive enzyme release", "Stress response and metabolism", "Bone growth only", "Blood clotting"],
+      "answer": "Stress response and metabolism",
+      "explanation": "The HPA integrates nervous and endocrine systems to regulate stress, reproduction, and metabolism."
+    },
+    {
+      "id": 9,
+      "question": "Growth hormone secretion is stimulated by:",
+      "options": ["Beta-agonists", "Dopamine", "Free fatty acids", "IGF-1"],
+      "answer": "Dopamine",
+      "explanation": "Dopamine, serotonin, and α-2 agonists stimulate GH release, while IGF-1 inhibits it."
+    },
+    {
+      "id": 10,
+      "question": "Which condition results from growth hormone deficiency in children?",
+      "options": ["Hyperprolactinemia", "Stunted growth", "Cushing’s syndrome", "Diabetes insipidus"],
+      "answer": "Stunted growth",
+      "explanation": "GH deficiency in children leads to stunted growth, as seen in conditions like Turner’s syndrome."
+    },
+    {
+      "id": 11,
+      "question": "Recombinant growth hormone therapy includes:",
+      "options": ["Bromocriptine", "Genotropin", "Cabergoline", "Pioglitazone"],
+      "answer": "Genotropin",
+      "explanation": "Genotropin is a recombinant GH used to treat GH deficiency."
+    },
+    {
+      "id": 12,
+      "question": "Prolactin levels rise significantly during:",
+      "options": ["Exercise", "Pregnancy", "Fasting", "Sleep"],
+      "answer": "Pregnancy",
+      "explanation": "Prolactin levels increase markedly during pregnancy and peak at term."
+    },
+    {
+      "id": 13,
+      "question": "Hyperprolactinemia in females may cause:",
+      "options": ["Hypertension", "Galactorrhea", "Hyperglycemia", "Bone fractures"],
+      "answer": "Galactorrhea",
+      "explanation": "Hyperprolactinemia causes galactorrhea, amenorrhea, and infertility in females."
+    },
+    {
+      "id": 14,
+      "question": "Which drug is used to treat hyperprolactinemia by acting as a dopamine receptor agonist?",
+      "options": ["Metformin", "Bromocriptine", "Pioglitazone", "Acarbose"],
+      "answer": "Bromocriptine",
+      "explanation": "Bromocriptine suppresses prolactin production via D2 receptors."
+    },
+    {
+      "id": 15,
+      "question": "A common adverse effect of bromocriptine is:",
+      "options": ["Hypoglycemia", "Nausea", "Hyperkalemia", "Rash"],
+      "answer": "Nausea",
+      "explanation": "Bromocriptine commonly causes nausea, vomiting, and postural hypotension."
+    },
+    {
+      "id": 16,
+      "question": "Cabergoline is preferred over bromocriptine because it:",
+      "options": ["Has a shorter half-life", "Causes more side effects", "Is more potent at D2 receptors", "Is orally inactive"],
+      "answer": "Is more potent at D2 receptors",
+      "explanation": "Cabergoline is four times more potent at D2 receptors and has fewer side effects."
+    },
+    {
+      "id": 17,
+      "question": "The adrenal cortex produces:",
+      "options": ["Catecholamines", "Glucocorticoids", "Oxytocin", "Prolactin"],
+      "answer": "Glucocorticoids",
+      "explanation": "The adrenal cortex produces glucocorticoids, mineralocorticoids, and androgens."
+    },
+    {
+      "id": 18,
+      "question": "Which zone of the adrenal cortex produces aldosterone?",
+      "options": ["Zona fasciculata", "Zona glomerulosa", "Zona reticularis", "Adrenal medulla"],
+      "answer": "Zona glomerulosa",
+      "explanation": "The zona glomerulosa produces mineralocorticoids like aldosterone."
+    },
+    {
+      "id": 19,
+      "question": "Glucocorticoids are involved in:",
+      "options": ["Bone formation", "Stress response", "Milk production", "Uterine contractions"],
+      "answer": "Stress response",
+      "explanation": "Glucocorticoids regulate stress response, immune response, and metabolism."
+    },
+    {
+      "id": 20,
+      "question": "Type 1 diabetes is primarily caused by:",
+      "options": ["Insulin resistance", "Autoimmune destruction of β-cells", "Excess glucagon", "Lipotoxicity"],
+      "answer": "Autoimmune destruction of β-cells",
+      "explanation": "Type 1 diabetes results from autoimmune T-cell-mediated destruction of pancreatic β-cells."
+    },
+    {
+      "id": 21,
+      "question": "Type 2 diabetes is associated with:",
+      "options": ["Rapid onset in youth", "Insulin resistance and lipotoxicity", "Complete insulin independence", "Autoimmune β-cell destruction"],
+      "answer": "Insulin resistance and lipotoxicity",
+      "explanation": "Type 2 diabetes involves insulin resistance, often due to abdominal fat causing lipotoxicity."
+    },
+    {
+      "id": 22,
+      "question": "Gestational diabetes is characterized by:",
+      "options": ["Insulin resistance during pregnancy", "Autoimmune β-cell destruction", "Hypoglycemia", "Permanent insulin deficiency"],
+      "answer": "Insulin resistance during pregnancy",
+      "explanation": "Gestational diabetes involves insulin resistance due to placental hormones and increased caloric intake."
+    },
+    {
+      "id": 23,
+      "question": "A common symptom of diabetes mellitus is:",
+      "options": ["Bradycardia", "Polyuria", "Hypotension", "Weight gain"],
+      "answer": "Polyuria",
+      "explanation": "Polyuria, polydipsia, and polyphagia are classic symptoms of diabetes mellitus."
+    },
+    {
+      "id": 24,
+      "question": "Chronic hyperglycemia can lead to:",
+      "options": ["Increased bone density", "Diabetic retinopathy", "Hypoglycemia", "Improved immune response"],
+      "answer": "Diabetic retinopathy",
+      "explanation": "Chronic hyperglycemia causes non-enzymatic glycation, leading to complications like retinopathy."
+    },
+    {
+      "id": 25,
+      "question": "The HbA1c test measures:",
+      "options": ["Blood pressure", "Glycated hemoglobin", "Cholesterol levels", "Thyroid function"],
+      "answer": "Glycated hemoglobin",
+      "explanation": "HbA1c measures glycated hemoglobin, reflecting average blood glucose over 2-3 months."
+    },
+    {
+      "id": 26,
+      "question": "A fasting plasma glucose of ≥126 mg/dL indicates:",
+      "options": ["Normal glucose levels", "Prediabetes", "Diabetes mellitus", "Hypoglycemia"],
+      "answer": "Diabetes mellitus",
+      "explanation": "Fasting plasma glucose ≥126 mg/dL on two occasions confirms diabetes mellitus."
+    },
+    {
+      "id": 27,
+      "question": "Gestational diabetes is diagnosed when fasting glucose exceeds:",
+      "options": ["92 mg/dL", "100 mg/dL", "126 mg/dL", "153 mg/dL"],
+      "answer": "92 mg/dL",
+      "explanation": "Gestational diabetes is diagnosed with a fasting glucose ≥92 mg/dL during a 75-g OGTT."
+    },
+    {
+      "id": 28,
+      "question": "Non-pharmacological management of diabetes includes:",
+      "options": ["High glycemic index diet", "Weight reduction", "Sedentary lifestyle", "Increased salt intake"],
+      "answer": "Weight reduction",
+      "explanation": "Non-pharmacological measures include weight reduction, diet, and exercise."
+    },
+    {
+      "id": 29,
+      "question": "Insulin primarily stimulates:",
+      "options": ["Gluconeogenesis", "Glucose uptake in muscles", "Lipolysis", "Glycogen breakdown"],
+      "answer": "Glucose uptake in muscles",
+      "explanation": "Insulin facilitates glucose transport into skeletal muscles and adipose tissue."
+    },
+    {
+      "id": 30,
+      "question": "Which insulin has the fastest onset of action?",
+      "options": ["Glargine", "NPH", "Lispro", "Regular"],
+      "answer": "Lispro",
+      "explanation": "Rapid-acting insulins like lispro have an onset of 15-30 minutes."
+    },
+    {
+      "id": 31,
+      "question": "A common adverse effect of insulin therapy is:",
+      "options": ["Hyperkalemia", "Hypoglycemia", "Hypertension", "Diarrhea"],
+      "answer": "Hypoglycemia",
+      "explanation": "Hypoglycemia is a frequent adverse effect of insulin due to excessive glucose lowering."
+    },
+    {
+      "id": 32,
+      "question": "Insulin is contraindicated in patients with:",
+      "options": ["Type 2 diabetes", "Hypersensitivity", "Gestational diabetes", "Hyperglycemia"],
+      "answer": "Hypersensitivity",
+      "explanation": "Insulin is contraindicated in patients with hypersensitivity to insulin or its components."
+    },
+    {
+      "id": 33,
+      "question": "Sulfonylureas enhance insulin secretion by:",
+      "options": ["Inhibiting K-ATP channels", "Increasing glucagon", "Promoting gluconeogenesis", "Reducing glucose uptake"],
+      "answer": "Inhibiting K-ATP channels",
+      "explanation": "Sulfonylureas bind to K-ATP channels in β-cells, triggering insulin release."
+    },
+    {
+      "id": 34,
+      "question": "A major adverse effect of sulfonylureas is:",
+      "options": ["Lactic acidosis", "Hypoglycemia", "Renal failure", "Bone fractures"],
+      "answer": "Hypoglycemia",
+      "explanation": "Sulfonylureas can cause hypoglycemia due to excessive insulin release."
+    },
+    {
+      "id": 35,
+      "question": "Metformin primarily acts by:",
+      "options": ["Stimulating insulin secretion", "Inhibiting hepatic gluconeogenesis", "Increasing glucagon", "Promoting lipolysis"],
+      "answer": "Inhibiting hepatic gluconeogenesis",
+      "explanation": "Metformin reduces hepatic glucose production by inhibiting gluconeogenesis."
+    },
+    {
+      "id": 36,
+      "question": "Metformin is contraindicated in patients with:",
+      "options": ["Mild renal impairment", "Severe hepatic disease", "Type 2 diabetes", "Hypertension"],
+      "answer": "Severe hepatic disease",
+      "explanation": "Metformin is contraindicated in severe hepatic disease due to the risk of lactic acidosis."
+    },
+    {
+      "id": 37,
+      "question": "Thiazolidinediones increase insulin sensitivity by:",
+      "options": ["Inhibiting K-ATP channels", "Activating PPAR-γ receptors", "Suppressing glucagon", "Reducing gastric emptying"],
+      "answer": "Activating PPAR-γ receptors",
+      "explanation": "Thiazolidinediones activate PPAR-γ, enhancing insulin-responsive gene transcription."
+    },
+    {
+      "id": 38,
+      "question": "A common adverse effect of thiazolidinediones is:",
+      "options": ["Lactic acidosis", "Edema", "Hypoglycemia", "Diarrhea"],
+      "answer": "Edema",
+      "explanation": "Thiazolidinediones commonly cause edema due to fluid retention."
+    },
+    {
+      "id": 39,
+      "question": "Alpha-glucosidase inhibitors like acarbose act by:",
+      "options": ["Stimulating insulin release", "Inhibiting intestinal carbohydrate digestion", "Increasing glucagon", "Promoting glucose reabsorption"],
+      "answer": "Inhibiting intestinal carbohydrate digestion",
+      "explanation": "Alpha-glucosidase inhibitors block enzymes that digest starches, reducing glucose absorption."
+    },
+    {
+      "id": 40,
+      "question": "A common adverse effect of alpha-glucosidase inhibitors is:",
+      "options": ["Hypoglycemia", "Flatulence", "Edema", "Lactic acidosis"],
+      "answer": "Flatulence",
+      "explanation": "Flatulence is a frequent side effect of alpha-glucosidase inhibitors due to undigested carbohydrates."
+    },
+    {
+      "id": 41,
+      "question": "DPP-4 inhibitors like sitagliptin enhance glucose control by:",
+      "options": ["Increasing glucagon release", "Inhibiting GLP-1 degradation", "Promoting gluconeogenesis", "Reducing insulin sensitivity"],
+      "answer": "Inhibiting GLP-1 degradation",
+      "explanation": "DPP-4 inhibitors prevent the breakdown of GLP-1, enhancing insulin release and reducing glucagon."
+    },
+    {
+      "id": 42,
+      "question": "GLP-1 receptor agonists like exenatide are administered:",
+      "options": ["Orally", "Subcutaneously", "Intravenously", "Transdermally"],
+      "answer": "Subcutaneously",
+      "explanation": "GLP-1 agonists are orally inactive and given subcutaneously."
+    },
+    {
+      "id": 43,
+      "question": "SGLT-2 inhibitors like dapagliflozin lower glucose by:",
+      "options": ["Stimulating insulin secretion", "Inhibiting renal glucose reabsorption", "Increasing glucagon", "Promoting lipolysis"],
+      "answer": "Inhibiting renal glucose reabsorption",
+      "explanation": "SGLT-2 inhibitors block glucose reabsorption in the kidneys, causing glycosuria."
+    },
+    {
+      "id": 44,
+      "question": "A disadvantage of SGLT-2 inhibitors is:",
+      "options": ["Hypoglycemia", "Increased urinary infections", "Lactic acidosis", "Edema"],
+      "answer": "Increased urinary infections",
+      "explanation": "Glycosuria from SGLT-2 inhibitors increases the risk of urinary tract infections."
+    },
+    {
+      "id": 45,
+      "question": "Hypoglycemia is most likely to occur with:",
+      "options": ["Metformin", "Sulfonylureas", "Acarbose", "Pioglitazone"],
+      "answer": "Sulfonylureas",
+      "explanation": "Sulfonylureas can cause hypoglycemia due to excessive insulin secretion."
+    },
+    {
+      "id": 46,
+      "question": "Symptoms of hypoglycemia include:",
+      "options": ["Bradycardia", "Sweating", "Hypertension", "Weight gain"],
+      "answer": "Sweating",
+      "explanation": "Autonomic symptoms of hypoglycemia include sweating, trembling, and tachycardia."
+    },
+    {
+      "id": 47,
+      "question": "Hypoglycemia unawareness may be caused by:",
+      "options": ["Hyperthyroidism", "Autonomic neuropathy", "Hypertension", "Hyperlipidemia"],
+      "answer": "Autonomic neuropathy",
+      "explanation": "Autonomic neuropathy can impair the body’s ability to detect hypoglycemia symptoms."
+    },
+    {
+      "id": 48,
+      "question": "In managing hypoglycemia, oral glucose is given if:",
+      "options": ["The patient is unconscious", "The patient can swallow safely", "There is a risk of aspiration", "The patient has liver disease"],
+      "answer": "The patient can swallow safely",
+      "explanation": "Oral glucose is appropriate only if the patient can swallow without aspiration risk."
+    },
+    {
+      "id": 49,
+      "question": "For severe hypoglycemia, the recommended treatment is:",
+      "options": ["Oral sucrose", "Intravenous glucose", "Sublingual insulin", "Dietary fat"],
+      "answer": "Intravenous glucose",
+      "explanation": "Intravenous glucose (e.g., 50% dextrose) is used for severe hypoglycemia when oral intake is not possible."
+    },
+    {
+      "id": 50,
+      "question": "Glucagon may be ineffective in patients with:",
+      "options": ["Type 2 diabetes", "Cirrhosis", "Hypertension", "Hyperthyroidism"],
+      "answer": "Cirrhosis",
+      "explanation": "Glucagon relies on liver glycogen stores, which may be depleted in cirrhosis, rendering it ineffective."
+    }
+      ]
