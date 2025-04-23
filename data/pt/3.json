@@ -1,0 +1,352 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary function of the cardiovascular system?",
+      "options": ["Regulation of body temperature", "Delivery of oxygen and nutrients to cells", "Production of hormones", "Filtration of metabolic wastes"],
+      "answer": "Delivery of oxygen and nutrients to cells",
+      "explanation": "The cardiovascular system delivers oxygen, nutrients, and other essentials to cells while removing carbon dioxide and metabolic wastes."
+    },
+    {
+      "id": 2,
+      "question": "Which component of the cardiovascular system serves as a major reservoir for blood?",
+      "options": ["Arteries", "Capillaries", "Veins", "Arterioles"],
+      "answer": "Veins",
+      "explanation": "Veins, venules, and venous sinuses hold 64% of the blood in the systemic circulation, serving as a major blood reservoir."
+    },
+    {
+      "id": 3,
+      "question": "What is the formula for cardiac output (CO)?",
+      "options": ["CO = HR × TPR", "CO = HR × SV", "CO = SV × TPR", "CO = HR × BP"],
+      "answer": "CO = HR × SV",
+      "explanation": "Cardiac output is calculated as heart rate (HR) multiplied by stroke volume (SV)."
+    },
+    {
+      "id": 4,
+      "question": "Arterial blood pressure is primarily regulated by which two systems?",
+      "options": ["ANS and lymphatic system", "ANS and RAAS", "RAAS and natriuretic peptides", "Natriuretic peptides and ADH"],
+      "answer": "ANS and RAAS",
+      "explanation": "The autonomic nervous system (ANS) and renin-angiotensin-aldosterone system (RAAS) are the primary regulators of arterial blood pressure."
+    },
+    {
+      "id": 5,
+      "question": "The baroreceptor reflex responds to a drop in arterial pressure by causing all the following EXCEPT...",
+      "options": ["Constriction of arterioles", "Constriction of veins", "Acceleration of heart rate", "Dilation of arterioles"],
+      "answer": "Dilation of arterioles",
+      "explanation": "When arterial pressure drops, the baroreceptor reflex causes arteriolar and venous constriction and increases heart rate to restore pressure."
+    },
+    {
+      "id": 6,
+      "question": "The RAAS supports arterial blood pressure BECAUSE it causes vasoconstriction and water retention.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "The RAAS supports blood pressure by promoting vasoconstriction (via angiotensin II) and water retention (via aldosterone)."
+    },
+    {
+      "id": 7,
+      "question": "Which natriuretic peptide is primarily released in response to volume overload?",
+      "options": ["Atrial natriuretic peptide (ANP)", "C-natriuretic peptide (CNP)", "Adrenomedullin", "Vasopressin"],
+      "answer": "Atrial natriuretic peptide (ANP)",
+      "explanation": "ANP is released in response to volume overload to reduce blood volume and promote vasodilation."
+    },
+    {
+      "id": 8,
+      "question": "Antidiuretic hormone (ADH) increases blood pressure by:",
+      "options": ["Dilating blood vessels", "Increasing water reabsorption", "Decreasing cardiac output", "Inhibiting aldosterone"],
+      "answer": "Increasing water reabsorption",
+      "explanation": "ADH increases water reabsorption in the kidneys, increasing blood volume and pressure, and causes vasoconstriction at high concentrations."
+    },
+    {
+      "id": 9,
+      "question": "According to the WHO, what percentage of global deaths in 2019 were due to cardiovascular diseases?",
+      "options": ["17%", "25%", "32%", "40%"],
+      "answer": "32%",
+      "explanation": "Cardiovascular diseases accounted for 32% of global deaths in 2019, per WHO estimates."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT a cardiovascular disease listed in the document?",
+      "options": ["Hypertension", "Heart failure", "Asthma", "Coronary artery disease"],
+      "answer": "Asthma",
+      "explanation": "Asthma is a respiratory condition, not a cardiovascular disease, unlike hypertension, heart failure, and coronary artery disease."
+    },
+    {
+      "id": 11,
+      "question": "Hypertension is defined as a systolic blood pressure (SBP) greater than what value for patients younger than 60 years?",
+      "options": ["130 mmHg", "140 mmHg", "150 mmHg", "160 mmHg"],
+      "answer": "140 mmHg",
+      "explanation": "Per JNC 8, hypertension is defined as SBP > 140 mmHg or DBP > 90 mmHg for patients under 60 years."
+    },
+    {
+      "id": 12,
+      "question": "Which lifestyle modification is associated with the greatest approximate systolic blood pressure reduction?",
+      "options": ["Weight reduction", "DASH eating plan", "Physical activity", "Moderation of alcohol consumption"],
+      "answer": "Weight reduction",
+      "explanation": "Weight reduction can reduce SBP by 2–20 mmHg per 10 kg, the highest among listed modifications."
+    },
+    {
+      "id": 13,
+      "question": "Which class of antihypertensives is considered first-line for hypertension treatment?",
+      "options": ["Beta blockers", "Diuretics", "Alpha-2 agonists", "Vasodilators"],
+      "answer": "Diuretics",
+      "explanation": "Thiazide diuretics are listed as first-line antihypertensives for hypertension management."
+    },
+    {
+      "id": 14,
+      "question": "Beta blockers lower blood pressure by:",
+      "options": ["Increasing heart rate", "Reducing sympathetic tone", "Promoting vasoconstriction", "Increasing renin levels"],
+      "answer": "Reducing sympathetic tone",
+      "explanation": "Beta blockers reduce sympathetic tone and circulating renin levels, lowering heart rate and blood pressure."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following beta blockers is cardio-selective?",
+      "options": ["Propranolol", "Bisoprolol", "Sotalol", "Carvedilol"],
+      "answer": "Bisoprolol",
+      "explanation": "Bisoprolol is a beta-1 selective (cardio-selective) blocker, unlike the non-selective propranolol, sotalol, and carvedilol."
+    },
+    {
+      "id": 16,
+      "question": "Which beta blocker is contraindicated in patients with second-degree heart block?",
+      "options": ["Atenolol", "Metoprolol", "All beta blockers", "Nebivolol"],
+      "answer": "All beta blockers",
+      "explanation": "All beta blockers are contraindicated in second- or third-degree heart block due to their negative chronotropic effects."
+    },
+    {
+      "id": 17,
+      "question": "Lipophilic beta blockers are associated with which adverse effect?",
+      "options": ["Bradycardia", "Nightmares", "Edema", "Hypotension"],
+      "answer": "Nightmares",
+      "explanation": "Lipophilic beta blockers (e.g., propranolol) can cross the blood-brain barrier, causing nightmares and depression."
+    },
+    {
+      "id": 18,
+      "question": "Beta blockers should not be stopped abruptly BECAUSE it may cause rebound hypertension.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Abrupt cessation of beta blockers can lead to rebound hypertension due to increased sympathetic activity."
+    },
+    {
+      "id": 19,
+      "question": "Which drug is commonly used to treat hypertension in pregnancy?",
+      "options": ["Clonidine", "Methyldopa", "Prazosin", "Lisinopril"],
+      "answer": "Methyldopa",
+      "explanation": "Methyldopa is commonly used for hypertension in pregnancy due to its safety profile and lack of teratogenic effects."
+    },
+    {
+      "id": 20,
+      "question": "Alpha-2 agonists like methyldopa lower blood pressure by:",
+      "options": ["Increasing cardiac output", "Decreasing adrenergic outflow", "Promoting vasoconstriction", "Inhibiting renin release"],
+      "answer": "Decreasing adrenergic outflow",
+      "explanation": "Alpha-2 agonists reduce adrenergic outflow from the CNS, lowering peripheral resistance and blood pressure."
+    },
+    {
+      "id": 21,
+      "question": "Which adverse effect of methyldopa requires periodic hemoglobin testing?",
+      "options": ["Hepatotoxicity", "Hemolytic anemia", "Rebound hypertension", "Sedation"],
+      "answer": "Hemolytic anemia",
+      "explanation": "Methyldopa can cause Coombs-positive hemolytic anemia, necessitating periodic hemoglobin and hematocrit testing."
+    },
+    {
+      "id": 22,
+      "question": "Alpha-1 blockers are primarily used for hypertension when associated with which condition?",
+      "options": ["Heart failure", "Benign prostatic hypertrophy", "Diabetes mellitus", "Chronic kidney disease"],
+      "answer": "Benign prostatic hypertrophy",
+      "explanation": "Alpha-1 blockers (e.g., doxazosin) are used for hypertension in patients with benign prostatic hypertrophy due to their effects on prostate smooth muscle."
+    },
+    {
+      "id": 23,
+      "question": "Which alpha-1 blocker is NOT used to control blood pressure?",
+      "options": ["Doxazosin", "Prazosin", "Tamsulosin", "Terazosin"],
+      "answer": "Tamsulosin",
+      "explanation": "Tamsulosin is used solely for symptomatic control of benign prostatic hypertrophy, not for blood pressure control."
+    },
+    {
+      "id": 24,
+      "question": "First-dose hypotension is a common adverse effect of which class of antihypertensives?",
+      "options": ["Beta blockers", "Alpha-1 blockers", "ACE inhibitors", "Diuretics"],
+      "answer": "Alpha-1 blockers",
+      "explanation": "Alpha-1 blockers like prazosin can cause first-dose hypotension due to significant vasodilation."
+    },
+    {
+      "id": 25,
+      "question": "ACE inhibitors are considered first-line for hypertensive patients with which condition?",
+      "options": ["Asthma", "Heart failure", "Pheochromocytoma", "Bilateral renal stenosis"],
+      "answer": "Heart failure",
+      "explanation": "ACE inhibitors are first-line for hypertensive patients with heart failure due to their cardioprotective effects."
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is a contraindication for ACE inhibitors?",
+      "options": ["Hypertension", "Bilateral renal stenosis", "Heart failure", "Diabetic nephropathy"],
+      "answer": "Bilateral renal stenosis",
+      "explanation": "ACE inhibitors are contraindicated in bilateral renal stenosis due to the risk of acute renal failure."
+    },
+    {
+      "id": 27,
+      "question": "ACE inhibitors may cause a dry cough BECAUSE they block the breakdown of bradykinins.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "ACE inhibitors cause a dry cough due to the accumulation of bradykinins, which they prevent from being broken down."
+    },
+    {
+      "id": 28,
+      "question": "Which ACE inhibitor is available in a parenteral preparation?",
+      "options": ["Captopril", "Enalapril", "Lisinopril", "Ramipril"],
+      "answer": "Enalapril",
+      "explanation": "Enalapril is the only ACE inhibitor available in a parenteral (intravenous) formulation."
+    },
+    {
+      "id": 29,
+      "question": "Angiotensin receptor blockers (ARBs) are a suitable alternative for patients with ACE inhibitor-induced:",
+      "options": ["Hyperkalemia", "Cough", "Hypotension", "Renal impairment"],
+      "answer": "Cough",
+      "explanation": "ARBs do not block bradykinin breakdown, making them a suitable alternative for ACE inhibitor-induced cough."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a common adverse effect of ARBs?",
+      "options": ["Bradycardia", "Hyperkalemia", "Bronchospasm", "Hepatitis"],
+      "answer": "Hyperkalemia",
+      "explanation": "ARBs can cause hyperkalemia, especially in patients with renal impairment or diabetes."
+    },
+    {
+      "id": 31,
+      "question": "Why are ACE inhibitors and ARBs not prescribed together?",
+      "options": ["No additional benefit", "Increased risk of cough", "Enhanced hypotensive effect", "Reduced renal protection"],
+      "answer": "No additional benefit",
+      "explanation": "Combining ACE inhibitors and ARBs provides no significant additional benefit and increases the risk of adverse effects."
+    },
+    {
+      "id": 32,
+      "question": "Which calcium channel blocker is recommended for heart failure with reduced ejection fraction (HFrEF)?",
+      "options": ["Nifedipine", "Verapamil", "Amlodipine", "Diltiazem"],
+      "answer": "Amlodipine",
+      "explanation": "Amlodipine is the only calcium channel blocker recommended for HFrEF due to its minimal effect on cardiac contractility."
+    },
+    {
+      "id": 33,
+      "question": "Non-dihydropyridine calcium channel blockers are contraindicated in which condition?",
+      "options": ["Hypertension", "Heart failure with reduced ejection fraction", "Angina pectoris", "Migraine"],
+      "answer": "Heart failure with reduced ejection fraction",
+      "explanation": "Non-dihydropyridines (e.g., verapamil) can worsen heart failure due to their negative inotropic effects."
+    },
+    {
+      "id": 34,
+      "question": "Which calcium channel blocker is used to prevent cerebral artery spasms after subarachnoid hemorrhage?",
+      "options": ["Amlodipine", "Nimodipine", "Diltiazem", "Felodipine"],
+      "answer": "Nimodipine",
+      "explanation": "Nimodipine is centrally acting and prevents cerebral artery spasms post-subarachnoid hemorrhage."
+    },
+    {
+      "id": 35,
+      "question": "Which diuretic class is most commonly used as first-line therapy for hypertension?",
+      "options": ["Loop diuretics", "Thiazide diuretics", "Potassium-sparing diuretics", "Osmotic diuretics"],
+      "answer": "Thiazide diuretics",
+      "explanation": "Thiazide diuretics are first-line for hypertension due to their efficacy in reducing blood pressure."
+    },
+    {
+      "id": 36,
+      "question": "Loop diuretics are indicated for hypertension in patients with which condition?",
+      "options": ["Chronic kidney disease", "Hyperthyroidism", "Asthma", "Migraine"],
+      "answer": "Chronic kidney disease",
+      "explanation": "Loop diuretics are used for hypertension in chronic kidney disease due to their potency in fluid removal."
+    },
+    {
+      "id": 37,
+      "question": "Thiazide diuretics block which channel in the distal convoluted tubule?",
+      "options": ["Na/K/2Cl channel", "Na/Cl channel", "K/Cl channel", "Ca/Na channel"],
+      "answer": "Na/Cl channel",
+      "explanation": "Thiazide diuretics block the Na/Cl channel in the distal convoluted tubule, inhibiting sodium and water reabsorption."
+    },
+    {
+      "id": 38,
+      "question": "Which adverse effect of diuretics can precipitate gout?",
+      "options": ["Hyperuricemia", "Hypokalemia", "Hyperglycemia", "Dehydration"],
+      "answer": "Hyperuricemia",
+      "explanation": "Diuretics, especially thiazides, can cause hyperuricemia, increasing the risk of gout."
+    },
+    {
+      "id": 39,
+      "question": "Diuretics should be taken in the morning BECAUSE they cause excessive urination.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Diuretics cause excessive urination, so morning dosing prevents nighttime disturbances."
+    },
+    {
+      "id": 40,
+      "question": "Which vasodilator is used in hypertensive emergencies?",
+      "options": ["Minoxidil", "Hydralazine", "Sodium nitroprusside", "Diazoxide"],
+      "answer": "Sodium nitroprusside",
+      "explanation": "Sodium nitroprusside is used in hypertensive emergencies due to its rapid onset and potent vasodilatory effects."
+    },
+    {
+      "id": 41,
+      "question": "Aliskiren, a direct renin inhibitor, is contraindicated in patients taking which medications?",
+      "options": ["Beta blockers", "Diuretics", "ACE inhibitors or ARBs in diabetics", "Calcium channel blockers"],
+      "answer": "ACE inhibitors or ARBs in diabetics",
+      "explanation": "Aliskiren is contraindicated in diabetic patients on ACE inhibitors or ARBs due to increased risk of adverse effects."
+    },
+    {
+      "id": 42,
+      "question": "Which type of shock is characterized by failure to maintain total peripheral resistance?",
+      "options": ["Cardiogenic shock", "Distributive shock", "Hypovolemic shock", "Obstructive shock"],
+      "answer": "Distributive shock",
+      "explanation": "Distributive shock (e.g., septic or anaphylactic) involves failure to maintain total peripheral resistance, with warm extremities and tachycardia."
+    },
+    {
+      "id": 43,
+      "question": "Hypovolemic shock may result from which of the following?",
+      "options": ["Myocardial infarction", "Severe hemorrhage", "Pulmonary embolism", "Septic infection"],
+      "answer": "Severe hemorrhage",
+      "explanation": "Hypovolemic shock is caused by insufficient blood volume, often due to severe hemorrhage or fluid loss."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is a hallmark symptom of cardiogenic shock?",
+      "options": ["Warm extremities", "Cool, dry extremities", "Tachycardia", "Edema"],
+      "answer": "Cool, dry extremities",
+      "explanation": "Cardiogenic shock presents with cool, dry extremities due to inadequate cardiac output and maintained peripheral resistance."
+    },
+    {
+      "id": 45,
+      "question": "Obstructive shock may be caused by which condition?",
+      "options": ["Severe diarrhea", "Pulmonary embolism", "Anaphylactic reaction", "Myocardial infarction"],
+      "answer": "Pulmonary embolism",
+      "explanation": "Obstructive shock results from conditions like pulmonary embolism, which impede blood flow."
+    },
+    {
+      "id": 46,
+      "question": "The treatment of shock focuses on all the following EXCEPT...",
+      "options": ["Restoring tissue perfusion", "Reinstating intravascular blood volume", "Treating the underlying cause", "Increasing blood viscosity"],
+      "answer": "Increasing blood viscosity",
+      "explanation": "Shock treatment aims to restore perfusion, blood volume, and treat the cause, not increase blood viscosity."
+    },
+    {
+      "id": 47,
+      "question": "Which nursing consideration is critical when administering diuretics?",
+      "options": ["Monitor heart rate", "Monitor urine output", "Monitor blood glucose", "Monitor respiratory rate"],
+      "answer": "Monitor urine output",
+      "explanation": "Monitoring urine output is critical for diuretics to assess fluid loss and prevent dehydration or acute kidney injury."
+    },
+    {
+      "id": 48,
+      "question": "Why should patients be educated about the lifelong nature of antihypertensive therapy?",
+      "options": ["To prevent weight gain", "To ensure adherence", "To reduce drug costs", "To avoid electrolyte imbalances"],
+      "answer": "To ensure adherence",
+      "explanation": "Educating patients about lifelong therapy ensures adherence, as hypertension is often asymptomatic, leading to non-compliance."
+    },
+    {
+      "id": 49,
+      "question": "Abrupt withdrawal of antihypertensives can lead to which complication?",
+      "options": ["Hypoglycemia", "Rebound hypertension", "Hyperkalemia", "Bronchospasm"],
+      "answer": "Rebound hypertension",
+      "explanation": "Abrupt withdrawal of antihypertensives can cause rebound hypertension, increasing the risk of stroke or cardiac events."
+    },
+    {
+      "id": 50,
+      "question": "ACE inhibitors are renoprotective BECAUSE they reduce glomerular filtration pressure.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "ACE inhibitors reduce glomerular filtration pressure, protecting the kidneys, especially in diabetic nephropathy."
+    }
+]
