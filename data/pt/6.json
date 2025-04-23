@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "question": "Angina pectoris results from an imbalance in the myocardial:",
+      "options": ["Blood pressure", "Oxygen supply/demand ratio", "Heart rate", "Contractility"],
+      "answer": "Oxygen supply/demand ratio",
+      "explanation": "Angina pectoris occurs when the heart's oxygen supply is insufficient to meet its demand, leading to chest pain."
+    },
+    {
+      "id": 2,
+      "question": "The primary cause of ischemic heart disease is:",
+      "options": ["Hypertension", "Atherosclerosis", "Arrhythmias", "Valvular disease"],
+      "answer": "Atherosclerosis",
+      "explanation": "Atherosclerosis, characterized by fatty plaque deposits in coronary arteries, is the primary cause of ischemic heart disease."
+    },
+    {
+      "id": 3,
+      "question": "Which mediator is primarily responsible for chest pain in angina pectoris?",
+      "options": ["Lactic acid", "Adenosine", "Thromboxane", "Histamine"],
+      "answer": "Adenosine",
+      "explanation": "Adenosine, released during myocardial ischemia, stimulates A1 receptors on cardiac nerves, causing chest pain."
+    },
+    {
+      "id": 4,
+      "question": "Which type of angina is associated with vasospasm of coronary arteries?",
+      "options": ["Classical angina", "Unstable angina", "Prinzmetal angina", "Decubitus angina"],
+      "answer": "Prinzmetal angina",
+      "explanation": "Prinzmetal (variant) angina is caused by coronary artery vasospasm, often occurring at rest."
+    },
+    {
+      "id": 5,
+      "question": "The main therapeutic objective of anti-anginal drug therapy is to:",
+      "options": ["Increase heart rate", "Minimize frequency of anginal attacks", "Promote thrombus formation", "Increase myocardial contractility"],
+      "answer": "Minimize frequency of anginal attacks",
+      "explanation": "Anti-anginal therapy aims to reduce the frequency, duration, and intensity of anginal attacks."
+    },
+    {
+      "id": 6,
+      "question": "Which class of anti-anginal drugs is considered the mainstay for both prophylaxis and treatment of angina?",
+      "options": ["Beta blockers", "Nitrates", "Calcium channel blockers", "Statins"],
+      "answer": "Nitrates",
+      "explanation": "Nitrates are the mainstay for both preventing and treating angina due to their vasodilatory effects."
+    },
+    {
+      "id": 7,
+      "question": "Nitrates primarily relieve angina by:",
+      "options": ["Increasing heart rate", "Reducing preload through vasodilation", "Enhancing myocardial contractility", "Promoting coronary artery constriction"],
+      "answer": "Reducing preload through vasodilation",
+      "explanation": "Nitrates cause vasodilation, reducing preload and myocardial oxygen demand, thus relieving angina."
+    },
+    {
+      "id": 8,
+      "question": "Which nitrate formulation has a rapid onset of action and bypasses first-pass metabolism?",
+      "options": ["Oral tablets", "Transdermal patches", "Sublingual tablets", "Intravenous solutions"],
+      "answer": "Sublingual tablets",
+      "explanation": "Sublingual tablets and sprays bypass first-pass metabolism, providing rapid relief for acute anginal attacks."
+    },
+    {
+      "id": 9,
+      "question": "Nitrates are contraindicated in patients using:",
+      "options": ["Beta blockers", "Sildenafil", "Aspirin", "Statins"],
+      "answer": "Sildenafil",
+      "explanation": "Nitrates are contraindicated with erectile dysfunction drugs like sildenafil due to the risk of severe hypotension."
+    },
+    {
+      "id": 10,
+      "question": "Tolerance to nitrates can be prevented by:",
+      "options": ["Increasing the dose", "Arranging a nitrate-free period", "Using multiple nitrate formulations", "Administering at night"],
+      "answer": "Arranging a nitrate-free period",
+      "explanation": "A nitrate-free period of a few hours daily, typically at night, helps maintain nitrate effectiveness by preventing tolerance."
+    },
+    {
+      "id": 11,
+      "question": "Which adverse effect of nitrates is usually transient and resolves over time?",
+      "options": ["Tachycardia", "Headache", "Hypotension", "Contact dermatitis"],
+      "answer": "Headache",
+      "explanation": "Headaches caused by nitrates are typically transient and resolve with continued use."
+    },
+    {
+      "id": 12,
+      "question": "How long do glyceryl trinitrate (GTN) tablets remain effective after opening the bottle?",
+      "options": ["4 weeks", "8 weeks", "12 weeks", "16 weeks"],
+      "answer": "8 weeks",
+      "explanation": "GTN tablets lose efficacy 8 weeks after opening due to evaporation of the active ingredient."
+    },
+    {
+      "id": 13,
+      "question": "Beta blockers reduce myocardial oxygen demand by:",
+      "options": ["Increasing heart rate", "Blocking adrenergic receptors", "Promoting vasodilation", "Enhancing contractility"],
+      "answer": "Blocking adrenergic receptors",
+      "explanation": "Beta blockers block adrenergic receptors, reducing heart rate and contractility, thus lowering oxygen demand."
+    },
+    {
+      "id": 14,
+      "question": "Beta blockers are considered first-line agents BECAUSE they reduce mortality in myocardial infarction.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Beta blockers are first-line in MI due to their ability to reduce mortality by counteracting harmful catecholamine effects."
+    },
+    {
+      "id": 15,
+      "question": "Which condition is a contraindication for beta blockers in angina treatment?",
+      "options": ["Hypertension", "COPD", "Hyperlipidemia", "Diabetes"],
+      "answer": "COPD",
+      "explanation": "Beta blockers are contraindicated in COPD due to the risk of bronchospasm from beta2 receptor blockade."
+    },
+    {
+      "id": 16,
+      "question": "Which beta blocker is cardioselective and preferred to reduce bronchoconstriction risk?",
+      "options": ["Propranolol", "Atenolol", "Timolol", "Nebivolol"],
+      "answer": "Atenolol",
+      "explanation": "Atenolol is a cardioselective beta blocker, reducing the risk of bronchoconstriction compared to non-selective agents."
+    },
+    {
+      "id": 17,
+      "question": "Calcium channel blockers like verapamil relieve angina by:",
+      "options": ["Increasing afterload", "Dilating coronary arteries", "Enhancing heart rate", "Promoting vasoconstriction"],
+      "answer": "Dilating coronary arteries",
+      "explanation": "Calcium channel blockers dilate coronary arteries, increasing oxygen supply and reducing afterload to relieve angina."
+    },
+    {
+      "id": 18,
+      "question": "Which side effect of calcium channel blockers may be mitigated by combining with a beta blocker?",
+      "options": ["Flushing", "Headache", "Reflex tachycardia", "Bronchospasm"],
+      "answer": "Reflex tachycardia",
+      "explanation": "Reflex tachycardia from calcium channel blockers can be mitigated by combining with a beta blocker to reduce heart rate."
+    },
+    {
+      "id": 19,
+      "question": "Aspirin reduces the risk of myocardial infarction in unstable angina by:",
+      "options": ["Dilating coronary arteries", "Inhibiting platelet COX-1", "Lowering cholesterol", "Reducing heart rate"],
+      "answer": "Inhibiting platelet COX-1",
+      "explanation": "Aspirin inhibits platelet COX-1, preventing thromboxane formation and reducing MI risk by about 50% in unstable angina."
+    },
+    {
+      "id": 20,
+      "question": "Statins are beneficial in coronary artery disease BECAUSE they lower LDL cholesterol and have anti-thrombotic effects.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Statins benefit CAD patients by lowering LDL cholesterol and exerting anti-thrombotic, anti-inflammatory, and anti-proliferative effects."
+    }
+]
