@@ -21,7 +21,15 @@
     "numberOfTests": 30
   },
       { "id": 5,
-    "title": "Test 4: Bandaging Slides",
+    "title": "Test 5: Bandaging Slides",
     "numberOfTests": 30
+  },
+      { "id": 6,
+    "title": "Test 6: Pasco 2018/2019 A",
+    "numberOfTests": 30
+  },
+      { "id": 7,
+    "title": "Test 7: Pasco 2018/2019 B",
+    "numberOfTests": 20
   }
 ]
