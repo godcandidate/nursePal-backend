@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is the use of Roller Bandages?",
+    "options": [
+      "Is used for the limbs and sometimes the head and the trunk. It can be used for any part of the body",
+      "Pin the apex at the elbow so that the joint is enclosed",
+      "Made of cotton or calico, used for perineal dressing",
+      "Bandage from below upwards. This is very important for the limbs",
+      "It is used in cases where the dressing needs frequent changing. It is used for the chest and abdomen"
+    ],
+    "answer": "Is used for the limbs and sometimes the head and the trunk. It can be used for any part of the body",
+    "explanation": "Roller bandages are versatile and can be used for limbs, head, and trunk, as described in the question."
+  },
+  {
+    "id": 2,
+    "question": "When the broken ends of a bone are driven into the other and tightly or firmly wedged together, this is known as?",
+    "options": ["Depressed Fracture", "Simple or Closed Fracture", "Comminuted Fracture", "Impacted Fracture", "Greenstick Fracture"],
+    "answer": "Impacted Fracture",
+    "explanation": "An impacted fracture occurs when the broken ends of a bone are driven into each other and wedged together."
+  },
+  {
+    "id": 3,
+    "question": "This fracture occurs in children under the age of 12 years. The bone bends on one side and splits on the other side. Instead of breaking, it bends because of incomplete ossification of the bones and are still fairly soft.",
+    "options": ["Depressed Fracture", "Simple or Closed Fracture", "Comminuted Fracture", "Impacted Fracture", "Greenstick Fracture"],
+    "answer": "Greenstick Fracture",
+    "explanation": "A greenstick fracture, common in children, involves bending and splitting of the bone due to incomplete ossification."
+  },
+  {
+    "id": 4,
+    "question": "When the bone is broken into several bits or crushed. The bone is broken causing more than two fragments.",
+    "options": ["Depressed Fracture", "Simple or Closed Fracture", "Comminuted Fracture", "Impacted Fracture", "Greenstick Fracture"],
+    "answer": "Comminuted Fracture",
+    "explanation": "A comminuted fracture involves the bone breaking into several fragments, often more than two."
+  },
+  {
+    "id": 5,
+    "question": "The bone is driven inwards but the small parts do not separate. In this fracture, one of the fragments is moved below its normal level.",
+    "options": ["Depressed Fracture", "Simple or Closed Fracture", "Comminuted Fracture", "Impacted Fracture", "Greenstick Fracture"],
+    "answer": "Depressed Fracture",
+    "explanation": "A depressed fracture involves the bone being driven inwards, with fragments moved below their normal level."
+  },
+  {
+    "id": 6,
+    "question": "The bone is broken but not the skin.",
+    "options": ["Depressed Fracture", "Simple or Closed Fracture", "Comminuted Fracture", "Impacted Fracture", "Greenstick Fracture"],
+    "answer": "Simple or Closed Fracture",
+    "explanation": "A simple or closed fracture involves a broken bone without breaking the skin."
+  },
+  {
+    "id": 7,
+    "question": "A motor vehicle crash occurs with several persons, but fewer than 10, sustaining injury and they are all brought to the ED.",
+    "options": ["Emergency case", "Multiple casualty accident", "Mass patient incident", "Referrals' casualty", "Mass patient accident"],
+    "answer": "Multiple casualty accident",
+    "explanation": "A multiple casualty accident involves fewer than 10 victims, as per the classification in the question."
+  },
+  {
+    "id": 8,
+    "question": "The number of casualty brought to the ED is between 10 and 100.",
+    "options": ["Multiple casualty incidents", "Disaster incident patient", "Triaging of patient", "Trauma casualty incidents", "Resuscitation of patients"],
+    "answer": "Multiple casualty incidents",
+    "explanation": "Multiple casualty incidents involve 10 to 100 casualties brought to the ED."
+  },
+  {
+    "id": 9,
+    "question": "More than 100 victims presenting to the ED. Eg is the Accra Stadium disaster.",
+    "options": ["Road traffic incidents", "Multiple casualty accident", "More patient incident", "Mass casualty incident", "Mass patient accident"],
+    "answer": "Mass casualty incident",
+    "explanation": "A mass casualty incident involves more than 100 victims, such as the Accra Stadium disaster."
+  },
+  {
+    "id": 10,
+    "question": "Which one of the following could be considered as the use of bandaging?",
+    "options": [
+      "To arrest/control haemorrhage or control circulation in a limb",
+      "Pin the apex at the elbow so that the joint is enclosed",
+      "It is made of cotton, calico, stretch or crepe",
+      "Bandage from below upwards. This is very important for the limbs",
+      "It is used in cases where the dressing needs frequent changing. It is used for the chest and abdomen"
+    ],
+    "answer": "To arrest/control haemorrhage or control circulation in a limb",
+    "explanation": "A primary use of bandaging is to control hemorrhage or circulation, as described in the question."
+  },
+  {
+    "id": 11,
+    "question": "One of the under listed is the use of Many Tail Bandage.",
+    "options": [
+      "To arrest/control haemorrhage or control circulation in a limb",
+      "Pin the apex at the elbow so that the joint is enclosed",
+      "It is made of cotton, calico, stretch or crepe",
+      "Bandage from below upwards. This is very important for the limbs",
+      "It is used in cases where the dressing needs frequent changing. It is used for the chest and abdomen"
+    ],
+    "answer": "It is used in cases where the dressing needs frequent changing. It is used for the chest and abdomen",
+    "explanation": "Many tail bandages are used for areas like the chest and abdomen, especially when frequent dressing changes are needed."
+  },
+  {
+    "id": 12,
+    "question": "One of the under listed is the uses of T-Bandage:",
+    "options": [
+      "To arrest/control haemorrhage or control circulation in a limb",
+      "Pin the apex at the elbow so that the joint is enclosed",
+      "Made of cotton or calico, used for perineal dressings",
+      "Bandage from below upwards. This is very important for the limbs",
+      "It is used in cases where the dressing needs frequent changing. It is used for the chest and abdomen"
+    ],
+    "answer": "Made of cotton or calico, used for perineal dressings",
+    "explanation": "T-bandages are specifically used for perineal dressings, often made of cotton or calico."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following will you consider prior to lifting a patient?",
+    "options": [
+      "It must be impressed upon all first aiders that this is a life saving measure demanding immediate and effective action",
+      "Know the weight of your patient and consider the mode of transportation",
+      "All messages through a bearer should be written simply",
+      "Reassure the patient by word of mouth",
+      "Quick action is necessary to preserve life and limb"
+    ],
+    "answer": "Know the weight of your patient and consider the mode of transportation",
+    "explanation": "Knowing the patient's weight and transportation mode is critical to safely lift and move them without causing further injury."
+  },
+  {
+    "id": 14,
+    "question": "The removal of the casualty to a safe environment either at home or to the hospital.",
+    "options": ["Hospital", "Treatment", "Unconscious", "Diagnosis", "Disposal"],
+    "answer": "Disposal",
+    "explanation": "In first aid, 'disposal' refers to the safe removal or transfer of the casualty to a safe environment or hospital."
+  },
+  {
+    "id": 45,
+    "question": "This is to determine the nature of the case requiring attention necessary for the efficient and intelligent treatment.",
+    "options": ["Hospital", "Treatment", "Unconscious", "Diagnosis", "Disposal"],
+    "answer": "Diagnosis",
+    "explanation": "Diagnosis involves determining the nature of the casualty's condition to provide appropriate treatment."
+  },
+  {
+    "id": 16,
+    "question": "To decide what care to be given and apply it in the most suitable circumstance until medical aid is sought.",
+    "options": ["Hospital", "Treatment", "Unconscious", "Diagnosis", "Disposal"],
+    "answer": "Treatment",
+    "explanation": "Treatment involves deciding and applying the appropriate care until medical help is available."
+  },
+  {
+    "id": 17,
+    "question": "Ministry of Water Resources is associated with which disaster management portfolio?",
+    "options": ["Floods", "Industrial Disasters", "Earthquakes", "Epidemics", "Fire"],
+    "answer": "Floods",
+    "explanation": "The Ministry of Water Resources is responsible for managing water-related disasters like floods."
+  },
+  {
+    "id": 18,
+    "question": "Meteorological Department is associated with which disaster management portfolio?",
+    "options": ["Floods", "Industrial Disasters", "Earthquakes", "Epidemics", "Fire"],
+    "answer": "Floods",
+    "explanation": "The Meteorological Department provides weather forecasts, which are critical for flood prediction and management."
+  },
+  {
+    "id": 19,
+    "question": "Ministry of Home Affairs is associated with which disaster management portfolio?",
+    "options": ["Floods", "Industrial Disasters", "Earthquakes", "Epidemics", "Fire"],
+    "answer": "Earthquakes",
+    "explanation": "The Ministry of Home Affairs often oversees disaster response, including for earthquakes, as part of national disaster management."
+  },
+  {
+    "id": 20,
+    "question": "Ministry of Health and Family Welfare is associated with which disaster management portfolio?",
+    "options": ["Floods", "Industrial Disasters", "Earthquakes", "Epidemics", "Fire"],
+    "answer": "Epidemics",
+    "explanation": "The Ministry of Health and Family Welfare manages health crises, including epidemics, during disasters."
+  }
+]
