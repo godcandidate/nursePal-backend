@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "question": "A displacement of joint surfaces of two or more bones as a result of an injury. There may be stretching or tearing of tendons and ligaments is a?",
+    "options": ["Strain", "Concussion", "Sprain", "Compression of the brain", "Dislocation"],
+    "answer": "Dislocation",
+    "explanation": "A dislocation involves the displacement of joint surfaces, often with stretching or tearing of tendons and ligaments, as per the description in the question."
+  },
+  {
+    "id": 2,
+    "question": "There is a communication (link) between the fracture and the outside air. That means the skin as well as the bone is broken.",
+    "options": ["Depressed Fracture", "Pott's fracture", "Compound or Open", "Impacted Fracture", "Colles' fracture"],
+    "answer": "Compound or Open",
+    "explanation": "A compound or open fracture involves a break in both the bone and the skin, creating a link to the outside air."
+  },
+  {
+    "id": 3,
+    "question": "A condition caused by forcible wrenching (sudden and violent twist or pull) and stretching of muscles, ligaments and tendons surrounding a joint.",
+    "options": ["Strain", "Concussion", "Sprain", "Compression of the brain", "Dislocation"],
+    "answer": "Sprain",
+    "explanation": "A sprain is caused by the forcible wrenching and stretching of muscles, ligaments, and tendons around a joint."
+  },
+  {
+    "id": 4,
+    "question": "Emergency Nursing is a specialty in which nurses care for patients in the emergency or critical phase of their illness or injury, rapidly and effectively carrying out resuscitative measures and other treatment, acting with a high degree of autonomy and ability to initiate needed measures without outside direction, educating the patient and his family. State whether TRUE or FALSE.",
+    "options": ["The statement is False", "The statement is True"],
+    "answer": "The statement is True",
+    "explanation": "The description accurately defines emergency nursing, which involves rapid, autonomous care in critical situations."
+  },
+  {
+    "id": 5,
+    "question": "When the bone is broken straight across it is called.",
+    "options": ["Transverse", "Fissured", "Spiral", "T-shaped", "Oblique"],
+    "answer": "Transverse",
+    "explanation": "A transverse fracture is a straight break across the bone."
+  },
+  {
+    "id": 6,
+    "question": "When the bone is broken in slanting shape. This shape can lead to compound fracture because a splinter of a bone can pierce the skin.",
+    "options": ["Transverse", "Fissured", "Spiral", "T-shaped", "Oblique"],
+    "answer": "Oblique",
+    "explanation": "An oblique fracture is a slanting break, which can lead to a compound fracture if a bone splinter pierces the skin."
+  },
+  {
+    "id": 7,
+    "question": "This occurs in twisting accidents, the shape of the fracture is twisted.",
+    "options": ["Transverse", "Fissured", "Spiral", "T-shaped", "Oblique"],
+    "answer": "Spiral",
+    "explanation": "A spiral fracture occurs in twisting accidents, resulting in a twisted fracture shape."
+  },
+  {
+    "id": 8,
+    "question": "Takes the shape or form of a letter in the alphabet.",
+    "options": ["Transverse", "Fissured", "Spiral", "T-shaped", "Oblique"],
+    "answer": "T-shaped",
+    "explanation": "A T-shaped fracture takes the form of the letter 'T' in the alphabet."
+  },
+  {
+    "id": 9,
+    "question": "This is a common variety of simple fracture in which the bone is cracked, but not completely broken. Many simple fractures are of this kind and are not always diagnosed, owing to the few symptoms and signs which they produced.",
+    "options": ["Transverse", "Fissured", "Spiral", "T-shaped", "Oblique"],
+    "answer": "Fissured",
+    "explanation": "A fissured fracture is a simple fracture where the bone is cracked but not completely broken, often with minimal symptoms."
+  },
+  {
+    "id": 10,
+    "question": "This condition is a classification of haemorrhage according to its situation.",
+    "options": ["Arterial Bleeding", "Mixed Haemorrhage", "Reactionary Haemorrhage", "Concealed Haemorrhage", "Normal bleed"],
+    "answer": "Concealed Haemorrhage",
+    "explanation": "Concealed hemorrhage is classified by its situation, as it occurs internally and is not visible externally."
+  },
+  {
+    "id": 11,
+    "question": "This condition is a classification of haemorrhage according to the time it occurs.",
+    "options": ["Arterial Bleeding", "Mixed Haemorrhage", "Reactionary Haemorrhage", "Concealed Haemorrhage", "Normal bleed"],
+    "answer": "Reactionary Haemorrhage",
+    "explanation": "Reactionary hemorrhage is classified by the time it occurs, typically within 24 hours after surgery or injury due to increased blood pressure."
+  },
+  {
+    "id": 12,
+    "question": "According to the principles of treatment of haemorrhage which one is odd?",
+    "options": ["Arrest the haemorrhage", "Treat for shock", "Send the patient to hospital", "Normalise bleed", "Loose tight clothing around neck, chest, abdomen and waist"],
+    "answer": "Normalise bleed",
+    "explanation": "'Normalise bleed' is not a standard principle of hemorrhage treatment, whereas the others are appropriate steps."
+  },
+  {
+    "id": 13,
+    "question": "The external pressure points of the body include the following except:",
+    "options": ["Temporal", "Facial", "The external auditory artery", "Brachial Artery", "Radial Artery"],
+    "answer": "The external auditory artery",
+    "explanation": "The external auditory artery is not a standard pressure point for controlling hemorrhage, unlike the others listed."
+  },
+  {
+    "id": 14,
+    "question": "The following are signs and symptoms of haemorrhage but not?",
+    "options": ["Anxiety", "Rapid, weak pulse", "Rapid breathing, shortness of breath", "Normal bleed", "Restlessness"],
+    "answer": "Normal bleed",
+    "explanation": "'Normal bleed' is not a sign or symptom of hemorrhage, whereas the others are typical indicators."
+  },
+  {
+    "id": 15,
+    "question": "This is 'coughing up' of blood from any part of the respiratory tract usually from the lungs.",
+    "options": ["Haematemisis", "Melaena", "Haematuria", "Haemoptysis", "Restnemia"],
+    "answer": "Haemoptysis",
+    "explanation": "Haemoptysis refers to coughing up blood from the respiratory tract, typically the lungs."
+  },
+  {
+    "id": 16,
+    "question": "The AVPU mnemonic is a simple, rapid screening tool which means?",
+    "options": ["Assessment, Voice, Pain, Unresponsive", "Assessment, Voice, Pain, Unpredictable", "Alert, Voice, Pain, Unresponsive", "Assessment, Verbal, Pain, Unpredictable", "Alert, Verbal, Pain, Unresponsive"],
+    "answer": "Alert, Verbal, Pain, Unresponsive",
+    "explanation": "AVPU stands for Alert, Verbal, Pain, Unresponsive, used to assess a patient's level of consciousness."
+  },
+  {
+    "id": 17,
+    "question": "When the lower end of the radius is fractured this is known as?",
+    "options": ["Depressed Fracture", "Pott's fracture", "Compound or Open Fracture", "Impacted Fracture", "Colles' fracture"],
+    "answer": "Colles' fracture",
+    "explanation": "A Colles' fracture is a fracture of the lower end of the radius, often occurring near the wrist."
+  },
+  {
+    "id": 18,
+    "question": "The cardinal signs and symptoms of preeclampsia are:",
+    "options": [
+      "albumin in urine, oedema of the hands and raised blood pressure",
+      "albumin in urine, oedema of the feet and lowered blood pressure",
+      "sugar in urine, oedema of the feet and lowered blood pressure",
+      "Ketones in urine, oedema of the feet and raised blood pressure",
+      "albumin in urine, oedema of the feet and raised blood pressure"
+    ],
+    "answer": "albumin in urine, oedema of the hands and raised blood pressure",
+    "explanation": "Preeclampsia is characterized by raised blood pressure, albumin in urine (proteinuria), and oedema, often in the hands."
+  },
+  {
+    "id": 19,
+    "question": "Disaster nursing can be defined as the non adaptation of professional nursing skills in recognizing and meeting the nursing, physical and emotional needs resulting from a disaster. State whether TRUE or FALSE.",
+    "options": ["The statement is False", "The statement is True"],
+    "answer": "The statement is False",
+    "explanation": "The definition is incorrect; disaster nursing involves the adaptation (not non-adaptation) of nursing skills to meet needs during a disaster."
+  },
+  {
+    "id": 20,
+    "question": "Concerning the phases of disaster management which of the following is odd?",
+    "options": ["Disaster simulation", "Disaster Preparedness", "Disaster Response", "Disaster Recovery", "Disaster Mitigation"],
+    "answer": "Disaster simulation",
+    "explanation": "Disaster simulation is not a standard phase of disaster management, which typically includes preparedness, response, recovery, and mitigation."
+  },
+  {
+    "id": 21,
+    "question": "One of the under listed is an effect of Disaster:",
+    "options": ["Increase in communicable disease", "Antigen-antibody complex", "Hypoglycemic", "Antineoplastics", "cardiac monitoring"],
+    "answer": "Increase in communicable disease",
+    "explanation": "Disasters often lead to an increase in communicable diseases due to poor sanitation and overcrowding."
+  },
+  {
+    "id": 22,
+    "question": "The roles of the Emergency nurse in disaster management include but not:",
+    "options": ["Caring for multiple victims in the ED that may be overwhelmed", "effective communication", "effective utilization of available resources", "safety and security", "Anxiety or restlessness"],
+    "answer": "Anxiety or restlessness",
+    "explanation": "Anxiety or restlessness is a patient symptom, not a role of the emergency nurse in disaster management."
+  },
+  {
+    "id": 23,
+    "question": "During cardiopulmonary resuscitation the first aider should perform: Compress the sternum of an adult casualty to?",
+    "options": ["Up to 4 inches only", "11½ to 12 inches only", "Up to ½ inch only", "1½ to 2 inches only", "Up to 19 inches only"],
+    "answer": "1½ to 2 inches only",
+    "explanation": "During CPR, the sternum of an adult should be compressed 1½ to 2 inches, as per standard CPR guidelines."
+  },
+  {
+    "id": 24,
+    "question": "During cardiopulmonary resuscitation the first aider should perform: Repeat cycles of 30 chest compressions and 2 rescue breaths at a rate of 100 compressions per minute. State whether TRUE or FALSE.",
+    "options": ["The statement is False", "The statement is True"],
+    "answer": "The statement is True",
+    "explanation": "Standard CPR guidelines recommend 30 chest compressions and 2 rescue breaths at a rate of 100–120 compressions per minute."
+  },
+  {
+    "id": 25,
+    "question": "During cardiopulmonary resuscitation the first aider should perform: Repeat cycles of 60 chest compressions and 2 rescue breaths at a rate of 100 compressions per minute. State whether TRUE or FALSE.",
+    "options": ["The statement is False", "The statement is True"],
+    "answer": "The statement is False",
+    "explanation": "The correct ratio is 30 chest compressions to 2 rescue breaths, not 60 compressions, as per standard CPR guidelines."
+  },
+  {
+    "id": 26,
+    "question": "An element that should be incorporated into the mental status of assessment of an aggressive patient include all but not?",
+    "options": ["Level of consciousness", "Memory functioning", "Concentration", "Normal speech", "Abnormal speech"],
+    "answer": "Normal speech",
+    "explanation": "Normal speech is not typically a focus in assessing an aggressive patient, whereas the others are relevant to mental status."
+  },
+  {
+    "id": 27,
+    "question": "This condition may be a common cause of bleeding from a peptic ulcer, varicose veins at the lower end of the oesophagus, previous swallowing as a result of nose-bleeding and fractures of the base of the skull or jaw.",
+    "options": ["Haematuria", "Melaena", "Haemoptysis", "Haematemesis", "Haemocardiac"],
+    "answer": "Haematemesis",
+    "explanation": "Haematemesis refers to vomiting blood, often caused by conditions like peptic ulcers or esophageal varices."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following nursing cares will you perform first in injury (RTA)?",
+    "options": [
+      "In all injury cases, circulating maneuvers must be accomplish first before maintaining the cervical spine in neutral alignment",
+      "In all injury cases, immobilization maneuvers of limbs must be accomplished before maintaining the cervical spine in neutral alignment",
+      "In all injury cases, intravenous fluid maneuvers must be accomplished before maintaining the cervical spine in neutral alignment",
+      "In all injury cases, all airway maneuvers must be accomplished while maintaining the cervical spine in neutral alignment"
+    ],
+    "answer": "In all injury cases, all airway maneuvers must be accomplished while maintaining the cervical spine in neutral alignment",
+    "explanation": "In a road traffic accident (RTA), the priority is to secure the airway while maintaining cervical spine alignment to prevent further injury."
+  },
+  {
+    "id": 29,
+    "question": "When the lower end of the fibula is fractured with severe damage to ligaments round the ankle, this is termed as?",
+    "options": ["Compound or Open", "Pott's fracture", "Impacted Fracture", "Depressed fracture", "Colles' fracture"],
+    "answer": "Pott's fracture",
+    "explanation": "A Pott's fracture involves a fracture of the lower fibula with associated ligament damage around the ankle."
+  },
+  {
+    "id": 30,
+    "question": "This condition is serious injury commonly associated with damage to the brain. The blow may bruise the brain without any injury to the bone causing shaking up of the brain.",
+    "options": ["Strain", "Concussion", "Sprain", "Compression of the brain", "Dislocation Fracture"],
+    "answer": "Concussion",
+    "explanation": "A concussion is a brain injury caused by a blow that shakes the brain, often without bone injury."
+  }
+]
