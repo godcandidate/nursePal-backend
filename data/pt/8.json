@@ -1,0 +1,352 @@
+[
+    {
+      "id": 1,
+      "question": "The fetus is most vulnerable to drug-induced developmental defects during which period of pregnancy?",
+      "options": ["Second trimester", "Third trimester", "First trimester", "Postpartum period"],
+      "answer": "First trimester",
+      "explanation": "The first trimester is the period of greatest risk for drug-induced developmental defects due to rapid cell proliferation and organ development."
+    },
+    {
+      "id": 2,
+      "question": "Which process primarily facilitates the transfer of drugs and nutrients to the fetus across the placenta?",
+      "options": ["Active transport", "Diffusion", "Pinocytosis", "Facilitated transport"],
+      "answer": "Diffusion",
+      "explanation": "Diffusion, a passive process based on concentration gradients, is the primary mechanism for drug and nutrient transfer across the placenta."
+    },
+    {
+      "id": 3,
+      "question": "Which factor does NOT influence the safety of drug therapy during pregnancy?",
+      "options": ["Drug properties", "Fetal gestational age", "Maternal factors", "Paternal genotype"],
+      "answer": "Paternal genotype",
+      "explanation": "Drug safety in pregnancy is influenced by drug properties, fetal gestational age, and maternal factors, but not paternal genotype."
+    },
+    {
+      "id": 4,
+      "question": "Which drug property affects its transfer to the fetus?",
+      "options": ["Drug color", "Drug chemistry", "Drug packaging", "Drug taste"],
+      "answer": "Drug chemistry",
+      "explanation": "Drug chemistry, along with dosage and concurrently administered drugs, impacts the transfer of drugs to the fetus."
+    },
+    {
+      "id": 5,
+      "question": "Why is drug transfer to the fetus more likely during the last trimester?",
+      "options": ["Reduced maternal metabolism", "Increased fetal surface area", "Decreased placental thickness", "Lower drug solubility"],
+      "answer": "Increased fetal surface area",
+      "explanation": "Enhanced blood flow, increased fetal surface area, and more free drug in maternal circulation increase drug transfer in the last trimester."
+    },
+    {
+      "id": 6,
+      "question": "Which FDA pregnancy category indicates no risk to the human fetus based on studies?",
+      "options": ["Category A", "Category B", "Category C", "Category D"],
+      "answer": "Category A",
+      "explanation": "Category A drugs have studies indicating no risk to the human fetus."
+    },
+    {
+      "id": 7,
+      "question": "Why is there limited clinical data on drug use in pregnancy?",
+      "options": ["Lack of funding", "Ethical dilemmas", "Insufficient drug availability", "Lack of interest"],
+      "answer": "Ethical dilemmas",
+      "explanation": "Ethical concerns about studying potential adverse effects on fetuses limit clinical data on drug use in pregnancy."
+    },
+    {
+      "id": 8,
+      "question": "Which maternal factor can increase fetal drug exposure?",
+      "options": ["Impaired kidney function", "Increased physical activity", "High dietary fiber", "Normal liver function"],
+      "answer": "Impaired kidney function",
+      "explanation": "Impaired kidney or liver function can result in higher drug levels and prolonged exposure, increasing fetal transfer."
+    },
+    {
+      "id": 9,
+      "question": "What percentage of pregnant patients take at least one medication during pregnancy?",
+      "options": ["One-third", "Two-thirds", "One-quarter", "Three-quarters"],
+      "answer": "Two-thirds",
+      "explanation": "About two-thirds of pregnant patients take at least one medication during pregnancy."
+    },
+    {
+      "id": 10,
+      "question": "Uncontrolled maternal asthma during pregnancy increases the risk of:",
+      "options": ["Fetal hyperactivity", "Stillbirth", "Fetal obesity", "Maternal hypoglycemia"],
+      "answer": "Stillbirth",
+      "explanation": "Uncontrolled maternal asthma doubles the incidence of stillbirth, making treatment essential."
+    },
+    {
+      "id": 11,
+      "question": "Which type of drugs cross the placenta most easily?",
+      "options": ["Ionized drugs", "Lipid-soluble drugs", "Protein-bound drugs", "Highly polar drugs"],
+      "answer": "Lipid-soluble drugs",
+      "explanation": "Lipid-soluble drugs cross the placenta easily, while ionized, polar, or protein-bound drugs cross with difficulty."
+    },
+    {
+      "id": 12,
+      "question": "Teratogenesis refers to:",
+      "options": ["Hormone production", "Birth defect causation", "Placental growth", "Fetal movement"],
+      "answer": "Birth defect causation",
+      "explanation": "Teratogenesis is the process that causes birth defects or malformations in an embryo or fetus."
+    },
+    {
+      "id": 13,
+      "question": "What is the incidence of major structural congenital anomalies?",
+      "options": ["5-10%", "1-3%", "10-15%", "20-25%"],
+      "answer": "1-3%",
+      "explanation": "The incidence of major structural abnormalities is between 1% and 3%."
+    },
+    {
+      "id": 14,
+      "question": "During which fetal development stage do teratogens cause gross malformations?",
+      "options": ["Preimplantation period", "Embryonic period", "Fetal period", "Postpartum period"],
+      "answer": "Embryonic period",
+      "explanation": "Gross malformations are produced during the embryonic period (weeks 3-8) when organ shapes are established."
+    },
+    {
+      "id": 15,
+      "question": "What is the effect of teratogen exposure during the preimplantation period?",
+      "options": ["Functional disruption", "Gross malformations", "All-or-nothing effect", "Behavioral anomalies"],
+      "answer": "All-or-nothing effect",
+      "explanation": "Teratogens in the preimplantation period (conception to week 2) cause either death or full recovery."
+    },
+    {
+      "id": 16,
+      "question": "To minimize drug risk during pregnancy, midwives should advise against:",
+      "options": ["Essential medications", "Self-medication", "Prescribed antibiotics", "Vaccinations"],
+      "answer": "Self-medication",
+      "explanation": "Midwives should warn against self-medication and non-essential drug use to minimize fetal risk."
+    },
+    {
+      "id": 17,
+      "question": "Oxytocics are used to:",
+      "options": ["Inhibit uterine contractions", "Stimulate uterine contractions", "Reduce cervical mucus", "Prevent ovulation"],
+      "answer": "Stimulate uterine contractions",
+      "explanation": "Oxytocics (uterotonics) stimulate uterine contractions to induce labor or reduce postpartum hemorrhage."
+    },
+    {
+      "id": 18,
+      "question": "Which drug is a posterior pituitary hormone used as an oxytocic?",
+      "options": ["Misoprostol", "Ergometrine", "Oxytocin", "Atosiban"],
+      "answer": "Oxytocin",
+      "explanation": "Oxytocin, a posterior pituitary hormone, is a commonly used oxytocic."
+    },
+    {
+      "id": 19,
+      "question": "Oxytocin stimulates uterine contractions by:",
+      "options": ["Blocking calcium channels", "Activating calcium channels", "Inhibiting prostaglandin production", "Reducing estrogen levels"],
+      "answer": "Activating calcium channels",
+      "explanation": "Oxytocin activates calcium channels in uterine smooth muscle, increasing intracellular calcium and causing contractions."
+    },
+    {
+      "id": 20,
+      "question": "A high dose of oxytocin may cause:",
+      "options": ["Fetal asphyxia", "Maternal hypoglycemia", "Fetal growth", "Reduced bleeding"],
+      "answer": "Fetal asphyxia",
+      "explanation": "High doses of oxytocin cause sustained contractions, potentially leading to fetal asphyxia due to inadequate placental blood flow."
+    },
+    {
+      "id": 21,
+      "question": "Oxytocin’s effect on the mammary gland is to:",
+      "options": ["Increase milk production", "Cause milk ejection", "Reduce milk flow", "Stimulate gland growth"],
+      "answer": "Cause milk ejection",
+      "explanation": "Oxytocin contracts myoepithelial cells in the mammary gland, forcing milk into sinusoids for ejection."
+    },
+    {
+      "id": 22,
+      "question": "A cardiovascular effect of high-dose oxytocin is:",
+      "options": ["Hypertension", "Bradycardia", "Vasodilation", "Arrhythmia"],
+      "answer": "Vasodilation",
+      "explanation": "High doses of oxytocin cause brief vasodilation, leading to a fall in blood pressure, tachycardia, and flushing."
+    },
+    {
+      "id": 23,
+      "question": "Tocolytics are primarily used to:",
+      "options": ["Induce labor", "Inhibit uterine contractions", "Increase cervical mucus", "Stimulate ovulation"],
+      "answer": "Inhibit uterine contractions",
+      "explanation": "Tocolytics inhibit uterine contractions to delay preterm delivery or arrest threatened abortion."
+    },
+    {
+      "id": 24,
+      "question": "Which drug is a selective beta-2 adrenoceptor agonist used as a tocolytic?",
+      "options": ["Nifedipine", "Ritodrine", "Atosiban", "Magnesium sulfate"],
+      "answer": "Ritodrine",
+      "explanation": "Ritodrine, a beta-2 agonist, is used to relax uterine smooth muscle and delay preterm labor."
+    },
+    {
+      "id": 25,
+      "question": "A common side effect of ritodrine is:",
+      "options": ["Hypotension", "Constipation", "Hyperkalemia", "Bradycardia"],
+      "answer": "Hypotension",
+      "explanation": "Ritodrine can cause hypotension, tachycardia, pulmonary edema, hyperglycemia, and hypokalemia."
+    },
+    {
+      "id": 26,
+      "question": "Magnesium sulfate is used as a tocolytic when:",
+      "options": ["Beta-agonists are contraindicated", "Labor is full-term", "Fetal distress is present", "Cervical dilation is complete"],
+      "answer": "Beta-agonists are contraindicated",
+      "explanation": "Magnesium sulfate is used to inhibit uterine contractions when beta-agonists are contraindicated."
+    },
+    {
+      "id": 27,
+      "question": "Which calcium channel blocker is used to postpone labor?",
+      "options": ["Amlodipine", "Nifedipine", "Verapamil", "Diltiazem"],
+      "answer": "Nifedipine",
+      "explanation": "Nifedipine, with prominent smooth muscle relaxant action, is used to postpone labor."
+    },
+    {
+      "id": 28,
+      "question": "Atosiban is a(n):",
+      "options": ["Oxytocin receptor antagonist", "Beta-2 agonist", "Prostaglandin analogue", "Calcium channel blocker"],
+      "answer": "Oxytocin receptor antagonist",
+      "explanation": "Atosiban inhibits preterm contractions by antagonizing oxytocin receptors."
+    },
+    {
+      "id": 29,
+      "question": "The female reproductive system is primarily controlled by:",
+      "options": ["Thyroid hormones", "Pituitary gonadotropins", "Adrenal hormones", "Pancreatic hormones"],
+      "answer": "Pituitary gonadotropins",
+      "explanation": "Pituitary gonadotropins (FSH and LH) and female sex steroids regulate the female reproductive system."
+    },
+    {
+      "id": 30,
+      "question": "Which hormone promotes endometrial growth during the menstrual cycle?",
+      "options": ["Progesterone", "Estradiol", "FSH", "LH"],
+      "answer": "Estradiol",
+      "explanation": "Estradiol, the principal estrogen, promotes monthly endometrial growth."
+    },
+    {
+      "id": 31,
+      "question": "Progesterone’s role in pregnancy includes:",
+      "options": ["Stimulating uterine contractions", "Inhibiting uterine contractions", "Reducing endometrial growth", "Promoting ovulation"],
+      "answer": "Inhibiting uterine contractions",
+      "explanation": "Progesterone inhibits uterine contractions and increases cervical mucus viscosity to protect the fetus."
+    },
+    {
+      "id": 32,
+      "question": "Which layer of the uterus is responsible for powerful contractions during childbirth?",
+      "options": ["Endometrium", "Myometrium", "Perimetrium", "Mucosa"],
+      "answer": "Myometrium",
+      "explanation": "The myometrium provides the smooth muscle contractions needed for childbirth."
+    },
+    {
+      "id": 33,
+      "question": "The follicular phase of the menstrual cycle is characterized by:",
+      "options": ["High progesterone levels", "Rising estrogen secretion", "Ovum release", "Endometrial shedding"],
+      "answer": "Rising estrogen secretion",
+      "explanation": "The follicular phase involves rising estrogen secretion, ovum development, and a proliferative endometrium."
+    },
+    {
+      "id": 34,
+      "question": "Which estrogen is most commonly used in oral contraceptives?",
+      "options": ["Estrone", "Estriol", "Ethinyl estradiol", "Estradiol valerate"],
+      "answer": "Ethinyl estradiol",
+      "explanation": "Ethinyl estradiol is a potent synthetic estrogen commonly found in oral contraceptives."
+    },
+    {
+      "id": 35,
+      "question": "Estrogens produce their effects by:",
+      "options": ["Blocking calcium channels", "Binding to estrogen receptors", "Inhibiting prostaglandin synthesis", "Reducing gonadotropin release"],
+      "answer": "Binding to estrogen receptors",
+      "explanation": "Estrogens bind to intracellular estrogen receptors, stimulating nucleic acid and protein synthesis."
+    },
+    {
+      "id": 36,
+      "question": "A contraindication to estrogen use is:",
+      "options": ["Hypertension", "Pregnancy", "Diabetes", "Asthma"],
+      "answer": "Pregnancy",
+      "explanation": "Estrogens are contraindicated in pregnancy due to potential fetal harm."
+    },
+    {
+      "id": 37,
+      "question": "Which progestin is commonly used in contraceptives?",
+      "options": ["Estradiol", "Levonorgestrel", "Misoprostol", "Ritodrine"],
+      "answer": "Levonorgestrel",
+      "explanation": "Levonorgestrel is a commonly used synthetic progestin in contraceptives."
+    },
+    {
+      "id": 38,
+      "question": "Progestins prevent conception by:",
+      "options": ["Stimulating ovulation", "Inhibiting gonadotropin release", "Reducing cervical mucus", "Promoting endometrial proliferation"],
+      "answer": "Inhibiting gonadotropin release",
+      "explanation": "Progestins inhibit gonadotropin (FSH and LH) release, preventing follicular maturation and ovulation."
+    },
+    {
+      "id": 39,
+      "question": "A common adverse effect of progestins is:",
+      "options": ["Hypotension", "Spotting", "Hyperglycemia", "Tachycardia"],
+      "answer": "Spotting",
+      "explanation": "Progestins can cause spotting, along with nausea, amenorrhea, and edema."
+    },
+    {
+      "id": 40,
+      "question": "Combination oral contraceptives (COCs) primarily prevent pregnancy by:",
+      "options": ["Inhibiting ovulation", "Increasing ovulation", "Reducing sperm production", "Preventing fertilization"],
+      "answer": "Inhibiting ovulation",
+      "explanation": "COCs inhibit ovulation by suppressing FSH and LH, with secondary effects on cervical mucus and the endometrium."
+    },
+    {
+      "id": 41,
+      "question": "A major adverse effect of COCs is increased risk of:",
+      "options": ["Hypoglycemia", "Thromboembolic disorders", "Osteoporosis", "Renal failure"],
+      "answer": "Thromboembolic disorders",
+      "explanation": "COCs increase the risk of venous and arterial thromboembolism, particularly in smokers or those with thrombophilia."
+    },
+    {
+      "id": 42,
+      "question": "Progestin-only oral contraceptives are less likely to cause:",
+      "options": ["Irregular bleeding", "Thromboembolic disorders", "Amenorrhea", "Spotting"],
+      "answer": "Thromboembolic disorders",
+      "explanation": "Progestin-only pills lack estrogen, reducing the risk of thromboembolic disorders compared to COCs."
+    },
+    {
+      "id": 43,
+      "question": "The etonogestrel subdermal implant provides contraception for:",
+      "options": ["1 year", "3 years", "5 years", "10 years"],
+      "answer": "3 years",
+      "explanation": "The Nexplanon etonogestrel implant provides contraception for 3 years."
+    },
+    {
+      "id": 44,
+      "question": "Depot medroxyprogesterone acetate (DMPA) protects against pregnancy by:",
+      "options": ["Stimulating ovulation", "Inhibiting gonadotropin secretion", "Increasing cervical mucus", "Promoting endometrial growth"],
+      "answer": "Inhibiting gonadotropin secretion",
+      "explanation": "DMPA inhibits gonadotropin secretion, preventing ovulation and altering cervical mucus and the endometrium."
+    },
+    {
+      "id": 45,
+      "question": "Emergency contraception pills (ECPs) should be taken within:",
+      "options": ["24 hours", "72 hours", "120 hours", "168 hours"],
+      "answer": "72 hours",
+      "explanation": "Levonorgestrel-based ECPs are most effective when taken within 72 hours of unprotected intercourse."
+    },
+    {
+      "id": 46,
+      "question": "Ulipristal acetate differs from levonorgestrel ECPs by:",
+      "options": ["Being less effective", "Requiring a prescription", "Acting only within 24 hours", "Causing more bleeding"],
+      "answer": "Requiring a prescription",
+      "explanation": "Ulipristal acetate requires a prescription and is effective up to 5 days post-intercourse, unlike levonorgestrel."
+    },
+    {
+      "id": 47,
+      "question": "The copper T 380A IUD (ParaGard) can remain in place for:",
+      "options": ["3 years", "5 years", "10 years", "15 years"],
+      "answer": "10 years",
+      "explanation": "ParaGard can remain in place for 10 years, providing long-term contraception."
+    },
+    {
+      "id": 48,
+      "question": "A principal risk of IUD use is:",
+      "options": ["Pelvic inflammatory disease", "Hypertension", "Hypoglycemia", "Bone loss"],
+      "answer": "Pelvic inflammatory disease",
+      "explanation": "IUDs increase the risk of PID, especially in the first 20 days post-insertion, particularly in non-monogamous women."
+    },
+    {
+      "id": 49,
+      "question": "Mifepristone, used with misoprostol, is indicated for:",
+      "options": ["Preventing ovulation", "Terminating early pregnancy", "Inducing labor", "Treating endometriosis"],
+      "answer": "Terminating early pregnancy",
+      "explanation": "Mifepristone with misoprostol is used to terminate early intrauterine pregnancy."
+    },
+    {
+      "id": 50,
+      "question": "Mifepristone promotes abortion by:",
+      "options": ["Stimulating oxytocin release", "Blocking progesterone receptors", "Inhibiting estrogen production", "Reducing cervical mucus"],
+      "answer": "Blocking progesterone receptors",
+      "explanation": "Mifepristone blocks progesterone receptors, causing decidual breakdown, cervical softening, and increased prostaglandin production."
+    }
+      ]
