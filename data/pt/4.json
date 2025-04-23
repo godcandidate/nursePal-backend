@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "question": "Heart failure is characterized by the heart's inability to pump sufficient blood to meet the body's needs or doing so only at:",
+      "options": ["Reduced heart rate", "Elevated filling pressures", "Decreased afterload", "Normal preload"],
+      "answer": "Elevated filling pressures",
+      "explanation": "Heart failure involves insufficient cardiac output or the ability to pump blood only at elevated filling pressures, leading to congestion."
+    },
+    {
+      "id": 2,
+      "question": "Which symptom is typically associated with left-sided heart failure?",
+      "options": ["Pedal edema", "Pulmonary edema", "Jugular venous distension", "Ascites"],
+      "answer": "Pulmonary edema",
+      "explanation": "Left-sided heart failure leads to pulmonary edema due to increased hydrostatic pressure in the pulmonary circulation."
+    },
+    {
+      "id": 3,
+      "question": "What is the most common cause of congestive heart failure worldwide?",
+      "options": ["Hypertension", "Ischemic heart disease", "Rheumatic heart disease", "Cardiomyopathy"],
+      "answer": "Ischemic heart disease",
+      "explanation": "Ischemic heart disease, caused by coronary artery disease, is the leading cause of congestive heart failure globally."
+    },
+    {
+      "id": 4,
+      "question": "According to the ACC/AHA, heart failure is defined as a syndrome resulting from impaired:",
+      "options": ["Ventricular filling or ejection", "Atrial contraction", "Vascular resistance", "Renal perfusion"],
+      "answer": "Ventricular filling or ejection",
+      "explanation": "The ACC/AHA defines heart failure as a syndrome from structural or functional impairment of ventricular filling or ejection."
+    },
+    {
+      "id": 5,
+      "question": "What is the normal range for left ventricular ejection fraction (LVEF)?",
+      "options": ["35%–50%", "55%–70%", "70%–85%", "25%–40%"],
+      "answer": "55%–70%",
+      "explanation": "The normal LVEF is 55%–70%, representing the percentage of blood ejected from the left ventricle per contraction."
+    },
+    {
+      "id": 6,
+      "question": "Which condition is a significant risk factor for heart failure?",
+      "options": ["Asthma", "Hypertension", "Arthritis", "Gastritis"],
+      "answer": "Hypertension",
+      "explanation": "Hypertension is a major risk factor for heart failure due to increased afterload and ventricular stress."
+    },
+    {
+      "id": 7,
+      "question": "Which type of cardiomyopathy is NOT listed as a common cause of heart failure?",
+      "options": ["Hypertrophic", "Dilated", "Ischemic", "Restrictive"],
+      "answer": "Ischemic",
+      "explanation": "Ischemic heart disease is a cause of heart failure, but it is not classified as a type of cardiomyopathy."
+    },
+    {
+      "id": 8,
+      "question": "Heart failure with preserved ejection fraction (HFpEF) is defined by an LVEF of:",
+      "options": ["≤40%", "41%–49%", "≥50%", ">40%"],
+      "answer": "≥50%",
+      "explanation": "HFpEF is characterized by an LVEF ≥50% with evidence of heart failure, such as elevated cardiac biomarkers."
+    },
+    {
+      "id": 9,
+      "question": "Which ACC/AHA stage of heart failure includes patients with refractory symptoms despite guideline-directed therapy?",
+      "options": ["Stage A", "Stage B", "Stage C", "Stage D"],
+      "answer": "Stage D",
+      "explanation": "Stage D includes patients with refractory heart failure symptoms requiring advanced interventions."
+    },
+    {
+      "id": 10,
+      "question": "According to the NYHA classification, Class III heart failure patients experience symptoms with:",
+      "options": ["Rest", "Ordinary activity", "Minimal activity", "More than ordinary activity"],
+      "answer": "Minimal activity",
+      "explanation": "NYHA Class III patients have symptoms with minimal activity but may or may not have dyspnea at rest."
+    },
+    {
+      "id": 11,
+      "question": "Which pathophysiological change in heart failure is a compensatory mechanism to maintain cardiac output?",
+      "options": ["Ventricular dilation", "Organ hypoperfusion", "Arrhythmia", "Congestion"],
+      "answer": "Ventricular dilation",
+      "explanation": "Ventricular dilation is a compensatory mechanism to increase stroke volume and maintain cardiac output in heart failure."
+    },
+    {
+      "id": 12,
+      "question": "Excessive fluid and salt retention in heart failure leads to:",
+      "options": ["Tissue edema", "Hypovolemia", "Vasodilation", "Reduced preload"],
+      "answer": "Tissue edema",
+      "explanation": "Excessive fluid and salt retention causes tissue edema, impeding tissue perfusion and reducing vasodilatory capacity."
+    },
+    {
+      "id": 13,
+      "question": "Which natriuretic peptide is predominantly secreted by the ventricles and has greater diagnostic value?",
+      "options": ["ANP", "BNP", "CNP", "ADH"],
+      "answer": "BNP",
+      "explanation": "BNP, secreted by the ventricles, has greater diagnostic and prognostic value in heart failure compared to ANP."
+    },
+    {
+      "id": 14,
+      "question": "Neprilysin inhibitors like sacubitril are always used with an ARB BECAUSE they increase angiotensin II levels.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Sacubitril increases angiotensin II levels, requiring co-administration with an ARB to block its effects."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a major criterion for diagnosing heart failure?",
+      "options": ["Ankle edema", "Pulmonary rales", "Nocturnal cough", "Tachycardia"],
+      "answer": "Pulmonary rales",
+      "explanation": "Pulmonary rales are a major criterion for heart failure, indicating pulmonary congestion."
+    },
+    {
+      "id": 16,
+      "question": "Which complication of heart failure increases the risk of thromboembolism?",
+      "options": ["Arrhythmia", "Mural thrombi", "Cardiac cachexia", "Liver dysfunction"],
+      "answer": "Mural thrombi",
+      "explanation": "Mural thrombi in heart failure increase the risk of thromboembolism to organs like the brain, kidney, or lungs."
+    },
+    {
+      "id": 17,
+      "question": "What is the primary goal of heart failure management?",
+      "options": ["Increase heart rate", "Relieve symptoms", "Promote vasoconstriction", "Reduce cardiac output"],
+      "answer": "Relieve symptoms",
+      "explanation": "The primary goal of heart failure management is to relieve symptoms, alongside retarding disease progression and improving quality of life."
+    },
+    {
+      "id": 18,
+      "question": "Which diuretic class is commonly used in heart failure to relieve fluid overload?",
+      "options": ["Potassium-sparing diuretics", "Loop diuretics", "Osmotic diuretics", "Carbonic anhydrase inhibitors"],
+      "answer": "Loop diuretics",
+      "explanation": "Loop diuretics like furosemide are used in heart failure to relieve fluid overload and reduce dyspnea."
+    },
+    {
+      "id": 19,
+      "question": "ACE inhibitors improve survival in heart failure patients BECAUSE they reduce preload and afterload.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "ACE inhibitors reduce preload and afterload by inhibiting aldosterone and vasoconstriction, improving survival."
+    },
+    {
+      "id": 20,
+      "question": "Which adverse effect is commonly associated with ACE inhibitors in heart failure treatment?",
+      "options": ["Bradycardia", "Cough", "Gynaecomastia", "Dyslipidemia"],
+      "answer": "Cough",
+      "explanation": "ACE inhibitors commonly cause a dry cough due to the accumulation of bradykinins."
+    },
+    {
+      "id": 21,
+      "question": "Angiotensin II receptor antagonists (ARBs) are indicated as second-line therapy for patients intolerant of:",
+      "options": ["Beta blockers", "ACE inhibitors", "Diuretics", "SGLT-2 inhibitors"],
+      "answer": "ACE inhibitors",
+      "explanation": "ARBs are used as second-line therapy in heart failure for patients intolerant of ACE inhibitors, particularly due to cough."
+    },
+    {
+      "id": 22,
+      "question": "Which beta blocker has been shown to reduce mortality in all grades of heart failure?",
+      "options": ["Atenolol", "Bisoprolol", "Propranolol", "Esmolol"],
+      "answer": "Bisoprolol",
+      "explanation": "Bisoprolol, along with carvedilol, reduces mortality in any grade of heart failure, as shown in trials like CIBIS."
+    },
+    {
+      "id": 23,
+      "question": "Beta blockers are contraindicated in which type of heart failure?",
+      "options": ["HFrEF", "HFpEF", "Acute decompensated heart failure", "HF with improved EF"],
+      "answer": "Acute decompensated heart failure",
+      "explanation": "Beta blockers are contraindicated in acute decompensated heart failure due to their negative inotropic effects."
+    },
+    {
+      "id": 24,
+      "question": "Which aldosterone antagonist is associated with gynaecomastia in men?",
+      "options": ["Eplerenone", "Spironolactone", "Amiloride", "Triamterene"],
+      "answer": "Spironolactone",
+      "explanation": "Spironolactone causes gynaecomastia or breast pain in 1 in 10 men, unlike eplerenone."
+    },
+    {
+      "id": 25,
+      "question": "The PARADIGM-HF trial demonstrated the superiority of which drug combination over ACE inhibitors in HFrEF?",
+      "options": ["Sacubitril/valsartan", "Hydralazine/isosorbide dinitrate", "Furosemide/metolazone", "Digoxin/bisoprolol"],
+      "answer": "Sacubitril/valsartan",
+      "explanation": "Sacubitril/valsartan (ARNI) was superior to ACE inhibitors in reducing morbidity and mortality in HFrEF in the PARADIGM-HF trial."
+    },
+    {
+      "id": 26,
+      "question": "Which SGLT-2 inhibitor is used in heart failure to reduce cardiovascular events?",
+      "options": ["Canagliflozin", "Dapagliflozin", "Ertugliflozin", "Sotagliflozin"],
+      "answer": "Dapagliflozin",
+      "explanation": "Dapagliflozin, along with empagliflozin, reduces cardiovascular events in heart failure patients."
+    },
+    {
+      "id": 27,
+      "question": "Digoxin is primarily indicated in heart failure patients with which condition?",
+      "options": ["Hypertension", "Atrial fibrillation", "Chronic kidney disease", "Diabetes"],
+      "answer": "Atrial fibrillation",
+      "explanation": "Digoxin is indicated in heart failure patients with atrial fibrillation to control heart rate and improve symptoms."
+    },
+    {
+      "id": 28,
+      "question": "Which mechanism of digoxin enhances myocardial contractility?",
+      "options": ["Inhibition of Na/K-ATPase pump", "Activation of beta receptors", "Inhibition of ACE", "Blockade of calcium channels"],
+      "answer": "Inhibition of Na/K-ATPase pump",
+      "explanation": "Digoxin inhibits the Na/K-ATPase pump, increasing intracellular calcium and enhancing myocardial contractility."
+    },
+    {
+      "id": 29,
+      "question": "Nesiritide, a synthetic B-type natriuretic peptide, promotes which of the following effects?",
+      "options": ["Vasoconstriction", "Diuresis", "Increased preload", "Sodium retention"],
+      "answer": "Diuresis",
+      "explanation": "Nesiritide promotes diuresis, natriuresis, and vasodilation, reducing preload and afterload in heart failure."
+    },
+    {
+      "id": 30,
+      "question": "Phosphodiesterase inhibitors like milrinone are referred to as inodilators BECAUSE they have positive inotropic and vasodilatory effects.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Milrinone is an inodilator due to its positive inotropic (via increased cAMP) and vasodilatory effects."
+    }
+      ]
