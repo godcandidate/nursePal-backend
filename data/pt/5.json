@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "question": "What are the two primary forms of lipids in the blood?",
+      "options": ["Phospholipids and apolipoproteins", "Triglycerides and cholesterol", "Chylomicrons and HDL", "Fatty acids and sterols"],
+      "answer": "Triglycerides and cholesterol",
+      "explanation": "Triglycerides and cholesterol are the primary lipids in the blood, serving as energy sources and structural components, respectively."
+    },
+    {
+      "id": 2,
+      "question": "Lipoproteins are formed by combining triglycerides and cholesterol with:",
+      "options": ["Apolipoproteins", "Bile acids", "Steroid hormones", "Enzymes"],
+      "answer": "Apolipoproteins",
+      "explanation": "Lipoproteins are complexes of triglycerides and cholesterol bound to apolipoproteins, which facilitate lipid transport in the blood."
+    },
+    {
+      "id": 3,
+      "question": "Which lipoprotein has the highest lipid content and least protein content?",
+      "options": ["Chylomicron", "VLDL", "LDL", "HDL"],
+      "answer": "Chylomicron",
+      "explanation": "Chylomicrons have the highest lipid content (about 90% triglycerides) and the least protein content among lipoproteins."
+    },
+    {
+      "id": 4,
+      "question": "What is the primary purpose of chylomicrons?",
+      "options": ["Transport endogenous lipids to peripheral cells", "Recycle cholesterol to the liver", "Carry dietary lipids to the liver", "Synthesize bile acids"],
+      "answer": "Carry dietary lipids to the liver",
+      "explanation": "Chylomicrons transport exogenous (dietary) lipids from the intestines to the liver for further processing."
+    },
+    {
+      "id": 5,
+      "question": "Which organ is primarily responsible for lipid metabolism?",
+      "options": ["Kidneys", "Liver", "Pancreas", "Small intestine"],
+      "answer": "Liver",
+      "explanation": "The liver is the major organ where lipid metabolism occurs, including the production of VLDL and cholesterol synthesis."
+    },
+    {
+      "id": 6,
+      "question": "High-density lipoprotein (HDL) is considered cardioprotective BECAUSE it recycles cholesterol to the liver.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "HDL is cardioprotective because it transfers cholesterol esters to IDL for return to the liver, reducing circulating cholesterol."
+    },
+    {
+      "id": 7,
+      "question": "Hypercholesterolemia may result from downregulation of which receptors in the liver?",
+      "options": ["HDL receptors", "LDL receptors", "VLDL receptors", "Chylomicron receptors"],
+      "answer": "LDL receptors",
+      "explanation": "Downregulation of hepatic LDL receptors reduces LDL uptake, leading to hypercholesterolemia."
+    },
+    {
+      "id": 8,
+      "question": "What enzyme is inhibited by HMG-CoA reductase inhibitors to reduce cholesterol production?",
+      "options": ["Lipoprotein lipase", "Acetyl CoA reductase", "HMG-CoA reductase", "PCSK9"],
+      "answer": "HMG-CoA reductase",
+      "explanation": "HMG-CoA reductase is the rate-limiting enzyme in cholesterol synthesis, inhibited by statins."
+    },
+    {
+      "id": 9,
+      "question": "What is the primary goal of antilipemic drug therapy?",
+      "options": ["Increase triglyceride levels", "Prevent cardiac events", "Reduce HDL levels", "Enhance cholesterol synthesis"],
+      "answer": "Prevent cardiac events",
+      "explanation": "Antilipemic drugs aim for primary and secondary prevention of cardiac events by reducing lipid levels."
+    },
+    {
+      "id": 10,
+      "question": "Which lifestyle modification is recommended by the AHA to improve lipid profiles?",
+      "options": ["High saturated fat diet", "Consumption of omega-3 fatty acids", "Reduced physical activity", "Low-fiber diet"],
+      "answer": "Consumption of omega-3 fatty acids",
+      "explanation": "The AHA recommends omega-3 fatty acids to improve triglyceride and HDL levels."
+    },
+    {
+      "id": 11,
+      "question": "Which class of antilipemic drugs is considered the most potent for reducing LDL cholesterol?",
+      "options": ["Bile acid sequestrants", "HMG-CoA reductase inhibitors", "Fibric acid derivatives", "Niacin"],
+      "answer": "HMG-CoA reductase inhibitors",
+      "explanation": "Statins (HMG-CoA reductase inhibitors) are the most potent drugs for reducing plasma LDL cholesterol."
+    },
+    {
+      "id": 12,
+      "question": "Which statin is classified as a high-intensity therapy, lowering LDL-C by approximately 50%?",
+      "options": ["Pravastatin 40 mg", "Atorvastatin 80 mg", "Simvastatin 20 mg", "Lovastatin 20 mg"],
+      "answer": "Atorvastatin 80 mg",
+      "explanation": "Atorvastatin 40–80 mg is a high-intensity statin, reducing LDL-C by approximately 50% per ACC/AHA guidelines."
+    },
+    {
+      "id": 13,
+      "question": "What is a contraindication for HMG-CoA reductase inhibitors?",
+      "options": ["Hypertension", "Pregnancy", "Diabetes", "Hypertriglyceridemia"],
+      "answer": "Pregnancy",
+      "explanation": "Statins are pregnancy category X drugs and are contraindicated during pregnancy due to potential fetal harm."
+    },
+    {
+      "id": 14,
+      "question": "Rhabdomyolysis, a serious adverse effect of statins, can lead to:",
+      "options": ["Acute renal failure", "Hyperkalemia", "Hypoglycemia", "Bronchospasm"],
+      "answer": "Acute renal failure",
+      "explanation": "Rhabdomyolysis involves muscle protein breakdown and myoglobinuria, which can cause acute renal failure."
+    },
+    {
+      "id": 15,
+      "question": "The risk of statin-induced myopathy is increased when coadministered with:",
+      "options": ["Metformin", "Gemfibrozil", "Lisinopril", "Amlodipine"],
+      "answer": "Gemfibrozil",
+      "explanation": "Coadministration of statins with gemfibrozil increases the risk of myopathy and rhabdomyolysis."
+    },
+    {
+      "id": 16,
+      "question": "Why are statins typically dosed at bedtime?",
+      "options": ["To reduce gastrointestinal upset", "To align with cholesterol production rhythm", "To enhance absorption", "To prevent interactions with food"],
+      "answer": "To align with cholesterol production rhythm",
+      "explanation": "Bedtime dosing aligns with the diurnal rhythm of cholesterol production, maximizing statin efficacy."
+    },
+    {
+      "id": 17,
+      "question": "Bile acid sequestrants lower LDL cholesterol by:",
+      "options": ["Inhibiting cholesterol synthesis", "Binding bile acids in the intestine", "Activating lipoprotein lipase", "Inhibiting PCSK9"],
+      "answer": "Binding bile acids in the intestine",
+      "explanation": "Bile acid sequestrants bind bile acids, preventing their reabsorption, which increases hepatic cholesterol conversion to bile acids."
+    },
+    {
+      "id": 18,
+      "question": "Which adverse effect is commonly associated with bile acid sequestrants?",
+      "options": ["Flushing", "Constipation", "Myopathy", "Hypotension"],
+      "answer": "Constipation",
+      "explanation": "Constipation, often with heartburn and bloating, is a common adverse effect of bile acid sequestrants."
+    },
+    {
+      "id": 19,
+      "question": "Bile acid sequestrants should be taken separately from other drugs BECAUSE they limit drug absorption.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Bile acid sequestrants can bind other drugs, reducing their absorption, so they must be taken 1 hour before or 4–6 hours after other medications."
+    },
+    {
+      "id": 20,
+      "question": "What is a contraindication for bile acid sequestrants?",
+      "options": ["Hypercholesterolemia", "Biliary obstruction", "Type 2 diabetes", "Hypertension"],
+      "answer": "Biliary obstruction",
+      "explanation": "Bile acid sequestrants are contraindicated in biliary obstruction due to their mechanism of binding bile acids."
+    },
+    {
+      "id": 21,
+      "question": "Niacin primarily reduces plasma concentrations of:",
+      "options": ["HDL cholesterol", "Triglycerides", "Apolipoproteins", "Bile acids"],
+      "answer": "Triglycerides",
+      "explanation": "Niacin inhibits lipolysis and triglyceride synthesis, significantly reducing triglyceride levels."
+    },
+    {
+      "id": 22,
+      "question": "Which adverse effect of niacin is caused by prostaglandin-induced vasodilation?",
+      "options": ["Constipation", "Flushing", "Myopathy", "Hematuria"],
+      "answer": "Flushing",
+      "explanation": "Niacin causes cutaneous flushing due to prostaglandin-mediated vasodilation."
+    },
+    {
+      "id": 23,
+      "question": "Niacin is contraindicated in patients with:",
+      "options": ["Hyperlipidemia", "Peptic ulcer", "Hypertension", "Diabetes"],
+      "answer": "Peptic ulcer",
+      "explanation": "Niacin increases gastric acid secretion, making it contraindicated in patients with peptic ulcers."
+    },
+    {
+      "id": 24,
+      "question": "Fibric acid derivatives like gemfibrozil primarily lower which lipid parameter?",
+      "options": ["LDL cholesterol", "Triglycerides", "Total cholesterol", "HDL cholesterol"],
+      "answer": "Triglycerides",
+      "explanation": "Fibrates primarily reduce triglyceride levels by activating lipoprotein lipase and inhibiting triglyceride synthesis."
+    },
+    {
+      "id": 25,
+      "question": "Which enzyme is activated by fibric acid derivatives to break down cholesterol?",
+      "options": ["HMG-CoA reductase", "Lipoprotein lipase", "PCSK9", "Acetyl CoA reductase"],
+      "answer": "Lipoprotein lipase",
+      "explanation": "Fibrates activate lipoprotein lipase, which cleaves triglycerides from VLDL and LDL, reducing lipid levels."
+    },
+    {
+      "id": 26,
+      "question": "What is a common adverse effect of fibric acid derivatives?",
+      "options": ["Flushing", "Constipation", "Abdominal discomfort", "Cough"],
+      "answer": "Abdominal discomfort",
+      "explanation": "Abdominal discomfort is a common adverse effect of fibric acid derivatives, along with diarrhea and nausea."
+    },
+    {
+      "id": 27,
+      "question": "Ezetimibe reduces LDL cholesterol by:",
+      "options": ["Inhibiting cholesterol absorption", "Activating lipoprotein lipase", "Binding bile acids", "Inhibiting HMG-CoA reductase"],
+      "answer": "Inhibiting cholesterol absorption",
+      "explanation": "Ezetimibe selectively inhibits cholesterol absorption in the small intestine, reducing LDL cholesterol levels."
+    },
+    {
+      "id": 28,
+      "question": "PCSK9 inhibitors like alirocumab can reduce LDL-C by up to:",
+      "options": ["30%", "50%", "70%", "90%"],
+      "answer": "70%",
+      "explanation": "PCSK9 inhibitors, such as alirocumab and evolocumab, can reduce LDL-C by as much as 70%."
+    },
+    {
+      "id": 29,
+      "question": "PCSK9 inhibitors are contraindicated in patients with:",
+      "options": ["Hypertriglyceridemia", "Known hypersensitivity", "Hypertension", "Type 2 diabetes"],
+      "answer": "Known hypersensitivity",
+      "explanation": "PCSK9 inhibitors are contraindicated in patients with known hypersensitivity to the drug."
+    },
+    {
+      "id": 30,
+      "question": "Statins are effective in reducing CHD risk BECAUSE they lower LDL cholesterol levels.",
+      "options": ["Both statements are true AND the second explains the first", "First statement is true AND second is false", "Both statements are false", "Both statements are true BUT the second does not explain the first"],
+      "answer": "Both statements are true AND the second explains the first",
+      "explanation": "Statins reduce CHD risk by lowering LDL cholesterol, which decreases atherosclerotic plaque formation."
+    }
+]
