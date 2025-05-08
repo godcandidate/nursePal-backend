@@ -65,7 +65,7 @@
   {
     "id": 10,
     "question": "Which of the following Hebrew titles of the first five Hebrew Bible is meant for Leviticus?",
-    "options": ["Shemot", "Bemidbar", "Vayiq\(\)yqra", "Devarim"],
+    "options": ["Shemot", "Bemidbar", "Vayiqyqra", "Devarim"],
     "answer": "Vayyqra",
     "explanation": "The Hebrew title for Leviticus is 'Vayyqra,' meaning 'And He called,' derived from the opening word of the book."
   },
