@@ -1,37 +1,422 @@
 [
-    {
-      "id": 1,
-      "question": "Who was the first king of Israel?",
-      "options": ["David", "Solomon", "Saul", "Samuel"],
-      "answer": "Saul",
-      "explanation": "Saul was anointed as the first king of Israel by the prophet Samuel."
-    },
-    {
-      "id": 2,
-      "question": "Which apostle denied Jesus three times before the rooster crowed?",
-      "options": ["Peter", "John", "James", "Andrew"],
-      "answer": "Peter",
-      "explanation": "Peter denied knowing Jesus three times before the rooster crowed, as Jesus had predicted."
-    },
-    {
-      "id": 3,
-      "question": "What is the first book of the New Testament?",
-      "options": ["Mark", "Matthew", "Luke", "John"],
-      "answer": "Matthew",
-      "explanation": "The New Testament begins with the Gospel according to Matthew."
-    },
-    {
-      "id": 4,
-      "question": "Who led the Israelites out of Egypt?",
-      "options": ["Aaron", "Moses", "Joshua", "Joseph"],
-      "answer": "Moses",
-      "explanation": "Moses led the Israelites out of slavery in Egypt during the Exodus."
-    },
-    {
-      "id": 5,
-      "question": "In which city was Jesus born?",
-      "options": ["Nazareth", "Jerusalem", "Bethlehem", "Capernaum"],
-      "answer": "Bethlehem",
-      "explanation": "Jesus was born in Bethlehem, fulfilling the prophecy of the Messiah's birthplace."
-    }
+  {
+    "id": 1,
+    "question": "What is the meaning of the word biblion?",
+    "options": ["School", "Cothe", "Material", "Money"],
+    "answer": "Book",
+    "explanation": "The word 'biblion' is a Greek term meaning 'book' or 'scroll,' which is the root for the word 'Bible.' The provided options seem to contain errors, but the correct meaning is 'book.'"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following languages does the word biblion originate from?",
+    "options": ["German word", "Latin word", "Greek word", "Hebrew word"],
+    "answer": "Greek word",
+    "explanation": "The word 'biblion' originates from Greek, meaning 'book' or 'scroll,' and is the etymological basis for 'Bible.'"
+  },
+  {
+    "id": 3,
+    "question": "What is the meaning of the word ta biblia?",
+    "options": ["Small material", "Small library", "Small documents", "Small books"],
+    "answer": "Books",
+    "explanation": "'Ta biblia' is a Greek phrase meaning 'the books,' used to refer to the collection of sacred texts that form the Bible."
+  },
+  {
+    "id": 4,
+    "question": "The whole Bible is made up of",
+    "options": ["39 Old Testament, 27 New Testament", "10 Old Testament, 27 New Testament", "40 Old Testament, 26 New Testament", "26 Old Testament, 40 New Testament"],
+    "answer": "39 Old Testament, 27 New Testament",
+    "explanation": "The Protestant Bible consists of 39 books in the Old Testament and 27 books in the New Testament, totaling 66 books."
+  },
+  {
+    "id": 5,
+    "question": "Why is the Old Testament referred to as the Hebrew Bible (HB)?",
+    "options": ["Because the people of Hebrew wrote them", "Because the king of the Hebrews wrote them", "Because they were written in Hebrew language for the people of ancient Israel", "Because the books belong to the people and cannot be used by others"],
+    "answer": "Because they were written in Hebrew language for the people of ancient Israel",
+    "explanation": "The Old Testament is called the Hebrew Bible because it was primarily written in Hebrew (with some Aramaic) for the ancient Israelites."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following correspond to the arrangement of the Hebrew Bible?",
+    "options": ["Ketuvim, Torah, and Nevi'im", "Nevi'im, Torah, and Ketuvim", "Torah, Nevi'im and Ketuvim", "Torah, Ketuvim and Nevi'im"],
+    "answer": "Torah, Nevi'im and Ketuvim",
+    "explanation": "The Hebrew Bible is arranged in three sections: Torah (Law), Nevi'im (Prophets), and Ketuvim (Writings)."
+  },
+  {
+    "id": 7,
+    "question": "Why are the first five books of Moses called Pentateuch?",
+    "options": ["Because they were written by Moses", "Because they were discovered by five people", "Because they contain five books", "Because they should be handled by five Israelite priests"],
+    "answer": "Because they contain five books",
+    "explanation": "The term 'Pentateuch' comes from Greek, meaning 'five books,' referring to the first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy."
+  },
+  {
+    "id": 8,
+    "question": "Why are the first four books of the New Testament called the gospels?",
+    "options": ["They contain stories of the Roman Empire", "They contain the news of writers being set free from prison", "They contain good news in the Roman Empire at the time of writing", "They contain the good news of salvation"],
+    "answer": "They contain the good news of salvation",
+    "explanation": "The term 'gospel' means 'good news,' and the first four books of the New Testament (Matthew, Mark, Luke, John) narrate the life, death, and resurrection of Jesus Christ, proclaiming the good news of salvation."
+  },
+  {
+    "id": 9,
+    "question": "What is the difference between the arrangement of the Old Testament found in current that we have and that contained in Hebrew?",
+    "options": ["The Bible in original Hebrew ends with Malachi while the current ends with Chronicles", "The Bible in original Hebrew ends with Chronicles while the current ends with Malachi", "The Bible in original Hebrew ends with Zechariah while the current ends with Malachi", "The Bible in original Hebrew ends with Proverbs while current ends with Malachi"],
+    "answer": "The Bible in original Hebrew ends with Chronicles while the current ends with Malachi",
+    "explanation": "In the Hebrew Bible, the Ketuvim section ends with Chronicles, while most Christian Old Testaments place Malachi as the final book."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following Hebrew titles of the first five Hebrew Bible is meant for Leviticus?",
+    "options": ["Shemot", "Bemidbar", "Vayiq\(\)yqra", "Devarim"],
+    "answer": "Vayyqra",
+    "explanation": "The Hebrew title for Leviticus is 'Vayyqra,' meaning 'And He called,' derived from the opening word of the book."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following books is one of the Former Prophets?",
+    "options": ["Jeremiah", "Isaiah", "Samuel", "Ezekiel"],
+    "answer": "Samuel",
+    "explanation": "The Former Prophets in the Hebrew Bible include Joshua, Judges, Samuel, and Kings, which narrate the history of Israel from the conquest of Canaan to the exile."
+  },
+  {
+    "id": 12,
+    "question": "Why is the book of Jeremiah called a Major Prophet?",
+    "options": ["Because he performs more powerful miracles", "Because he prophesies to the whole world", "Because his prophecies always come to pass", "Because the book of Jeremiah is very voluminous"],
+    "answer": "Because the book of Jeremiah is very voluminous",
+    "explanation": "Jeremiah is classified as a Major Prophet due to the length and volume of the book bearing his name, as opposed to the shorter books of the Minor Prophets."
+  },
+  {
+    "id": 13,
+    "question": "The word canon came from both Hebrew and Greek words that means?",
+    "options": ["Agreement", "Measurements", "Measuring rod", "Measuring tape"],
+    "answer": "Measuring rod",
+    "explanation": "The word 'canon' derives from the Greek 'kanon' and Hebrew 'qaneh,' meaning 'measuring rod' or 'standard,' used to describe the authoritative list of biblical books."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following bishops chaired the synod that officially approved a list of the Bible?",
+    "options": ["Bishop Athasius", "Bishop Clement", "Bishop Cyprian", "Bishop Athanasius"],
+    "answer": "Bishop Athanasius",
+    "explanation": "Bishop Athanasius of Alexandria is credited with chairing the Synod of Alexandria in 363 CE, which approved a list of canonical books."
+  },
+  {
+    "id": 15,
+    "question": "What is the meaning of the word Apocrypha?",
+    "options": ["Hiding a book", "Hiding the truth", "Hidden away", "Hidden from children"],
+    "answer": "Hidden away",
+    "explanation": "The term 'Apocrypha' comes from the Greek word meaning 'hidden away,' referring to books not included in the Protestant canon but included in some Christian traditions."
+  },
+  {
+    "id": 16,
+    "question": "What is the meaning of the word Pseudepigrapha?",
+    "options": ["False books", "False witness", "False Documents", "False writings"],
+    "answer": "False writings",
+    "explanation": "'Pseudepigrapha' refers to writings falsely attributed to a particular author, often ancient texts ascribed to biblical figures."
+  },
+  {
+    "id": 17,
+    "question": "Where did the synod that approved the list of books of the Bible take place?",
+    "options": ["Rome", "Jerusalem", "Cairo", "Alexandria"],
+    "answer": "Alexandria",
+    "explanation": "The Synod of Alexandria in 363 CE, chaired by Athanasius, is noted for approving a list of canonical books."
+  },
+  {
+    "id": 18,
+    "question": "In what year did that synod take place?",
+    "options": ["363 BCE", "363 CE", "365 BCE", "365 CE"],
+    "answer": "363 CE",
+    "explanation": "The Synod of Alexandria, which approved a list of biblical books, occurred in 363 CE."
+  },
+  {
+    "id": 19,
+    "question": "What is vulgate?",
+    "options": ["Latin translation of the Greek Bible", "Latin translation of the Hebrew Bible", "Greek translation of the Hebrew Bible", "Hebrew translation of the Greek Bible"],
+    "answer": "Latin translation of the Hebrew Bible",
+    "explanation": "The Vulgate is the Latin translation of the Hebrew Bible and Greek New Testament, primarily translated by Jerome in the late 4th century."
+  },
+  {
+    "id": 20,
+    "question": "What is Septuagint?",
+    "options": ["Latin translation of the Greek Bible", "Latin translation of the Hebrew Bible", "Greek translation of the Hebrew Bible", "Hebrew translation of the Greek Bible"],
+    "answer": "Greek translation of the Hebrew Bible",
+    "explanation": "The Septuagint is the Greek translation of the Hebrew Bible, completed in the 3rd to 2nd centuries BCE."
+  },
+  {
+    "id": 21,
+    "question": "Who is the first Christian who used the word ta biblia, the plural form of biblion for both the Hebrew Bible and the New Testament?",
+    "options": ["Bishop Athanasius", "Bishop Chrysostome", "Bishop Jerome", "Bishop Cyprian"],
+    "answer": "Bishop Chrysostome",
+    "explanation": "John Chrysostom is credited with using 'ta biblia' to refer to both the Hebrew Bible and New Testament as a unified collection."
+  },
+  {
+    "id": 22,
+    "question": "What city does the one who used the word ta biblia, serving as the Bishop?",
+    "options": ["Alexandria", "Cairo", "Constantinople", "Jerusalem"],
+    "answer": "Constantinople",
+    "explanation": "John Chrysostom, who used 'ta biblia,' served as Bishop of Constantinople."
+  },
+  {
+    "id": 23,
+    "question": "All the following words are used by the Jewish community for the Hebrew Bible except",
+    "options": ["Hassepharim", "Siphrei haqqodesh", "Ta biblia", "Kitvei haqqodesh"],
+    "answer": "Ta biblia",
+    "explanation": "'Ta biblia' is a Greek term used by Christians, not a term used by the Jewish community for the Hebrew Bible."
+  },
+  {
+    "id": 24,
+    "question": "What is the Hebrew name for latter prophet?",
+    "options": ["Nevi'im rishonim", "Nevi'im aharonim", "Ketuvim aharonim", "Ta biblia"],
+    "answer": "Nevi'im aharonim",
+    "explanation": "'Nevi'im aharonim' refers to the Latter Prophets in the Hebrew Bible, including Isaiah, Jeremiah, Ezekiel, and the Twelve Minor Prophets."
+  },
+  {
+    "id": 25,
+    "question": "What is the Hebrew name for former prophet?",
+    "options": ["Nevi'im rishonim", "Nevi'im aharonim", "Ketuvim aharonim", "Ta biblia"],
+    "answer": "Nevi'im rishonim",
+    "explanation": "'Nevi'im rishonim' refers to the Former Prophets, which include Joshua, Judges, Samuel, and Kings."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is an example of Megillot?",
+    "options": ["Proverbs", "Esther", "Psalms", "Job"],
+    "answer": "Esther",
+    "explanation": "The Megillot are five books (Song of Songs, Ruth, Lamentations, Ecclesiastes, and Esther) read during specific Jewish festivals."
+  },
+  {
+    "id": 27,
+    "question": "How many books do we have in the Megillot?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "explanation": "The Megillot consist of five books: Song of Songs, Ruth, Lamentations, Ecclesiastes, and Esther."
+  },
+  {
+    "id": 28,
+    "question": "What is the importance of the Megillot in ancient Israelite worship?",
+    "options": ["It has no importance in Israelite worship", "It is meant for consoling widows", "It is read as a liturgy during festival of Purim", "It is read as a liturgy during festival of Passover"],
+    "answer": "It is read as a liturgy during festival of Purim",
+    "explanation": "The Megillot, particularly Esther, are read during specific Jewish festivals, with Esther read during Purim."
+  },
+  {
+    "id": 29,
+    "question": "Who led the team that worked on the Latin Vulgate?",
+    "options": ["Athanasius", "Chrysostome", "Jerome", "Constantine"],
+    "answer": "Jerome",
+    "explanation": "Jerome was commissioned by Pope Damasus I to produce the Latin Vulgate, a translation of the Bible into Latin."
+  },
+  {
+    "id": 30,
+    "question": "In what council was the Vulgate accepted?",
+    "options": ["Council of Nicene", "Council of Alexandria", "Council of Geneva", "Council of Trent"],
+    "answer": "Council of Trent",
+    "explanation": "The Council of Trent (1545–1563) officially accepted the Latin Vulgate as the authoritative Bible for the Roman Catholic Church."
+  },
+  {
+    "id": 31,
+    "question": "In what year was the Vulgate accepted?",
+    "options": ["1945", "1946", "1546", "1846"],
+    "answer": "1546",
+    "explanation": "The Vulgate was declared authoritative at the Council of Trent in 1546."
+  },
+  {
+    "id": 32,
+    "question": "What is the name of the oldest complete copy of the Hebrew Bible manuscript?",
+    "options": ["Codex Vaticanus", "Codex Leningradensis", "Biblia Hebraica Stuttgartensia", "Biblia Hebraica Quinta"],
+    "answer": "Codex Leningradensis",
+    "explanation": "The Codex Leningradensis, dating to around 1008 CE, is the oldest complete manuscript of the Hebrew Bible."
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the complete printed version of the Hebrew Bible?",
+    "options": ["Codex Vaticanus", "Codex Leningradensis", "Biblia Hebraica Stuttgartensia", "Biblia Hebraica Quinta"],
+    "answer": "Biblia Hebraica Stuttgartensia",
+    "explanation": "The Biblia Hebraica Stuttgartensia is a widely used printed edition of the Hebrew Bible, based on the Codex Leningradensis."
+  },
+  {
+    "id": 34,
+    "question": "What is Peshitta?",
+    "options": ["Greek translation of the Hebrew Bible", "Syrian translation of the Hebrew Bible", "Latin translation of the Hebrew Bible", "Nzema translation of the Hebrew Bible"],
+    "answer": "Syrian translation of the Hebrew Bible",
+    "explanation": "The Peshitta is the Syriac (Aramaic) translation of the Hebrew Bible and New Testament."
+  },
+  {
+    "id": 35,
+    "question": "Which of the following books marks the beginning of Deuteronomistic history?",
+    "options": ["Deuteronomy", "Joshua", "Samuel", "Ruth"],
+    "answer": "Deuteronomy",
+    "explanation": "The Deuteronomistic History, a theological history of Israel, begins with Deuteronomy and continues through Joshua, Judges, Samuel, and Kings."
+  },
+  {
+    "id": 36,
+    "question": "The following are part of the Deuteronomistic history except",
+    "options": ["Deuteronomy", "Joshua", "Samuel", "Ruth"],
+    "answer": "Ruth",
+    "explanation": "The Deuteronomistic History includes Deuteronomy, Joshua, Judges, Samuel, and Kings, but not Ruth, which is part of the Writings (Ketuvim)."
+  },
+  {
+    "id": 37,
+    "question": "What period was referred to as the period of Judges?",
+    "options": ["After Moses had died", "After Israel entered the Promised Land", "After the death of Joshua", "After the destruction of Jericho"],
+    "answer": "After the death of Joshua",
+    "explanation": "The period of the Judges, as described in the Book of Judges, follows the death of Joshua and lasts until the establishment of the monarchy."
+  },
+  {
+    "id": 38,
+    "question": "What happened in the period of Judges?",
+    "options": ["There was so much prosperity", "Many people died", "There was cultic and moral deterioration", "There was so much backwardness"],
+    "answer": "There was cultic and moral deterioration",
+    "explanation": "The Book of Judges describes a cycle of apostasy, oppression, and deliverance, marked by cultic and moral decline among the Israelites."
+  },
+  {
+    "id": 39,
+    "question": "Who is the author of the book of Joshua?",
+    "options": ["Anonymous", "Joshua", "Moses", "Aaron"],
+    "answer": "Anonymous",
+    "explanation": "The authorship of the Book of Joshua is traditionally anonymous, with no definitive evidence attributing it to a specific individual."
+  },
+  {
+    "id": 40,
+    "question": "Where did the people of Israel set off from when the events in the book of Joshua take place?",
+    "options": ["Canaan", "Egypt", "Kadesh Barnea", "Mountain Sinai"],
+    "answer": "Kadesh Barnea",
+    "explanation": "The events in the Book of Joshua begin with the Israelites at Kadesh Barnea, preparing to enter the Promised Land."
+  },
+  {
+    "id": 41,
+    "question": "The following are examples of the synoptic gospels except",
+    "options": ["Matthew", "Mark", "Luke", "John"],
+    "answer": "John",
+    "explanation": "The Synoptic Gospels are Matthew, Mark, and Luke, which share similar content and structure. John is distinct in style and content."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following gives the original meaning of the word gospel?",
+    "options": ["Reward given to everyone to some one", "Reward given to someone bringing a report of Prince being born", "Reward given to someone who has preached to someone", "Reward given to someone who is rich"],
+    "answer": "Reward given to someone bringing a report of Prince being born",
+    "explanation": "The term 'gospel' (euangelion in Greek) originally referred to a reward given for bringing good news, such as the birth of a prince."
+  },
+  {
+    "id": 43,
+    "question": "What was the former name of Matthew, the disciple of Christ?",
+    "options": ["Johanes", "Levis", "Messiah", "Levi"],
+    "answer": "Levi",
+    "explanation": "Matthew, one of Jesus' disciples, was previously known as Levi, a tax collector, as noted in Mark 2:14 and Luke 5:27."
+  },
+  {
+    "id": 44,
+    "question": "What is the meaning of the word eschaton?",
+    "options": ["End times", "Jesus' coming back", "Beginning", "The gospel"],
+    "answer": "End times",
+    "explanation": "'Eschaton' is a Greek term meaning 'last' or 'end,' referring to the end times or final events in biblical theology."
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is known to be the gospel of action?",
+    "options": ["Matthew", "Mark", "Luke", "John"],
+    "answer": "Mark",
+    "explanation": "The Gospel of Mark is often called the ' gospel of action' due to its fast-paced narrative and emphasis on Jesus' deeds."
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is considered to be the teaching gospel?",
+    "options": ["Matthew", "Mark", "Luke", "John"],
+    "answer": "Matthew",
+    "explanation": "The Gospel of Matthew is known as the 'teaching gospel' because it contains extensive teachings of Jesus, such as the Sermon on the Mount."
+  },
+  {
+    "id": 47,
+    "question": "Which of the following best gives a similarity between the book of Luke and Acts?",
+    "options": ["They are both gospels", "They are both addressed to Theophilus", "They both contain the story of the birth of Christ", "They both contain the account of Paul's ministry"],
+    "answer": "They are both addressed to Theophilus",
+    "explanation": "Both Luke and Acts are addressed to Theophilus (Luke 1:3, Acts 1:1), indicating they were written by the same author."
+  },
+  {
+    "id": 48,
+    "question": "Who is the author of the book of Judges?",
+    "options": ["Joshua", "Judges", "Anonymous", "Samuel"],
+    "answer": "Anonymous",
+    "explanation": "The Book of Judges is traditionally considered anonymous, with no specific author identified in the text."
+  },
+  {
+    "id": 49,
+    "question": "At what time did the stories of the book of Ruth take place?",
+    "options": ["During the period when the people of Israel set off from Kadesh Barnea", "At the time when Joshua died", "At the period of Judges", "When King Saul ascended the throne"],
+    "answer": "At the period of Judges",
+    "explanation": "The Book of Ruth is set 'in the days when the judges ruled' (Ruth 1:1), placing it during the period of the Judges."
+  },
+  {
+    "id": 50,
+    "question": "What is the main or central theme of the book of Samuel?",
+    "options": ["It deals with choice of Jerusalem as a place for Solomon to build the temple", "How God rejected Saul due to disobedience", "How Saul became a king", "How Samuel began to minister as a judge and prophet"],
+    "answer": "How God rejected Saul due to disobedience",
+    "explanation": "A central theme of the Books of Samuel is God's rejection of Saul as king due to his disobedience (1 Samuel 15) and the rise of David."
+  },
+  {
+    "id": 51,
+    "question": "What is the capital of the Northern kingdom of ancient Israel?",
+    "options": ["Jerusalem", "Samaria", "Israel", "Jericho"],
+    "answer": "Samaria",
+    "explanation": "After the division of the kingdom, Samaria became the capital of the Northern Kingdom of Israel (1 Kings 16:24)."
+  },
+  {
+    "id": 52,
+    "question": "What is the capital of the Southern kingdom of ancient Israel?",
+    "options": ["Jerusalem", "Samaria", "Israel", "Jericho"],
+    "answer": "Jerusalem",
+    "explanation": "Jerusalem was the capital of the Southern Kingdom of Judah after the division of the united monarchy."
+  },
+  {
+    "id": 53,
+    "question": "Which of the following Israelite kings was chosen to build the temple?",
+    "options": ["David", "Solomon", "Rehoboam", "Saul"],
+    "answer": "Solomon",
+    "explanation": "Solomon was chosen by God to build the First Temple in Jerusalem, as described in 1 Kings 5–8."
+  },
+  {
+    "id": 54,
+    "question": "Which of the following Israelite leaders was appointed to teach the law so that Israel will not experience God's punishment?",
+    "options": ["Ezra", "Nehemiah", "Esther", "Zerubbabel"],
+    "answer": "Ezra",
+    "explanation": "Ezra, a scribe and priest, was sent to teach the Law to the Israelites to ensure obedience and avoid divine punishment (Ezra 7:10)."
+  },
+  {
+    "id": 55,
+    "question": "Which of the following Israelite leaders was appointed to supervise the rebuilding of the walls and temple after the release from captivity?",
+    "options": ["Ezra", "Nehemiah", "Esther", "David"],
+    "answer": "Nehemiah",
+    "explanation": "Nehemiah led the rebuilding of Jerusalem's walls after the Babylonian exile, as detailed in the Book of Nehemiah."
+  },
+  {
+    "id": 56,
+    "question": "What is the role of the Old Testament prophets?",
+    "options": ["They foretold the future", "They prayed for the sick to be healed", "They applied the word of God into the current situation", "They called fire from heaven on sacrifices"],
+    "answer": "They applied the word of God into the current situation",
+    "explanation": "Old Testament prophets primarily served as God's messengers, applying His word to guide, warn, and call Israel back to covenant faithfulness."
+  },
+  {
+    "id": 57,
+    "question": "Who are the classical prophets?",
+    "options": ["Those who could prophesy for it to be fulfilled", "Those who have a powerful prophetic ministry", "Those prophets who wrote the books of the Bible", "Those who have a long-lasting ministry"],
+    "answer": "Those prophets who wrote the books of the Bible",
+    "explanation": "Classical prophets are those whose oracles were written down and included in the Hebrew Bible, such as Isaiah, Jeremiah, and Ezekiel."
+  },
+  {
+    "id": 58,
+    "question": "The following are classical prophets except",
+    "options": ["Jeremiah", "Isaiah", "Hosea", "Elijah"],
+    "answer": "Elijah",
+    "explanation": "Elijah was a prophet but not a classical prophet, as he did not author a written prophetic book included in the Bible."
+  },
+  {
+    "id": 59,
+    "question": "Which of the following prophet is a pre-exilic prophet?",
+    "options": ["Isaiah", "Jeremiah", "Zephaniah", "Zechariah"],
+    "answer": "Isaiah",
+    "explanation": "Isaiah prophesied before the Babylonian exile, making him a pre-exilic prophet."
+  },
+  {
+    "id": 60,
+    "question": "Which of the following prophet is a post-exilic prophet?",
+    "options": ["Isaiah", "Jeremiah", "Hosea", "Zechariah"],
+    "answer": "Zechariah",
+    "explanation": "Zechariah prophesied after the Babylonian exile, during the time of the return and rebuilding, making him a post-exilic prophet."
+  }
 ]
