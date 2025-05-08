@@ -2,8 +2,8 @@
   {
     "id": 1,
     "question": "What is the meaning of the word biblion?",
-    "options": ["School", "Cothe", "Material", "Money"],
-    "answer": "Book",
+    "options": ["Scroll", "Cothe", "Material", "Money"],
+    "answer": "Scroll",
     "explanation": "The word 'biblion' is a Greek term meaning 'book' or 'scroll,' which is the root for the word 'Bible.' The provided options seem to contain errors, but the correct meaning is 'book.'"
   },
   {
@@ -17,8 +17,8 @@
     "id": 3,
     "question": "What is the meaning of the word ta biblia?",
     "options": ["Small material", "Small library", "Small documents", "Small books"],
-    "answer": "Books",
-    "explanation": "'Ta biblia' is a Greek phrase meaning 'the books,' used to refer to the collection of sacred texts that form the Bible."
+    "answer": "Small Books",
+    "explanation": "'Ta biblia' is a Greek phrase meaning 'small books,' used to refer to the collection of sacred texts that form the Bible."
   },
   {
     "id": 4,
